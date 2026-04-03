@@ -1,4 +1,4 @@
-baseURL = "https://espresso-site-a.vercel.app"
+baseURL = "https://homeespressolab.com"
 languageCode = "en-us"
 title = "Home Espresso Guide"
 theme = "PaperMod"
@@ -54,3 +54,6 @@ theme = "PaperMod"
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[services.googleAnalytics]
+  ID = "G-VMJCL1DJSY"
