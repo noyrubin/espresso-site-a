@@ -8,6 +8,17 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "Why does my espresso taste sour?"
+    answer: "Sour espresso is under-extracted. The most common causes are: grind is too coarse (water flows through too fast), extraction time is too short (under 25 seconds), dose is too low, or water temperature is too low. Fix it by grinding finer or increasing your dose slightly."
+  - question: "Why does my espresso taste bitter?"
+    answer: "Bitter espresso is over-extracted. Causes include: grind too fine, extraction time too long (over 35 seconds), too much coffee dose, or water too hot. Grind coarser, reduce dose, or lower water temperature to around 93°C (200°F)."
+  - question: "Why is there no crema on my espresso?"
+    answer: "Lack of crema is usually caused by stale coffee beans (crema diminishes rapidly after roasting — use beans within 2–4 weeks of roast date), too coarse a grind, or insufficient pressure from your machine. Fresh beans from a local roaster make the biggest difference."
+  - question: "Why is my espresso channeling?"
+    answer: "Channeling happens when water finds a path of least resistance through the puck, causing uneven extraction. It's caused by uneven distribution before tamping, poor tamping technique, or using the wrong basket size. Distribute the coffee evenly and tamp level with consistent pressure."
+  - question: "Why is my espresso shot running too fast?"
+    answer: "A shot that runs in under 20 seconds indicates the grind is too coarse, the dose is too low, or the tamp was too light. Grind finer first — that's the most common fix."
 ---
 
 Something is wrong with your espresso and you need to fix it. This guide is organized by symptom so you can quickly find your problem and its solution. Bookmark this page — you will come back to it often as you learn.

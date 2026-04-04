@@ -8,6 +8,15 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "What grind size should I use for espresso?"
+    answer: "Espresso requires a fine grind — finer than drip coffee but not as fine as Turkish coffee. The exact setting depends on your grinder. Start at the manufacturer's recommended espresso setting and adjust based on your shot time: if it runs in under 25 seconds, grind finer; if it takes over 35 seconds, grind coarser."
+  - question: "How do I know if my espresso grind is too coarse or too fine?"
+    answer: "Too coarse: shot runs fast (under 20 seconds), tastes sour or weak, no body. Too fine: shot runs slow (over 40 seconds) or barely drips, tastes bitter and harsh. The target is 25–35 seconds for a 1:2 ratio (18g in, 36g out)."
+  - question: "Why does my grind size need to change every day?"
+    answer: "Coffee beans absorb and release moisture based on ambient humidity. On humid days, beans swell slightly, requiring a coarser grind. On dry days, you may need to grind finer. Temperature also affects how beans grind. This is normal — even professional baristas adjust daily."
+  - question: "Can I use a blade grinder for espresso?"
+    answer: "No. Blade grinders chop coffee randomly, producing an inconsistent particle size that makes proper espresso extraction impossible. You need a burr grinder (either flat burr or conical burr) for espresso. Even an entry-level burr grinder like the Baratza Encore is dramatically better than any blade grinder."
 ---
 
 Grind size is the single most important variable in espresso. Change your grind by a tiny amount and your shot goes from bitter and harsh to bright and sweet. Understanding how to adjust your grinder and what to look for in the cup is the fundamental skill every home barista needs.
