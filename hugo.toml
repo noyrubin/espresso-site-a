@@ -1,27 +1,38 @@
 baseURL = "https://homeespressolab.com"
 languageCode = "en-us"
-title = "Home Espresso Guide"
+title = "Home Espresso Lab"
 theme = "PaperMod"
 
 [params]
-  description = "Your guide to home espresso, barista techniques, and coffee gear reviews"
-  author = "Home Espresso Guide"
+  description = "Your complete guide to home espresso. Expert brewing guides, honest equipment reviews, and barista techniques to help you make cafe-quality coffee at home."
+  author = "Home Espresso Lab"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
+  ShowCodeCopyButtons = false
   ShowToc = true
   TocOpen = false
   defaultTheme = "light"
+  env = "production"
+  keywords = ["home espresso", "espresso guide", "home barista", "espresso machine", "coffee brewing"]
 
 [params.homeInfoParams]
-  Title = "Home Espresso Guide"
-  Content = "Master home espresso — gear reviews, brewing guides, and barista tips."
+  Title = "Home Espresso Lab"
+  Content = "Learn to brew cafe-quality espresso at home. Expert guides on technique, honest gear reviews, and recipes for every espresso drink."
 
 [[params.socialIcons]]
   name = "rss"
   url = "/index.xml"
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -43,6 +54,12 @@ theme = "PaperMod"
   name = "Recipes"
   url = "/recipes/"
   weight = 30
+
+[[menus.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 40
 
 [taxonomies]
   category = "categories"
