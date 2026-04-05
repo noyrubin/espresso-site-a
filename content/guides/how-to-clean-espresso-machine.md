@@ -8,6 +8,15 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "How often should I clean my espresso machine?"
+    answer: "Daily: flush the group head with hot water, wipe the steam wand immediately after use, empty the drip tray. Weekly: backflush with water (machines with a 3-way solenoid valve), clean the portafilter basket and gasket. Monthly: deep clean with cafiza/espresso machine cleaner, inspect and replace group head gasket if worn. Every 3–6 months: descale if you're in a hard water area."
+  - question: "What cleaning products do I need for an espresso machine?"
+    answer: "The essentials: a dedicated espresso machine cleaner like Cafiza or Puly Caff for backflushing and soaking, a descaler or citric acid solution for mineral buildup, and a microfiber cloth for exterior wiping. Avoid dish soap in the portafilter — it leaves residue. Never use bleach or harsh household cleaners on any part that contacts water."
+  - question: "How do I know when my espresso machine needs descaling?"
+    answer: "Most machines with a built-in indicator will alert you. Without an indicator, descale every 2–3 months if you have hard water, or every 4–6 months with soft/filtered water. Signs that descaling is overdue: slower water flow than usual, unusually loud pump, shots running at wrong temperature, or white/gray mineral deposits visible in the water path."
+  - question: "Can I use white vinegar to descale my espresso machine?"
+    answer: "Many manufacturers recommend against white vinegar — the acetic acid can leave residue and affect the taste of subsequent shots. Citric acid solution (1 tablespoon per liter of water) is a cheaper alternative to commercial descalers that works well and rinses cleanly. However, always check your machine's manual, as some void the warranty if non-approved descalers are used."
 ---
 
 A dirty espresso machine makes bad coffee. Old coffee oils turn rancid, mineral deposits restrict water flow, and milk residue in the steam wand becomes a health hazard. The good news is that maintaining your machine takes just a few minutes per day and keeps your espresso tasting fresh for years.

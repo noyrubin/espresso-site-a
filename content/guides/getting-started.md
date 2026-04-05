@@ -8,6 +8,15 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "How much does it cost to get started with home espresso?"
+    answer: "A realistic starter setup costs $400–800: an entry-level machine like the Gaggia Classic Pro or Breville Bambino Plus ($300–500) plus a burr grinder capable of espresso ($150–250). You can spend less with a manual lever machine like the Flair 58 (~$300 total with a decent grinder), or much more as you advance. Avoid very cheap machines under $150 — they typically can't produce proper 9-bar extraction pressure."
+  - question: "What's the most important thing to get right when starting espresso at home?"
+    answer: "Your grinder. Espresso extraction is extremely sensitive to grind consistency, and a bad grinder undermines even an expensive machine. Before buying a premium espresso machine, invest in a quality burr grinder. The Baratza Encore ESP ($220) is an excellent starting point that most beginners won't outgrow for years."
+  - question: "How long does it take to learn to make good espresso at home?"
+    answer: "Most people pull consistently good shots within 2–4 weeks of daily practice. The first week involves understanding your machine and grinder. The second and third week are about learning to recognize good vs. bad extraction by taste. By week 4, dialing in becomes intuitive. Having a kitchen scale for weighing doses and yields speeds up the learning curve significantly."
+  - question: "Do I need to buy special coffee beans for espresso?"
+    answer: "You should buy fresh coffee beans (ideally within 2–6 weeks of roast date), but they don't need to be labeled 'espresso beans.' Any high-quality coffee beans can be brewed as espresso. For beginners, medium roasts are more forgiving and easier to dial in than very light or very dark roasts. Buy from a local roaster or a reputable online supplier, and store beans in an airtight container away from light."
 ---
 
 Brewing espresso at home sounds intimidating, but it does not have to be. With the right equipment, fresh beans, and a few core techniques, you can pull shots that rival your local coffee shop. This guide walks you through everything from choosing your first machine to dialing in your first perfect shot.

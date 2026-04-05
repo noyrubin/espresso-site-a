@@ -8,6 +8,15 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "What milk works best for latte art?"
+    answer: "Whole dairy milk is the easiest to steam for latte art because its fat content creates stable, glossy microfoam. For non-dairy options, oat milk (especially barista editions from brands like Oatly or Minor Figures) steams well and pours reasonably. Almond and soy milks are more finicky — they foam but the microfoam is less stable and harder to pour with."
+  - question: "What temperature should milk be when steaming for espresso drinks?"
+    answer: "The target is 140–155°F (60–68°C). Below 130°F the foam is less stable; above 165°F the milk proteins break down and you get a scalded, flat taste. If you don't have a thermometer, stop steaming when the pitcher gets too hot to hold comfortably for more than a second or two — this is approximately 150–160°F."
+  - question: "Why is my steamed milk bubbly instead of silky?"
+    answer: "Bubbly, frothy milk (instead of silky microfoam) usually means the steam tip was too far above the surface of the milk during aeration. The tip should be just below the surface, creating a gentle whirlpool — not breaking the surface with loud hissing. Also check that your steam pressure is adequate and that you're moving the pitcher to maintain the vortex throughout steaming."
+  - question: "How do I get started with latte art as a beginner?"
+    answer: "Start with a heart — it's the simplest pour. Practice the technique first with water (no espresso) to build muscle memory for the pour speed and wrist angle. When you're ready with real drinks: pull your shot, steam your milk to silky microfoam, tilt the cup at 45 degrees, pour from the back of the cup toward yourself while gently moving the pitcher tip forward. Latte art takes weeks of daily practice; don't expect perfection immediately."
 ---
 
 Steaming milk is where home espresso gets really fun. A well-steamed pitcher of milk transforms a good espresso shot into a cafe-quality latte or cappuccino, and once you get the technique down, basic latte art is closer than you think.
