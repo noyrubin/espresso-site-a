@@ -162,4 +162,4 @@ Best flavor addition: vanilla syrup (1–2 tsp)
 
 ---
 
-Now that you know how to make a perfect iced latte, check out our guide on [classic espresso drinks](/recipes/classic-espresso-drinks/) for more inspiration — from cortados to macchiatos. If you're still dialing in your espresso shots, the [espresso grind size guide](/guides/espresso-grind-size-guide/) will help you pull consistently great shots every time.
+Now that you know how to make a perfect iced latte, check out our full [guide to making a latte at home](/guides/how-to-make-a-latte/) for the hot version — including milk steaming technique and flavor variations. Or explore our [classic espresso drinks guide](/recipes/classic-espresso-drinks/) for more inspiration. If you're still dialing in your espresso shots, the [espresso grind size guide](/guides/espresso-grind-size-guide/) will help you pull consistently great shots every time.

@@ -34,7 +34,7 @@ The defining characteristic of a cappuccino is its **thick, dense foam layer** �
 | Drink | Espresso | Milk | Foam | Total Size |
 |-------|----------|------|------|------------|
 | Cappuccino | 1–2 oz | 2–3 oz | 1–2 oz thick | 5–6 oz |
-| Latte | 1–2 oz | 6–8 oz | Thin layer | 8–12 oz |
+| [Latte](/guides/how-to-make-a-latte/) | 1–2 oz | 6–8 oz | Thin layer | 8–12 oz |
 | Flat white | 2 oz | 3–4 oz | Very thin | 5–6 oz |
 
 ## What You Need

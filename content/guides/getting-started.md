@@ -164,7 +164,9 @@ Yes, there is a meaningful upfront cost. But consider that a daily cafe latte at
 
 Once you can pull consistent shots, the next steps are:
 
+- **[How to make a latte at home](/guides/how-to-make-a-latte/)** - The most popular espresso drink, step by step
 - **[Steaming milk for latte art](/guides/how-to-steam-milk-latte-art/)** - Turn your espresso into cafe-quality lattes and cappuccinos
+- **[Americano vs Long Black](/guides/americano-vs-long-black/)** - If you prefer black espresso drinks, understand the difference
 - **Exploring single-origin beans** - Different origins produce wildly different espresso flavors
 - **Adjusting brew ratios** - Try ristrettos (1:1.5) and lungos (1:3) for different flavor profiles
 - **Pressure profiling** - Advanced technique for manual and high-end machines
