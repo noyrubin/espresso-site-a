@@ -6,10 +6,10 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 2 — Expanding content library (12 articles), all FAQ schema complete on guides. Awaiting first indexing.
+Day 2 (Pulse 5) — 16 articles published. Homepage has 1 impression in SC at position 3 (first crawl signal!). Focus: expand content into high-volume LOW competition keywords, improve internal link density.
 
 ## Keyword Targets
-*Updated with DataForSEO research from Pulse 2 & 3.*
+*Updated with DataForSEO research through Pulse 5.*
 
 | Keyword | Volume | Competition | Target URL | Status |
 |---------|--------|-------------|------------|--------|
@@ -26,6 +26,11 @@ Day 2 — Expanding content library (12 articles), all FAQ schema complete on gu
 | espresso ratio | 1,000 | LOW | /guides/espresso-ratio-guide/ | Published + FAQ |
 | breville bambino plus review | N/A* | - | /reviews/breville-bambino-plus-review/ | Published + FAQ |
 | WDT tool espresso | 1,900 | HIGH** | /guides/wdt-tool-espresso/ | Published + FAQ |
+| how to make cappuccino | 5,400 | LOW | /guides/how-to-make-cappuccino/ | Published + FAQ |
+| espresso beans vs coffee beans | 8,100 | MED | /guides/espresso-beans-vs-coffee-beans/ | Published + FAQ |
+| how to make a latte | 12,100 | LOW (16/100) | /guides/how-to-make-a-latte/ | Published + FAQ (Pulse 5) |
+| latte recipe | 6,600 | LOW (9/100) | /guides/how-to-make-a-latte/ | Published (same page) |
+| americano vs long black | 1,900 | LOW (0/100) | /guides/americano-vs-long-black/ | Published + FAQ (Pulse 5) |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -35,43 +40,50 @@ Day 2 — Expanding content library (12 articles), all FAQ schema complete on gu
 ### Ideas Backlog
 - Best espresso grinder under 200 (170/mo, HIGH commercial intent — too competitive for now)
 - Gaggia Classic Pro review (210/mo, HIGH competition — do it but not priority)
-- Iced espresso drinks roundup (leverage iced latte traffic)
-- Water chemistry for espresso (low competition, enthusiast audience)
+- Water chemistry for espresso (low competition, enthusiast audience) — good for Pulse 6
 - Single-dosing workflow
 - Seasonal espresso recipes
-- Americano vs long black (comparison, low competition informational)
-- How to make a cappuccino at home (high volume, moderate competition)
-- Espresso beans vs coffee beans (FAQ-style, informational)
-- Cold brew espresso concentrate (trending, lower competition)
+- Cold brew espresso concentrate (trending, lower competition) — good for Pulse 6
+- How to make a macchiato (latte macchiato vs espresso macchiato — potentially high volume)
+- Lungo vs Americano vs Ristretto (follow-up to americano vs long black)
+- Flat white vs latte (natural follow-on from both guides we now have)
+- Pour over vs espresso (informational, could capture drip coffee audience)
 
 ### In Progress
-*(none — pulse 3 complete)*
+*(none — pulse 5 complete)*
 
-### Published (12 articles)
-1. /guides/getting-started/ (+ FAQ pulse 3)
+### Published (16 articles)
+1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5)
 2. /guides/how-to-steam-milk-latte-art/ (+ FAQ pulse 3)
-3. /guides/espresso-grind-size-guide/ (+ FAQ pulse 2)
-4. /guides/espresso-troubleshooting/ (+ FAQ pulse 2)
+3. /guides/espresso-grind-size-guide/ (+ FAQ pulse 2, WDT link pulse 4)
+4. /guides/espresso-troubleshooting/ (+ FAQ pulse 2, WDT link pulse 4)
 5. /guides/how-to-clean-espresso-machine/ (+ FAQ pulse 3)
 6. /guides/espresso-ratio-guide/ (+ FAQ pulse 2)
 7. /guides/wdt-tool-espresso/ (NEW pulse 3, + FAQ)
-8. /reviews/best-espresso-machines-under-500/
-9. /reviews/breville-bambino-plus-review/ (NEW pulse 3, + FAQ)
-10. /recipes/classic-espresso-drinks/
-11. /recipes/iced-latte-recipe/
-12. /recipes/cortado-and-flat-white-recipe/
+8. /guides/how-to-make-cappuccino/ (NEW pulse 4, + FAQ, latte link pulse 5)
+9. /guides/espresso-beans-vs-coffee-beans/ (NEW pulse 4, + FAQ)
+10. /guides/how-to-make-a-latte/ (NEW pulse 5, + FAQ)
+11. /guides/americano-vs-long-black/ (NEW pulse 5, + FAQ)
+12. /reviews/best-espresso-machines-under-500/
+13. /reviews/breville-bambino-plus-review/ (NEW pulse 3, + FAQ)
+14. /recipes/classic-espresso-drinks/
+15. /recipes/iced-latte-recipe/ (+ latte guide link pulse 5)
+16. /recipes/cortado-and-flat-white-recipe/
 
 ## Technical SEO Status
-- [x] Sitemap submitted (9 URLs initially, now 12)
+- [x] Sitemap submitted (14 URLs initially, now 16 after pulse 5 — needs re-submission)
 - [x] robots.txt present with sitemap reference
 - [x] Article schema (JSON-LD) on all pages
-- [x] FAQ schema (JSON-LD) on ALL guides + new articles
+- [x] FAQ schema (JSON-LD) on ALL guides + reviews + new articles
 - [x] WebSite schema on homepage (with SearchAction)
 - [x] GA4 tracking confirmed working
-- [ ] Re-submit sitemap now that 3 new pages added (pulse 4)
-- [ ] Check URL inspection in Search Console for key pages (pulse 4)
+- [x] WDT guide has 3 internal links pointing to it
+- [x] Latte guide has links from: cappuccino guide, iced latte recipe, getting-started
+- [x] Americano guide has links from: getting-started
+- [ ] Re-submit sitemap with 16 URLs (do in Pulse 6)
+- [ ] Check URL inspection in Search Console for key pages (pulse 6)
 - [ ] Consider BreadcrumbList schema for category pages
-- [ ] Internal linking: WDT guide needs links FROM other relevant pages
+- [ ] Consider adding a "how to make a latte" link from steam milk guide (natural)
 
 ## Things Tried & Rejected
 - Attempting to use Python for DataForSEO API — not installed on this system. Used Node.js instead.
@@ -82,20 +94,25 @@ Day 2 — Expanding content library (12 articles), all FAQ schema complete on gu
 - FAQ schema gives rich snippet eligibility → more SERP real estate → higher CTR for new site
 - Iced latte recipe (5,400/mo LOW) could rank in 4–8 weeks with good content
 - Cortado/flat white combined in one page captures both keywords (2,400 + 1,600/mo)
-- Grind size guide already had 130s engagement from first organic visit — this topic resonates
-- WDT tool informational content could rank faster than commercial WDT product pages due to different intent match
-- Bambino Plus review: even with N/A DataForSEO volume, it's a high-intent query people actually search
+- "espresso beans vs coffee beans" (8,100/mo MEDIUM) — informational query that new sites can compete for
+- "how to make cappuccino" (5,400/mo LOW) — low competition is notable, good early ranking opportunity
+- "how to make a latte" (12,100/mo LOW) — BEST keyword so far, low competition at high volume
+- "latte recipe" (6,600/mo LOW, 9/100!) — extremely low competition, same page should capture both
+- WDT informational content could rank faster than commercial WDT product pages due to different intent match
+- Homepage impression at position 3 after 2 days = Google has crawled and indexed at least the homepage. Rankings should follow for content pages.
 
 ## Competitive Observations
 - The DataForSEO keyword-ideas endpoint returns generic coffee brand/chain searches regardless of seed — useless for this niche, use search-volume with specific terms instead
 - Recipe keywords (iced latte, cortado, flat white) remain best bets for first organic rankings
 - Commercial keywords (best machine under $X, reviews) are HIGH competition — long game
-- WDT tool keyword has HIGH paid competition but informational content should be different SERP
+- "how to make a latte" at 12,100/mo LOW competition is exceptional — our best single opportunity
+- "latte recipe" at 6,600/mo and competition index of ONLY 9/100 = barely any paid competition = informational intent, new sites can rank
+- Americano vs long black at 1,900/mo with ZERO paid competition (0/100) = pure informational, no commercial interest = new sites can rank
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 4:** Re-submit sitemap (12 URLs now), check Search Console for any impressions on existing content, write "how to make a cappuccino at home" (high volume), write "espresso beans vs coffee beans" (informational/FAQ), add internal links pointing TO the WDT guide
-2. **Pulse 5:** Analyze early Search Console impressions if any pages start showing, identify which pages are getting impressions, optimize title tags/descriptions for CTR, write 2 more articles (water chemistry, americano vs long black)
-3. **Pulse 6:** Check if any pages indexing, analyze which content is resonating (GA4 engagement), consider adding a "tools" or "accessories" section if WDT guide performs well
+1. **Pulse 6:** Re-submit sitemap (16 URLs), write "flat white vs latte" guide (captures flat white searchers + links cappuccino/latte), write "how to make a macchiato" (check volume first), check SC for impressions on any content pages
+2. **Pulse 7:** Water chemistry for espresso (enthusiast content, low competition), check if any pages getting impressions/clicks, optimize title tags if data available
+3. **Pulse 8:** Cold brew espresso concentrate, Gaggia Classic Pro review if competition is manageable, first 30-day analytics review
 
 ---
-*Last updated: 2026-04-05 (Pulse 3)*
+*Last updated: 2026-04-05 (Pulse 5)*
