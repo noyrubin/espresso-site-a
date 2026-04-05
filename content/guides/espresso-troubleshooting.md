@@ -122,7 +122,7 @@ Something is wrong with your espresso and you need to fix it. This guide is orga
 - Uneven tamp (one side compressed more than the other)
 
 **Solutions:**
-1. **Use a WDT tool** — a thin needle or set of needles to stir and distribute the grounds in the basket before tamping. This is the single biggest improvement most home baristas can make.
+1. **Use a [WDT tool](/guides/wdt-tool-espresso/)** — a thin needle or set of needles to stir and distribute the grounds in the basket before tamping. This is the single biggest improvement most home baristas can make.
 2. **Invest in a distribution tool.** Spin-type distributors (like the OCD or Normcore) help level grounds before tamping.
 3. **Focus on a level tamp.** The tamp should be perfectly flat and centered.
 4. **Check grinder for clumping.** Some grinders (especially conical burrs at fine settings) produce clumps. A WDT tool solves this.

@@ -104,7 +104,7 @@ Here is a basic recipe to start with. You will adjust these numbers as you learn
 1. **Heat your machine.** Turn it on 15-30 minutes before brewing. Temperature stability matters.
 2. **Weigh your beans.** Put 18g of whole beans on your scale.
 3. **Grind fresh.** Grind directly into your portafilter. The grounds should feel like fine sand or powdered sugar.
-4. **Distribute evenly.** Use a WDT tool (a thin needle or toothpick) to break up clumps and spread grounds evenly in the basket. This prevents channeling.
+4. **Distribute evenly.** Use a [WDT tool](/guides/wdt-tool-espresso/) (a thin needle or toothpick) to break up clumps and spread grounds evenly in the basket. This prevents channeling.
 5. **Tamp level and firm.** Press down with about 30 lbs of force. The exact pressure matters less than consistency and keeping the puck level.
 6. **Lock in and brew.** Insert the portafilter, place your cup on the scale, tare it, and start the shot.
 7. **Time it.** The first drips should appear after 5-8 seconds. Total extraction should take 25-30 seconds to reach 36g.

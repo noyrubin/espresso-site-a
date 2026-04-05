@@ -180,7 +180,7 @@ If your shot starts blond very quickly in one spot, or you see uneven streams fr
 - Clumps in the ground coffee
 - Grind too fine (puck cracks under pressure)
 
-**Fix**: Use a WDT tool (thin needle) to break up clumps and distribute evenly. Make sure your grinder is not producing excessive clumps.
+**Fix**: Use a [WDT tool](/guides/wdt-tool-espresso/) (thin needle) to break up clumps and distribute evenly. Make sure your grinder is not producing excessive clumps.
 
 ### Shot Starts Fine Then Gushes
 
