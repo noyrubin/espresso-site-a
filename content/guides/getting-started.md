@@ -169,8 +169,9 @@ Once you can pull consistent shots, the next steps are:
 - **[Flat white vs latte](/guides/flat-white-vs-latte/)** - Understand the key differences between these two popular milk drinks
 - **[How to make a macchiato](/guides/how-to-make-a-macchiato/)** - Both espresso macchiato and latte macchiato, explained
 - **[Americano vs Long Black](/guides/americano-vs-long-black/)** - If you prefer black espresso drinks, understand the difference
+- **[Ristretto vs Espresso](/guides/ristretto-vs-espresso/)** - How pulling a shorter shot changes the flavor
+- **[Lungo vs Americano](/guides/lungo-vs-americano/)** - The longer shot compared to adding water after
 - **Exploring single-origin beans** - Different origins produce wildly different espresso flavors
-- **Adjusting brew ratios** - Try ristrettos (1:1.5) and lungos (1:3) for different flavor profiles
 - **Pressure profiling** - Advanced technique for manual and high-end machines
 
 Home espresso is a skill that keeps rewarding you the more you learn. Start simple, be patient with yourself, and enjoy the process. Your morning coffee will never be the same.

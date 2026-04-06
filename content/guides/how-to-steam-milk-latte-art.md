@@ -208,4 +208,7 @@ The differences between these drinks are subtle and come down to the ratio of es
 ## Related Guides
 
 - **[Getting Started with Home Espresso](/guides/getting-started/)** - Complete beginner's guide to pulling your first shots
+- **[How to Make a Latte](/guides/how-to-make-a-latte/)** - Put your steamed milk to work: ratios, milk options, and flavor variations
+- **[How to Make a Macchiato](/guides/how-to-make-a-macchiato/)** - Espresso macchiato and latte macchiato explained
+- **[How to Make a Cappuccino](/guides/how-to-make-cappuccino/)** - The steamed milk drink with the thickest foam
 - **[Espresso Drink Recipes](/recipes/classic-espresso-drinks/)** - Detailed recipes for all the classic espresso-based drinks
