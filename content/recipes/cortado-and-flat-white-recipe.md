@@ -182,4 +182,4 @@ FLAT WHITE
 
 ---
 
-For the milk steaming technique in more detail, read our [guide to steaming milk and latte art](/guides/how-to-steam-milk-latte-art/). If you're looking for a wider overview of espresso-based drinks, see [classic espresso drink recipes](/recipes/classic-espresso-drinks/).
+For the milk steaming technique in more detail, read our [guide to steaming milk and latte art](/guides/how-to-steam-milk-latte-art/). If you're looking for a wider overview of espresso-based drinks, see [classic espresso drink recipes](/recipes/classic-espresso-drinks/). For a deeper comparison of the flat white against its closest relative, see our [flat white vs latte guide](/guides/flat-white-vs-latte/).

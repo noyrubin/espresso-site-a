@@ -157,4 +157,4 @@ A cappuccino done well — thick creamy foam, strong espresso, perfect temperatu
 
 ---
 
-*Looking to level up further? Check out our guide on [espresso ratios](/guides/espresso-ratio-guide/) to understand extraction better, or our [getting started guide](/guides/getting-started/) if you're newer to home espresso.*
+*Looking to level up further? Check out our guide on [espresso ratios](/guides/espresso-ratio-guide/) to understand extraction better, or our [getting started guide](/guides/getting-started/) if you're newer to home espresso. Curious how the cappuccino compares to similar small milk drinks? See our [flat white vs latte comparison](/guides/flat-white-vs-latte/) or learn to make an [espresso macchiato](/guides/how-to-make-a-macchiato/).*

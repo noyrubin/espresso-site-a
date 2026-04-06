@@ -18,7 +18,7 @@ This guide covers everything: the right espresso, how to steam milk properly, th
 
 A latte (short for *caffè latte*, Italian for "milk coffee") is a shot of espresso topped with steamed milk and a thin layer of microfoam. The standard ratio is roughly **1 part espresso to 3–4 parts steamed milk**.
 
-Compare this to a cappuccino, which uses more foam and less milk, or a flat white, which has a similar structure but uses a smaller cup and a higher espresso-to-milk ratio.
+Compare this to a cappuccino, which uses more foam and less milk, or a [flat white](/guides/flat-white-vs-latte/), which has a similar structure but uses a smaller cup and a higher espresso-to-milk ratio.
 
 **Standard latte sizes:**
 - Small/Short: 8 oz — 1–2 shots, denser, stronger
