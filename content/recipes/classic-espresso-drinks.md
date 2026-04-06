@@ -214,3 +214,5 @@ The base for most flavored drinks. Equal parts sugar and water, heated until dis
 - **[Getting Started with Home Espresso](/guides/getting-started/)** - Learn to pull your first shots
 - **[How to Steam Milk](/guides/how-to-steam-milk-latte-art/)** - Master the milk technique for these drinks
 - **[Espresso Grind Size Guide](/guides/espresso-grind-size-guide/)** - Dial in your grinder for the perfect base shot
+- **[Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/)** - The viral Starbucks-style shaken drink, made at home
+- **[Espresso Tonic](/recipes/espresso-tonic/)** - Espresso over tonic water: refreshing, surprisingly good

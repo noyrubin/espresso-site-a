@@ -171,6 +171,8 @@ Once you can pull consistent shots, the next steps are:
 - **[Americano vs Long Black](/guides/americano-vs-long-black/)** - If you prefer black espresso drinks, understand the difference
 - **[Ristretto vs Espresso](/guides/ristretto-vs-espresso/)** - How pulling a shorter shot changes the flavor
 - **[Lungo vs Americano](/guides/lungo-vs-americano/)** - The longer shot compared to adding water after
+- **[Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/)** - The viral Starbucks-style iced espresso you can make at home
+- **[Espresso Tonic](/recipes/espresso-tonic/)** - A surprisingly refreshing drink: espresso over tonic water with ice
 - **Exploring single-origin beans** - Different origins produce wildly different espresso flavors
 - **Pressure profiling** - Advanced technique for manual and high-end machines
 
