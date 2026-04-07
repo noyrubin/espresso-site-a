@@ -105,7 +105,7 @@ The foam layer is thin — just 5–10mm of microfoam on top. This distinguishes
 
 The classic latte is the foundation for dozens of popular drinks:
 
-**Vanilla latte:** Add 1–2 pumps of vanilla syrup (or 1/4 tsp vanilla extract) to your cup before pouring the espresso.
+**Vanilla latte:** Add 1–2 pumps of vanilla syrup (or 1/4 tsp vanilla extract) to your cup before pouring the espresso. For a detailed recipe with homemade vanilla syrup, caramel variation, and iced version, see our [vanilla latte recipe](/recipes/vanilla-latte-recipe/).
 
 **Caramel latte:** Caramel syrup in the cup, then espresso, then milk. Drizzle caramel sauce on top.
 
