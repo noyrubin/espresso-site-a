@@ -106,7 +106,7 @@ That's it. The ice cools the espresso immediately, and stirring combines everyth
 Add ½ tablespoon of brown sugar to your vanilla syrup while making it (or use brown sugar syrup + a few drops of vanilla extract). The molasses notes in brown sugar add depth that plain white sugar syrup can't replicate.
 
 ### Lavender Vanilla Latte
-Add 2-3 dried lavender buds to your syrup while simmering, then strain before using. The floral note pairs surprisingly well with vanilla and espresso — it's subtle but distinctive.
+Add 2-3 dried lavender buds to your syrup while simmering, then strain before using. The floral note pairs surprisingly well with vanilla and espresso — it's subtle but distinctive. For the full standalone version, see the [lavender latte recipe](/recipes/lavender-latte-recipe/).
 
 ### Vanilla Oat Milk Latte
 Replace dairy with oat milk. Use a barista-grade oat milk (like Oatly Barista or Minor Figures) for proper frothing. The oat milk adds a slightly sweet, nutty flavor that complements vanilla. Froth to about 130°F — oat milk can taste flat if overheated.

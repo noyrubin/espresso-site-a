@@ -27,7 +27,7 @@ Espresso is not a type of bean or a roast level. It is a **brewing method** that
 
 A standard espresso shot is about 25-30 ml (roughly 1 oz) extracted in 25-30 seconds. The high-pressure extraction pulls oils, sugars, and dissolved solids from the coffee in ways that drip brewing cannot replicate.
 
-### Espresso vs. Drip Coffee
+### [Espresso vs. Drip Coffee](/guides/espresso-vs-drip-coffee/)
 
 | Feature | Espresso | Drip Coffee |
 |---------|----------|-------------|
