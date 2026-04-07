@@ -38,6 +38,7 @@ Espresso grind is much finer than any other brewing method. Here are some refere
 |------------|-----------|----------|
 | Turkish | Flour, powder | Turkish coffee |
 | **Espresso** | **Fine sand, powdered sugar** | **Espresso machines** |
+| Moka pot | Fine-medium sand | [Moka pot](/guides/moka-pot-vs-espresso/) |
 | Pour-over | Table salt | V60, Chemex |
 | French Press | Coarse sand | French press |
 

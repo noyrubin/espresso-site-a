@@ -173,6 +173,7 @@ Once you can pull consistent shots, the next steps are:
 - **[Lungo vs Americano](/guides/lungo-vs-americano/)** - The longer shot compared to adding water after
 - **[Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/)** - The viral Starbucks-style iced espresso you can make at home
 - **[Espresso Tonic](/recipes/espresso-tonic/)** - A surprisingly refreshing drink: espresso over tonic water with ice
+- **[Moka Pot vs Espresso](/guides/moka-pot-vs-espresso/)** - Not ready to invest in a machine yet? Understand what a moka pot can and can't do
 - **Exploring single-origin beans** - Different origins produce wildly different espresso flavors
 - **Pressure profiling** - Advanced technique for manual and high-end machines
 
