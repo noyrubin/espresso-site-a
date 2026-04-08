@@ -187,3 +187,5 @@ Related guides:
 - [How to Steam Milk for Latte Art](/guides/how-to-steam-milk-latte-art/) — proper microfoam technique
 - [Iced Latte Recipe](/recipes/iced-latte-recipe/) — the iced base, with more anti-dilution tips
 - [Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/) — another sweetened espresso drink to try
+- [Caramel Macchiato Recipe](/recipes/caramel-macchiato-recipe/) — vanilla syrup, espresso on top, caramel drizzle
+- [Dirty Chai Latte Recipe](/recipes/dirty-chai-latte-recipe/) — chai spices meet espresso in one cup

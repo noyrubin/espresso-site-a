@@ -176,6 +176,8 @@ Once you can pull consistent shots, the next steps are:
 - **[Moka Pot vs Espresso](/guides/moka-pot-vs-espresso/)** - Not ready to invest in a machine yet? Understand what a moka pot can and can't do
 - **[Cold Brew vs Espresso](/guides/cold-brew-vs-espresso/)** - How cold brew and espresso compare in flavor, caffeine, and brewing method
 - **[Pour Over vs Espresso](/guides/pour-over-vs-espresso/)** - How manual brewing methods (pour over, French press) compare to espresso
+- **[Dirty Chai Latte Recipe](/recipes/dirty-chai-latte-recipe/)** - Espresso meets spiced chai — one of the most popular café drinks to make at home
+- **[Caramel Macchiato Recipe](/recipes/caramel-macchiato-recipe/)** - Vanilla syrup, espresso on top, caramel drizzle — better than Starbucks
 - **Exploring single-origin beans** - Different origins produce wildly different espresso flavors
 - **Pressure profiling** - Advanced technique for manual and high-end machines
 
