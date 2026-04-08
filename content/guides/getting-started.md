@@ -174,6 +174,8 @@ Once you can pull consistent shots, the next steps are:
 - **[Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/)** - The viral Starbucks-style iced espresso you can make at home
 - **[Espresso Tonic](/recipes/espresso-tonic/)** - A surprisingly refreshing drink: espresso over tonic water with ice
 - **[Moka Pot vs Espresso](/guides/moka-pot-vs-espresso/)** - Not ready to invest in a machine yet? Understand what a moka pot can and can't do
+- **[Cold Brew vs Espresso](/guides/cold-brew-vs-espresso/)** - How cold brew and espresso compare in flavor, caffeine, and brewing method
+- **[Pour Over vs Espresso](/guides/pour-over-vs-espresso/)** - How manual brewing methods (pour over, French press) compare to espresso
 - **Exploring single-origin beans** - Different origins produce wildly different espresso flavors
 - **Pressure profiling** - Advanced technique for manual and high-end machines
 

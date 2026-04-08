@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 4 (Pulse 9) — 24 articles published. SC still shows only homepage at position 3, no content pages indexed yet (normal for day 4). GA4: traffic dropping from referral peak (26 sessions Apr 4 → 5 on Apr 6 → 1 on Apr 7). All organic traffic so far: 1 session Apr 4. Continuing recipe/comparison cluster build-out. New keyword finds from pulse 9 research: lavender latte (4,400/mo LOW 17/100) and caramel latte recipe (1,300/mo LOW 5/100) — added to backlog.
+Day 4 (Pulse 11) — 27 articles published. SC showing 2 pages: homepage (2 impressions, position 5.5) + /tags/weiss-distribution-technique/ (1 impression, position 7). First content-adjacent page indexed! Tag page shows Google is crawling content pages. GA4: day 4 shows 6 sessions (trending up vs 5 yesterday). Organic: still 1 session total (Apr 4 only). Site is entering early indexing phase — tag page indexed is a positive signal that content pages will follow soon. Added moka pot vs espresso this pulse.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -41,9 +41,9 @@ Day 4 (Pulse 9) — 24 articles published. SC still shows only homepage at posit
 | espresso tonic | 9,900 | LOW (1/100) | /recipes/espresso-tonic/ | Published + FAQ (Pulse 8) |
 | cortado vs macchiato | 2,900 | LOW (1/100) | /guides/cortado-vs-macchiato/ | Published + FAQ (Pulse 9) |
 | vanilla latte recipe | 2,400 | LOW (8/100) | /recipes/vanilla-latte-recipe/ | Published + FAQ (Pulse 9) — also captures caramel latte (1,300/mo) |
-| lavender latte | 4,400 | LOW (17/100) | /recipes/lavender-latte-recipe/ | Backlog (new find) |
-| espresso vs drip coffee | 1,600 | LOW (9/100) | /guides/espresso-vs-drip-coffee/ | Backlog |
-| moka pot vs espresso | 880 | LOW (8/100) | /guides/moka-pot-vs-espresso/ | Backlog |
+| lavender latte | 4,400 | LOW (17/100) | /recipes/lavender-latte-recipe/ | Published + FAQ (Pulse 10) |
+| espresso vs drip coffee | 1,600 | LOW (9/100) | /guides/espresso-vs-drip-coffee/ | Published + FAQ (Pulse 10) |
+| moka pot vs espresso | 880 | LOW (18/100) | /guides/moka-pot-vs-espresso/ | Published + FAQ (Pulse 11) |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -58,16 +58,16 @@ Day 4 (Pulse 9) — 24 articles published. SC still shows only homepage at posit
 - Seasonal espresso recipes
 - Cold brew espresso concentrate — DEPRIORITIZED: 260/mo but HIGH (100/100) paid competition. Not worth it.
 - Pour over vs espresso (320/mo, LOW 5/100) — low volume but zero competition, informational
-- Lavender latte (4,400/mo, LOW 17/100) — NEW FIND pulse 9. Strong volume, low competition, trending drink
 - Caramel latte recipe (1,300/mo, LOW 5/100) — already covered as variation in vanilla latte recipe
-- Espresso vs drip coffee (1,600/mo, LOW 9/100) — informational comparison
-- Moka pot vs espresso (880/mo, LOW 8/100) — good for capturing moka pot audience
+- [DONE Pulse 10] Lavender latte — published
+- [DONE Pulse 10] Espresso vs drip coffee — published
+- [DONE Pulse 11] Moka pot vs espresso — published
 - How to make a flat white (could target "flat white recipe" specifically as standalone)
 
 ### In Progress
 *(none — pulse 6 complete)*
 
-### Published (22 articles)
+### Published (27 articles)
 1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5, flat white + macchiato links pulse 6)
 2. /guides/how-to-steam-milk-latte-art/ (+ FAQ pulse 3)
 3. /guides/espresso-grind-size-guide/ (+ FAQ pulse 2, WDT link pulse 4)
@@ -92,6 +92,9 @@ Day 4 (Pulse 9) — 24 articles published. SC still shows only homepage at posit
 22. /recipes/espresso-tonic/ (NEW pulse 8, + FAQ) — 9,900/mo LOW (1/100)
 23. /guides/cortado-vs-macchiato/ (NEW pulse 9, + FAQ) — 2,900/mo LOW (1/100)
 24. /recipes/vanilla-latte-recipe/ (NEW pulse 9, + FAQ) — 2,400/mo LOW (8/100), also targets caramel latte (1,300/mo)
+25. /recipes/lavender-latte-recipe/ (NEW pulse 10, + FAQ) — 4,400/mo LOW (17/100)
+26. /guides/espresso-vs-drip-coffee/ (NEW pulse 10, + FAQ) — 1,600/mo LOW (9/100)
+27. /guides/moka-pot-vs-espresso/ (NEW pulse 11, + FAQ) — 880/mo LOW (18/100)
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -107,9 +110,9 @@ Day 4 (Pulse 9) — 24 articles published. SC still shows only homepage at posit
 - [x] Steam milk guide now links to: latte, macchiato, cappuccino guides (added pulse 7)
 - [x] Ristretto guide has links from: americano-vs-long-black, getting-started
 - [x] Lungo guide has links from: americano-vs-long-black, getting-started
-- [ ] Check URL inspection in Search Console for key pages (pulse 8)
+- [ ] Check URL inspection in Search Console for key pages
 - [ ] Consider BreadcrumbList schema for category pages
-- [ ] Check SC for first content page impressions when enough time has passed
+- [x] First content-related page indexed: /tags/weiss-distribution-technique/ at position 7 (Pulse 11)
 
 ## Things Tried & Rejected
 - Attempting to use Python for DataForSEO API — not installed on this system. Used Node.js instead.
@@ -136,9 +139,9 @@ Day 4 (Pulse 9) — 24 articles published. SC still shows only homepage at posit
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 10:** Lavender latte recipe (4,400/mo LOW 17/100) — surprisingly strong volume + low competition; espresso vs drip coffee (1,600/mo LOW 9/100)
-2. **Pulse 11:** Moka pot vs espresso (880/mo LOW 8/100); check SC for any content page impressions — site is now day 4-5, first content indexing may begin
-3. **Pulse 12:** First ~7-day analytics review; check which pages/keywords are getting early impressions, double down on traction
+1. **Pulse 12:** Research + write next keyword — candidates: "pour over vs espresso" (320/mo LOW 5/100), "AeroPress espresso" (140/mo LOW), or check DataForSEO for new ideas. Also do first ~7-day analytics review (Apr 4–10): which pages have impressions, any content pages indexed.
+2. **Pulse 13:** SC check for content page impressions — by day 6-7 some content pages should begin appearing. If so, check if those pages need any optimization.
+3. **Pulse 14:** If no meaningful impressions yet, continue content build-out. Consider Gaggia Classic Pro review (high purchase intent, topical authority now stronger with 27 articles).
 
 ---
-*Last updated: 2026-04-07 (Pulse 9)*
+*Last updated: 2026-04-07 (Pulse 11)*
