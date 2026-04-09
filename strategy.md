@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 6 (Pulse 14) — 33 articles published. SC data: macchiato guide 7 impressions at position 55, ristretto guide 7 impressions at position 40 (dropped from position 6 — was likely a fluke, or just fluctuating). Homepage 4 impressions at position 5.5. WDT tag still at position 7. GA4: Apr 8 = 1 session (very low). BEST KEYWORD FIND THIS PULSE: "matcha latte recipe" at 27,100/mo LOW (12/100) — second only to "flat white vs latte" in volume. Published matcha latte recipe + flat white guide.
+Day 6 (Pulse 15) — 35 articles published. SC data: macchiato guide 8 impressions at position 55.25, ristretto guide 8 impressions at position 36.4 (improved from 40). Homepage 4 impressions at position 5.5. Rankings slowly improving. GA4: Apr 8 = 1 session (very low). BEST KEYWORD FIND THIS PULSE: "pumpkin spice latte recipe" at 14,800/mo LOW (5/100) — need to write this next pulse. Published mocha recipe (captures 12,800/mo combined) + honey latte recipe (480/mo, 1/100).
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -50,6 +50,8 @@ Day 6 (Pulse 14) — 33 articles published. SC data: macchiato guide 7 impressio
 | caramel macchiato recipe | 4,400 | LOW (9/100) | /recipes/caramel-macchiato-recipe/ | Published + FAQ (Pulse 13) |
 | matcha latte recipe | 27,100 | LOW (12/100) | /recipes/matcha-latte-recipe/ | Published + FAQ (Pulse 14) |
 | how to make a flat white | 3,600 | LOW (14/100) | /guides/how-to-make-a-flat-white/ | Published + FAQ (Pulse 14) — also targets "flat white recipe" (1,600/mo, LOW 11/100) |
+| mocha recipe | 4,400 | LOW (7/100) | /recipes/mocha-recipe/ | Published + FAQ (Pulse 15) — also targets "how to make a mocha" (3,600/mo), "iced mocha recipe" (1,900/mo), "white chocolate mocha recipe" (1,600/mo), "mocha latte recipe" (1,300/mo) = ~12,800/mo combined |
+| honey latte recipe | 480 | LOW (1/100) | /recipes/honey-latte-recipe/ | Published + FAQ (Pulse 15) — near-zero competition |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -74,13 +76,15 @@ Day 6 (Pulse 14) — 33 articles published. SC data: macchiato guide 7 impressio
 - [DONE Pulse 13] Caramel macchiato recipe — published (4,400/mo, 9/100)
 - [DONE Pulse 14] How to make a flat white (3,600/mo, LOW 14/100) — published
 - [DONE Pulse 14] Matcha latte recipe (27,100/mo, LOW 12/100) — BIG WIN, published
+- [DONE Pulse 15] Mocha recipe (4,400/mo, LOW 7/100) — published, captures ~12,800/mo combined
+- [DONE Pulse 15] Honey latte recipe (480/mo, LOW 1/100) — quick article, near-zero competition
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
 - "aeropress espresso" (2,400/mo, HIGH 91/100) — skip, too competitive
 
 ### In Progress
 *(none — pulse 6 complete)*
 
-### Published (31 articles)
+### Published (35 articles)
 1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5, flat white + macchiato links pulse 6)
 2. /guides/how-to-steam-milk-latte-art/ (+ FAQ pulse 3)
 3. /guides/espresso-grind-size-guide/ (+ FAQ pulse 2, WDT link pulse 4)
@@ -114,6 +118,8 @@ Day 6 (Pulse 14) — 33 articles published. SC data: macchiato guide 7 impressio
 31. /recipes/caramel-macchiato-recipe/ (NEW pulse 13, + FAQ) — 4,400/mo LOW (9/100)
 32. /recipes/matcha-latte-recipe/ (NEW pulse 14, + FAQ) — 27,100/mo LOW (12/100)
 33. /guides/how-to-make-a-flat-white/ (NEW pulse 14, + FAQ) — 3,600/mo LOW (14/100), also targets "flat white recipe" (1,600/mo)
+34. /recipes/mocha-recipe/ (NEW pulse 15, + FAQ) — 4,400/mo LOW (7/100), also targets "how to make a mocha" (3,600), "iced mocha recipe" (1,900), "white chocolate mocha recipe" (1,600), "mocha latte recipe" (1,300) = ~12,800/mo combined
+35. /recipes/honey-latte-recipe/ (NEW pulse 15, + FAQ) — 480/mo LOW (1/100)
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -158,10 +164,10 @@ Day 6 (Pulse 14) — 33 articles published. SC data: macchiato guide 7 impressio
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 15:** Write "mocha recipe" (4,400/mo, 7/100) — captures "how to make a mocha" (3,600/mo, 9/100) and "mocha latte recipe" (1,300/mo, 7/100) — combined 9,300/mo with very low competition. Also look for more recipe/guide gaps. Check honey latte recipe (480/mo, 1/100) — tiny volume but zero competition. Monitor SC for impressions growth.
-2. **Pulse 16:** Day 7+ data should start showing more SC impressions. Research next keyword batch — check for espresso machine content (specific models), more recipe gaps, or espresso technique guides. "Gaggia Classic Pro review" (210/mo) possible if volume improves.
-3. **Pulse 17:** SC should be showing clear page-level rankings by Day 9+. Identify top performers and optimize. Consider BreadcrumbList schema. Look at competitor content gaps.
+1. **Pulse 16:** Write "pumpkin spice latte recipe" (14,800/mo, LOW 5/100) — MAJOR FIND. Seasonal keyword but content builds authority now and will rank by autumn. Also check "rose latte recipe" and other floral/seasonal lattes for additional zero-competition wins. Monitor SC for ranking improvements.
+2. **Pulse 17:** Research another batch of keywords — look at "turmeric latte" / "golden milk latte" (may be high volume with low competition), "hazelnut latte recipe", "cinnamon latte recipe". Check SC for which content pages have started getting impressions.
+3. **Pulse 18:** SC should be showing clear page-level rankings by Day 10+. Identify top performers, consider optimizing titles/meta descriptions for pages with impressions but low CTR. Consider BreadcrumbList schema.
 
 ---
-*Last updated: 2026-04-09 (Pulse 14)*
+*Last updated: 2026-04-09 (Pulse 15)*
 
