@@ -149,7 +149,7 @@ The result is a larger, milder drink with a visible but thin foam surface.
 | Latte | 8–12 oz | Thin microfoam | Low-medium |
 | Cortado | 3–4 oz | Minimal foam | High |
 
-For a full comparison of the cortado and flat white, see our [cortado and flat white recipe guide](/recipes/cortado-and-flat-white-recipe/).
+For a full comparison of the cortado and flat white, see our [cortado and flat white recipe guide](/recipes/cortado-and-flat-white-recipe/). Ready to make a flat white at home? See our [step-by-step flat white recipe guide](/guides/how-to-make-a-flat-white/).
 
 ## Common Questions
 

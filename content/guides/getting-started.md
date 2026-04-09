@@ -178,6 +178,8 @@ Once you can pull consistent shots, the next steps are:
 - **[Pour Over vs Espresso](/guides/pour-over-vs-espresso/)** - How manual brewing methods (pour over, French press) compare to espresso
 - **[Dirty Chai Latte Recipe](/recipes/dirty-chai-latte-recipe/)** - Espresso meets spiced chai — one of the most popular café drinks to make at home
 - **[Caramel Macchiato Recipe](/recipes/caramel-macchiato-recipe/)** - Vanilla syrup, espresso on top, caramel drizzle — better than Starbucks
+- **[How to Make a Flat White](/guides/how-to-make-a-flat-white/)** - The Australian-born espresso drink that's smaller and stronger than a latte
+- **[Matcha Latte Recipe](/recipes/matcha-latte-recipe/)** - The creamy, earthy green tea latte with calmer energy than coffee
 - **Exploring single-origin beans** - Different origins produce wildly different espresso flavors
 - **Pressure profiling** - Advanced technique for manual and high-end machines
 
