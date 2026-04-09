@@ -165,4 +165,4 @@ A: Starbucks uses their house-brand vanilla syrup, which is similar to Fontana o
 
 ---
 
-*Enjoying espresso recipes? Try our [vanilla latte recipe](/recipes/vanilla-latte-recipe/) or [cortado and flat white recipe](/recipes/cortado-and-flat-white-recipe/) for more café-style drinks to make at home.*
+*Enjoying espresso recipes? Try our [mocha recipe](/recipes/mocha-recipe/), [vanilla latte recipe](/recipes/vanilla-latte-recipe/), or [cortado and flat white recipe](/recipes/cortado-and-flat-white-recipe/) for more café-style drinks to make at home.*

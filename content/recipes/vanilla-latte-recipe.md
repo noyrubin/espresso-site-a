@@ -189,3 +189,5 @@ Related guides:
 - [Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/) — another sweetened espresso drink to try
 - [Caramel Macchiato Recipe](/recipes/caramel-macchiato-recipe/) — vanilla syrup, espresso on top, caramel drizzle
 - [Dirty Chai Latte Recipe](/recipes/dirty-chai-latte-recipe/) — chai spices meet espresso in one cup
+- [Mocha Recipe](/recipes/mocha-recipe/) — classic chocolate espresso drink, hot or iced
+- [Honey Latte Recipe](/recipes/honey-latte-recipe/) — natural sweetness, no syrup required

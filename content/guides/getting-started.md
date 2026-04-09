@@ -180,6 +180,8 @@ Once you can pull consistent shots, the next steps are:
 - **[Caramel Macchiato Recipe](/recipes/caramel-macchiato-recipe/)** - Vanilla syrup, espresso on top, caramel drizzle — better than Starbucks
 - **[How to Make a Flat White](/guides/how-to-make-a-flat-white/)** - The Australian-born espresso drink that's smaller and stronger than a latte
 - **[Matcha Latte Recipe](/recipes/matcha-latte-recipe/)** - The creamy, earthy green tea latte with calmer energy than coffee
+- **[Mocha Recipe](/recipes/mocha-recipe/)** - Hot mocha, iced mocha, white chocolate mocha — the classic chocolate espresso drink
+- **[Honey Latte Recipe](/recipes/honey-latte-recipe/)** - Natural sweetness with a floral note — a simple upgrade from a standard latte
 - **Exploring single-origin beans** - Different origins produce wildly different espresso flavors
 - **Pressure profiling** - Advanced technique for manual and high-end machines
 
