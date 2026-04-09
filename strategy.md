@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 6 (Pulse 15) — 35 articles published. SC data: macchiato guide 8 impressions at position 55.25, ristretto guide 8 impressions at position 36.4 (improved from 40). Homepage 4 impressions at position 5.5. Rankings slowly improving. GA4: Apr 8 = 1 session (very low). BEST KEYWORD FIND THIS PULSE: "pumpkin spice latte recipe" at 14,800/mo LOW (5/100) — need to write this next pulse. Published mocha recipe (captures 12,800/mo combined) + honey latte recipe (480/mo, 1/100).
+Day 6 (Pulse 16) — 37 articles published. SC data stable: macchiato 8 imp at pos 55.25, ristretto 8 imp at pos 36.375, homepage 4 imp at pos 5.5 — no new pages ranking yet. GA4: Apr 9 = 7 sessions (improving from 1 on Apr 8). Published pumpkin spice latte recipe (14,800/mo, 5/100) + turmeric latte recipe (captures "turmeric latte" 5,400/mo + "golden milk latte recipe" 1,300/mo = ~6,700/mo combined).
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -52,6 +52,8 @@ Day 6 (Pulse 15) — 35 articles published. SC data: macchiato guide 8 impressio
 | how to make a flat white | 3,600 | LOW (14/100) | /guides/how-to-make-a-flat-white/ | Published + FAQ (Pulse 14) — also targets "flat white recipe" (1,600/mo, LOW 11/100) |
 | mocha recipe | 4,400 | LOW (7/100) | /recipes/mocha-recipe/ | Published + FAQ (Pulse 15) — also targets "how to make a mocha" (3,600/mo), "iced mocha recipe" (1,900/mo), "white chocolate mocha recipe" (1,600/mo), "mocha latte recipe" (1,300/mo) = ~12,800/mo combined |
 | honey latte recipe | 480 | LOW (1/100) | /recipes/honey-latte-recipe/ | Published + FAQ (Pulse 15) — near-zero competition |
+| pumpkin spice latte recipe | 14,800 | LOW (5/100) | /recipes/pumpkin-spice-latte-recipe/ | Published + FAQ (Pulse 16) — seasonal autumn keyword, builds authority now |
+| turmeric latte recipe | 5,400 | LOW (14/100) | /recipes/turmeric-latte-recipe/ | Published + FAQ (Pulse 16) — also targets "golden milk latte recipe" (1,300/mo, 10/100) = ~6,700/mo combined |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -78,8 +80,13 @@ Day 6 (Pulse 15) — 35 articles published. SC data: macchiato guide 8 impressio
 - [DONE Pulse 14] Matcha latte recipe (27,100/mo, LOW 12/100) — BIG WIN, published
 - [DONE Pulse 15] Mocha recipe (4,400/mo, LOW 7/100) — published, captures ~12,800/mo combined
 - [DONE Pulse 15] Honey latte recipe (480/mo, LOW 1/100) — quick article, near-zero competition
+- [DONE Pulse 16] Pumpkin spice latte recipe (14,800/mo, LOW 5/100) — published, seasonal keyword
+- [DONE Pulse 16] Turmeric latte recipe (5,400/mo, LOW 14/100) — published, also captures golden milk latte (1,300/mo)
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
 - "aeropress espresso" (2,400/mo, HIGH 91/100) — skip, too competitive
+- "hazelnut latte recipe" (140/mo, LOW 1/100) — too small, skip
+- "cinnamon latte recipe" (210/mo, LOW 1/100) — too small standalone, cover as variation in other articles
+- "brown sugar latte recipe" (720/mo, LOW 4/100) — already covered via brown sugar shaken espresso (27,100/mo) and as variation in other recipes
 
 ### In Progress
 *(none — pulse 6 complete)*
@@ -120,6 +127,8 @@ Day 6 (Pulse 15) — 35 articles published. SC data: macchiato guide 8 impressio
 33. /guides/how-to-make-a-flat-white/ (NEW pulse 14, + FAQ) — 3,600/mo LOW (14/100), also targets "flat white recipe" (1,600/mo)
 34. /recipes/mocha-recipe/ (NEW pulse 15, + FAQ) — 4,400/mo LOW (7/100), also targets "how to make a mocha" (3,600), "iced mocha recipe" (1,900), "white chocolate mocha recipe" (1,600), "mocha latte recipe" (1,300) = ~12,800/mo combined
 35. /recipes/honey-latte-recipe/ (NEW pulse 15, + FAQ) — 480/mo LOW (1/100)
+36. /recipes/pumpkin-spice-latte-recipe/ (NEW pulse 16, + FAQ) — 14,800/mo LOW (5/100)
+37. /recipes/turmeric-latte-recipe/ (NEW pulse 16, + FAQ) — 5,400/mo LOW (14/100), also targets "golden milk latte recipe" (1,300/mo, 10/100)
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -164,10 +173,10 @@ Day 6 (Pulse 15) — 35 articles published. SC data: macchiato guide 8 impressio
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 16:** Write "pumpkin spice latte recipe" (14,800/mo, LOW 5/100) — MAJOR FIND. Seasonal keyword but content builds authority now and will rank by autumn. Also check "rose latte recipe" and other floral/seasonal lattes for additional zero-competition wins. Monitor SC for ranking improvements.
-2. **Pulse 17:** Research another batch of keywords — look at "turmeric latte" / "golden milk latte" (may be high volume with low competition), "hazelnut latte recipe", "cinnamon latte recipe". Check SC for which content pages have started getting impressions.
-3. **Pulse 18:** SC should be showing clear page-level rankings by Day 10+. Identify top performers, consider optimizing titles/meta descriptions for pages with impressions but low CTR. Consider BreadcrumbList schema.
+1. **Pulse 17:** Research next keyword batch. Candidates: "espresso martini recipe" (large volume, but likely HIGH competition), "iced coffee vs iced espresso" (informational, potentially low competition), "latte art for beginners" (process/tutorial keyword). Also check "affogato recipe", "espresso con panna", "macchiato vs cortado" (potential dupe — check if already covered), and whether any "how to use [machine brand]" keywords are accessible.
+2. **Pulse 18:** SC should be showing 5+ pages with impressions by Day 10. Check if any of the newer articles (brown sugar shaken espresso, dirty chai, matcha latte) are getting impressions. Consider optimizing titles/meta descriptions for pages with impressions but zero clicks. Also consider BreadcrumbList schema for all category listing pages.
+3. **Pulse 19:** If any pages show click-through (even 1 click), analyze what query triggered it and optimize content for that query. Begin looking at whether any competitor pages are ranking for our target keywords we could outrank with richer content.
 
 ---
-*Last updated: 2026-04-09 (Pulse 15)*
+*Last updated: 2026-04-09 (Pulse 16)*
 
