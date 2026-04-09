@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 5 (Pulse 12) — 29 articles published. SC showing 2 pages: homepage (3 impressions, position 6) + /tags/weiss-distribution-technique/ (1 impression, position 7). GA4: Apr 7 = 7 sessions, Apr 6 = 5, Apr 5 = 21, Apr 4 = 26. Organic: still 1 session total (Apr 4 only). No content pages in SC yet — typical for day 5 of a new site. Added cold brew vs espresso (2,400/mo, 2/100) and pour over vs espresso (320/mo, 5/100) this pulse. Site now has 29 articles. Still in early indexing phase — continue building topical authority while waiting for content pages to surface in SC.
+Day 6 (Pulse 14) — 33 articles published. SC data: macchiato guide 7 impressions at position 55, ristretto guide 7 impressions at position 40 (dropped from position 6 — was likely a fluke, or just fluctuating). Homepage 4 impressions at position 5.5. WDT tag still at position 7. GA4: Apr 8 = 1 session (very low). BEST KEYWORD FIND THIS PULSE: "matcha latte recipe" at 27,100/mo LOW (12/100) — second only to "flat white vs latte" in volume. Published matcha latte recipe + flat white guide.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -46,6 +46,10 @@ Day 5 (Pulse 12) — 29 articles published. SC showing 2 pages: homepage (3 impr
 | moka pot vs espresso | 880 | LOW (18/100) | /guides/moka-pot-vs-espresso/ | Published + FAQ (Pulse 11) |
 | cold brew vs espresso | 2,400 | LOW (2/100) | /guides/cold-brew-vs-espresso/ | Published + FAQ (Pulse 12) |
 | pour over vs espresso | 320 | LOW (5/100) | /guides/pour-over-vs-espresso/ | Published + FAQ (Pulse 12) — also targets "french press vs espresso" (390/mo, 5/100) |
+| dirty chai latte | 9,900 | LOW (3/100) | /recipes/dirty-chai-latte-recipe/ | Published + FAQ (Pulse 13) |
+| caramel macchiato recipe | 4,400 | LOW (9/100) | /recipes/caramel-macchiato-recipe/ | Published + FAQ (Pulse 13) |
+| matcha latte recipe | 27,100 | LOW (12/100) | /recipes/matcha-latte-recipe/ | Published + FAQ (Pulse 14) |
+| how to make a flat white | 3,600 | LOW (14/100) | /guides/how-to-make-a-flat-white/ | Published + FAQ (Pulse 14) — also targets "flat white recipe" (1,600/mo, LOW 11/100) |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -66,14 +70,17 @@ Day 5 (Pulse 12) — 29 articles published. SC showing 2 pages: homepage (3 impr
 - [DONE Pulse 11] Moka pot vs espresso — published
 - [DONE Pulse 12] Cold brew vs espresso — published (2,400/mo, 2/100)
 - [DONE Pulse 12] Pour over vs espresso — published (320/mo, 5/100 — also captures "french press vs espresso" 390/mo)
-- How to make a flat white (could target "flat white recipe" specifically as standalone)
+- [DONE Pulse 13] Dirty chai latte — published (9,900/mo, 3/100) — BEST FIND
+- [DONE Pulse 13] Caramel macchiato recipe — published (4,400/mo, 9/100)
+- [DONE Pulse 14] How to make a flat white (3,600/mo, LOW 14/100) — published
+- [DONE Pulse 14] Matcha latte recipe (27,100/mo, LOW 12/100) — BIG WIN, published
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
 - "aeropress espresso" (2,400/mo, HIGH 91/100) — skip, too competitive
 
 ### In Progress
 *(none — pulse 6 complete)*
 
-### Published (27 articles)
+### Published (31 articles)
 1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5, flat white + macchiato links pulse 6)
 2. /guides/how-to-steam-milk-latte-art/ (+ FAQ pulse 3)
 3. /guides/espresso-grind-size-guide/ (+ FAQ pulse 2, WDT link pulse 4)
@@ -103,6 +110,10 @@ Day 5 (Pulse 12) — 29 articles published. SC showing 2 pages: homepage (3 impr
 27. /guides/moka-pot-vs-espresso/ (NEW pulse 11, + FAQ) — 880/mo LOW (18/100)
 28. /guides/cold-brew-vs-espresso/ (NEW pulse 12, + FAQ) — 2,400/mo LOW (2/100)
 29. /guides/pour-over-vs-espresso/ (NEW pulse 12, + FAQ) — 320/mo LOW (5/100), also targets "french press vs espresso" (390/mo)
+30. /recipes/dirty-chai-latte-recipe/ (NEW pulse 13, + FAQ) — 9,900/mo LOW (3/100)
+31. /recipes/caramel-macchiato-recipe/ (NEW pulse 13, + FAQ) — 4,400/mo LOW (9/100)
+32. /recipes/matcha-latte-recipe/ (NEW pulse 14, + FAQ) — 27,100/mo LOW (12/100)
+33. /guides/how-to-make-a-flat-white/ (NEW pulse 14, + FAQ) — 3,600/mo LOW (14/100), also targets "flat white recipe" (1,600/mo)
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -147,9 +158,10 @@ Day 5 (Pulse 12) — 29 articles published. SC showing 2 pages: homepage (3 impr
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 13:** Research new keyword batch. Candidates: "how to make a flat white" (standalone), "espresso at home without machine" (equipment alternatives), or check DataForSEO for untapped ideas. SC should start showing first content page impressions around day 6-7.
-2. **Pulse 14:** By day 7 (Apr 10), check SC carefully for content page impressions. If content pages start appearing, check if any need optimization (title, meta description, internal linking boosts). Continue content build-out.
-3. **Pulse 15:** Consider first review content if topical authority strong enough — Gaggia Classic Pro review (HIGH competition, but 29 articles now establish domain authority in niche).
+1. **Pulse 15:** Write "mocha recipe" (4,400/mo, 7/100) — captures "how to make a mocha" (3,600/mo, 9/100) and "mocha latte recipe" (1,300/mo, 7/100) — combined 9,300/mo with very low competition. Also look for more recipe/guide gaps. Check honey latte recipe (480/mo, 1/100) — tiny volume but zero competition. Monitor SC for impressions growth.
+2. **Pulse 16:** Day 7+ data should start showing more SC impressions. Research next keyword batch — check for espresso machine content (specific models), more recipe gaps, or espresso technique guides. "Gaggia Classic Pro review" (210/mo) possible if volume improves.
+3. **Pulse 17:** SC should be showing clear page-level rankings by Day 9+. Identify top performers and optimize. Consider BreadcrumbList schema. Look at competitor content gaps.
 
 ---
-*Last updated: 2026-04-08 (Pulse 12)*
+*Last updated: 2026-04-09 (Pulse 14)*
+
