@@ -143,4 +143,4 @@ Tonic water choice matters more than you'd expect. The differences between brand
 
 ---
 
-*For more iced espresso drinks, see our [iced latte recipe](/recipes/iced-latte-recipe/) and [brown sugar shaken espresso](/recipes/brown-sugar-shaken-espresso/). If you want to understand espresso fundamentals first, our [espresso ratio guide](/guides/espresso-ratio-guide/) is a good starting point.*
+*For more iced espresso drinks, see our [iced latte recipe](/recipes/iced-latte-recipe/) and [brown sugar shaken espresso](/recipes/brown-sugar-shaken-espresso/). For something with a kick, try the [espresso martini recipe](/recipes/espresso-martini-recipe/) or the simple two-ingredient [affogato recipe](/recipes/affogato-recipe/). If you want to understand espresso fundamentals first, our [espresso ratio guide](/guides/espresso-ratio-guide/) is a good starting point.*
