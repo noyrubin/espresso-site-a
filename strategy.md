@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 7 (Pulse 17) — 39 articles published. SC: cold-brew-vs-espresso is NEW (3 imp, pos 71). Ristretto steady at pos 36.375 (8 imp), macchiato steady at pos 55.25 (8 imp). GA4 Apr 9 = 7 sessions. HUGE keyword find: "espresso martini recipe" = 246,000/mo, LOW (19/100) paid competition — wrote comprehensive article. Also published affogato recipe (6,600/mo, 3/100).
+Day 7 (Pulse 18) — 41 articles published. SC: cold-brew now at 5 imp pos 65.8 (trending up). Flat-white appeared (1 imp, pos 69 — NEW). Ristretto steady 8 imp pos 36.375, macchiato 8 imp pos 55.25. GA4 Apr 9 = 8 sessions. Pulse 18: wrote dalgona coffee (4,400 + 4,400/mo whipped coffee = ~8,800/mo combined, 10/100) + how to make iced coffee (9,900/mo, 26/100) + iced coffee vs iced latte (1,900/mo, 0/100) = ~11,800/mo combined. ~20K/mo added this pulse.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -56,6 +56,8 @@ Day 7 (Pulse 17) — 39 articles published. SC: cold-brew-vs-espresso is NEW (3 
 | turmeric latte recipe | 5,400 | LOW (14/100) | /recipes/turmeric-latte-recipe/ | Published + FAQ (Pulse 16) — also targets "golden milk latte recipe" (1,300/mo, 10/100) = ~6,700/mo combined |
 | espresso martini recipe | 246,000 | LOW (19/100) | /recipes/espresso-martini-recipe/ | Published + FAQ (Pulse 17) — BIGGEST KEYWORD FOUND |
 | affogato recipe | 6,600 | LOW (3/100) | /recipes/affogato-recipe/ | Published + FAQ (Pulse 17) |
+| dalgona coffee recipe | 4,400 | LOW (10/100) | /recipes/dalgona-coffee-recipe/ | Published + FAQ (Pulse 18) — also captures "whipped coffee recipe" (4,400/mo, 17/100) = ~8,800/mo combined |
+| how to make iced coffee | 9,900 | LOW (26/100) | /guides/how-to-make-iced-coffee/ | Published + FAQ (Pulse 18) — also captures "iced coffee vs iced latte" (1,900/mo, 0/100) = ~11,800/mo combined |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -84,12 +86,14 @@ Day 7 (Pulse 17) — 39 articles published. SC: cold-brew-vs-espresso is NEW (3 
 - [DONE Pulse 15] Honey latte recipe (480/mo, LOW 1/100) — quick article, near-zero competition
 - [DONE Pulse 16] Pumpkin spice latte recipe (14,800/mo, LOW 5/100) — published, seasonal keyword
 - [DONE Pulse 16] Turmeric latte recipe (5,400/mo, LOW 14/100) — published, also captures golden milk latte (1,300/mo)
-- "dalgona coffee recipe" (4,400/mo, LOW 10/100) — next target, COVID-era viral drink, strong evergreen search
-- "pistachio latte recipe" (1,600/mo, LOW 7/100) — trending Starbucks-inspired drink, low competition
+- "dalgona coffee recipe" (4,400/mo, LOW 10/100) — DONE Pulse 18. Also captures whipped coffee (4,400/mo).
+- "pistachio latte recipe" (1,600/mo, LOW 7/100) — trending Starbucks-inspired drink, low competition — next target
 - "latte art for beginners" (260/mo, LOW 11/100) — too small standalone, but could be combined with steam milk guide
 - "cardamom latte recipe" (260/mo, LOW 0/100) — zero competition but tiny volume, skip standalone
 - "espresso martini recipe" (246,000/mo, LOW 19/100) — DONE Pulse 17. Biggest keyword found.
 - "affogato recipe" (6,600/mo, LOW 3/100) — DONE Pulse 17
+- "dalgona coffee recipe" (4,400/mo, LOW 10/100) — DONE Pulse 18. Also captures "whipped coffee recipe" (4,400/mo).
+- "how to make iced coffee" (9,900/mo, LOW 26/100) — DONE Pulse 18. Also captures "iced coffee vs iced latte" (1,900/mo, 0/100).
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
 - "aeropress espresso" (2,400/mo, HIGH 91/100) — skip, too competitive
 - "hazelnut latte recipe" (140/mo, LOW 1/100) — too small, skip
@@ -139,6 +143,8 @@ Day 7 (Pulse 17) — 39 articles published. SC: cold-brew-vs-espresso is NEW (3 
 37. /recipes/turmeric-latte-recipe/ (NEW pulse 16, + FAQ) — 5,400/mo LOW (14/100), also targets "golden milk latte recipe" (1,300/mo, 10/100)
 38. /recipes/espresso-martini-recipe/ (NEW pulse 17, + FAQ) — 246,000/mo LOW (19/100) — BIGGEST KEYWORD
 39. /recipes/affogato-recipe/ (NEW pulse 17, + FAQ) — 6,600/mo LOW (3/100)
+40. /recipes/dalgona-coffee-recipe/ (NEW pulse 18, + FAQ) — 4,400/mo LOW (10/100), also captures "whipped coffee recipe" (4,400/mo, 17/100) = ~8,800/mo combined
+41. /guides/how-to-make-iced-coffee/ (NEW pulse 18, + FAQ) — 9,900/mo LOW (26/100), also captures "iced coffee vs iced latte" (1,900/mo, 0/100) = ~11,800/mo combined
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -183,10 +189,10 @@ Day 7 (Pulse 17) — 39 articles published. SC: cold-brew-vs-espresso is NEW (3 
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 18:** Write "dalgona coffee recipe" (4,400/mo, LOW 10/100) + "pistachio latte recipe" (1,600/mo, LOW 7/100). Also check "iced coffee vs iced latte" and "how to make iced coffee" volumes — could be huge. Monitor SC for whether espresso martini gets indexed quickly (it should, given site authority).
-2. **Pulse 19:** SC check — by Day 10–11, should be seeing more pages with impressions. Check if any of the bigger articles (matcha latte, brown sugar shaken espresso, dirty chai, espresso martini) are picking up impressions. Consider title/meta optimization for pages with impressions at high positions (50+) but zero clicks.
-3. **Pulse 20:** If any pages show click-through, double down on that topic cluster. Begin reviewing whether any core pages need internal link depth improvements — look for articles with fewer than 3 inbound links.
+1. **Pulse 19:** Write "pistachio latte recipe" (1,600/mo, 7/100). Research "iced matcha latte recipe", "mushroom coffee", "butter coffee recipe" / "bulletproof coffee" for potential high-volume finds. SC check — by Day 8–9, should see more pages appearing. Specifically watch for espresso martini + matcha latte impressions.
+2. **Pulse 20:** SC check — by Day 10–11, check if bigger articles (matcha latte 27,100/mo, brown sugar 27,100/mo, espresso martini 246,000/mo, dirty chai 9,900/mo, iced coffee 9,900/mo) are gaining impressions. Consider title/meta optimization for pages with impressions stuck at pos 50+.
+3. **Pulse 21:** If pages start getting clicks, double down on that topic cluster. Review internal link coverage for new articles — check which articles have fewer than 3 inbound links and add targeted links.
 
 ---
-*Last updated: 2026-04-10 (Pulse 17)*
+*Last updated: 2026-04-10 (Pulse 18)*
 
