@@ -164,4 +164,4 @@ Cold brew and espresso are fundamentally different products. Cold brew is smooth
 
 They're not really competing for the same occasion. Espresso is what you want when you want *real coffee*, dialed in and complex. Cold brew is what you want when you want something smooth, refreshing, and ready to grab from the fridge.
 
-For a full home espresso setup, start with our [getting started guide](/guides/getting-started/). For more brewing comparisons, see [espresso vs drip coffee](/guides/espresso-vs-drip-coffee/), [moka pot vs espresso](/guides/moka-pot-vs-espresso/), and [ristretto vs espresso](/guides/ristretto-vs-espresso/).
+For a full home espresso setup, start with our [getting started guide](/guides/getting-started/). For more brewing comparisons, see [espresso vs drip coffee](/guides/espresso-vs-drip-coffee/), [moka pot vs espresso](/guides/moka-pot-vs-espresso/), and [ristretto vs espresso](/guides/ristretto-vs-espresso/). For a practical guide to making iced coffee at home using drip, pour-over, or cold brew methods, see [how to make iced coffee](/guides/how-to-make-iced-coffee/).
