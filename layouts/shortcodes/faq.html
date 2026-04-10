@@ -1,13 +1,21 @@
-{{- $raw := .Inner -}}
-{{- $blocks := split $raw "**Q:" -}}
 {{- $items := slice -}}
-{{- range $i, $b := $blocks -}}
-  {{- if gt $i 0 -}}
-    {{- $parts := split $b "A:" -}}
-    {{- if ge (len $parts) 2 -}}
-      {{- $q := trim (replace (index $parts 0) "**" "") " \n\r*" -}}
-      {{- $a := trim (index $parts 1) " \n\r*" -}}
-      {{- $items = $items | append (dict "q" $q "a" $a) -}}
+{{- $rawItems := .Get "items" -}}
+{{- if $rawItems -}}
+  {{- $parsed := transform.Unmarshal $rawItems -}}
+  {{- range $parsed -}}
+    {{- $items = $items | append (dict "q" .question "a" .answer) -}}
+  {{- end -}}
+{{- else -}}
+  {{- $raw := .Inner -}}
+  {{- $blocks := split $raw "**Q:" -}}
+  {{- range $i, $b := $blocks -}}
+    {{- if gt $i 0 -}}
+      {{- $parts := split $b "A:" -}}
+      {{- if ge (len $parts) 2 -}}
+        {{- $q := trim (replace (index $parts 0) "**" "") " \n\r*" -}}
+        {{- $a := trim (index $parts 1) " \n\r*" -}}
+        {{- $items = $items | append (dict "q" $q "a" $a) -}}
+      {{- end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
