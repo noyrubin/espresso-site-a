@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 6 (Pulse 16) — 37 articles published. SC data stable: macchiato 8 imp at pos 55.25, ristretto 8 imp at pos 36.375, homepage 4 imp at pos 5.5 — no new pages ranking yet. GA4: Apr 9 = 7 sessions (improving from 1 on Apr 8). Published pumpkin spice latte recipe (14,800/mo, 5/100) + turmeric latte recipe (captures "turmeric latte" 5,400/mo + "golden milk latte recipe" 1,300/mo = ~6,700/mo combined).
+Day 7 (Pulse 17) — 39 articles published. SC: cold-brew-vs-espresso is NEW (3 imp, pos 71). Ristretto steady at pos 36.375 (8 imp), macchiato steady at pos 55.25 (8 imp). GA4 Apr 9 = 7 sessions. HUGE keyword find: "espresso martini recipe" = 246,000/mo, LOW (19/100) paid competition — wrote comprehensive article. Also published affogato recipe (6,600/mo, 3/100).
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -54,6 +54,8 @@ Day 6 (Pulse 16) — 37 articles published. SC data stable: macchiato 8 imp at p
 | honey latte recipe | 480 | LOW (1/100) | /recipes/honey-latte-recipe/ | Published + FAQ (Pulse 15) — near-zero competition |
 | pumpkin spice latte recipe | 14,800 | LOW (5/100) | /recipes/pumpkin-spice-latte-recipe/ | Published + FAQ (Pulse 16) — seasonal autumn keyword, builds authority now |
 | turmeric latte recipe | 5,400 | LOW (14/100) | /recipes/turmeric-latte-recipe/ | Published + FAQ (Pulse 16) — also targets "golden milk latte recipe" (1,300/mo, 10/100) = ~6,700/mo combined |
+| espresso martini recipe | 246,000 | LOW (19/100) | /recipes/espresso-martini-recipe/ | Published + FAQ (Pulse 17) — BIGGEST KEYWORD FOUND |
+| affogato recipe | 6,600 | LOW (3/100) | /recipes/affogato-recipe/ | Published + FAQ (Pulse 17) |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -82,6 +84,12 @@ Day 6 (Pulse 16) — 37 articles published. SC data stable: macchiato 8 imp at p
 - [DONE Pulse 15] Honey latte recipe (480/mo, LOW 1/100) — quick article, near-zero competition
 - [DONE Pulse 16] Pumpkin spice latte recipe (14,800/mo, LOW 5/100) — published, seasonal keyword
 - [DONE Pulse 16] Turmeric latte recipe (5,400/mo, LOW 14/100) — published, also captures golden milk latte (1,300/mo)
+- "dalgona coffee recipe" (4,400/mo, LOW 10/100) — next target, COVID-era viral drink, strong evergreen search
+- "pistachio latte recipe" (1,600/mo, LOW 7/100) — trending Starbucks-inspired drink, low competition
+- "latte art for beginners" (260/mo, LOW 11/100) — too small standalone, but could be combined with steam milk guide
+- "cardamom latte recipe" (260/mo, LOW 0/100) — zero competition but tiny volume, skip standalone
+- "espresso martini recipe" (246,000/mo, LOW 19/100) — DONE Pulse 17. Biggest keyword found.
+- "affogato recipe" (6,600/mo, LOW 3/100) — DONE Pulse 17
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
 - "aeropress espresso" (2,400/mo, HIGH 91/100) — skip, too competitive
 - "hazelnut latte recipe" (140/mo, LOW 1/100) — too small, skip
@@ -89,9 +97,9 @@ Day 6 (Pulse 16) — 37 articles published. SC data stable: macchiato 8 imp at p
 - "brown sugar latte recipe" (720/mo, LOW 4/100) — already covered via brown sugar shaken espresso (27,100/mo) and as variation in other recipes
 
 ### In Progress
-*(none — pulse 6 complete)*
+*(none — pulse 17 complete)*
 
-### Published (35 articles)
+### Published (39 articles)
 1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5, flat white + macchiato links pulse 6)
 2. /guides/how-to-steam-milk-latte-art/ (+ FAQ pulse 3)
 3. /guides/espresso-grind-size-guide/ (+ FAQ pulse 2, WDT link pulse 4)
@@ -129,6 +137,8 @@ Day 6 (Pulse 16) — 37 articles published. SC data stable: macchiato 8 imp at p
 35. /recipes/honey-latte-recipe/ (NEW pulse 15, + FAQ) — 480/mo LOW (1/100)
 36. /recipes/pumpkin-spice-latte-recipe/ (NEW pulse 16, + FAQ) — 14,800/mo LOW (5/100)
 37. /recipes/turmeric-latte-recipe/ (NEW pulse 16, + FAQ) — 5,400/mo LOW (14/100), also targets "golden milk latte recipe" (1,300/mo, 10/100)
+38. /recipes/espresso-martini-recipe/ (NEW pulse 17, + FAQ) — 246,000/mo LOW (19/100) — BIGGEST KEYWORD
+39. /recipes/affogato-recipe/ (NEW pulse 17, + FAQ) — 6,600/mo LOW (3/100)
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -173,10 +183,10 @@ Day 6 (Pulse 16) — 37 articles published. SC data stable: macchiato 8 imp at p
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 17:** Research next keyword batch. Candidates: "espresso martini recipe" (large volume, but likely HIGH competition), "iced coffee vs iced espresso" (informational, potentially low competition), "latte art for beginners" (process/tutorial keyword). Also check "affogato recipe", "espresso con panna", "macchiato vs cortado" (potential dupe — check if already covered), and whether any "how to use [machine brand]" keywords are accessible.
-2. **Pulse 18:** SC should be showing 5+ pages with impressions by Day 10. Check if any of the newer articles (brown sugar shaken espresso, dirty chai, matcha latte) are getting impressions. Consider optimizing titles/meta descriptions for pages with impressions but zero clicks. Also consider BreadcrumbList schema for all category listing pages.
-3. **Pulse 19:** If any pages show click-through (even 1 click), analyze what query triggered it and optimize content for that query. Begin looking at whether any competitor pages are ranking for our target keywords we could outrank with richer content.
+1. **Pulse 18:** Write "dalgona coffee recipe" (4,400/mo, LOW 10/100) + "pistachio latte recipe" (1,600/mo, LOW 7/100). Also check "iced coffee vs iced latte" and "how to make iced coffee" volumes — could be huge. Monitor SC for whether espresso martini gets indexed quickly (it should, given site authority).
+2. **Pulse 19:** SC check — by Day 10–11, should be seeing more pages with impressions. Check if any of the bigger articles (matcha latte, brown sugar shaken espresso, dirty chai, espresso martini) are picking up impressions. Consider title/meta optimization for pages with impressions at high positions (50+) but zero clicks.
+3. **Pulse 20:** If any pages show click-through, double down on that topic cluster. Begin reviewing whether any core pages need internal link depth improvements — look for articles with fewer than 3 inbound links.
 
 ---
-*Last updated: 2026-04-09 (Pulse 16)*
+*Last updated: 2026-04-10 (Pulse 17)*
 
