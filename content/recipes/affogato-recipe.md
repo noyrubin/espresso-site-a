@@ -140,32 +140,27 @@ Yes, though the texture and intensity will differ:
 
 ## Frequently Asked Questions
 
-{{< faq items=`[
-  {
-    "question": "What is an affogato?",
-    "answer": "Affogato (Italian for 'drowned') is a two-ingredient Italian dessert-coffee: a scoop of vanilla gelato or ice cream with a hot shot of espresso poured over it. The hot espresso melts the gelato into a warm, silky, bittersweet pool. It's served immediately and eaten with a small spoon while still partially frozen."
-  },
-  {
-    "question": "What does affogato taste like?",
-    "answer": "An affogato tastes simultaneously hot and cold, sweet and bitter, creamy and sharp. The espresso brings roasted, slightly bitter coffee flavor; the gelato brings sweet, milky vanilla creaminess. As they mix, the bitterness softens, the sweetness becomes more complex, and the texture becomes somewhere between a drink and a dessert."
-  },
-  {
-    "question": "Can you use ice cream instead of gelato for affogato?",
-    "answer": "Yes. Gelato is traditional (denser, less air, melts more smoothly) but high-quality vanilla ice cream works well. Use a premium brand with real vanilla — Häagen-Dazs or similar. Avoid low-fat or artificially flavored products, which melt unevenly and taste thin."
-  },
-  {
-    "question": "What kind of espresso should I use for affogato?",
-    "answer": "A medium-dark to dark roast with chocolate and caramel notes works best — it complements the vanilla without clashing. Pull a proper double shot (18–20g in, ~35g out) and pour it immediately while hot. A ristretto (shorter, more concentrated) is an excellent upgrade."
-  },
-  {
-    "question": "Is affogato a dessert or a coffee?",
-    "answer": "Both — that's part of its appeal. In Italy it's typically served after dinner as the combined coffee-and-dessert course. You can eat it with a spoon like a dessert or drink the pooled liquid at the end like a coffee. There's no wrong approach."
-  },
-  {
-    "question": "How do I stop the gelato from melting too fast?",
-    "answer": "Pre-chill your serving glass (rinse with cold water or freeze for 5 minutes). Serve immediately after pouring — affogato doesn't wait. Use gelato rather than ice cream if you want slower, more controlled melting. Avoid pouring the espresso too close to the gelato; pour from a slight height to control the flow."
-  }
-]` >}}
+{{< faq >}}
+
+**Q: What is an affogato?**
+A: Affogato (Italian for 'drowned') is a two-ingredient Italian dessert-coffee: a scoop of vanilla gelato or ice cream with a hot shot of espresso poured over it. The hot espresso melts the gelato into a warm, silky, bittersweet pool. It's served immediately and eaten with a small spoon while still partially frozen.
+
+**Q: What does affogato taste like?**
+A: An affogato tastes simultaneously hot and cold, sweet and bitter, creamy and sharp. The espresso brings roasted, slightly bitter coffee flavor; the gelato brings sweet, milky vanilla creaminess. As they mix, the bitterness softens, the sweetness becomes more complex, and the texture becomes somewhere between a drink and a dessert.
+
+**Q: Can you use ice cream instead of gelato for affogato?**
+A: Yes. Gelato is traditional (denser, less air, melts more smoothly) but high-quality vanilla ice cream works well. Use a premium brand with real vanilla — Häagen-Dazs or similar. Avoid low-fat or artificially flavored products, which melt unevenly and taste thin.
+
+**Q: What kind of espresso should I use for affogato?**
+A: A medium-dark to dark roast with chocolate and caramel notes works best — it complements the vanilla without clashing. Pull a proper double shot (18–20g in, ~35g out) and pour it immediately while hot. A ristretto (shorter, more concentrated) is an excellent upgrade.
+
+**Q: Is affogato a dessert or a coffee?**
+A: Both — that's part of its appeal. In Italy it's typically served after dinner as the combined coffee-and-dessert course. You can eat it with a spoon like a dessert or drink the pooled liquid at the end like a coffee. There's no wrong approach.
+
+**Q: How do I stop the gelato from melting too fast?**
+A: Pre-chill your serving glass (rinse with cold water or freeze for 5 minutes). Serve immediately after pouring — affogato doesn't wait. Use gelato rather than ice cream if you want slower, more controlled melting. Avoid pouring the espresso too close to the gelato; pour from a slight height to control the flow.
+
+{{< /faq >}}
 
 ---
 

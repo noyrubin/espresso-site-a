@@ -217,32 +217,27 @@ For a self-serve station, pre-chill the mixture and let guests shake their own d
 
 ## Frequently Asked Questions
 
-{{< faq items=`[
-  {
-    "question": "What's the best coffee to use in an espresso martini?",
-    "answer": "Use a freshly pulled double espresso from a medium-dark or dark roast. You want good crema for the foam head. Beans with chocolate, caramel, or nutty notes work best — avoid very light, fruity roasts which can taste harsh when mixed with sweet liqueur."
-  },
-  {
-    "question": "Can you make an espresso martini without an espresso machine?",
-    "answer": "Yes — a moka pot produces the closest result to real espresso. An AeroPress on the inverted method with a fine grind also works well. Cold brew concentrate will give you good flavor but no foam head. Instant espresso powder dissolved in hot water is a last resort but usable."
-  },
-  {
-    "question": "Why does my espresso martini have no foam?",
-    "answer": "The foam comes from espresso crema, which breaks down quickly. Your shot was likely too old (more than 1–2 minutes), too cold, or the espresso itself was under-extracted. Pull a fresh shot and shake it immediately while it's still hot, using large ice cubes and a hard 20-second shake."
-  },
-  {
-    "question": "Is Kahlúa the best coffee liqueur for espresso martinis?",
-    "answer": "Kahlúa is the classic and works perfectly well. For a stronger coffee flavor and less sweetness, Mr. Black cold-brew coffee liqueur is excellent. Tia Maria is a good middle ground — slightly drier than Kahlúa with more depth. The choice depends on how sweet you want the final drink."
-  },
-  {
-    "question": "How much caffeine is in an espresso martini?",
-    "answer": "A standard espresso martini contains one double shot of espresso, which has approximately 120–150mg of caffeine. Coffee liqueurs like Kahlúa contain a small additional amount (around 5mg per serving). So expect roughly 130–160mg total — similar to a strong cup of drip coffee. For a decaf version, use Swiss water process decaf espresso."
-  },
-  {
-    "question": "Can you batch make espresso martinis ahead of time?",
-    "answer": "Yes. Mix vodka, coffee liqueur, cooled espresso, and syrup up to 24 hours ahead. Refrigerate. Shake per-drink over ice when serving. The foam head won't be as dramatic (crema settles over time) but the flavor is fully preserved. For the best foam, ensure each drink is shaken vigorously just before serving."
-  }
-]` >}}
+{{< faq >}}
+
+**Q: What's the best coffee to use in an espresso martini?**
+A: Use a freshly pulled double espresso from a medium-dark or dark roast. You want good crema for the foam head. Beans with chocolate, caramel, or nutty notes work best — avoid very light, fruity roasts which can taste harsh when mixed with sweet liqueur.
+
+**Q: Can you make an espresso martini without an espresso machine?**
+A: Yes — a moka pot produces the closest result to real espresso. An AeroPress on the inverted method with a fine grind also works well. Cold brew concentrate will give you good flavor but no foam head. Instant espresso powder dissolved in hot water is a last resort but usable.
+
+**Q: Why does my espresso martini have no foam?**
+A: The foam comes from espresso crema, which breaks down quickly. Your shot was likely too old (more than 1–2 minutes), too cold, or the espresso itself was under-extracted. Pull a fresh shot and shake it immediately while it's still hot, using large ice cubes and a hard 20-second shake.
+
+**Q: Is Kahlúa the best coffee liqueur for espresso martinis?**
+A: Kahlúa is the classic and works perfectly well. For a stronger coffee flavor and less sweetness, Mr. Black cold-brew coffee liqueur is excellent. Tia Maria is a good middle ground — slightly drier than Kahlúa with more depth. The choice depends on how sweet you want the final drink.
+
+**Q: How much caffeine is in an espresso martini?**
+A: A standard espresso martini contains one double shot of espresso, which has approximately 120–150mg of caffeine. Coffee liqueurs like Kahlúa contain a small additional amount (around 5mg per serving). So expect roughly 130–160mg total — similar to a strong cup of drip coffee. For a decaf version, use Swiss water process decaf espresso.
+
+**Q: Can you batch make espresso martinis ahead of time?**
+A: Yes. Mix vodka, coffee liqueur, cooled espresso, and syrup up to 24 hours ahead. Refrigerate. Shake per-drink over ice when serving. The foam head won't be as dramatic (crema settles over time) but the flavor is fully preserved. For the best foam, ensure each drink is shaken vigorously just before serving.
+
+{{< /faq >}}
 
 ---
 
