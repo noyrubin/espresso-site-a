@@ -183,6 +183,7 @@ The most common vanilla latte mistake is under-sweetening. Vanilla flavor needs 
 **Espresso tastes burnt with vanilla:** This combination can happen with dark-roasted beans. Try a medium roast espresso — the lighter, slightly fruity or nutty notes pair much better with vanilla than charred, smoky dark roast.
 
 Related guides:
+- [Pistachio Latte Recipe](/recipes/pistachio-latte-recipe/) — nutty, Starbucks-inspired latte made at home
 - [How to Make a Latte](/guides/how-to-make-a-latte/) — the base technique behind all latte variations
 - [How to Steam Milk for Latte Art](/guides/how-to-steam-milk-latte-art/) — proper microfoam technique
 - [Iced Latte Recipe](/recipes/iced-latte-recipe/) — the iced base, with more anti-dilution tips

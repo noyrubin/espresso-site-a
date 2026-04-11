@@ -255,6 +255,7 @@ The most common cause is water that's too hot (over 175°F / 80°C). Boiling wat
 ---
 
 ## Related Guides
+- [Iced Matcha Latte Recipe](/recipes/iced-matcha-latte-recipe/) — the cold version with a no-clump technique
 - [How to Steam Milk for Latte Art](/guides/how-to-steam-milk-latte-art/) — master the milk frothing that makes any latte shine
 - [Lavender Latte Recipe](/recipes/lavender-latte-recipe/) — another floral, café-style drink to make at home
 - [Dirty Chai Latte Recipe](/recipes/dirty-chai-latte-recipe/) — chai + espresso, a bold combination
