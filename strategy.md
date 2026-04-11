@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 7 (Pulse 18) — 41 articles published. SC: cold-brew now at 5 imp pos 65.8 (trending up). Flat-white appeared (1 imp, pos 69 — NEW). Ristretto steady 8 imp pos 36.375, macchiato 8 imp pos 55.25. GA4 Apr 9 = 8 sessions. Pulse 18: wrote dalgona coffee (4,400 + 4,400/mo whipped coffee = ~8,800/mo combined, 10/100) + how to make iced coffee (9,900/mo, 26/100) + iced coffee vs iced latte (1,900/mo, 0/100) = ~11,800/mo combined. ~20K/mo added this pulse.
+Day 8 (Pulse 19) — 43 articles published. SC: mocha-recipe NEW (6 imp, pos 70.3), cold-brew 7 imp pos 69.3 (volume up), flat-white 4 imp pos 75.25 (volume up from 1), macchiato 8 imp pos 55.25 (stable), ristretto 8 imp pos 36.375 (stable). GA4 Apr 11 = 5 sessions so far (partial day). Pulse 19: wrote iced matcha latte (14,800 + 4,400 = ~19,200/mo combined, LOW 9/100) + pistachio latte (1,600/mo, LOW 7/100) = ~20,800/mo added this pulse.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -58,6 +58,8 @@ Day 7 (Pulse 18) — 41 articles published. SC: cold-brew now at 5 imp pos 65.8 
 | affogato recipe | 6,600 | LOW (3/100) | /recipes/affogato-recipe/ | Published + FAQ (Pulse 17) |
 | dalgona coffee recipe | 4,400 | LOW (10/100) | /recipes/dalgona-coffee-recipe/ | Published + FAQ (Pulse 18) — also captures "whipped coffee recipe" (4,400/mo, 17/100) = ~8,800/mo combined |
 | how to make iced coffee | 9,900 | LOW (26/100) | /guides/how-to-make-iced-coffee/ | Published + FAQ (Pulse 18) — also captures "iced coffee vs iced latte" (1,900/mo, 0/100) = ~11,800/mo combined |
+| iced matcha latte | 14,800 | LOW (9/100) | /recipes/iced-matcha-latte-recipe/ | Published + FAQ (Pulse 19) — also captures "iced matcha latte recipe" (4,400/mo, 13/100) = ~19,200/mo combined |
+| pistachio latte recipe | 1,600 | LOW (7/100) | /recipes/pistachio-latte-recipe/ | Published + FAQ (Pulse 19) |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -87,7 +89,8 @@ Day 7 (Pulse 18) — 41 articles published. SC: cold-brew now at 5 imp pos 65.8 
 - [DONE Pulse 16] Pumpkin spice latte recipe (14,800/mo, LOW 5/100) — published, seasonal keyword
 - [DONE Pulse 16] Turmeric latte recipe (5,400/mo, LOW 14/100) — published, also captures golden milk latte (1,300/mo)
 - "dalgona coffee recipe" (4,400/mo, LOW 10/100) — DONE Pulse 18. Also captures whipped coffee (4,400/mo).
-- "pistachio latte recipe" (1,600/mo, LOW 7/100) — trending Starbucks-inspired drink, low competition — next target
+- "pistachio latte recipe" (1,600/mo, LOW 7/100) — DONE Pulse 19
+- "iced matcha latte" (14,800/mo, LOW 9/100) — DONE Pulse 19. Also captures "iced matcha latte recipe" (4,400/mo).
 - "latte art for beginners" (260/mo, LOW 11/100) — too small standalone, but could be combined with steam milk guide
 - "cardamom latte recipe" (260/mo, LOW 0/100) — zero competition but tiny volume, skip standalone
 - "espresso martini recipe" (246,000/mo, LOW 19/100) — DONE Pulse 17. Biggest keyword found.
@@ -145,6 +148,8 @@ Day 7 (Pulse 18) — 41 articles published. SC: cold-brew now at 5 imp pos 65.8 
 39. /recipes/affogato-recipe/ (NEW pulse 17, + FAQ) — 6,600/mo LOW (3/100)
 40. /recipes/dalgona-coffee-recipe/ (NEW pulse 18, + FAQ) — 4,400/mo LOW (10/100), also captures "whipped coffee recipe" (4,400/mo, 17/100) = ~8,800/mo combined
 41. /guides/how-to-make-iced-coffee/ (NEW pulse 18, + FAQ) — 9,900/mo LOW (26/100), also captures "iced coffee vs iced latte" (1,900/mo, 0/100) = ~11,800/mo combined
+42. /recipes/iced-matcha-latte-recipe/ (NEW pulse 19, + FAQ) — 14,800/mo LOW (9/100), also captures "iced matcha latte recipe" (4,400/mo, 13/100) = ~19,200/mo combined
+43. /recipes/pistachio-latte-recipe/ (NEW pulse 19, + FAQ) — 1,600/mo LOW (7/100)
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -189,10 +194,10 @@ Day 7 (Pulse 18) — 41 articles published. SC: cold-brew now at 5 imp pos 65.8 
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 19:** Write "pistachio latte recipe" (1,600/mo, 7/100). Research "iced matcha latte recipe", "mushroom coffee", "butter coffee recipe" / "bulletproof coffee" for potential high-volume finds. SC check — by Day 8–9, should see more pages appearing. Specifically watch for espresso martini + matcha latte impressions.
-2. **Pulse 20:** SC check — by Day 10–11, check if bigger articles (matcha latte 27,100/mo, brown sugar 27,100/mo, espresso martini 246,000/mo, dirty chai 9,900/mo, iced coffee 9,900/mo) are gaining impressions. Consider title/meta optimization for pages with impressions stuck at pos 50+.
-3. **Pulse 21:** If pages start getting clicks, double down on that topic cluster. Review internal link coverage for new articles — check which articles have fewer than 3 inbound links and add targeted links.
+1. **Pulse 20:** Research "bulletproof coffee recipe" (3,600/mo, LOW 10/100) — could combine with "butter coffee recipe" (720/mo, 4/100) for ~4,320/mo. Also look at "shaken espresso recipe" (2,400/mo?), "hazelnut latte recipe" revisit, or "rose latte" / "pistachio rose" expansions. SC check — watch for iced matcha, espresso martini, matcha latte, brown sugar shaken espresso impressions finally appearing (they were indexed weeks ago). By Day 9–10 they should show first SC signals.
+2. **Pulse 21:** SC check — ristretto pos 36 and macchiato pos 55 are our best-positioned pages. If ristretto reaches pos 20–25, consider optimizing title/meta for CTR improvement. Check mocha-recipe trajectory (NEW this pulse at pos 70). Review internal link coverage — which new articles (iced matcha, pistachio, dalgona, iced coffee) need more inbound links.
+3. **Pulse 22:** If any page shows impressions trending to pos 30–40 range, prioritize on-page optimization (title, headers, internal links from authority pages). Consider whether a hub page strategy (e.g. "All Coffee Recipes" landing page) could consolidate topical authority for the recipes cluster.
 
 ---
-*Last updated: 2026-04-10 (Pulse 18)*
+*Last updated: 2026-04-11 (Pulse 19)*
 
