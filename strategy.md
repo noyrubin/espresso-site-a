@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 8 (Pulse 19) — 43 articles published. SC: mocha-recipe NEW (6 imp, pos 70.3), cold-brew 7 imp pos 69.3 (volume up), flat-white 4 imp pos 75.25 (volume up from 1), macchiato 8 imp pos 55.25 (stable), ristretto 8 imp pos 36.375 (stable). GA4 Apr 11 = 5 sessions so far (partial day). Pulse 19: wrote iced matcha latte (14,800 + 4,400 = ~19,200/mo combined, LOW 9/100) + pistachio latte (1,600/mo, LOW 7/100) = ~20,800/mo added this pulse.
+Day 9 (Pulse 20) — 45 articles published. SC highlights: mocha-recipe 15 imp pos 70.3 (up from 6!), flat-white 12 imp pos 74.9 (up from 4!), turmeric-latte NEW (5 imp pos 69), ristretto pos 36.375 (stable, best content page), macchiato pos 55.25 (stable), homepage 10 imp pos 5.9 + 1 click (10% CTR). GA4 Apr 12 = 2 sessions partial day. Pulse 20: wrote chai latte recipe (9,900/mo, LOW 22/100) + strawberry matcha latte (8,100/mo, LOW 25/100) = ~18,000/mo added this pulse.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -60,6 +60,8 @@ Day 8 (Pulse 19) — 43 articles published. SC: mocha-recipe NEW (6 imp, pos 70.
 | how to make iced coffee | 9,900 | LOW (26/100) | /guides/how-to-make-iced-coffee/ | Published + FAQ (Pulse 18) — also captures "iced coffee vs iced latte" (1,900/mo, 0/100) = ~11,800/mo combined |
 | iced matcha latte | 14,800 | LOW (9/100) | /recipes/iced-matcha-latte-recipe/ | Published + FAQ (Pulse 19) — also captures "iced matcha latte recipe" (4,400/mo, 13/100) = ~19,200/mo combined |
 | pistachio latte recipe | 1,600 | LOW (7/100) | /recipes/pistachio-latte-recipe/ | Published + FAQ (Pulse 19) |
+| chai latte recipe | 9,900 | LOW (22/100) | /recipes/chai-latte-recipe/ | Published + FAQ (Pulse 20) |
+| strawberry matcha latte | 8,100 | LOW (25/100) | /recipes/strawberry-matcha-latte-recipe/ | Published + FAQ (Pulse 20) |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -97,6 +99,10 @@ Day 8 (Pulse 19) — 43 articles published. SC: mocha-recipe NEW (6 imp, pos 70.
 - "affogato recipe" (6,600/mo, LOW 3/100) — DONE Pulse 17
 - "dalgona coffee recipe" (4,400/mo, LOW 10/100) — DONE Pulse 18. Also captures "whipped coffee recipe" (4,400/mo).
 - "how to make iced coffee" (9,900/mo, LOW 26/100) — DONE Pulse 18. Also captures "iced coffee vs iced latte" (1,900/mo, 0/100).
+- "chai latte recipe" (9,900/mo, LOW 22/100) — DONE Pulse 20.
+- "strawberry matcha latte" (8,100/mo, LOW 25/100) — DONE Pulse 20.
+- "bulletproof coffee recipe" (3,600/mo, LOW 10/100) — queued for Pulse 21. Also captures "butter coffee recipe" (720/mo, 4/100).
+- "shaken espresso recipe" (1,900/mo, LOW 13/100) — partially covered by brown sugar shaken espresso. Evaluate Pulse 22.
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
 - "aeropress espresso" (2,400/mo, HIGH 91/100) — skip, too competitive
 - "hazelnut latte recipe" (140/mo, LOW 1/100) — too small, skip
@@ -150,6 +156,8 @@ Day 8 (Pulse 19) — 43 articles published. SC: mocha-recipe NEW (6 imp, pos 70.
 41. /guides/how-to-make-iced-coffee/ (NEW pulse 18, + FAQ) — 9,900/mo LOW (26/100), also captures "iced coffee vs iced latte" (1,900/mo, 0/100) = ~11,800/mo combined
 42. /recipes/iced-matcha-latte-recipe/ (NEW pulse 19, + FAQ) — 14,800/mo LOW (9/100), also captures "iced matcha latte recipe" (4,400/mo, 13/100) = ~19,200/mo combined
 43. /recipes/pistachio-latte-recipe/ (NEW pulse 19, + FAQ) — 1,600/mo LOW (7/100)
+44. /recipes/chai-latte-recipe/ (NEW pulse 20, + FAQ) — 9,900/mo LOW (22/100), also targets "how to make chai latte", "homemade chai latte", "chai latte from scratch"
+45. /recipes/strawberry-matcha-latte-recipe/ (NEW pulse 20, + FAQ) — 8,100/mo LOW (25/100), also targets "strawberry matcha", "strawberry matcha latte recipe"
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -194,10 +202,10 @@ Day 8 (Pulse 19) — 43 articles published. SC: mocha-recipe NEW (6 imp, pos 70.
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 20:** Research "bulletproof coffee recipe" (3,600/mo, LOW 10/100) — could combine with "butter coffee recipe" (720/mo, 4/100) for ~4,320/mo. Also look at "shaken espresso recipe" (2,400/mo?), "hazelnut latte recipe" revisit, or "rose latte" / "pistachio rose" expansions. SC check — watch for iced matcha, espresso martini, matcha latte, brown sugar shaken espresso impressions finally appearing (they were indexed weeks ago). By Day 9–10 they should show first SC signals.
-2. **Pulse 21:** SC check — ristretto pos 36 and macchiato pos 55 are our best-positioned pages. If ristretto reaches pos 20–25, consider optimizing title/meta for CTR improvement. Check mocha-recipe trajectory (NEW this pulse at pos 70). Review internal link coverage — which new articles (iced matcha, pistachio, dalgona, iced coffee) need more inbound links.
-3. **Pulse 22:** If any page shows impressions trending to pos 30–40 range, prioritize on-page optimization (title, headers, internal links from authority pages). Consider whether a hub page strategy (e.g. "All Coffee Recipes" landing page) could consolidate topical authority for the recipes cluster.
+1. **Pulse 21:** Write "bulletproof coffee recipe" (3,600/mo, LOW 10/100) + capture "butter coffee recipe" (720/mo). Research any other untapped high-volume/low-competition keywords. SC check — watch for chai latte, strawberry matcha, iced matcha, espresso martini appearing (chai/strawberry matcha just published). Ristretto at pos 36 — if improving, consider title optimization.
+2. **Pulse 22:** SC check — if ristretto (pos 36) reaches pos 25–30, optimize title tag and H1 for better CTR. Review internal links: chai latte + strawberry matcha need inbound links from existing pages. Consider hub page for recipes (/recipes/ or category page) to consolidate topical authority.
+3. **Pulse 23:** Evaluate whether any page has hit pos 15–20 range — those become priority for targeted on-page optimization (title, H1 + FAQ enrichment). Also look at whether "shaken espresso recipe" (1,900/mo) deserves its own page, or whether the brown sugar shaken espresso captures it sufficiently.
 
 ---
-*Last updated: 2026-04-11 (Pulse 19)*
+*Last updated: 2026-04-12 (Pulse 20)*
 
