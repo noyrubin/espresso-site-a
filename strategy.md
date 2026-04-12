@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 9 (Pulse 20) — 45 articles published. SC highlights: mocha-recipe 15 imp pos 70.3 (up from 6!), flat-white 12 imp pos 74.9 (up from 4!), turmeric-latte NEW (5 imp pos 69), ristretto pos 36.375 (stable, best content page), macchiato pos 55.25 (stable), homepage 10 imp pos 5.9 + 1 click (10% CTR). GA4 Apr 12 = 2 sessions partial day. Pulse 20: wrote chai latte recipe (9,900/mo, LOW 22/100) + strawberry matcha latte (8,100/mo, LOW 25/100) = ~18,000/mo added this pulse.
+Day 9 (Pulse 21) — 47 articles published. SC highlights: flat-white 19 imp pos 76.9 (up from 12!), mocha 16 imp pos 70.3 (stable), turmeric 6 imp pos 73.5 (up from 5), ristretto pos 36.375 (stable, best), macchiato pos 55.25 (stable), homepage 10 imp pos 5.9 + 1 click. GA4: Apr 12 = 2 sessions. Pulse 21: wrote bulletproof coffee recipe (3,600/mo, LOW 10/100) + butter coffee coverage (~4,320/mo combined) + London Fog latte recipe (590/mo, LOW 23/100). DataForSEO spend: /usr/bin/bash.075.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -61,6 +61,8 @@ Day 9 (Pulse 20) — 45 articles published. SC highlights: mocha-recipe 15 imp p
 | iced matcha latte | 14,800 | LOW (9/100) | /recipes/iced-matcha-latte-recipe/ | Published + FAQ (Pulse 19) — also captures "iced matcha latte recipe" (4,400/mo, 13/100) = ~19,200/mo combined |
 | pistachio latte recipe | 1,600 | LOW (7/100) | /recipes/pistachio-latte-recipe/ | Published + FAQ (Pulse 19) |
 | chai latte recipe | 9,900 | LOW (22/100) | /recipes/chai-latte-recipe/ | Published + FAQ (Pulse 20) |
+| bulletproof coffee recipe | 3,600 | LOW (10/100) | /recipes/bulletproof-coffee-recipe/ | Published + FAQ (Pulse 21) — also targets butter coffee (720/mo) |
+| london fog latte recipe | 590 | LOW (23/100) | /recipes/london-fog-latte-recipe/ | Published + FAQ (Pulse 21) |
 | strawberry matcha latte | 8,100 | LOW (25/100) | /recipes/strawberry-matcha-latte-recipe/ | Published + FAQ (Pulse 20) |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
@@ -101,7 +103,7 @@ Day 9 (Pulse 20) — 45 articles published. SC highlights: mocha-recipe 15 imp p
 - "how to make iced coffee" (9,900/mo, LOW 26/100) — DONE Pulse 18. Also captures "iced coffee vs iced latte" (1,900/mo, 0/100).
 - "chai latte recipe" (9,900/mo, LOW 22/100) — DONE Pulse 20.
 - "strawberry matcha latte" (8,100/mo, LOW 25/100) — DONE Pulse 20.
-- "bulletproof coffee recipe" (3,600/mo, LOW 10/100) — queued for Pulse 21. Also captures "butter coffee recipe" (720/mo, 4/100).
+- [DONE Pulse 21] "bulletproof coffee recipe" (3,600/mo, LOW 10/100) — published, also captures "butter coffee recipe" (720/mo).
 - "shaken espresso recipe" (1,900/mo, LOW 13/100) — partially covered by brown sugar shaken espresso. Evaluate Pulse 22.
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
 - "aeropress espresso" (2,400/mo, HIGH 91/100) — skip, too competitive
@@ -158,6 +160,8 @@ Day 9 (Pulse 20) — 45 articles published. SC highlights: mocha-recipe 15 imp p
 43. /recipes/pistachio-latte-recipe/ (NEW pulse 19, + FAQ) — 1,600/mo LOW (7/100)
 44. /recipes/chai-latte-recipe/ (NEW pulse 20, + FAQ) — 9,900/mo LOW (22/100), also targets "how to make chai latte", "homemade chai latte", "chai latte from scratch"
 45. /recipes/strawberry-matcha-latte-recipe/ (NEW pulse 20, + FAQ) — 8,100/mo LOW (25/100), also targets "strawberry matcha", "strawberry matcha latte recipe"
+46. /recipes/bulletproof-coffee-recipe/ (NEW pulse 21, + FAQ) — 3,600/mo LOW (10/100), also targets "butter coffee recipe" (720/mo, LOW 4/100) = ~4,320/mo combined
+47. /recipes/london-fog-latte-recipe/ (NEW pulse 21, + FAQ) — 590/mo LOW (23/100)
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -207,5 +211,5 @@ Day 9 (Pulse 20) — 45 articles published. SC highlights: mocha-recipe 15 imp p
 3. **Pulse 23:** Evaluate whether any page has hit pos 15–20 range — those become priority for targeted on-page optimization (title, H1 + FAQ enrichment). Also look at whether "shaken espresso recipe" (1,900/mo) deserves its own page, or whether the brown sugar shaken espresso captures it sufficiently.
 
 ---
-*Last updated: 2026-04-12 (Pulse 20)*
+*Last updated: 2026-04-12 (Pulse 21)*
 
