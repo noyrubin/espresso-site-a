@@ -200,4 +200,4 @@ A: You can, but use very strong brewed coffee (about 2 oz of cold brew concentra
 
 ---
 
-*Love espresso-based drinks? Explore our [pumpkin spice latte recipe](/recipes/pumpkin-spice-latte-recipe/), try our [vanilla latte recipe](/recipes/vanilla-latte-recipe/), or browse our [classic espresso drinks guide](/recipes/classic-espresso-drinks/) for more café-style recipes made easy at home.*
+*Love espresso-based drinks? Explore our [chai latte recipe](/recipes/chai-latte-recipe/), try our [vanilla latte recipe](/recipes/vanilla-latte-recipe/), or browse our [classic espresso drinks guide](/recipes/classic-espresso-drinks/) for more café-style recipes made easy at home.*
