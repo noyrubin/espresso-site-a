@@ -139,4 +139,4 @@ For the best result, make it yourself — the 10-minute syrup recipe above is ge
 
 ---
 
-*Want more specialty latte recipes? Try the [turmeric latte recipe](/recipes/turmeric-latte-recipe/), [pumpkin spice latte recipe](/recipes/pumpkin-spice-latte-recipe/), [matcha latte recipe](/recipes/matcha-latte-recipe/), or [iced latte recipe](/recipes/iced-latte-recipe/) next.*
+*Want more specialty latte recipes? Try the [turmeric latte recipe](/recipes/turmeric-latte-recipe/), [pumpkin spice latte recipe](/recipes/pumpkin-spice-latte-recipe/), [matcha latte recipe](/recipes/matcha-latte-recipe/), [London Fog latte](/recipes/london-fog-latte-recipe/), or [iced latte recipe](/recipes/iced-latte-recipe/) next.*

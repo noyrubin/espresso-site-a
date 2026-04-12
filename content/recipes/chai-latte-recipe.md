@@ -244,4 +244,4 @@ Yes — steep 2 spiced chai tea bags in hot water for 4–5 minutes, then add st
 
 ---
 
-*Explore more latte recipes: [dirty chai latte](/recipes/dirty-chai-latte-recipe/) | [vanilla latte](/recipes/vanilla-latte-recipe/) | [lavender latte](/recipes/lavender-latte-recipe/) | [matcha latte](/recipes/matcha-latte-recipe/)*
+*Explore more latte recipes: [dirty chai latte](/recipes/dirty-chai-latte-recipe/) | [vanilla latte](/recipes/vanilla-latte-recipe/) | [lavender latte](/recipes/lavender-latte-recipe/) | [matcha latte](/recipes/matcha-latte-recipe/) | [London Fog latte](/recipes/london-fog-latte-recipe/)*
