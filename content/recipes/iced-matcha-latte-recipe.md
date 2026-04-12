@@ -219,3 +219,7 @@ A: Most likely causes: water was too hot (boiling scorches matcha), too much mat
 A: Matcha itself is high in antioxidants (particularly EGCG), L-theanine, and chlorophyll. A basic iced matcha latte with milk and 1 tsp simple syrup has roughly 80–130 calories depending on milk type. It's substantially lower calorie than most café drinks. The health story is strong — as long as you're not drowning it in sweetener.
 
 {{< /faq >}}
+
+---
+
+*More matcha and iced drink ideas: try the layered [strawberry matcha latte](/recipes/strawberry-matcha-latte-recipe/) (a stunning visual drink with a strawberry base), the classic [matcha latte recipe](/recipes/matcha-latte-recipe/) for the hot version, or our [iced latte recipe](/recipes/iced-latte-recipe/) if you prefer espresso as your base.*

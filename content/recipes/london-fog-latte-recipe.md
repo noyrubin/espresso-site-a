@@ -150,3 +150,7 @@ A: Whole milk gives the richest, creamiest texture and the best foam. For dairy-
 
 A: Starbucks popularized the London Fog to a wider US audience, but they didn't invent it. The drink originated in Vancouver, Canada, in the 1990s. Starbucks added it to their menu as the "London Fog Tea Latte." The homemade version is easily as good (and usually better with quality tea and a proper steep time).
 {{< /faq >}}
+
+---
+
+*Enjoy tea lattes? Try our [chai latte recipe](/recipes/chai-latte-recipe/) (the spiced Indian classic, also Starbucks-copycat friendly) or the [dirty chai latte](/recipes/dirty-chai-latte-recipe/) if you want espresso in your chai.*
