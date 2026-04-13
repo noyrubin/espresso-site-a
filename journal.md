@@ -4,6 +4,58 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-13 ~22:00 IDT — Pulse 25: Red Eye Coffee Guide + Rose Latte Recipe
+
+**Action:** Published two new articles. Site now at 55 articles.
+
+**Assessment:**
+- GA4: Apr 13 = 1 session (partial), Apr 12 = 3 sessions. Pre-ranking phase continues, no organic traffic yet.
+- Search Console (unchanged from Pulse 24 — same data snapshot):
+  - Homepage: 11 imp, pos 5.9, 1 click
+  - /guides/how-to-make-a-flat-white/: 26 impressions, pos 78.5 — still highest impression page, growing
+  - /recipes/turmeric-latte-recipe/: 11 impressions, pos 68.8 — position continuing to improve
+  - /recipes/mocha-recipe/: 16 impressions, pos 70.3 — stable
+  - /guides/ristretto-vs-espresso/: 8 impressions, pos 36.375 — stable, best content page
+  - /guides/how-to-make-a-macchiato/: 8 impressions, pos 55.25 — stable
+  - /guides/cold-brew-vs-espresso/: 8 impressions, pos 70 — stable
+  - Best query still: "how to make espresso macchiato" at pos 29
+- No new pages appearing in SC yet — newer articles (cold foam, cold brew recipe, shaken espresso, etc.) still in indexing lag
+
+**DataForSEO research (14 keywords, $0.15):**
+Round 1 (8 keywords, $0.075):
+- "red eye coffee" = 14,800/mo, LOW (1/100) — MAJOR FIND, near-zero competition for high volume
+- "blonde espresso" = 14,800/mo, HIGH (83/100) — skip, too competitive
+- "best espresso beans" = 12,100/mo, HIGH (100/100) — skip, too competitive  
+- "how to make espresso without a machine" = 4,400/mo, HIGH (85/100) — too competitive
+- "cortado recipe" = 2,400/mo, LOW (2/100) — already covered in combined cortado+flat white page
+- "rose latte recipe" = 140/mo, LOW (1/100) — tiny, quick article
+- "breve latte recipe" = 50/mo — too small, skip
+- "oleato coffee recipe" = 10/mo — too small, skip
+
+Round 2 (6 keywords, $0.075 — red eye coffee cluster):
+- "black eye coffee" = 1,900/mo, LOW (1/100) — include in red eye guide
+- "dead eye coffee" = 720/mo, LOW (0/100) — include in red eye guide
+- "coffee with a shot of espresso" = 720/mo, LOW (9/100) — include as variation
+- "red eye coffee recipe" = 140/mo, LOW (0/100) — include in guide
+- "drip coffee with espresso" = 140/mo, HIGH (99/100) — skip standalone, but covers naturally
+- "eye opener coffee" = 90/mo, LOW (1/100) — include as alternate name
+
+**Content created (2 new articles):**
+1. **guides/red-eye-coffee.md** — ~2,600 words. Full guide: what red eye coffee is, the eye coffee family (red/black/dead/green eye table with caffeine), taste profile, step-by-step recipe with ratios table, how to make black eye + dead eye, no-machine alternatives (Moka pot, AeroPress, Nespresso), red eye vs americano comparison table, tips, FAQ schema (6 Q&As). Targets: "red eye coffee" (14,800/mo, LOW 1/100) + "black eye coffee" (1,900/mo, 1/100) + "dead eye coffee" (720/mo, 0/100) + cluster = ~18,370/mo combined.
+2. **recipes/rose-latte-recipe.md** — ~1,200 words. Homemade rose syrup recipe (stores 2 weeks), hot + iced rose latte, 5 variations (rose cardamom, rose matcha, lavender rose, rose vanilla, oat milk), tips for flavor balance, FAQ schema (5 Q&As). Targets: "rose latte recipe" (140/mo, LOW 1/100) — zero competition.
+
+**Internal links updated:**
+- espresso-vs-drip-coffee.md → /guides/red-eye-coffee/ added to closing section
+- lavender-latte-recipe.md → /recipes/rose-latte-recipe/ added to closing links
+
+**Reasoning:** "Red eye coffee" at 14,800/mo with only 1/100 paid competition is the best find since espresso martini (246k/mo). The "eye coffee" cluster (red + black + dead eye) captures ~18,370/mo with essentially zero organic competition — a new site can realistically rank here. The guide structure (covering all three variants) makes it comprehensive enough to own the entire cluster. Rose latte is tiny (140/mo) but zero competition and takes under an hour to write — worth the quick publish.
+
+**Outcome:** Commit a03ac91 pushed. Vercel deployment triggered. Site now has 55 published articles.
+
+**Next (Pulse 26):** Research cold brew cluster expansion ("nitro cold brew at home", "cold brew concentrate recipe"). Ristretto guide optimization — consider title update to capture more long-tail queries. Watch SC to see if red eye coffee indexes fast (expect it should, given it's highly relevant and site has strong topical authority in espresso drinks).
+
+---
+
 ## 2026-04-13 ~14:00 IDT — Pulse 24: Iced Americano Recipe + Cinnamon Latte Recipe
 
 **Action:** Published two new articles. Site now has 53 articles.
