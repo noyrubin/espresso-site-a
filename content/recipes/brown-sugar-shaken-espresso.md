@@ -154,6 +154,6 @@ The key is strong, concentrated coffee. Here are your best options:
 
 ---
 
-*This drink pairs well with our [iced latte recipe](/recipes/iced-latte-recipe/) and [cortado and flat white recipes](/recipes/cortado-and-flat-white-recipe/) if you want more iced espresso options. For an espresso-based cocktail, try the [espresso martini recipe](/recipes/espresso-martini-recipe/).*
+*This drink pairs well with our [iced latte recipe](/recipes/iced-latte-recipe/) and [cortado and flat white recipes](/recipes/cortado-and-flat-white-recipe/) if you want more iced espresso options. For other shaken espresso variations (vanilla, hazelnut, caramel), see the [shaken espresso recipe guide](/recipes/shaken-espresso-recipe/). For an espresso-based cocktail, try the [espresso martini recipe](/recipes/espresso-martini-recipe/).*
 
 *If you're new to espresso at home, check out our [getting started guide](/guides/getting-started/) for equipment recommendations that work great for drinks like this.*

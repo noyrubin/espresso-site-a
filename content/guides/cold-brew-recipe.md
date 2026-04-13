@@ -150,7 +150,7 @@ Dilute concentrate 1:1 with cold milk (whole milk, oat milk, almond milk — all
 
 ### Vanilla Sweet Cream Cold Brew
 
-Dilute concentrate with water as usual. Top with vanilla sweet cream cold foam instead of regular milk. See our [cold foam guide](/guides/how-to-make-cold-foam/) for the recipe — it takes 2 minutes and transforms a cold brew into a Starbucks-worthy drink.
+Dilute concentrate with water as usual. Top with homemade vanilla sweet cream — heavy cream, milk, and vanilla syrup mixed together and poured over. See our full [vanilla sweet cream cold brew recipe](/recipes/vanilla-sweet-cream-cold-brew/) for the exact ratios, Starbucks copycat tips, and variations.
 
 ### Cold Brew Tonic
 
