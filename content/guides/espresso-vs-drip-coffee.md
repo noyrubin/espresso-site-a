@@ -153,4 +153,4 @@ A Bialetti moka pot runs $20–$40. It's a popular choice for espresso-style cof
 
 ---
 
-*New to espresso? Start with the [beginner's guide to home espresso](/guides/getting-started/) or compare [espresso beans vs. coffee beans](/guides/espresso-beans-vs-coffee-beans/). Also see: [pour over vs espresso](/guides/pour-over-vs-espresso/) and [cold brew vs espresso](/guides/cold-brew-vs-espresso/) for more brewing method comparisons.*
+*New to espresso? Start with the [beginner's guide to home espresso](/guides/getting-started/) or compare [espresso beans vs. coffee beans](/guides/espresso-beans-vs-coffee-beans/). Also see: [pour over vs espresso](/guides/pour-over-vs-espresso/) and [cold brew vs espresso](/guides/cold-brew-vs-espresso/) for more brewing method comparisons. Interested in combining both worlds? Read about [red eye coffee](/guides/red-eye-coffee/) — drip coffee with an espresso shot added.*
