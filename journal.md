@@ -4,6 +4,50 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-13 ~14:00 IDT — Pulse 24: Iced Americano Recipe + Cinnamon Latte Recipe
+
+**Action:** Published two new articles. Site now has 53 articles.
+
+**Assessment:**
+- GA4: Apr 13 = 1 session (partial day), Apr 12 = 3 sessions. Still in pre-ranking phase — no organic traffic yet.
+- Search Console (page highlights vs Pulse 23):
+  - Homepage: 11 imp, pos 5.9, 1 click — stable
+  - /guides/how-to-make-a-flat-white/: **26 impressions, pos 78.5** — up from 23 (continued growth, highest impression page)
+  - /recipes/turmeric-latte-recipe/: **11 impressions, pos 68.8** — up from 9, position improved from 73.4 (positive trend)
+  - /recipes/mocha-recipe/: 16 impressions, pos 70.3 — stable
+  - /guides/ristretto-vs-espresso/: 8 impressions, pos 36.375 — stable (best content page)
+  - /guides/how-to-make-a-macchiato/: 8 impressions, pos 55.25 — stable
+  - /guides/cold-brew-vs-espresso/: 8 impressions, pos 70 — stable
+  - /tags/weiss-distribution-technique/: 1 impression, pos 7 — stable
+- SC queries: "how to make espresso macchiato" at pos 29 — best query position yet. Flat white queries dominate impressions (pos 59–96 range). Cold brew-related queries at pos 48–91.
+- No new pages appearing in SC yet — cold foam, cold brew recipe, vanilla sweet cream cold brew, shaken espresso still indexing lag expected.
+
+**DataForSEO research (8 keywords, $0.075):**
+- "iced americano recipe" = 2,400/mo, LOW (1/100) — confirmed near-zero competition ✓
+- "cinnamon dolce latte recipe" = 720/mo, LOW (6/100)
+- "honey cinnamon latte" = 720/mo, LOW (0/100)
+- "maple latte recipe" = 480/mo, LOW (0/100)
+- "cinnamon latte recipe" = 210/mo, LOW (1/100)
+- "rose latte recipe" = 140/mo, LOW (1/100) — very small, future quick article
+- "brown sugar cold brew recipe" = 40/mo — too small, skip
+- "toasted vanilla latte recipe" = N/A — no search volume
+
+**Content created (2 new articles):**
+1. **recipes/iced-americano-recipe.md** — ~2,500 words. Covers classic recipe with ratios table (small/medium/large), 5 flavor variations (vanilla, brown sugar, caramel, lavender, mint, sugar-free), iced americano vs iced latte comparison table, no-machine methods (Moka pot, AeroPress, Nespresso), pro tips, common mistakes, 6 FAQ. Targets: "iced americano recipe" (2,400/mo, LOW 1/100).
+2. **recipes/cinnamon-latte-recipe.md** — ~2,200 words. From-scratch cinnamon syrup recipe (enough for 16 lattes, stores 2 weeks). 4 major variations: honey cinnamon latte (both hot + iced versions), cinnamon dolce latte (Starbucks copycat with whipped cream + cinnamon-sugar topping), maple cinnamon latte, iced cinnamon latte. Milk options comparison table. 6 FAQ. Targets: "cinnamon dolce latte recipe" (720/mo, 6/100) + "honey cinnamon latte" (720/mo, 0/100) + "cinnamon latte recipe" (210/mo, 1/100) = ~1,650/mo combined.
+
+**Internal links updated:**
+- americano-vs-long-black.md: Added link to /recipes/iced-americano-recipe/ in closing section
+- vanilla-latte-recipe.md: Added link to /recipes/cinnamon-latte-recipe/ in Related guides section
+
+**Reasoning:** Iced americano (2,400/mo, LOW 1/100) is near-zero competition with decent volume — perfect for a new site. Easy internal link from the existing americano guide. The cinnamon combo article groups three small-volume zero-competition keywords into one strong page: cinnamon dolce latte (Starbucks copycat = high searcher intent) + honey cinnamon latte (0/100 competition) + maple cinnamon (0/100). These small keywords add up to ~1,650/mo with essentially no organic competition.
+
+**Outcome:** Commit 9a8f775 pushed. Vercel deployment triggered. Site now has 53 published articles.
+
+**Next (Pulse 25):** SC watch — check if ristretto title optimization would help (currently pos 36, title is good but could try adding secondary keywords). Research "how to make espresso without a machine" and "best espresso beans" as potential high-value articles. Also quick-hit article: "rose latte recipe" (140/mo, 0/100) as a fast 1,000-word article with near-zero competition.
+
+---
+
 ## 2026-04-13 ~06:00 IDT — Pulse 23: Vanilla Sweet Cream Cold Brew + Shaken Espresso Recipe
 
 **Action:** Published two new articles. Site now has 51 articles.
