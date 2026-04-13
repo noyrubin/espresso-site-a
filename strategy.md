@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 9 (Pulse 22) — 49 articles published. SC highlights: flat-white 20 imp pos 77.4 (continuing growth), turmeric 9 imp pos 73.4 (up 50%!), mocha 16 imp pos 70.3 (stable), ristretto pos 36.375 (stable, best content page), macchiato pos 55.25 (stable), homepage 11 imp pos 5.9 + 1 click. GA4: Apr 12 = 2 sessions. Pulse 22: BIGGEST KEYWORD PULSE — wrote cold foam guide (33,100+12,100/mo = ~45,200/mo) + cold brew recipe (18,100/mo). DataForSEO spend: $0.15.
+Day 10 (Pulse 23) — 51 articles published. SC highlights: flat-white 23 imp pos 78.1 (growing, highest impression page), mocha 16 imp pos 70.3 (stable), turmeric 9 imp pos 73.4 (stable), ristretto pos 36.375 (stable, best content page), macchiato pos 55.25 (stable), homepage 11 imp pos 5.9 + 1 click. GA4: Apr 13 = 1 session (partial), Apr 12 = 3 sessions. Pulse 23: wrote vanilla sweet cream cold brew (14,800/mo, LOW 16/100) as dedicated page + shaken espresso recipe (7,300/mo combined). DataForSEO spend: $0.075.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -65,7 +65,9 @@ Day 9 (Pulse 22) — 49 articles published. SC highlights: flat-white 20 imp pos
 | london fog latte recipe | 590 | LOW (23/100) | /recipes/london-fog-latte-recipe/ | Published + FAQ (Pulse 21) |
 | strawberry matcha latte | 8,100 | LOW (25/100) | /recipes/strawberry-matcha-latte-recipe/ | Published + FAQ (Pulse 20) |
 | how to make cold foam | 33,100 | LOW (8/100) | /guides/how-to-make-cold-foam/ | Published + FAQ (Pulse 22) — also targets "cold foam recipe" (12,100/mo, LOW 4/100) = ~45,200/mo combined |
-| cold brew recipe | 18,100 | LOW (23/100) | /guides/cold-brew-recipe/ | Published + FAQ (Pulse 22) — also targets "vanilla sweet cream cold brew" (14,800/mo, LOW 16/100) as variation |
+| cold brew recipe | 18,100 | LOW (23/100) | /guides/cold-brew-recipe/ | Published + FAQ (Pulse 22) |
+| vanilla sweet cream cold brew | 14,800 | LOW (16/100) | /recipes/vanilla-sweet-cream-cold-brew/ | Published + FAQ (Pulse 23) — Starbucks copycat, dedicated page |
+| shaken espresso recipe | 1,900 | LOW (13/100) | /recipes/shaken-espresso-recipe/ | Published + FAQ (Pulse 23) — also targets "iced shaken espresso" (5,400/mo, LOW 7/100) = ~7,300/mo combined |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -108,7 +110,8 @@ Day 9 (Pulse 22) — 49 articles published. SC highlights: flat-white 20 imp pos
 - [DONE Pulse 21] "bulletproof coffee recipe" (3,600/mo, LOW 10/100) — published, also captures "butter coffee recipe" (720/mo).
 - [DONE Pulse 22] "how to make cold foam" (33,100/mo, LOW 8/100) — published, also captures "cold foam recipe" (12,100/mo) = ~45,200/mo combined. BIGGEST PULSE FIND.
 - [DONE Pulse 22] "cold brew recipe" (18,100/mo, LOW 23/100) — published, covers vanilla sweet cream cold brew (14,800/mo) as variation.
-- "shaken espresso recipe" (1,900/mo, LOW 13/100) + "iced shaken espresso" (5,400/mo, LOW 7/100) — standalone article ~7,300/mo combined. Evaluate Pulse 23.
+- [DONE Pulse 23] "shaken espresso recipe" (1,900/mo, LOW 13/100) + "iced shaken espresso" (5,400/mo, LOW 7/100) — published ~7,300/mo combined.
+- [DONE Pulse 23] "vanilla sweet cream cold brew" (14,800/mo, LOW 16/100) — dedicated page published (was just a variation before).
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
 - "aeropress espresso" (2,400/mo, HIGH 91/100) — skip, too competitive
 - "hazelnut latte recipe" (140/mo, LOW 1/100) — too small, skip
@@ -167,7 +170,9 @@ Day 9 (Pulse 22) — 49 articles published. SC highlights: flat-white 20 imp pos
 46. /recipes/bulletproof-coffee-recipe/ (NEW pulse 21, + FAQ) — 3,600/mo LOW (10/100), also targets "butter coffee recipe" (720/mo, LOW 4/100) = ~4,320/mo combined
 47. /recipes/london-fog-latte-recipe/ (NEW pulse 21, + FAQ) — 590/mo LOW (23/100)
 48. /guides/how-to-make-cold-foam/ (NEW pulse 22, + FAQ) — 33,100/mo LOW (8/100), also targets "cold foam recipe" (12,100/mo, LOW 4/100) = ~45,200/mo combined
-49. /guides/cold-brew-recipe/ (NEW pulse 22, + FAQ) — 18,100/mo LOW (23/100), also targets "vanilla sweet cream cold brew" (14,800/mo, LOW 16/100) as variation
+49. /guides/cold-brew-recipe/ (NEW pulse 22, + FAQ) — 18,100/mo LOW (23/100)
+50. /recipes/vanilla-sweet-cream-cold-brew/ (NEW pulse 23, + FAQ) — 14,800/mo LOW (16/100), Starbucks copycat dedicated page
+51. /recipes/shaken-espresso-recipe/ (NEW pulse 23, + FAQ) — 7,300/mo combined: "shaken espresso recipe" (1,900/mo, LOW 13/100) + "iced shaken espresso" (5,400/mo, LOW 7/100)
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -212,10 +217,10 @@ Day 9 (Pulse 22) — 49 articles published. SC highlights: flat-white 20 imp pos
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 23:** Write "shaken espresso recipe" standalone (1,900/mo + "iced shaken espresso" 5,400/mo = ~7,300/mo combined). Research "vanilla sweet cream cold brew" dedicated page potential (14,800/mo). Also research "cold brew protein shake", "cold brew latte", "overnight oats with cold brew" for any untapped clusters. SC watch: ristretto still at pos 36 — now a good candidate for title/H1 optimization to improve CTR. Check if cold foam/cold brew articles indexed quickly.
-2. **Pulse 24:** SC check — if any page has reached pos 15–25, prioritize on-page optimization (title, H1, FAQ enrichment). Continue new content. Consider "vanilla sweet cream cold brew" (14,800/mo, LOW 16/100) dedicated page if not already captured sufficiently. "cinnamon dolce latte recipe" (720/mo, LOW 6/100) + "honey cinnamon latte" (720/mo, LOW 0/100) could be combined into one page.
-3. **Pulse 25:** Evaluate whether to build a hub/index page for recipes (/recipes/ landing page with overview) to consolidate topical authority. Check if any commercial keyword pages (reviews) are worth adding given site authority growth.
+1. **Pulse 24:** Research "iced americano recipe" (2,400/mo, LOW 1/100) — near-zero competition, we have the americano-vs-long-black guide already so internal links are easy. Also look at "cinnamon dolce latte recipe" (720/mo, LOW 6/100) + "honey cinnamon latte" (720/mo, LOW 0/100) — could combine into a "cinnamon latte" page (~1,440/mo). Check SC for new content pages appearing (vanilla sweet cream cold brew, shaken espresso likely not indexed yet). SC watch: ristretto pos 36 — time to try title/H1 optimization.
+2. **Pulse 25:** Evaluate hub/index page for /recipes/ and /guides/ landing pages to consolidate topical authority. SC check — if any page has reached pos 15–25, prioritize optimization (title, H1, FAQ enrichment). Consider "overnight oats with cold brew" (~500/mo) or other cold brew variations.
+3. **Pulse 26:** Consider "nitro cold brew at home" or "how to make cold brew concentrate" as cold brew cluster expansion. If site shows any pages approaching pos 10, run SERP analysis on competing pages to find content gaps.
 
 ---
-*Last updated: 2026-04-12 (Pulse 22)*
+*Last updated: 2026-04-13 (Pulse 23)*
 

@@ -4,6 +4,48 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-13 ~06:00 IDT — Pulse 23: Vanilla Sweet Cream Cold Brew + Shaken Espresso Recipe
+
+**Action:** Published two new articles. Site now has 51 articles.
+
+**Assessment:**
+- GA4: Apr 13 = 1 session (partial day). Apr 12 = 3 sessions. Pre-ranking phase continues.
+- Search Console (page highlights vs Pulse 22):
+  - Homepage: 11 imp, pos 5.9, 1 click — stable
+  - /guides/how-to-make-a-flat-white/: **23 impressions, pos 78.1** — up from 20 (continued growth, highest impression page)
+  - /recipes/mocha-recipe/: 16 impressions, pos 70.3 — stable
+  - /recipes/turmeric-latte-recipe/: 9 impressions, pos 73.4 — stable
+  - /guides/ristretto-vs-espresso/: 8 impressions, pos 36.375 — stable (best content page)
+  - /guides/how-to-make-a-macchiato/: 8 impressions, pos 55.25 — stable
+  - /guides/cold-brew-vs-espresso/: 8 impressions, pos 70 — stable
+  - /tags/weiss-distribution-technique/: 1 impression, pos 7 — stable
+- SC queries: flat-white queries dominant (how to make a flat white, flat white recipe, etc.), macchiato pos 29–74, cold brew vs espresso pos 48–91. No new pages appearing yet — cold foam and cold brew recipe lag expected.
+
+**DataForSEO research (8 keywords, $0.075):**
+- "iced americano recipe" = 2,400/mo, LOW (1/100) — surprise find, near-zero competition. Evaluate Pulse 24.
+- "vanilla sweet cream cold brew" = 14,800/mo, LOW (16/100) — confirmed standalone page is right call
+- "shaken espresso recipe" = 1,900/mo, LOW (13/100) + "iced shaken espresso" = 5,400/mo, LOW (7/100) = ~7,300/mo confirmed
+- "cinnamon dolce latte recipe" = 720/mo, LOW (6/100) — small but possible combo article
+- "honey cinnamon latte" = 720/mo, LOW (0/100) — zero competition
+- "nitro cold brew recipe" = 70/mo — too small, skip
+- "brown sugar cold brew recipe" = 40/mo — too small, skip
+
+**Content created (2 new articles):**
+1. **recipes/vanilla-sweet-cream-cold-brew.md** — ~2,800 words. Full recipe covering: vanilla simple syrup (5-min recipe), cold brew base, vanilla sweet cream (ratios + texture guide), assembly steps, Starbucks copycat ratios comparison table, 6 variations (brown sugar, salted, hazelnut, chocolate, cinnamon, latte base), 6 pro tips, storage and batch prep guide, nutritional info, FAQ schema (6 Q&As). Targets: "vanilla sweet cream cold brew" (14,800/mo, LOW 16/100) — dedicated page for the Starbucks-style drink.
+2. **recipes/shaken-espresso-recipe.md** — ~2,400 words. Covers the shaking technique (why it works), basic recipe, Starbucks-style brown sugar variant (with links to our dedicated brown sugar shaken espresso page), comparison table vs iced latte, 6 variations, tips for getting it right, machines alternatives (moka pot, AeroPress, Nespresso), FAQ schema (6 Q&As). Targets: "shaken espresso recipe" (1,900/mo, LOW 13/100) + "iced shaken espresso" (5,400/mo, LOW 7/100) = ~7,300/mo combined.
+
+**Internal links updated:**
+- brown-sugar-shaken-espresso.md: Added link to shaken-espresso-recipe.md in closing paragraph
+- cold-brew-recipe.md: Updated vanilla sweet cream cold brew section to link to the new dedicated page
+
+**Reasoning:** Vanilla sweet cream cold brew at 14,800/mo was only covered as a variation in the cold brew recipe — clearly deserves its own dedicated page with full recipe, Starbucks ratios, and variations. The shaken espresso cluster (7,300/mo) fills a gap since we had brown sugar shaken espresso but nothing for the general technique. Both pages have clear Starbucks-copycat angles which attract high-intent searchers.
+
+**Outcome:** Commit 43b7040 pushed. Vercel deployment triggered. Site now has 51 published articles.
+
+**Next (Pulse 24):** Research "iced americano recipe" (2,400/mo, LOW 1/100) — nearly zero competition, easy internal links from existing americano guide. Consider combining "cinnamon dolce latte recipe" (720/mo) + "honey cinnamon latte" (720/mo) = ~1,440/mo. SC watch: ristretto pos 36 — consider title/H1 optimization now. Check if cold foam, cold brew recipe, vanilla sweet cream cold brew, shaken espresso appearing in SC.
+
+---
+
 ## 2026-04-12 ~22:00 IDT — Pulse 22: Cold Foam Guide + Cold Brew Recipe
 
 **Action:** Published two new articles. Site now has 49 articles.
