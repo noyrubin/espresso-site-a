@@ -108,7 +108,7 @@ Getting your shot dialed in is worth the effort. Start with our [espresso grind 
 
 For a deeper dive into how lungo compares to Americano and when you'd choose one over the other, see our [lungo vs americano guide](/guides/lungo-vs-americano/). And if you're curious about the shorter end of the espresso spectrum, the [ristretto vs espresso guide](/guides/ristretto-vs-espresso/) explains how a restricted pull changes the flavor entirely.
 
-Once you have a solid shot, both drinks are simple to make and very satisfying.
+Once you have a solid shot, both drinks are simple to make and very satisfying. If you'd prefer yours cold, see the [iced americano recipe](/recipes/iced-americano-recipe/) — it's one of the simplest iced espresso drinks you can make at home.
 
 ## Frequently Asked Questions
 

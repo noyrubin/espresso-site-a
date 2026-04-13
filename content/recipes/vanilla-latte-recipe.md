@@ -192,3 +192,4 @@ Related guides:
 - [Dirty Chai Latte Recipe](/recipes/dirty-chai-latte-recipe/) — chai spices meet espresso in one cup
 - [Mocha Recipe](/recipes/mocha-recipe/) — classic chocolate espresso drink, hot or iced
 - [Honey Latte Recipe](/recipes/honey-latte-recipe/) — natural sweetness, no syrup required
+- [Cinnamon Latte Recipe](/recipes/cinnamon-latte-recipe/) — honey cinnamon, maple, and cinnamon dolce variations
