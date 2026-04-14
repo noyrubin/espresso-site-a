@@ -175,3 +175,4 @@ Related guides:
 - [Cortado and Flat White Recipe](/recipes/cortado-and-flat-white-recipe/) — step-by-step recipe for both drinks
 - [Flat White vs Latte](/guides/flat-white-vs-latte/) — how these milk drinks compare
 - [How to Steam Milk for Latte Art](/guides/how-to-steam-milk-latte-art/) — get the microfoam right for any milk drink
+- [Gibraltar Coffee](/guides/gibraltar-coffee/) — the cult espresso drink that's essentially a cortado in a rocks glass

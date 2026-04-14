@@ -1,14 +1,16 @@
 ---
-title: "Ristretto vs Espresso: What's the Difference?"
+title: "Ristretto vs Espresso: What Is a Ristretto Shot?"
 date: 2026-04-06
-description: "Ristretto and espresso use the same grounds but produce very different cups. Learn the key differences in ratio, extraction time, taste, and when to use each."
-tags: ["ristretto", "espresso", "brewing", "espresso drinks", "beginner"]
+description: "A ristretto shot uses the same coffee but half the water as espresso, producing a sweeter, more concentrated cup. Learn the key differences in ratio, taste, and when to use a ristretto shot."
+tags: ["ristretto", "ristretto shot", "espresso", "brewing", "espresso drinks", "beginner"]
 categories: ["guides"]
 author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
 faq:
+  - question: "What is a ristretto shot?"
+    answer: "A ristretto shot is a concentrated espresso shot made with the same amount of ground coffee but only half the water. The standard ristretto ratio is 1:1 — 18g of coffee in, 18g of liquid out — compared to espresso's 1:2 ratio. The result is a shorter, sweeter, more intense shot with less bitterness than a standard espresso shot."
   - question: "What is a ristretto?"
     answer: "A ristretto is a short espresso shot made with the same amount of ground coffee as a regular espresso but half the water. Where a standard espresso uses roughly a 1:2 ratio (18g coffee in, 36g liquid out), a ristretto uses a 1:1 ratio (18g in, 18g out). The result is a more concentrated, slightly sweeter, and less bitter shot."
   - question: "Does ristretto have more caffeine than espresso?"
@@ -120,3 +122,4 @@ Once you've tasted the difference, you'll have a good sense of which style works
 - **[Lungo vs Americano](/guides/lungo-vs-americano/)** - The other end of the espresso spectrum
 - **[How to Make a Latte](/guides/how-to-make-a-latte/)** - Where ristretto really shines
 - **[Americano vs Long Black](/guides/americano-vs-long-black/)** - Diluted espresso drinks compared
+- **[Gibraltar Coffee](/guides/gibraltar-coffee/)** - A cult drink built entirely on the double ristretto shot
