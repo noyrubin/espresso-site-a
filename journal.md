@@ -4,6 +4,47 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-14 22:00 IDT — Pulse 28: Lungo Coffee Guide (~9,700/mo cluster)
+
+**Action:** Published new "What Is a Lungo?" comprehensive guide + added internal links. Site now at 59 articles.
+
+**Assessment:**
+- GA4: Apr 14 = 1 organic session (first since Apr 4!), 4 total sessions partial day. Apr 13 = 1 session. Still early, no meaningful organic volume yet.
+- Search Console highlights:
+  - /guides/how-to-make-a-flat-white/: **38 impressions** (up from 33 last pulse), pos 79.66 — GROWING fastest
+  - /recipes/mocha-recipe/: 16 impressions, pos 70.31 — stable
+  - /recipes/turmeric-latte-recipe/: 11 impressions, pos 68.82 — stable
+  - /guides/ristretto-vs-espresso/: 8 impressions, pos 36.375 — stable, best content position (closest to click territory)
+  - /guides/how-to-make-a-macchiato/: 8 impressions, pos 55.25 — stable
+  - /tags/weiss-distribution-technique/: 1 impression, pos 7
+- Indexing check: breve-coffee = "URL unknown to Google" (not yet indexed), red-eye = crawled from sitemap, gibraltar = status unclear
+- Top SC queries (from query dimension): "how to make flat white" 5 imp pos 78.8, "how to make macchiato" 1 imp pos 66, "how to make macchiato coffee" 1 imp pos 74
+
+**DataForSEO research (15 keywords, $0.15 this pulse):**
+- "lungo coffee" = 2,900/mo, LOW (6/100)
+- "lungo vs espresso" = 1,900/mo, LOW (3/100)
+- "lungo espresso" = 390/mo, LOW (20/100)
+- "what is lungo" = 4,400/mo, LOW (2/100) [confirmed from prior research]
+- "lungo size" = 110/mo, LOW (1/100)
+- "lungo coffee recipe" = 10/mo (negligible)
+- "lungo drink" = 70/mo (negligible)
+- Total cluster: ~9,700/mo at very low competition
+
+**Content created:**
+1. **guides/lungo-coffee.md** — ~2,200 words. Primary targets: "lungo coffee" (2,900/mo, LOW 6/100) + "what is lungo" (4,400/mo, LOW 2/100). Also captures: "lungo vs espresso" (1,900/mo, 3/100), "lungo espresso" (390/mo), "lungo size", "lungo ratio" = **~9,700/mo combined at very low competition**. Covers: definition (Italian meaning, specs), lungo vs espresso side-by-side table, how to make step-by-step, lungo vs americano distinction, lungo in the espresso spectrum table, when to drink lungo, tips (roast, weight-based targeting), common mistakes, FAQ schema (7 Q&As). Strategy note: existing lungo-vs-americano page targets comparison intent (590/mo); new dedicated guide captures the much larger definitional/informational intent cluster.
+
+**Internal links updated:**
+- lungo-vs-americano.md → /guides/lungo-coffee/ added to Related Guides
+- ristretto-vs-espresso.md → /guides/lungo-coffee/ added to Related Guides (fits naturally in the espresso spectrum context)
+
+**Reasoning:** The lungo cluster (9,700/mo combined) was identified in Pulse 27 DataForSEO research as the next best opportunity. The existing lungo-vs-americano page targets only comparison intent (590/mo) — a dedicated guide captures the significantly larger "what is lungo" (4,400/mo) + "lungo coffee" (2,900/mo) + "lungo vs espresso" (1,900/mo) queries with separate intent. This follows the proven pattern: one comprehensive definitional guide captures multiple related queries. Competition is very low across all terms (2–6/100).
+
+**Outcome:** Commit b5e74bf pushed. Vercel deployment triggered. Site now has 59 published articles.
+
+**Next (Pulse 29):** SERP analysis on flat white page (38 imp, pos 79.66 — growing) and ristretto page (pos 36.375 — closest to first page). Identify content gaps vs competitors to optimize these pages and push them into click territory. Check if breve/gibraltar/cortado articles start showing impressions. Research "white espresso" intent.
+
+---
+
 ## 2026-04-14 14:00 IDT — Pulse 27: Cortado Coffee Guide (65,870/mo) + Hub Page Enhancement
 
 **Action:** Published new "What Is a Cortado?" comprehensive guide + enhanced /guides/ and /recipes/ hub pages. Site now at 58 articles.

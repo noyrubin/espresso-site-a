@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 11 (Pulse 27) — 58 articles published. SC highlights: flat-white 33 imp pos 79.1 (GROWING, up from 29!), mocha 16 imp pos 70.3 (stable), turmeric 11 imp pos 68.8 (stable), ristretto pos 36.375 (stable, best content position), macchiato pos 55.25, homepage 12 imp pos 6.1 + 1 click (stable). GA4: Apr 14 = 4 sessions partial. Pulse 27: Created cortado coffee guide targeting "cortado coffee" (33,100/mo, 3/100) + "what is a cortado" (27,100/mo, 2/100) + "cortado vs cappuccino" (4,400/mo, 0/100) = **~65,870/mo combined** at near-zero competition — BIGGEST COMBINED CLUSTER FOUND. Also enhanced /guides/ and /recipes/ hub pages with structured navigation content. DataForSEO spend this pulse: $0.15 (16 keywords). Total cumulative: $0.15/day under budget.
+Day 11 (Pulse 28) — 59 articles published. SC highlights: flat-white **38 impressions** pos 79.66 (GROWING, up from 33!), mocha 16 imp pos 70.3 (stable), turmeric 11 imp pos 68.8 (stable), ristretto pos 36.375 (stable, best content position), macchiato 8 imp pos 55.25. GA4: Apr 14 = 1 organic session, 4 total sessions partial day. Pulse 28: Created /guides/lungo-coffee/ targeting "lungo coffee" (2,900/mo, 6/100) + "what is lungo" (4,400/mo, 2/100) + "lungo vs espresso" (1,900/mo, 3/100) = **~9,700/mo combined at very low competition**. Added internal links from lungo-vs-americano and ristretto pages. Breve/gibraltar/red eye still awaiting Google indexing. DataForSEO spend this pulse: $0.15 (15 keywords). Cumulative: well under $1/day.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -76,6 +76,7 @@ Day 11 (Pulse 27) — 58 articles published. SC highlights: flat-white 33 imp po
 | gibraltar coffee | 5,400 | LOW (0/100) | /guides/gibraltar-coffee/ | Published + FAQ (Pulse 26) — zero competition, Blue Bottle cult drink, also targets "what is gibraltar coffee" |
 | ristretto shot | 6,600 | LOW (4/100) | /guides/ristretto-vs-espresso/ | Optimized existing page (Pulse 26) — title + FAQ updated to capture "ristretto shot" |
 | cortado coffee | 33,100 | LOW (3/100) | /guides/cortado-coffee/ | Published + FAQ (Pulse 27) — also targets "what is a cortado" (27,100/mo, 2/100) + "cortado vs cappuccino" (4,400/mo, 0/100) + "cortado drink" + "cortado size" = ~65,870/mo combined |
+| lungo coffee | 2,900 | LOW (6/100) | /guides/lungo-coffee/ | Published + FAQ (Pulse 28) — also targets "what is lungo" (4,400/mo, 2/100) + "lungo vs espresso" (1,900/mo, 3/100) + "lungo espresso" (390/mo) = ~9,700/mo combined |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -129,7 +130,8 @@ Day 11 (Pulse 27) — 58 articles published. SC highlights: flat-white 33 imp po
 - [DONE Pulse 26] "ristretto shot" (6,600/mo, LOW 4/100) — optimized existing ristretto page title + FAQ, not a new page
 - [DONE Pulse 27] "cortado coffee" (33,100/mo, LOW 3/100) + "what is a cortado" (27,100/mo, LOW 2/100) + "cortado vs cappuccino" (4,400/mo, LOW 0/100) = ~65,870/mo combined — published as /guides/cortado-coffee/. BIGGEST COMBINED CLUSTER FOUND.
 - [DONE Pulse 27] Hub pages enhanced: /guides/_index.md and /recipes/_index.md got structured content for better SEO signals
-- "lungo coffee" (2,900/mo, LOW 6/100) + "what is lungo" (4,400/mo, LOW 2/100) — research round 2 found these. Consider extending lungo-vs-americano page or dedicated guide.
+- [DONE Pulse 28] "lungo coffee" (2,900/mo, LOW 6/100) + "what is lungo" (4,400/mo, LOW 2/100) + "lungo vs espresso" (1,900/mo, 3/100) = ~9,700/mo combined — published as /guides/lungo-coffee/.
+- "white espresso" (2,400/mo, LOW 18/100) — investigate search intent first (what are people actually looking for?)
 - "white espresso" (2,400/mo, LOW 18/100) — interesting niche keyword, investigate what this means and if there's search intent we can serve
 - "nitro cold brew" (18,100/mo, MEDIUM 47/100) — borderline competition, hold for later
 - "cold brew concentrate recipe" (1,300/mo, LOW 12/100) — small, consider adding to cold brew recipe page as variation
@@ -142,7 +144,7 @@ Day 11 (Pulse 27) — 58 articles published. SC highlights: flat-white 33 imp po
 ### In Progress
 *(none — pulse 17 complete)*
 
-### Published (49 articles)
+### Published (50 articles)
 1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5, flat white + macchiato links pulse 6)
 2. /guides/how-to-steam-milk-latte-art/ (+ FAQ pulse 3)
 3. /guides/espresso-grind-size-guide/ (+ FAQ pulse 2, WDT link pulse 4)
@@ -201,6 +203,7 @@ Day 11 (Pulse 27) — 58 articles published. SC highlights: flat-white 33 imp po
 56. /guides/breve-coffee/ (NEW pulse 26, + FAQ) — 22,200/mo LOW (2/100), also targets "breve latte" + "cafe breve"
 57. /guides/gibraltar-coffee/ (NEW pulse 26, + FAQ) — 5,400/mo LOW (0/100), Blue Bottle cult drink, zero competition
 58. /guides/cortado-coffee/ (NEW pulse 27, + FAQ) — ~65,870/mo combined: "cortado coffee" (33,100/mo, LOW 3/100) + "what is a cortado" (27,100/mo, LOW 2/100) + "cortado vs cappuccino" (4,400/mo, LOW 0/100) + cluster. BIGGEST COMBINED CLUSTER.
+59. /guides/lungo-coffee/ (NEW pulse 28, + FAQ) — ~9,700/mo combined: "lungo coffee" (2,900/mo, LOW 6/100) + "what is lungo" (4,400/mo, LOW 2/100) + "lungo vs espresso" (1,900/mo, LOW 3/100) + "lungo espresso" (390/mo)
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -245,10 +248,10 @@ Day 11 (Pulse 27) — 58 articles published. SC highlights: flat-white 33 imp po
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 28:** Research "lungo coffee" (2,900/mo, LOW 6/100) + "what is lungo" (4,400/mo, LOW 2/100) cluster — extend lungo-vs-americano page or create dedicated guide. Check indexing of breve/gibraltar/red eye articles. Investigate "white espresso" (2,400/mo, LOW 18/100) — what is the intent? Also check flat white page (33 imp, pos 79) — run SERP analysis on "how to make a flat white" to identify content gaps vs ranking competitors.
-2. **Pulse 29:** SERP deep-dive on top 3 SC pages (flat white 33 imp pos 79, mocha 16 imp pos 70, ristretto 8 imp pos 36) — identify content gaps vs ranking competitors. Ristretto at pos 36 is closest to click-territory. Research "lungo vs espresso" (1,900/mo, LOW 3/100) to add to lungo page. Consider "cortado vs flat white" as a dedicated article (vs the existing macchiato comparison).
-3. **Pulse 30:** Backfill any missed low-competition gaps. Consider adding recipe variations to high-performing pages (cold foam, cold brew). Monitor if breve/gibraltar/cortado articles start getting impressions — optimize titles if needed for CTR.
+1. **Pulse 29:** SERP analysis on "how to make a flat white" (flat white page at 38 imp, pos 79.66 — growing, closest to breaking into ranking) + "ristretto" (pos 36.375 — closest to page 1). Find content gaps vs top 10 to optimize these two pages. Research "white espresso" (2,400/mo, LOW 18/100) intent. Check if breve/gibraltar/cortado pages have started indexing.
+2. **Pulse 30:** New content from fresh keyword research — explore espresso drink types we haven't covered. Check if cold foam/cold brew/matcha articles have started getting impressions. Consider optimizing the macchiato page (pos 55) to push it toward first page.
+3. **Pulse 31:** Optimization pulse — revisit any pages that have crossed 20+ impressions and are below pos 50 (optimization candidates). Look for related topic clusters we haven't touched yet (e.g., equipment care, bean sourcing).
 
 ---
-*Last updated: 2026-04-14 (Pulse 27)*
+*Last updated: 2026-04-14 (Pulse 28)*
 
