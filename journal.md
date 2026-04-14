@@ -4,6 +4,60 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-14 14:00 IDT — Pulse 27: Cortado Coffee Guide (65,870/mo) + Hub Page Enhancement
+
+**Action:** Published new "What Is a Cortado?" comprehensive guide + enhanced /guides/ and /recipes/ hub pages. Site now at 58 articles.
+
+**Assessment:**
+- GA4: Apr 14 = 4 sessions (partial day), Apr 13 = 1 session, Apr 12 = 3 sessions. Still pre-ranking phase, 1 organic session today.
+- Search Console highlights (updated):
+  - /guides/how-to-make-a-flat-white/: **33 impressions** (up from 29!), pos 79.1 — GROWING, most impressive content page
+  - /recipes/mocha-recipe/: 16 impressions, pos 70.3 — stable
+  - /recipes/turmeric-latte-recipe/: 11 impressions, pos 68.8 — stable
+  - /guides/ristretto-vs-espresso/: 8 impressions, pos 36.375 — stable, best content position
+  - /guides/how-to-make-a-macchiato/: 8 impressions, pos 55.25 — stable
+  - Homepage: 12 impressions, pos 6.1, 1 click — stable
+  - Breve, gibraltar, red eye articles: NOT YET indexed (URL unknown to Google — published just this morning)
+- Top queries: flat white cluster dominates impressions (flat white recipe 7 imp, how to make a flat white 6 imp, etc.)
+
+**DataForSEO research (16 keywords, $0.15 total this pulse):**
+
+Round 1 — exploration:
+- "what is a cortado" = 27,100/mo, LOW (2/100) — MAJOR FIND
+- "espresso recipes" = 3,600/mo, LOW (21/100) — good hub page target
+- "lungo coffee" = 2,900/mo, LOW (6/100) — worth exploring
+- "home barista" = 2,400/mo, LOW (25/100) — brand fit
+- "how to make espresso at home" = 3,600/mo, HIGH (98/100) — skip, too competitive
+- "espresso at home" = 1,300/mo, HIGH (100/100) — skip
+
+Round 2 — cortado cluster deep-dive:
+- "cortado coffee" = 33,100/mo, LOW (3/100) — EVEN BIGGER than "what is a cortado"!
+- "cortado vs cappuccino" = 4,400/mo, LOW (0/100) — zero competition
+- "what is lungo" = 4,400/mo, LOW (2/100) — consider extending lungo page
+- "lungo vs espresso" = 1,900/mo, LOW (3/100) — could add to lungo-vs-americano
+- "white espresso" = 2,400/mo, LOW (18/100) — interesting for future
+- "cortado drink" = 880/mo, LOW (2/100) — include in cortado guide
+- "cortado size" = 390/mo, LOW (2/100) — include in cortado guide
+
+**Content created:**
+1. **guides/cortado-coffee.md** — ~2,400 words. Primary targets: "cortado coffee" (33,100/mo, LOW 3/100) + "what is a cortado" (27,100/mo, LOW 2/100). Also captures: "cortado vs cappuccino" (4,400/mo, 0/100), "cortado drink" (880/mo), "cortado size" (390/mo) = **~65,870/mo combined at near-zero competition — BIGGEST COMBINED CLUSTER FOUND**. Includes: what is cortado coffee, origin (Spain, "cortar"), cortado size specs, taste profile, cortado vs cappuccino deep-section, full comparison table (vs macchiato/flat white/cappuccino/latte), step-by-step recipe (with + without machine), 6 variations, tips, FAQ schema (7 Q&As).
+
+**Hub pages enhanced:**
+- **guides/_index.md** — Added structured navigation of all 30+ guides organized by category (Getting Started, Drinks, Comparisons, Specialty, Milk/Equipment, Cold). Better title targeting home barista queries.
+- **recipes/_index.md** — Added structured navigation of all 30+ recipes organized by category (Lattes, Matcha, Mocha, Specialty, Chai, Cold, Wellness). Targets "espresso recipes" (3,600/mo, LOW 21/100).
+
+**Internal links updated:**
+- cortado-vs-macchiato.md → /guides/cortado-coffee/ added to related guides
+- cortado-and-flat-white-recipe.md → /guides/cortado-coffee/ added to closing links
+
+**Reasoning:** The cortado cluster is the biggest combined keyword opportunity found yet. "Cortado coffee" (33,100/mo, LOW 3/100) + "what is a cortado" (27,100/mo, LOW 2/100) at near-zero competition follows our proven pattern (like "flat white vs latte" at 22,200/mo). A single comprehensive definitional guide can capture both primary keywords plus the supporting terms. The existing cortado pages (vs-macchiato, recipe) target comparison and recipe intent respectively — neither captures the pure "what is" definitional intent that both high-volume keywords represent. Hub pages needed more content to serve as proper navigation anchors and to potentially capture category-level queries.
+
+**Outcome:** Commit d6c2cc3 pushed. Vercel deployment triggered. Site now has 58 published articles.
+
+**Next (Pulse 28):** Research "lungo coffee" + "what is lungo" cluster (4,400/mo + 2,900/mo) for extending the lungo-vs-americano page or creating a dedicated guide. Check indexing of breve/gibraltar/red-eye articles. Consider optimization of flat white page (33 imp, pos 79) — run SERP analysis to identify content gaps vs top 10 competitors.
+
+---
+
 ## 2026-04-14 ~06:00 IDT — Pulse 26: Breve Coffee Guide + Gibraltar Coffee Guide + Ristretto Optimization
 
 **Action:** Published two new articles + optimized existing ristretto guide. Site now at 57 articles.
