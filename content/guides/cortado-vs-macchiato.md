@@ -171,6 +171,7 @@ Cortado and espresso macchiato are both small, espresso-focused drinks, but the 
 If you're debating between the two, try a cortado first. It's more forgiving to make at home, more versatile, and — for most people — a better daily driver if you like strong coffee but not pure espresso.
 
 Related guides:
+- [What Is a Cortado?](/guides/cortado-coffee/) — the complete guide to cortado coffee, origin, and variations
 - [How to Make a Macchiato](/guides/how-to-make-a-macchiato/) — full recipe for both espresso and latte macchiato
 - [Cortado and Flat White Recipe](/recipes/cortado-and-flat-white-recipe/) — step-by-step recipe for both drinks
 - [Flat White vs Latte](/guides/flat-white-vs-latte/) — how these milk drinks compare
