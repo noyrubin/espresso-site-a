@@ -120,6 +120,7 @@ Once you've tasted the difference, you'll have a good sense of which style works
 - **[Espresso Grind Size Guide](/guides/espresso-grind-size-guide/)** - How grind size affects extraction and flavor
 - **[Espresso Ratio Guide](/guides/espresso-ratio-guide/)** - Dose, yield, and ratio explained
 - **[Lungo vs Americano](/guides/lungo-vs-americano/)** - The other end of the espresso spectrum
+- **[What Is a Lungo?](/guides/lungo-coffee/)** - The complete lungo coffee guide
 - **[How to Make a Latte](/guides/how-to-make-a-latte/)** - Where ristretto really shines
 - **[Americano vs Long Black](/guides/americano-vs-long-black/)** - Diluted espresso drinks compared
 - **[Gibraltar Coffee](/guides/gibraltar-coffee/)** - A cult drink built entirely on the double ristretto shot

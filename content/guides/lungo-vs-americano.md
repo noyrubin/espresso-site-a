@@ -140,6 +140,7 @@ If you use a Nespresso or similar pod machine, you've probably seen a "lungo" bu
 
 ## Related Guides
 
+- **[What Is a Lungo? Complete Lungo Coffee Guide](/guides/lungo-coffee/)** - Everything about lungo: history, ratio, recipe, and how it compares to espresso
 - **[Americano vs Long Black](/guides/americano-vs-long-black/)** - The water-order difference that defines these two drinks
 - **[Ristretto vs Espresso](/guides/ristretto-vs-espresso/)** - The shorter side of the espresso spectrum
 - **[Espresso Ratio Guide](/guides/espresso-ratio-guide/)** - Dose, yield, and ratio fundamentals
