@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 10 (Pulse 25) — 55 articles published. SC highlights: flat-white 26 imp pos 78.5 (highest impression page), turmeric 11 imp pos 68.8 (position improving!), mocha 16 imp pos 70.3 (stable), ristretto pos 36.375 (stable, best content page), macchiato pos 55.25, homepage 11 imp pos 5.9 + 1 click. Best query: "how to make espresso macchiato" pos 29. GA4: Apr 13 = 1 session (partial), Apr 12 = 3 sessions. Pulse 25: BIG FIND — "red eye coffee" 14,800/mo LOW 1/100. Wrote red eye coffee comprehensive guide (covers red/black/dead eye cluster = ~18,370/mo combined near-zero competition) + rose latte recipe (140/mo, 0/100). DataForSEO spend this pulse: $0.15 (total $0.15/day still under budget).
+Day 11 (Pulse 26) — 57 articles published. SC highlights: flat-white 29 imp pos 78.1 (growing, up from 26!), mocha 16 imp pos 70.3 (stable), turmeric 11 imp pos 68.8 (stable), ristretto pos 36.375 (stable, best content page, optimized this pulse for "ristretto shot" 6,600/mo), macchiato pos 55.25, homepage 12 imp pos 6.1 + 1 click (growing). GA4: Apr 14 = 2 sessions, Apr 13 = 1 session. Pulse 26: Wrote breve coffee guide (22,200/mo LOW 2/100 — best find since ristretto) + gibraltar coffee guide (5,400/mo LOW 0/100). Optimized ristretto guide title to target "ristretto shot" (6,600/mo, 4/100). DataForSEO spend this pulse: $0.15 (12 keywords). Total cumulative: $0.15/day under budget.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -72,6 +72,9 @@ Day 10 (Pulse 25) — 55 articles published. SC highlights: flat-white 26 imp po
 | cinnamon dolce latte recipe | 720 | LOW (6/100) | /recipes/cinnamon-latte-recipe/ | Published + FAQ (Pulse 24) — also targets "honey cinnamon latte" (720/mo, 0/100) + "cinnamon latte recipe" (210/mo, 1/100) = ~1,650/mo combined |
 | red eye coffee | 14,800 | LOW (1/100) | /guides/red-eye-coffee/ | Published + FAQ (Pulse 25) — also targets "black eye coffee" (1,900/mo, 1/100) + "dead eye coffee" (720/mo, 0/100) + "red eye coffee recipe" (140/mo) = ~18,370/mo combined |
 | rose latte recipe | 140 | LOW (1/100) | /recipes/rose-latte-recipe/ | Published + FAQ (Pulse 25) — tiny volume, zero competition quick article |
+| breve coffee | 22,200 | LOW (2/100) | /guides/breve-coffee/ | Published + FAQ (Pulse 26) — half-and-half espresso drink, also targets "breve latte" + "cafe breve" |
+| gibraltar coffee | 5,400 | LOW (0/100) | /guides/gibraltar-coffee/ | Published + FAQ (Pulse 26) — zero competition, Blue Bottle cult drink, also targets "what is gibraltar coffee" |
+| ristretto shot | 6,600 | LOW (4/100) | /guides/ristretto-vs-espresso/ | Optimized existing page (Pulse 26) — title + FAQ updated to capture "ristretto shot" |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -120,6 +123,11 @@ Day 10 (Pulse 25) — 55 articles published. SC highlights: flat-white 26 imp po
 - [DONE Pulse 24] "cinnamon latte recipe" combo: cinnamon dolce (720/mo, 6/100) + honey cinnamon latte (720/mo, 0/100) + cinnamon latte (210/mo, 1/100) = ~1,650/mo combined.
 - [DONE Pulse 25] "red eye coffee" (14,800/mo, LOW 1/100) — comprehensive guide covering red/black/dead eye variants = ~18,370/mo combined at near-zero competition. MAJOR FIND.
 - [DONE Pulse 25] "rose latte recipe" (140/mo, LOW 1/100) — quick article, zero competition.
+- [DONE Pulse 26] "breve coffee" (22,200/mo, LOW 2/100) — published, also captures "breve latte" (8,100/mo) and "cafe breve"
+- [DONE Pulse 26] "gibraltar coffee" (5,400/mo, LOW 0/100) — published, zero competition cult espresso drink
+- [DONE Pulse 26] "ristretto shot" (6,600/mo, LOW 4/100) — optimized existing ristretto page title + FAQ, not a new page
+- "nitro cold brew" (18,100/mo, MEDIUM 47/100) — borderline competition, hold for later
+- "cold brew concentrate recipe" (1,300/mo, LOW 12/100) — small, consider adding to cold brew recipe page as variation
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
 - "aeropress espresso" (2,400/mo, HIGH 91/100) — skip, too competitive
 - "hazelnut latte recipe" (140/mo, LOW 1/100) — too small, skip
@@ -185,6 +193,8 @@ Day 10 (Pulse 25) — 55 articles published. SC highlights: flat-white 26 imp po
 53. /recipes/cinnamon-latte-recipe/ (NEW pulse 24, + FAQ) — ~1,650/mo combined: "cinnamon dolce latte recipe" (720/mo, 6/100) + "honey cinnamon latte" (720/mo, 0/100) + "cinnamon latte recipe" (210/mo, 1/100)
 54. /guides/red-eye-coffee/ (NEW pulse 25, + FAQ) — ~18,370/mo combined: "red eye coffee" (14,800/mo, LOW 1/100) + "black eye coffee" (1,900/mo, LOW 1/100) + "dead eye coffee" (720/mo, LOW 0/100) + variations
 55. /recipes/rose-latte-recipe/ (NEW pulse 25, + FAQ) — 140/mo LOW (1/100), zero competition floral latte recipe
+56. /guides/breve-coffee/ (NEW pulse 26, + FAQ) — 22,200/mo LOW (2/100), also targets "breve latte" + "cafe breve"
+57. /guides/gibraltar-coffee/ (NEW pulse 26, + FAQ) — 5,400/mo LOW (0/100), Blue Bottle cult drink, zero competition
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -229,10 +239,10 @@ Day 10 (Pulse 25) — 55 articles published. SC highlights: flat-white 26 imp po
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 26:** Research "nitro cold brew" (volume TBD) and "how to make cold brew concentrate" — possible cold brew cluster expansion. Also: "double shot espresso" or "ristretto shot" as intent for ristretto guide optimization. SC watch: ristretto still at pos 36 — try title optimization to something like "Ristretto vs Espresso: Taste, Ratio & Caffeine Differences". Check if any page has moved into pos 20–40 range (close to click-worthy territory).
-2. **Pulse 27:** Evaluate hub/index page for /recipes/ and /guides/ landing pages to consolidate topical authority. Research "how to make espresso at home" (~high volume?) and "best home espresso setup" if volume/competition allows. SC: watch red eye coffee page — if indexed, it should rank quickly given near-zero competition.
-3. **Pulse 28:** Review which pages are approaching pos 10–30 range in SC. For those pages, run SERP analysis (dataforseo serp) on the primary keyword to identify content gaps vs top-ranking competitors. Optimize title, H1, add missing FAQ questions.
+1. **Pulse 27:** Evaluate hub/index pages for /recipes/ and /guides/ to consolidate topical authority — these landing pages rank for category-level keywords. Research "how to make espresso at home" (high volume?), "espresso at home" cluster. SC watch: check if breve/gibraltar/red eye coffee indexed. Ristretto at pos 36 with new "ristretto shot" optimization — watch for movement.
+2. **Pulse 28:** Research remaining "specialty drink" keywords: "cortado vs flat white" (separate from vs macchiato?), "lungo coffee" standalone, "white espresso". Also: check if flat white page (29 impressions, pos 78) can be optimized further to break into top 50 — run SERP analysis on "how to make a flat white".
+3. **Pulse 29:** SERP deep-dive on top 3 SC pages (flat white, mocha, ristretto) — identify content gaps vs ranking competitors. Optimize the best-positioned pages with missing FAQ questions and sections. These pages are close to click-territory and deserve focused attention.
 
 ---
-*Last updated: 2026-04-13 (Pulse 25)*
+*Last updated: 2026-04-14 (Pulse 26)*
 

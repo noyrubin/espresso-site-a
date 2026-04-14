@@ -4,6 +4,58 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-14 ~06:00 IDT — Pulse 26: Breve Coffee Guide + Gibraltar Coffee Guide + Ristretto Optimization
+
+**Action:** Published two new articles + optimized existing ristretto guide. Site now at 57 articles.
+
+**Assessment:**
+- GA4: Apr 14 = 2 sessions (early, likely bots), Apr 13 = 1 session, Apr 12 = 3 sessions. No organic traffic yet.
+- Search Console highlights:
+  - Homepage: 12 imp, pos 6.1, 1 click — growing (up from 11 impressions)
+  - /guides/how-to-make-a-flat-white/: **29 impressions, pos 78.1** — up from 26, highest impression page, clear growth trend
+  - /recipes/mocha-recipe/: 16 impressions, pos 70.3 — stable
+  - /recipes/turmeric-latte-recipe/: 11 impressions, pos 68.8 — stable
+  - /guides/ristretto-vs-espresso/: 8 impressions, pos 36.375 — stable, best content page
+  - /guides/how-to-make-a-macchiato/: 8 impressions, pos 55.25 — stable
+  - /guides/cold-brew-vs-espresso/: 8 impressions, pos 70 — stable
+  - New queries: "are mochas hot" (pos 45), "iced mocha recipe espresso" (pos 51) — mocha page gaining new query visibility
+- New pages from pulses 22–25 still in indexing lag (cold foam, cold brew, red eye, etc.)
+
+**DataForSEO research (12 keywords, $0.15):**
+Round 1 — cold brew cluster + ristretto:
+- "nitro cold brew" = 18,100/mo, MEDIUM (47/100) — borderline, hold
+- "cold brew concentrate" = 18,100/mo, HIGH (100/100) — skip
+- "cold brew concentrate recipe" = 1,300/mo, LOW (12/100) — add as variation to cold brew recipe page later
+- "ristretto shot" = 6,600/mo, LOW (4/100) — GREAT FIND, optimize existing ristretto page
+- "nitro cold brew at home" = 880/mo, HIGH (96/100) — skip
+- "how to make cold brew concentrate" = 880/mo, LOW (24/100) — low volume
+
+Round 2 — new keyword exploration:
+- "breve coffee" = 22,200/mo, LOW (2/100) — MAJOR FIND, new standalone article
+- "gibraltar coffee" = 5,400/mo, LOW (0/100) — zero competition, cult drink, new article
+- "how to make nitro cold brew" = 720/mo, HIGH (93/100) — skip
+- "what is a ristretto" = 720/mo, LOW (2/100) — add to ristretto page FAQ
+- "ristretto espresso" = 480/mo, LOW — too small standalone
+- "cortado coffee recipe" = 170/mo — too small
+
+**Content created (2 new articles + 1 optimization):**
+1. **guides/breve-coffee.md** — ~2,100 words. What is breve coffee, breve vs latte table, breve vs cappuccino vs flat white table, how to make breve step-by-step (machine + no-machine versions), 5 variations (iced, cappuccino, cortado, sugar-free), tips, origins, FAQ schema (6 Q&As). Targets: "breve coffee" (22,200/mo, LOW 2/100) + captures "breve latte" (8,100/mo), "cafe breve".
+2. **guides/gibraltar-coffee.md** — ~2,000 words. What is gibraltar coffee, the origin story (Blue Bottle SF 2005), gibraltar vs cortado vs latte table, step-by-step recipe (machine + no-machine), taste profile, tips (glass, technique), cultural context, FAQ schema (6 Q&As). Targets: "gibraltar coffee" (5,400/mo, LOW 0/100) — zero competition.
+3. **guides/ristretto-vs-espresso.md** — Updated title to "What Is a Ristretto Shot?" + added "ristretto shot" tag + new FAQ entry for "What is a ristretto shot?" to explicitly target 6,600/mo keyword on the existing page at pos 36.
+
+**Internal links updated:**
+- cortado-vs-macchiato.md → /guides/gibraltar-coffee/ added
+- cortado-and-flat-white-recipe.md → /guides/breve-coffee/ added
+- ristretto-vs-espresso.md → /guides/gibraltar-coffee/ added
+
+**Reasoning:** "Breve coffee" at 22,200/mo with only 2/100 paid competition is the best single-keyword find since "flat white vs latte" (22,200/mo). The "gibraltar coffee" at 5,400/mo with zero paid competition follows the same pattern as our other successful near-zero competition articles. Together they add ~27,600/mo combined search volume to our coverage at essentially no competition. For ristretto, the page is already ranking at pos 36 — optimizing the title and FAQ to explicitly target "ristretto shot" (6,600/mo) costs nothing extra and could meaningfully boost visibility.
+
+**Outcome:** Commit d4076cb pushed. Vercel deployment triggered. Site now has 57 published articles.
+
+**Next (Pulse 27):** Check indexing of new articles (breve, gibraltar, red eye). Explore hub/index pages for /recipes/ and /guides/ to consolidate topical authority. Research "how to make espresso at home" cluster and remaining specialty drink keywords.
+
+---
+
 ## 2026-04-13 ~22:00 IDT — Pulse 25: Red Eye Coffee Guide + Rose Latte Recipe
 
 **Action:** Published two new articles. Site now at 55 articles.
