@@ -9,12 +9,18 @@ showToc: true
 TocOpen: false
 draft: false
 faq:
+  - question: "How is a macchiato made?"
+    answer: "An espresso macchiato is made by pulling 1–2 shots of espresso into a small demitasse cup, then adding a teaspoon of steamed milk or foam on top. The 'stain' of milk visually marks the espresso surface and softens its edge without significantly changing the flavor. A latte macchiato reverses the order: pour steamed milk into a tall glass first, then pour espresso over the back of a spoon so it suspends in the middle, creating three visible layers."
+  - question: "Is a macchiato just espresso and milk?"
+    answer: "Yes — a traditional macchiato is espresso and a very small amount of steamed milk or foam, and nothing else. An espresso macchiato (the Italian original) uses 1–2 shots of espresso with about 1 teaspoon of milk or foam. A latte macchiato uses 1–2 shots of espresso with 6–8 oz of steamed milk. The Starbucks Caramel Macchiato adds vanilla syrup and caramel drizzle on top of the latte macchiato base — that's a branded variation, not the Italian tradition."
+  - question: "What is the difference between a latte and a macchiato?"
+    answer: "A traditional espresso macchiato is tiny (2–3 oz) and almost entirely espresso — it's the opposite of a latte. A latte is 8–12 oz with mostly steamed milk. A latte macchiato is assembled differently: milk goes in the glass first, then espresso is poured on top to create visible layers, whereas a latte mixes espresso and milk together. The key differences are size (macchiato is much smaller), milk amount (macchiato has a fraction of the milk), and assembly order (latte macchiato layers vs latte mixes)."
+  - question: "Is a macchiato suitable for lactose intolerance?"
+    answer: "Yes — you can easily make a macchiato dairy-free. For an espresso macchiato, substitute the small amount of milk with oat milk, almond milk, or soy milk foam. For a latte macchiato, oat milk is the best alternative — it steams and layers well, has a mild sweetness that complements espresso, and produces good foam. The small milk volume in an espresso macchiato makes dairy-free substitution particularly simple."
   - question: "What is an espresso macchiato?"
     answer: "An espresso macchiato is a single or double shot of espresso 'stained' (macchiato means 'stained' in Italian) with a small amount of steamed milk or foam — typically just a teaspoon to a tablespoon. It's served in a small demitasse cup (2–3 oz) and is essentially espresso with the very faintest milk addition to soften the edge. It tastes almost entirely of espresso."
   - question: "What is a latte macchiato?"
     answer: "A latte macchiato is the reverse of an espresso macchiato — it's steamed milk 'stained' with espresso. Warm milk fills a tall glass first, then espresso is poured over a spoon to create layers: milk on the bottom, espresso in the middle, foam on top. The result is visually striking and tastes milder than an espresso macchiato, closer to a latte but with distinct visual layers."
-  - question: "How is a macchiato different from a latte?"
-    answer: "A traditional espresso macchiato is very small (2–3 oz) and mostly espresso — it's almost the opposite of a latte. A latte macchiato is larger and uses more milk, but the key difference is the order of assembly: in a latte macchiato, milk goes first and espresso is added on top, creating visible layers. A standard latte mixes everything together. A Starbucks 'macchiato' is actually a caramel latte macchiato with flavored syrup — very different from either Italian tradition."
   - question: "Can you make a macchiato without an espresso machine?"
     answer: "For an espresso macchiato, you need something that produces concentrated, espresso-like coffee — a Moka pot or AeroPress works reasonably well. For the milk, just heat a small amount (about 1 tablespoon) and add a tiny dollop of frothed foam using a handheld frother. For a latte macchiato, the same approach works — froth your milk in a tall glass or cup, then pour the Moka pot coffee over the back of a spoon to layer it on top."
 ---
@@ -169,3 +175,66 @@ See our [cortado and flat white recipe guide](/recipes/cortado-and-flat-white-re
 **For both:**
 - Fresh espresso makes a significant difference. Dial in your [grind size](/guides/espresso-grind-size-guide/) and use freshly roasted beans.
 - Temperature matters. Both drinks are served immediately after assembly.
+
+---
+
+## Frequently Asked Questions
+
+**How is a macchiato made?**
+An espresso macchiato is made by pulling 1–2 shots of espresso into a small demitasse cup, then adding a teaspoon of steamed milk or foam on top. The "stain" of milk visually marks the espresso surface and softens its edge without significantly changing the flavor. A latte macchiato reverses the order: pour steamed milk into a tall glass first, then pour espresso over the back of a spoon so it suspends in the middle, creating three visible layers.
+
+**Is a macchiato just espresso and milk?**
+Yes — a traditional macchiato is espresso and a very small amount of steamed milk or foam, nothing else. An espresso macchiato uses 1–2 shots with about 1 teaspoon of milk or foam. A latte macchiato uses 1–2 shots with 6–8 oz of steamed milk. The Starbucks Caramel Macchiato adds vanilla syrup and caramel drizzle — that's a branded variation, not the Italian original.
+
+**What is the difference between a latte and a macchiato?**
+A traditional espresso macchiato is tiny (2–3 oz) and almost entirely espresso. A latte is 8–12 oz with mostly steamed milk. A latte macchiato is assembled differently: milk goes in the glass first, then espresso is poured on top to create layers, whereas a latte mixes everything together. The key differences are size (macchiato is smaller), milk amount (far less), and assembly order.
+
+**Is a macchiato suitable for lactose intolerance?**
+Yes — easily made dairy-free. For an espresso macchiato, substitute the small amount of milk with oat milk, almond milk, or soy milk foam. For a latte macchiato, oat milk works best — it steams and layers well, has natural sweetness, and produces good foam.
+
+---
+
+## Want a Sweeter Macchiato?
+
+The classic espresso macchiato is intentionally minimal — but if you prefer something sweeter and more indulgent, our [caramel macchiato recipe](/recipes/caramel-macchiato-recipe/) covers the Starbucks-style layered drink with vanilla syrup, espresso, and caramel drizzle. It uses the latte macchiato layering technique with added flavors.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Espresso Macchiato",
+  "description": "A classic Italian espresso macchiato: one or two shots of espresso stained with a small amount of steamed milk or foam. Intensely espresso-forward with a softened edge.",
+  "recipeIngredient": [
+    "1–2 shots of espresso (single or double)",
+    "1 tablespoon whole milk or preferred milk"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Warm the cup",
+      "text": "Pre-warm a 2–3 oz demitasse cup by rinsing with hot water from the machine."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Pull the espresso",
+      "text": "Extract 1–2 shots of espresso directly into the warmed demitasse cup."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Steam a small amount of milk",
+      "text": "Pour 2–3 tablespoons of cold milk into your pitcher. Steam briefly to create a small amount of microfoam at 130–150°F (55–65°C)."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Add the milk stain",
+      "text": "Spoon just 1–2 teaspoons of steamed milk or foam on top of the espresso. The white mark on the dark espresso is the defining visual feature."
+    }
+  ],
+  "recipeYield": "1 serving",
+  "totalTime": "PT4M",
+  "prepTime": "PT1M",
+  "cookTime": "PT3M",
+  "recipeCategory": "Beverage",
+  "recipeCuisine": "Italian"
+}
+</script>
