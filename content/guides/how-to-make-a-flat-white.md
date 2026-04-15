@@ -200,8 +200,58 @@ The cortado is slightly smaller and uses even less milk than a flat white — al
         "@type": "Answer",
         "text": "The name 'flat white' refers to the pour — the milk is poured 'flat' with minimal foam dome on top, unlike a cappuccino which has a thick, domed layer of froth. The drink originated in Australia and New Zealand in the 1980s, where it became the standard café espresso drink before spreading internationally."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the ratio of milk to coffee for a flat white?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A flat white uses roughly 2–3 parts milk per 1 part espresso. In practice: a double espresso (36–42ml) topped with 4–5 oz (120–150ml) of steamed milk in a 5–6 oz total drink. That's a much higher espresso-to-milk ratio than a latte, which typically uses 4–6 parts milk per part espresso. The higher espresso ratio is what keeps the flat white coffee-forward and intense."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a flat white just coffee with milk?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A flat white is espresso with microfoamed milk — but the milk texture is what sets it apart. Regular hot milk or frothed milk produces a different drink. Microfoam is created by steaming milk to incorporate tiny, uniform bubbles, giving it a silky, velvety consistency. The specific ratio (5–6 oz total), double espresso base, and microfoam texture are what define a true flat white, distinguishing it from a simple coffee with milk."
+      }
     }
   ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Flat White",
+  "description": "A classic flat white coffee made with double espresso and silky microfoam milk. Stronger than a latte, smoother than a cappuccino.",
+  "recipeIngredient": [
+    "18–20g freshly ground espresso",
+    "4–5 oz (120–150ml) whole milk"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Pull the espresso",
+      "text": "Pull a double espresso (18–20g grounds, 36–42ml yield) into a warmed 6 oz cup."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Steam the milk",
+      "text": "Steam 4–5 oz of whole milk to 140–150°F (60–65°C), incorporating minimal air to create silky microfoam with no visible bubbles."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Pour and serve",
+      "text": "Tap and swirl the pitcher to eliminate bubbles, then pour the microfoam over the espresso in a steady stream, finishing with a flat, smooth surface."
+    }
+  ],
+  "recipeYield": "1 serving",
+  "totalTime": "PT5M",
+  "recipeCategory": "Beverage",
+  "recipeCuisine": "Australian/New Zealand"
 }
 </script>
 
@@ -219,6 +269,12 @@ Ideal milk temperature for a flat white is 140–150°F (60–65°C). This is sl
 
 **Why is it called a flat white?**
 The name "flat white" refers to the pour — the milk is poured "flat" with minimal foam dome on top, unlike a cappuccino which has a thick, domed layer of froth. The drink originated in Australia and New Zealand in the 1980s, where it became the standard café espresso drink before spreading internationally.
+
+**What is the ratio of milk to coffee for a flat white?**
+A flat white uses roughly 2–3 parts milk per 1 part espresso. In practice: a double espresso (36–42ml) topped with 4–5 oz (120–150ml) of steamed milk in a 5–6 oz total drink. That's a much higher espresso-to-milk ratio than a latte, which typically uses 4–6 parts milk per part espresso. The higher espresso ratio is what keeps the flat white coffee-forward and intense.
+
+**Is a flat white just coffee with milk?**
+A flat white is espresso with microfoamed milk — but the milk texture is what sets it apart. Regular hot milk or frothed milk produces a different drink. Microfoam is created by steaming milk to incorporate tiny, uniform bubbles, giving it a silky, velvety consistency. The specific ratio (5–6 oz total), double espresso base, and microfoam texture are what define a true flat white, distinguishing it from a simple coffee with milk.
 
 ---
 

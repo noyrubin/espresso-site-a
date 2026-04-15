@@ -19,6 +19,8 @@ faq:
     answer: "Ristretto's sweetness and lower bitterness pair especially well with milk. Because it's more concentrated, the espresso flavor still comes through in a latte or flat white without the bitterness competing with the milk. Many specialty coffee shops use ristretto-pulled shots as the default for all milk drinks for this reason."
   - question: "Is ristretto stronger than espresso?"
     answer: "Ristretto is more concentrated (higher TDS — total dissolved solids) but not necessarily 'stronger' in terms of caffeine. It tastes more intense and has more espresso flavor per sip, but because the shot volume is smaller, the total caffeine and overall 'punch' per drink is similar to or slightly less than a regular espresso."
+  - question: "What is the point of a ristretto?"
+    answer: "The point of a ristretto is to capture only the sweetest, most complex flavors of espresso. A full espresso extraction continues past the peak flavor window into harsher, more bitter territory. A ristretto stops early — pulling only the first phase of extraction where sweetness and complexity are highest. This makes it ideal for milk drinks (where bitterness is amplified by dairy) and for showcasing high-quality single-origin beans where you want to highlight nuanced flavors rather than extract everything."
 ---
 
 Walk into a specialty coffee shop and you might see "double ristretto" on the menu where other places list "double espresso." The drinks look almost identical in the cup, but to a trained palate they taste noticeably different. This guide explains exactly what ristretto is, how it differs from espresso, and when you'd want to use one over the other.
@@ -114,6 +116,28 @@ Lungo tastes more bitter and less sweet than espresso — you're extracting furt
 The easiest experiment: pull two shots back to back from the same dose. Stop the first at 18g yield (ristretto), let the second run to 36g (espresso). Compare them side by side. The taste difference is clear even for beginners and it's the fastest way to understand what "extraction time affects flavor" really means in practice.
 
 Once you've tasted the difference, you'll have a good sense of which style works best for your machine, your beans, and your preferred drink.
+
+## Frequently Asked Questions
+
+**What is a ristretto shot?**
+A ristretto shot is a concentrated espresso shot made with the same amount of ground coffee but only half the water. The standard ristretto ratio is 1:1 — 18g of coffee in, 18g of liquid out — compared to espresso's 1:2 ratio. The result is a shorter, sweeter, more intense shot with less bitterness than a standard espresso shot.
+
+**What is the difference between ristretto and espresso?**
+Ristretto and espresso use identical coffee doses but different water volumes. Espresso pulls at a 1:2 ratio (18g coffee → 36g liquid), while ristretto pulls at 1:1 (18g → 18g). Ristretto is shorter, sweeter, and more concentrated because it captures only the early, sweeter extraction phases before bitter compounds dissolve into the cup.
+
+**Does ristretto have more caffeine than espresso?**
+No — ristretto has slightly less caffeine per shot. Because less water passes through the grounds, less caffeine is extracted (roughly 10–15% less). If a drink calls for a "double ristretto" instead of a "double espresso," the total caffeine is roughly similar to a single regular espresso.
+
+**Why do some cafes use ristretto in milk drinks?**
+Ristretto's sweetness and lower bitterness pair better with milk. Because the shot is more concentrated, the espresso flavor punches through the milk without the harsh bitterness competing with the dairy. Many specialty coffee shops use ristretto-pulled shots as the default for all milk drinks — lattes, flat whites, cappuccinos — for this reason.
+
+**Is ristretto stronger than espresso?**
+Ristretto is more concentrated (higher TDS — total dissolved solids) but not necessarily stronger in terms of caffeine. It tastes more intense and has more espresso flavor per sip, but because the shot volume is smaller, the total caffeine per drink is similar to or slightly less than a regular espresso.
+
+**What is the point of a ristretto?**
+The point of a ristretto is to capture only the sweetest, most complex flavors of espresso. A full espresso extraction continues past the peak flavor window into harsher, more bitter territory. A ristretto stops early — pulling only the first phase of extraction where sweetness and complexity peak. This makes ristretto ideal for milk drinks and for showcasing high-quality single-origin beans where nuanced flavor matters more than sheer volume.
+
+---
 
 ## Related Guides
 
