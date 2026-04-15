@@ -4,6 +4,58 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-15 22:00 IDT — Pulse 31: Mocha Optimization + Olive Oil Coffee + Double Espresso
+
+**Action:** Optimized mocha recipe (Recipe JSON-LD + PAA FAQs + visible FAQ). Published /guides/olive-oil-coffee/ (~6,200/mo combined at near-zero competition). Published /guides/double-espresso/ (2,400/mo, LOW 19/100). Site now at 63 articles.
+
+**Assessment:**
+- GA4: Apr 14 = 4 sessions (1 organic), Apr 13 = 1 session — pre-ranking phase continues
+- Search Console (page dimension):
+  - /guides/how-to-make-a-flat-white/: **72 impressions** (up from 68!), pos 78.3 — continuous growth, clearest ranking signal
+  - /recipes/mocha-recipe/: 16 impressions, pos 70.3 — stable (highest recipe impressions)
+  - /recipes/turmeric-latte-recipe/: 11 impressions, pos 68.8 — stable
+  - /guides/ristretto-vs-espresso/: 8 impressions, pos 36.375 — stable, best content position (~top 4 pages)
+  - /guides/how-to-make-a-macchiato/: 8 impressions, pos 55.25 — stable
+  - Homepage: 12 impressions, pos 6.1, 1 click
+  - /guides/cold-brew-vs-espresso/: 8 impressions, pos 70 — stable
+  - Espresso-caffeine NOT yet in SC (too new — published 8h ago at Pulse 30)
+- SC queries dominated by flat white variants (12+ queries visible, all positions 59–96 but gaining)
+
+**DataForSEO research ($0.077 this pulse):**
+- SERP "mocha recipe": SERP features = recipes, organic, PAA, related_searches. Top results: bakingmischief.com (baking site!), addapinch.com (recipe site), Reddit, Starbucks x2. PAA: "How do you make a mocha?", "What are the four ingredients of a mocha?", "What ingredients make up a mocha?", "Is mocha just hot chocolate with espresso?" — 3 of 4 NOT in our FAQ. Recipe schema required.
+- Search volume batch ($0.075): "olive oil coffee" = 2,400/mo LOW (2/100), "starbucks olive oil coffee" = 1,900/mo LOW (1/100), "oleato" = 1,900/mo LOW (0/100) — ~6,200/mo combined. "double espresso" = 2,400/mo LOW (19/100). "espresso shot" = 12,100/mo HIGH (74/100 — too competitive). "oat milk latte recipe" = 210/mo LOW (skip).
+
+**Content executed:**
+
+1. **Optimized: /recipes/mocha-recipe/**
+   - Added Recipe JSON-LD schema (SERP shows "recipes" feature; bakingmischief.com and recipe sites rank because they have recipe markup)
+   - Added 3 PAA FAQs targeting all 4 PAA questions: "What are the four ingredients of a mocha?", "What ingredients make up a mocha?", "Is mocha just hot chocolate with espresso?"
+   - Added visible FAQ section before Related Recipes (previously FAQ was schema-only, invisible)
+   - FAQPage schema expanded from 5 to 8 Q&As
+
+2. **New: /guides/olive-oil-coffee/** (~2,200 words)
+   - Primary: "olive oil coffee" (2,400/mo, LOW 2/100) + "starbucks olive oil coffee" (1,900/mo, LOW 1/100) + "oleato" (1,900/mo, LOW 0/100) = **~6,200/mo combined at near-zero competition**
+   - Covers: what it is (Oleato history), what it tastes like, science behind it, classic olive oil espresso recipe, Oleato-style latte, iced version, olive oil cold foam, olive oil quality guide, comparison vs bulletproof coffee
+   - FAQ schema (5 Q&As)
+   - Internal links: bulletproof coffee, cold brew recipe, cold foam guide, espresso ratio guide
+
+3. **New: /guides/double-espresso/** (~1,800 words)
+   - Primary: "double espresso" (2,400/mo, LOW 19/100) — also captures "doppio", "how to make a double espresso"
+   - Covers: what a double is, comparison tables (vs single/lungo/ristretto), caffeine data, how to pull step-by-step, troubleshooting table, when to use single vs double
+   - FAQ schema (5 Q&As)
+   - Internal links: espresso caffeine, espresso ratio, ristretto, lungo, grind size guides
+
+**Reasoning:**
+- Mocha optimization: SERP shows "recipes" feature and 7 of 9 organic results are recipe sites (bakingmischief, addapinch, sweetphi, forkinthekitchen). Our page needs Recipe JSON-LD to compete. The 3 PAA questions not in our FAQ are the exact queries driving visibility — adding them directly targets the questions showing up for our 16-impression mocha page.
+- Olive oil coffee: ~6,200/mo at near-zero competition (0–2/100 across all three variants). Trending topic with cultural depth and multiple home recipe angles. Fits the "home barista" niche perfectly. Exactly the type of underserved keyword cluster the site is built to capture.
+- Double espresso: 2,400/mo at LOW (19/100). Foundational espresso knowledge piece that links naturally to caffeine, ratio, grind, ristretto, and lungo guides. Improves internal linking hub structure for the technical guides section.
+
+**Outcome:** Commit 4d46349 pushed. Vercel deployment triggered. Site now has 63 articles.
+
+**Next (Pulse 32):** Check if espresso-caffeine starts showing SC impressions (near-zero competition = should appear fast). Research new clusters: "hazelnut latte" volume check (2,400/mo?), "espresso crema" (definitional), "macchiato vs latte" (check if we have this). Add double-espresso internal links from getting-started and espresso-ratio pages.
+
+---
+
 ## 2026-04-15 14:00 IDT — Pulse 30: Espresso Caffeine Guide (~91k/mo) + Macchiato Optimization
 
 **Action:** Published /guides/espresso-caffeine/ — the biggest keyword cluster found since espresso martini. Optimized macchiato page with Recipe schema + PAA FAQs. Site now at 61 articles.

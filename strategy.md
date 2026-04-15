@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 12 (Pulse 30) — 61 articles published. SC highlights: flat-white **68 impressions** pos 78.44 (still climbing!), mocha 16 imp pos 70.3, turmeric 11 imp pos 68.8, ristretto 8 imp pos 36.375 (best content position, closest to first page), macchiato 8 imp pos 55.25. GA4: Apr 14 = 4 sessions (1 organic); still pre-ranking phase. Pulse 30: Published /guides/espresso-caffeine/ (~90,960/mo combined at near-zero competition — MASSIVE FIND), optimized macchiato page (Recipe JSON-LD + 3 PAA FAQs + visible FAQ section). DataForSEO spend this pulse: $0.152 ($0.002 SERP + $0.075x2 search-volume). Cumulative: well under $1/day.
+Day 12 (Pulse 31) — 63 articles published. SC highlights: flat-white **72 impressions** pos 78.3 (still climbing!), mocha 16 imp pos 70.3, turmeric 11 imp pos 68.8, ristretto 8 imp pos 36.375 (best content position, closest to first page), macchiato 8 imp pos 55.25. GA4: Apr 14 = 4 sessions (1 organic); still pre-ranking phase. Pulse 31: Optimized mocha recipe (Recipe JSON-LD + 3 PAA FAQs + visible FAQ section), published /guides/olive-oil-coffee/ (~6,200/mo at near-zero competition), published /guides/double-espresso/ (2,400/mo LOW 19/100). DataForSEO spend this pulse: $0.077 ($0.002 SERP + $0.075 search-volume). Cumulative: well under $1/day.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -79,6 +79,8 @@ Day 12 (Pulse 30) — 61 articles published. SC highlights: flat-white **68 impr
 | lungo coffee | 2,900 | LOW (6/100) | /guides/lungo-coffee/ | Published + FAQ (Pulse 28) — also targets "what is lungo" (4,400/mo, 2/100) + "lungo vs espresso" (1,900/mo, 3/100) + "lungo espresso" (390/mo) = ~9,700/mo combined |
 | white espresso | 2,400 | LOW (18/100) | /guides/white-espresso/ | Published + FAQ (Pulse 29) — also targets "what is white espresso" (720/mo, 0/100) = ~3,120/mo combined |
 | how much caffeine in a shot of espresso | 49,500 | LOW (1/100) | /guides/espresso-caffeine/ | Published + FAQ (Pulse 30) — also targets "caffeine in espresso shot" (27,100/mo, LOW 4/100), "how much caffeine in espresso" (8,100/mo, LOW 1/100), "espresso caffeine" (2,900/mo, LOW 1/100), "is espresso stronger than coffee" (1,600/mo, LOW 3/100) = ~90,960/mo combined |
+| olive oil coffee | 2,400 | LOW (2/100) | /guides/olive-oil-coffee/ | Published + FAQ (Pulse 31) — also targets "starbucks olive oil coffee" (1,900/mo, LOW 1/100), "oleato" (1,900/mo, LOW 0/100) = ~6,200/mo combined at near-zero competition |
+| double espresso | 2,400 | LOW (19/100) | /guides/double-espresso/ | Published + FAQ (Pulse 31) — also targets "doppio" + "how to pull a double espresso" |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -135,6 +137,9 @@ Day 12 (Pulse 30) — 61 articles published. SC highlights: flat-white **68 impr
 - [DONE Pulse 28] "lungo coffee" (2,900/mo, LOW 6/100) + "what is lungo" (4,400/mo, LOW 2/100) + "lungo vs espresso" (1,900/mo, 3/100) = ~9,700/mo combined — published as /guides/lungo-coffee/.
 - [DONE Pulse 29] "white espresso" (2,400/mo, LOW 18/100) + "what is white espresso" (720/mo, 0/100) = ~3,120/mo combined — published as /guides/white-espresso/. Ultra-lightly roasted espresso beans guide.
 - [DONE Pulse 30] "how much caffeine in a shot of espresso" (49,500/mo, LOW 1/100) + "caffeine in espresso shot" (27,100/mo, LOW 4/100) + cluster = ~90,960/mo combined at near-zero competition — published as /guides/espresso-caffeine/. BIGGEST INFORMATIONAL CLUSTER SINCE ESPRESSO MARTINI.
+- [DONE Pulse 31] "olive oil coffee" (2,400/mo, LOW 2/100) + "starbucks olive oil coffee" (1,900/mo, LOW 1/100) + "oleato" (1,900/mo, LOW 0/100) = ~6,200/mo combined at near-zero competition — published as /guides/olive-oil-coffee/. Covers Oleato, home recipes, taste, science, vs bulletproof coffee.
+- [DONE Pulse 31] "double espresso" (2,400/mo, LOW 19/100) — published as /guides/double-espresso/ with comparison tables (vs single/lungo/ristretto), how-to, troubleshooting, FAQ.
+- [DONE Pulse 31] Mocha recipe optimization: added Recipe JSON-LD (SERP has 'recipes' feature), 3 PAA FAQs, visible FAQ section. FAQ expanded from 5 to 8 Q&As.
 - "nitro cold brew" (18,100/mo, MEDIUM 47/100) — borderline competition, hold for later
 - "cold brew concentrate recipe" (1,300/mo, LOW 12/100) — small, consider adding to cold brew recipe page as variation
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
@@ -208,6 +213,8 @@ Day 12 (Pulse 30) — 61 articles published. SC highlights: flat-white **68 impr
 59. /guides/lungo-coffee/ (NEW pulse 28, + FAQ) — ~9,700/mo combined: "lungo coffee" (2,900/mo, LOW 6/100) + "what is lungo" (4,400/mo, LOW 2/100) + "lungo vs espresso" (1,900/mo, LOW 3/100) + "lungo espresso" (390/mo)
 60. /guides/white-espresso/ (NEW pulse 29, + FAQ) — ~3,120/mo combined: "white espresso" (2,400/mo, LOW 18/100) + "what is white espresso" (720/mo, 0/100)
 61. /guides/espresso-caffeine/ (NEW pulse 30, + FAQ) — ~90,960/mo combined: "how much caffeine in a shot of espresso" (49,500/mo, LOW 1/100) + "caffeine in espresso shot" (27,100/mo, LOW 4/100) + "how much caffeine in espresso" (8,100/mo, LOW 1/100) + "espresso caffeine" (2,900/mo, LOW 1/100) + "is espresso stronger than coffee" (1,600/mo, LOW 3/100) + related cluster
+62. /guides/olive-oil-coffee/ (NEW pulse 31, + FAQ) — ~6,200/mo combined: "olive oil coffee" (2,400/mo, LOW 2/100) + "starbucks olive oil coffee" (1,900/mo, LOW 1/100) + "oleato" (1,900/mo, LOW 0/100) — covers Oleato drinks, home recipes, taste, science
+63. /guides/double-espresso/ (NEW pulse 31, + FAQ) — 2,400/mo LOW (19/100) — doppio guide with full comparison tables, how-to-pull, troubleshooting
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -252,10 +259,10 @@ Day 12 (Pulse 30) — 61 articles published. SC highlights: flat-white **68 impr
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 31:** Mocha page optimization (16 imp, pos 70 — biggest recipe page). Check SC to see if espresso-caffeine starts showing impressions (should pick up quickly given near-zero competition). Check if breve/gibraltar/cortado/lungo have begun indexing. Run SERP check on mocha to identify content gaps vs competitors.
-2. **Pulse 32:** Explore olive oil coffee/oleato cluster (2,400/mo + 1,900/mo "starbucks olive oil coffee" = ~4,300/mo LOW 1-2/100 — trending topic). Consider "espresso shot" definitional content. Look at "double espresso" (2,400/mo, LOW 19/100) for a short guide.
-3. **Pulse 33:** Monitor flat white trajectory (68 imp, pos 78) — if still climbing, do another optimization pass. Look for new informational clusters at high volume + low competition (the caffeine find shows there are still large untapped clusters).
+1. **Pulse 32:** Research new clusters: "espresso bar" or "home espresso setup" angle? Check SC for espresso-caffeine impressions (should appear quickly — near-zero competition). Look at "macchiato vs latte" (if not already covered), "espresso crema" (definitional, informational), or flavor-forward recipe keywords ("hazelnut latte" 2,400/mo LOW? — check volume). Consider linking double-espresso guide from espresso-ratio and getting-started pages.
+2. **Pulse 33:** Monitor flat white trajectory (72 imp, pos 78.3 and still climbing) — if position improves, another optimization pass could unlock clicks. Look for new large informational clusters — the caffeine cluster shows these still exist in the niche.
+3. **Pulse 34:** Check if breve (22,200/mo), cortado (33,100/mo), and cold foam (33,100/mo) pages are starting to rank — these are the highest-volume pages published. Any first-page position for these would be a major traffic unlock.
 
 ---
-*Last updated: 2026-04-15 (Pulse 29)*
+*Last updated: 2026-04-15 (Pulse 31)*
 
