@@ -216,11 +216,95 @@ If you're using fruity or light-roast beans, the fruit notes will clash with cho
 
 ---
 
+## Frequently Asked Questions
+
+**How do you make a mocha?**  
+Combine 1–1.5 tablespoons of chocolate sauce with a double shot of hot espresso in a mug, stirring until the chocolate fully dissolves. Then pour 4–5 oz of steamed milk over the top and add a thin layer of milk foam. Optionally top with whipped cream and a drizzle of chocolate.
+
+**What are the four ingredients of a mocha?**  
+The four core ingredients are: espresso (a double shot), chocolate (sauce or cocoa), steamed milk, and milk foam or whipped cream. Some versions skip the foam and go straight to whipped cream on top.
+
+**What ingredients make up a mocha?**  
+A mocha is built from espresso, chocolate sauce (or unsweetened cocoa powder with sugar), steamed whole milk, and optional toppings like milk foam, whipped cream, or a chocolate drizzle. The chocolate-to-milk ratio can be adjusted to taste — more chocolate for a richer drink, less for something more espresso-forward.
+
+**Is mocha just hot chocolate with espresso?**  
+Not quite. A mocha uses significantly less chocolate than hot chocolate — typically 1–2 tablespoons versus 2–3 tablespoons in a standard hot chocolate. More importantly, a mocha is built on espresso (concentrated coffee), not brewed coffee or no coffee at all. The steamed milk is also different from the hot milk or water used in hot chocolate. The result is a drink where the espresso is clearly present, unlike hot chocolate where you taste almost no coffee.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Classic Mocha Recipe",
+  "description": "How to make a homemade mocha: rich espresso, real chocolate sauce, and steamed milk in one cup. Includes hot mocha, iced mocha, and white chocolate mocha variations.",
+  "image": "https://homeespressolab.com/images/mocha-recipe.jpg",
+  "author": {"@type": "Organization", "name": "Home Espresso Lab"},
+  "datePublished": "2026-04-09",
+  "prepTime": "PT2M",
+  "cookTime": "PT3M",
+  "totalTime": "PT5M",
+  "recipeYield": "1 mocha",
+  "recipeCategory": "Beverage",
+  "recipeCuisine": "Italian",
+  "keywords": "mocha recipe, how to make a mocha, homemade mocha, mocha latte recipe",
+  "recipeIngredient": [
+    "2 shots espresso (2 oz / 60 ml)",
+    "1.5 tablespoons chocolate sauce (or 1 tbsp unsweetened cocoa powder + 1 tsp sugar)",
+    "4 oz (120 ml) steamed whole milk",
+    "1 oz milk foam",
+    "Whipped cream and chocolate drizzle (optional)"
+  ],
+  "recipeInstructions": [
+    {"@type": "HowToStep", "name": "Pull espresso", "text": "Grind 18–20g of coffee to a fine espresso grind and pull a double shot targeting 36–40g output in 25–30 seconds."},
+    {"@type": "HowToStep", "name": "Add chocolate first", "text": "Put chocolate sauce in the bottom of the mug before adding espresso. The hot espresso will dissolve it instantly."},
+    {"@type": "HowToStep", "name": "Pull espresso over chocolate", "text": "Pull the double shot directly into the mug over the chocolate. Stir briefly until fully dissolved."},
+    {"@type": "HowToStep", "name": "Steam milk", "text": "Steam 4–5 oz of milk to 130–150°F (55–65°C) with just a thin layer of microfoam."},
+    {"@type": "HowToStep", "name": "Pour and serve", "text": "Pour steamed milk over the espresso-chocolate base. Add milk foam on top, then whipped cream and chocolate drizzle if desired."}
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "200 calories",
+    "servingSize": "1 mocha (8 oz)"
+  }
+}
+</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you make a mocha?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Combine 1–1.5 tablespoons of chocolate sauce with a double shot of hot espresso in a mug, stirring until fully dissolved. Then pour 4–5 oz of steamed milk over the top and add a thin layer of milk foam. Optionally top with whipped cream and a chocolate drizzle. The key technique is adding the chocolate before the espresso so the hot shot dissolves it instantly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the four ingredients of a mocha?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The four core ingredients of a mocha are: espresso (a double shot), chocolate (sauce or cocoa powder), steamed milk, and milk foam or whipped cream on top. Some versions skip the foam and go straight to whipped cream."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What ingredients make up a mocha?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A mocha is built from espresso, chocolate sauce (or unsweetened cocoa powder with sugar), steamed whole milk, and optional toppings like milk foam, whipped cream, or a chocolate drizzle. The chocolate-to-milk ratio can be adjusted to taste — more chocolate for a richer drink, less for something more espresso-forward."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is mocha just hot chocolate with espresso?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not quite. A mocha uses significantly less chocolate than hot chocolate — typically 1–2 tablespoons versus 2–3 tablespoons in hot cocoa. More importantly, a mocha is built on espresso (concentrated coffee), not brewed coffee or no coffee. The steamed milk is also different from the hot milk or water used in hot chocolate. The espresso flavor is clearly present in a mocha, unlike hot chocolate where you taste almost no coffee."
+      }
+    },
     {
       "@type": "Question",
       "name": "What is the difference between a mocha and a latte?",
