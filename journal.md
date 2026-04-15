@@ -4,6 +4,62 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-15 14:00 IDT — Pulse 30: Espresso Caffeine Guide (~91k/mo) + Macchiato Optimization
+
+**Action:** Published /guides/espresso-caffeine/ — the biggest keyword cluster found since espresso martini. Optimized macchiato page with Recipe schema + PAA FAQs. Site now at 61 articles.
+
+**Assessment:**
+- GA4: Apr 14 = 4 sessions (1 organic), Apr 13 = 1 session, Apr 12 = 3 sessions. Pre-ranking phase continues.
+- Search Console highlights (page dimension):
+  - /guides/how-to-make-a-flat-white/: **68 impressions** (up from 66), pos 78.44 — still climbing
+  - /recipes/mocha-recipe/: 16 impressions, pos 70.3 — stable (highest recipe impressions)
+  - /recipes/turmeric-latte-recipe/: 11 impressions, pos 68.8 — stable
+  - /guides/ristretto-vs-espresso/: 8 impressions, pos 36.375 — stable, best content position
+  - /guides/how-to-make-a-macchiato/: 8 impressions, pos 55.25 — stable
+  - Homepage: 12 impressions, pos 6.1, 1 click
+  - /guides/cold-brew-vs-espresso/: 8 impressions, pos 70 — stable
+- SC top queries: flat white cluster still dominates (flat white recipe 10 imp pos 81.3, how to make a flat white 11 imp pos 76.8, cold brew espresso 3 imp pos 79, cold brew vs espresso 2 imp pos 48.5)
+- Breve, gibraltar, cortado, lungo pages NOT yet showing in SC page data (still indexing)
+
+**DataForSEO research ($0.152 this pulse):**
+
+Round 1 ($0.077):
+- SERP "how to make a macchiato" ($0.002): Top results all caramel macchiato / Starbucks-style. SERP features: **recipes** (critical — recipe schema needed), ai_overview, PAA. PAA questions: "How is a macchiato made?", "Is a macchiato just espresso and milk?", "What is the difference between a latte and a macchiato?", "Is a macchiato suitable for lactose intolerance?" — 3 of these NOT in our FAQ.
+- Search volume batch: "oat milk latte" = 1,900/mo MEDIUM (too competitive), "olive oil coffee" = 2,400/mo LOW (2/100) — interesting, "double espresso" = 2,400/mo LOW (19/100), "how much caffeine in espresso" = **8,100/mo LOW (1/100)**, "espresso caffeine" = **2,900/mo LOW (1/100)**
+
+Round 2 ($0.075):
+- **MASSIVE FIND:** "how much caffeine in a shot of espresso" = **49,500/mo, LOW (1/100)** — near-zero competition at 50k/mo!
+- "caffeine in espresso shot" = **27,100/mo, LOW (4/100)** — also near-zero competition!
+- "is espresso stronger than coffee" = 1,600/mo, LOW (3/100)
+- "espresso vs coffee caffeine" = 880/mo, LOW (5/100)
+- **Total caffeine cluster: ~90,960/mo at near-zero competition** — the biggest informational cluster since espresso martini (246k/mo)
+- "olive oil coffee" = 2,400/mo LOW (2/100) + "starbucks olive oil coffee" = 1,900/mo LOW (1/100) = ~4,300/mo combined — noted for future pulse
+
+**Content executed:**
+
+1. **New: /guides/espresso-caffeine/** (~2,200 words)
+   - Primary: "how much caffeine in a shot of espresso" (49,500/mo, LOW 1/100)
+   - Also captures: "caffeine in espresso shot" (27,100/mo, LOW 4/100), "how much caffeine in espresso" (8,100/mo, LOW 1/100), "espresso caffeine" (2,900/mo, LOW 1/100), "is espresso stronger than coffee" (1,600/mo, LOW 3/100), "espresso vs coffee caffeine" (880/mo) = **~90,960/mo combined at near-zero competition**
+   - Covers: per-shot data table (single/double/triple/ristretto/lungo), espresso vs drip coffee caffeine comparison table, why "espresso is stronger" needs nuance (concentration vs total mg), dose/roast/species/extraction factors, brand-specific data (Starbucks, Nespresso), daily limits, decaf caveat
+   - FAQ schema (7 Q&As targeting all PAA questions in the space)
+   - Internal links to: espresso ratio guide, grind size guide, espresso beans vs coffee beans, espresso vs drip coffee
+
+2. **Optimized: /guides/how-to-make-a-macchiato/**
+   - Added 3 new PAA FAQs to front matter (auto-generates FAQPage schema): "How is a macchiato made?", "Is a macchiato just espresso and milk?", "Is a macchiato suitable for lactose intolerance?" — direct targets of the 4 PAA questions in "how to make a macchiato" SERP
+   - Added Recipe JSON-LD inline (SERP has "recipes" feature, and top 6 results are all caramel macchiato recipes — recipe schema essential)
+   - Added visible FAQ section in body (page previously had schema-only FAQs, invisible to users)
+   - Added caramel macchiato callout + link to /recipes/caramel-macchiato-recipe/ (since SERP is dominated by caramel macchiato intent — our page needed to acknowledge and bridge to that content)
+
+**Reasoning:**
+- Espresso caffeine cluster: near-zero competition (1/100 for the primary keyword) at massive volume (49,500/mo) is the rarest combination in SEO. This is a "fact query" with clear informational intent and no commercial angle — exactly what new sites can rank for quickly. The cluster spans multiple related queries all pointing to one URL.
+- Macchiato optimization: SERP analysis revealed our page is a mismatch — Google's "recipes" feature and 5 out of 6 organic results are caramel macchiato/Starbucks content, yet our page barely acknowledges this. Adding Recipe schema + PAA FAQs + caramel macchiato callout aligns with SERP intent without changing our core content.
+
+**Outcome:** Commit c0318fb pushed. Vercel deployment triggered. Site now has 61 published articles.
+
+**Next (Pulse 31):** Optimize mocha recipe page (16 imp, pos 70 — biggest recipe page). Run SERP analysis on mocha to identify content gaps. Check if espresso-caffeine starts picking up impressions (near-zero competition should mean rapid indexing). Check SC for new pages starting to index.
+
+---
+
 ## 2026-04-15 06:00 IDT — Pulse 29: Flat White + Ristretto Optimization + White Espresso Guide
 
 **Action:** Optimized two high-impression pages (flat white, ristretto) + published new /guides/white-espresso/. Site now at 60 articles.
