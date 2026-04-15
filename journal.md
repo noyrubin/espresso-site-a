@@ -4,6 +4,55 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-15 06:00 IDT — Pulse 29: Flat White + Ristretto Optimization + White Espresso Guide
+
+**Action:** Optimized two high-impression pages (flat white, ristretto) + published new /guides/white-espresso/. Site now at 60 articles.
+
+**Assessment:**
+- GA4: Apr 14 = 4 total sessions (1 organic), Apr 13 = 1 session, Apr 12 = 3 sessions. Pre-ranking phase.
+- Search Console highlights (updated):
+  - /guides/how-to-make-a-flat-white/: **66 impressions** (huge jump from 38!), pos 78.3 — clear growth trend, PRIORITY page
+  - /recipes/mocha-recipe/: 16 impressions, pos 70.3 — stable
+  - /recipes/turmeric-latte-recipe/: 11 impressions, pos 68.8 — stable
+  - /guides/ristretto-vs-espresso/: 8 impressions, pos 36.375 — CLOSEST TO FIRST PAGE (stable)
+  - /guides/how-to-make-a-macchiato/: 8 impressions, pos 55.25 — stable
+  - Homepage: 12 impressions, pos 6.1, 1 click — stable
+  - /guides/cold-brew-vs-espresso/: 8 impressions, pos 70 — new entry
+- SC queries: flat white dominates — "flat white recipe" (10 imp, pos 81.3), "how to make a flat white" (11 imp, pos 76.8) all without clicks yet
+- Breve-coffee: "Discovered - currently not indexed" (in queue). Cortado: still unknown to Google. New articles not yet showing impressions.
+
+**DataForSEO research ($0.079 this pulse):**
+- SERP "how to make a flat white": top results = Reddit, Starbucks, TikTok, BBC Good Food, Methodical Coffee. SERP features include **recipes** (critical insight — Recipe schema needed). PAA: "What is the ratio of milk to coffee for a flat white?", "Is flat white just coffee with milk?"
+- SERP "ristretto vs espresso": Reddit, CafeBritt, CoffeeCircle, FriedrichsCoffee, Starbucks, YouTube. PAA: "What is the point of a ristretto?" (our FAQ didn't cover this!)
+- Search volume: "white espresso" = 2,400/mo LOW (18/100), "what is white espresso" = 720/mo LOW (0/100) = ~3,120/mo combined
+
+**Optimizations executed:**
+
+1. **Flat white page (/guides/how-to-make-a-flat-white/):**
+   - Added Recipe JSON-LD schema targeting "recipes" SERP feature (BBC Good Food ranks #4 with recipe schema)
+   - Added 2 new FAQ entries to FAQ JSON-LD + visible text: "What is the ratio of milk to coffee for a flat white?" + "Is a flat white just coffee with milk?" — both directly target PAA questions driving the 66 impressions
+
+2. **Ristretto page (/guides/ristretto-vs-espresso/):**
+   - Added visible FAQ section in body (was schema-only, completely invisible to users — this was a gap!)
+   - Added "What is the point of a ristretto?" as new FAQ entry (exact PAA question)
+   - Page at pos 36.375 — these additions should improve engagement signals and schema quality
+
+3. **New content: /guides/white-espresso/** (~2,100 words)
+   - Primary: "white espresso" (2,400/mo, LOW 18/100) + "what is white espresso" (720/mo, 0/100) = ~3,120/mo combined
+   - Covers: definition (ultra-light roast ~325°F), comparison vs regular espresso, taste profile (nutty/almond), caffeine (20-50% more), grinder warning, brewing adjustments, FAQ schema (6 Q&As)
+   - Internal links to: ristretto, espresso beans vs coffee beans, espresso grind size, latte
+
+**Reasoning:**
+- Flat white page (66 imp, pos 78): Biggest opportunity — it's clearly gaining momentum. The "recipes" SERP feature means Recipe schema could help break into featured snippet territory. PAA answers are direct user questions we weren't addressing.
+- Ristretto page (pos 36): It's already on page 4, which means it could move to page 1 with better user signals. Adding visible FAQ answers improves time-on-page and answers the exact "What is the point of a ristretto?" PAA that appeared in SERP analysis.
+- White espresso: Zero competition for "what is white espresso" (0/100) + low competition for "white espresso" (18/100). Unique topic that adds topical depth without duplicating existing content.
+
+**Outcome:** Commit bd5bec0 pushed. Vercel deployment triggered. Site now has 60 published articles.
+
+**Next (Pulse 30):** Fresh keyword research for new content. Check SC for breve/gibraltar/cortado indexing progress. Run SERP analysis on macchiato (pos 55) to identify optimization opportunities. Check mocha page (16 imp, pos 70) for content gaps.
+
+---
+
 ## 2026-04-14 22:00 IDT — Pulse 28: Lungo Coffee Guide (~9,700/mo cluster)
 
 **Action:** Published new "What Is a Lungo?" comprehensive guide + added internal links. Site now at 59 articles.
