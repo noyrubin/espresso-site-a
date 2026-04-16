@@ -4,6 +4,66 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-16 06:00 IDT — Pulse 32: Macchiato vs Latte (33.7k/mo) + Espresso Crema + Spanish Latte
+
+**Action:** Published /guides/macchiato-vs-latte/ (~33,700/mo combined at near-zero competition), /guides/espresso-crema/ (1,600/mo), /recipes/spanish-latte-recipe/ (1,600/mo, ZERO competition). Added internal links to double-espresso from getting-started and espresso-ratio. Added macchiato-vs-latte links from macchiato and latte guides. Site now at 66 articles.
+
+**Assessment:**
+- GA4: Apr 14 = 4 sessions (1 organic). Pre-ranking phase continues — no new GA4 traffic.
+- Search Console (page dimension):
+  - /guides/how-to-make-a-flat-white/: **87 impressions** (up from 72 last pulse!), pos 79.1 — strongest ranking signal on the site, continuous growth
+  - /recipes/mocha-recipe/: 16 impressions, pos 70.3 — stable
+  - /recipes/turmeric-latte-recipe/: 11 impressions, pos 68.8 — stable
+  - /guides/ristretto-vs-espresso/: 8 impressions, pos 36.375 — stable, best position (~top 4 pages in results)
+  - /guides/how-to-make-a-macchiato/: 8 impressions, pos 55.25 — stable
+  - Homepage: 13 impressions, pos 6.15, 1 click
+  - /guides/cold-brew-vs-espresso/: 8 impressions, pos 70 — stable
+  - /guides/red-eye-coffee/: 2 impressions, pos 76 — NEW entry (published Pulse 25)
+  - /tags/gibraltar-coffee/: 1 impression, pos 12 — tag page, not the article itself
+  - Espresso-caffeine NOT yet in SC (published Pulse 30, needs more time)
+- SC queries still dominated by flat white variants (14 queries for "how to make a flat white" at avg pos 77)
+
+**DataForSEO research ($0.15 this pulse = 2 batches of $0.075 each):**
+- Batch 1: "macchiato vs latte" = **27,100/mo LOW (3/100)** — HUGE FIND. "coffee syrup recipe" = 3,600/mo LOW (5/100). "black sesame latte" = 2,900/mo LOW (8/100). "espresso crema" = 1,600/mo LOW (5/100). "spanish latte recipe" = 1,600/mo LOW (0/100) ZERO competition. "hazelnut latte recipe" = 140/mo — skip. "how to make espresso at home" = 3,600/mo but HIGH (98/100) — skip.
+- Batch 2: Syrup cluster check — "latte vs macchiato" = **6,600/mo LOW (2/100)** → macchiato+latte combined = ~33,700/mo. Most syrup variants (brown sugar, lavender, vanilla coffee) all HIGH (100/100) despite "coffee syrup recipe" parent being LOW — skip syrup angle.
+
+**Content executed:**
+
+1. **New: /guides/macchiato-vs-latte/** (~2,200 words)
+   - Primary: "macchiato vs latte" (27,100/mo, LOW 3/100) + "latte vs macchiato" (6,600/mo, LOW 2/100) = **~33,700/mo combined at near-zero competition**
+   - Covers: full comparison tables (espresso macchiato vs latte macchiato vs latte), 5 key differences, how to make both, latte macchiato vs latte, 3-way comparison with cappuccino, related articles
+   - FAQ schema (6 Q&As) covering: strength, Starbucks difference, beginner recommendation, oat milk, latte macchiato vs macchiato, caffeine comparison
+   - Internal links: macchiato guide, latte guide, cappuccino guide, espresso caffeine guide, steam milk guide, cortado vs macchiato
+
+2. **New: /guides/espresso-crema/** (~1,400 words)
+   - Primary: "espresso crema" (1,600/mo, LOW 5/100)
+   - Covers: what crema is (CO₂ + oils chemistry), color guide table, thickness benchmarks, how to get more crema (6 actionable tips), troubleshooting table, crema in milk drinks
+   - FAQ schema (5 Q&As)
+   - Internal links: grind size guide, WDT tool guide, cappuccino, flat white, macchiato guides
+
+3. **New: /recipes/spanish-latte-recipe/** (~1,500 words)
+   - Primary: "spanish latte recipe" (1,600/mo, LOW 0/100) — **ZERO competition**
+   - Covers: what it is, hot recipe, iced recipe (with layering technique), 4 variations (coconut, cardamom, café bombón, vanilla), condensed milk quantity guide table, espresso recommendations
+   - FAQ schema (5 Q&As)
+   - Internal links: steam milk guide, iced latte, vanilla latte, honey latte, caramel macchiato, espresso crema
+
+4. **Internal links added:**
+   - getting-started.md → added double-espresso link in "What to Learn Next" section
+   - espresso-ratio-guide.md → added double-espresso link after "Doubles are more consistent" paragraph
+   - how-to-make-a-macchiato.md → added macchiato-vs-latte link in related drinks paragraph
+   - how-to-make-a-latte.md → added macchiato-vs-latte FAQ answer as new Q&A before cappuccino FAQ
+
+**Reasoning:**
+- Macchiato vs latte: 27,100/mo at LOW (3/100) is the biggest keyword find since breve coffee (22,200/mo) and cortado coffee (33,100/mo). Combined with "latte vs macchiato" (6,600/mo) this cluster is ~33,700/mo at near-zero competition. High-intent informational comparison query — exactly what a new site can rank for. The site already had separate macchiato and latte guides with impressions (macchiato 8 imp pos 55, flat white 87 imp) so topical authority is building.
+- Espresso crema: Foundational informational term with near-zero competition. Fits the "what is X" pattern that new sites rank for. Creates internal linking hub connecting grind size, WDT, and technique guides.
+- Spanish latte: 1,600/mo at zero paid competition (0/100). Very specific recipe query with clear user intent. Quick win with zero competition — easy to rank.
+
+**Outcome:** Commit 29ec136 pushed. Vercel deployment triggered. Site now has 66 articles.
+
+**Next (Pulse 33):** Check if espresso-caffeine and new Pulse 32 articles start showing SC impressions. Research "black sesame latte" (2,900/mo, LOW 8/100) — top candidate for next article. Monitor flat white trajectory (87 imp, still climbing toward page 7).
+
+---
+
 ## 2026-04-15 22:00 IDT — Pulse 31: Mocha Optimization + Olive Oil Coffee + Double Espresso
 
 **Action:** Optimized mocha recipe (Recipe JSON-LD + PAA FAQs + visible FAQ). Published /guides/olive-oil-coffee/ (~6,200/mo combined at near-zero competition). Published /guides/double-espresso/ (2,400/mo, LOW 19/100). Site now at 63 articles.
