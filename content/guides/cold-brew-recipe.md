@@ -236,7 +236,7 @@ Yes, decaf works well for cold brew. The slow cold extraction is gentle enough t
 
 Once you've dialed in your ratio and steep time, cold brew becomes one of the easiest coffee routines you can build. Make a batch, filter it, and you have two weeks of smooth, delicious iced drinks ready whenever you want them.
 
-For the cold foam to go on top, see our [how to make cold foam guide](/guides/how-to-make-cold-foam/). For understanding how cold brew compares to espresso in terms of process and flavor, check out our [cold brew vs espresso comparison](/guides/cold-brew-vs-espresso/).
+For the cold foam to go on top, see our [how to make cold foam guide](/guides/how-to-make-cold-foam/). For understanding how cold brew compares to espresso in terms of process and flavor, check out our [cold brew vs espresso comparison](/guides/cold-brew-vs-espresso/). Wondering how cold brew stacks up against regular iced coffee? See [cold brew vs iced coffee](/guides/cold-brew-vs-iced-coffee/) for a full breakdown of brewing, flavor, and caffeine differences.
 
 {{< faq >}}
 **Q: What is the best coffee-to-water ratio for cold brew?**
