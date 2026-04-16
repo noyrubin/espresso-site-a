@@ -151,7 +151,7 @@ All of this applies whether you're pulling singles or doubles. The ratio is the 
 **Single (single basket, ~9g dose):** 9g dose → 18g yield → 1:2 ratio
 **Double (double basket, ~18g dose):** 18g dose → 36g yield → 1:2 ratio
 
-**Doubles are more consistent.** Singles are harder to extract evenly because the thinner coffee bed is more prone to channeling. Almost all specialty coffee uses doubles.
+**Doubles are more consistent.** Singles are harder to extract evenly because the thinner coffee bed is more prone to channeling. Almost all specialty coffee uses doubles. See our [double espresso guide](/guides/double-espresso/) for a deeper look at why the doppio is the standard building block of almost every espresso drink.
 
 ## Practical Setup: What You Need to Measure Ratio
 

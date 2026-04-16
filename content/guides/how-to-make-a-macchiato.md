@@ -155,7 +155,7 @@ Neither is wrong — just know which tradition you're ordering from.
 | Latte macchiato | 8–12 oz | 1–2 shots | 6–8 oz with foam top | Layered, milk-forward |
 | Latte | 8–12 oz | 2 shots | 6–10 oz thin microfoam | Mixed, no layers |
 
-See our [cortado and flat white recipe guide](/recipes/cortado-and-flat-white-recipe/) for more on the smaller milk drinks, our [flat white vs latte comparison](/guides/flat-white-vs-latte/) for a deep dive on those two, or [cortado vs macchiato](/guides/cortado-vs-macchiato/) for a direct side-by-side comparison of these two drinks. For a sweeter espresso drink with a similar layered appeal, see our [caramel macchiato recipe](/recipes/caramel-macchiato-recipe/).
+See our [macchiato vs latte comparison](/guides/macchiato-vs-latte/) for a full breakdown of how these two drinks differ in ratio, texture, and flavor. For smaller milk drinks, see our [cortado and flat white recipe guide](/recipes/cortado-and-flat-white-recipe/) or [cortado vs macchiato](/guides/cortado-vs-macchiato/) for a direct side-by-side comparison. For a sweeter espresso drink with a similar layered appeal, see our [caramel macchiato recipe](/recipes/caramel-macchiato-recipe/).
 
 ---
 

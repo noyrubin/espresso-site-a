@@ -185,6 +185,10 @@ See our full [iced latte recipe](/recipes/iced-latte-recipe/) for more variation
 }
 </script>
 
+**What's the difference between a latte and a macchiato?**
+
+A macchiato is much smaller (1–2 oz) and has only a tiny amount of milk — just a teaspoon of foam to "stain" the espresso. A latte is 8–12 oz with mostly steamed milk. For a full side-by-side breakdown, see our [macchiato vs latte guide](/guides/macchiato-vs-latte/).
+
 **What's the difference between a latte and a cappuccino?**
 
 A latte has more steamed milk and a thin foam layer (~5mm), creating a smooth, creamy drink. A cappuccino uses equal thirds of espresso, steamed milk, and thick foam — stronger flavor, airier texture, usually served in a smaller cup. See our [cappuccino guide](/guides/how-to-make-cappuccino/) for a full comparison.

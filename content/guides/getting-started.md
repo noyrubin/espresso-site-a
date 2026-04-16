@@ -170,6 +170,7 @@ Once you can pull consistent shots, the next steps are:
 - **[How to make a macchiato](/guides/how-to-make-a-macchiato/)** - Both espresso macchiato and latte macchiato, explained
 - **[Americano vs Long Black](/guides/americano-vs-long-black/)** - If you prefer black espresso drinks, understand the difference
 - **[Ristretto vs Espresso](/guides/ristretto-vs-espresso/)** - How pulling a shorter shot changes the flavor
+- **[Double Espresso (Doppio)](/guides/double-espresso/)** - Why most espresso drinks are built on a double shot, and how to pull one consistently
 - **[Lungo vs Americano](/guides/lungo-vs-americano/)** - The longer shot compared to adding water after
 - **[Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/)** - The viral Starbucks-style iced espresso you can make at home
 - **[Espresso Tonic](/recipes/espresso-tonic/)** - A surprisingly refreshing drink: espresso over tonic water with ice
