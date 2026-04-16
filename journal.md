@@ -4,6 +4,59 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-16 14:00 IDT — Pulse 33: Cappuccino vs Latte MEGA Cluster (~89,700/mo) + Black Sesame Latte
+
+**Action:** Published /guides/cappuccino-vs-latte/ (~89,700/mo combined at near-zero competition — BIGGEST CLUSTER SINCE ESPRESSO CAFFEINE) and /recipes/black-sesame-latte-recipe/ (~3,760/mo combined). Added internal links from cappuccino guide and macchiato-vs-latte to new cappuccino-vs-latte page. Site now at 68 articles.
+
+**Assessment:**
+- GA4: Apr 14 = 4 sessions (1 organic), Apr 13 = 1 session. Still pre-ranking phase, organic traffic trickling in.
+- Search Console (page dimension):
+  - /guides/how-to-make-a-flat-white/: **96 impressions** (up from 87 last pulse!), pos 79.0 — consistent steady climb, clearest ranking signal on site
+  - /guides/red-eye-coffee/: **7 impressions** pos 70.7 — jumped from 2 impressions last pulse. Good growth.
+  - /recipes/mocha-recipe/: 16 impressions, pos 70.3 — stable
+  - /recipes/turmeric-latte-recipe/: 11 impressions, pos 68.8 — stable
+  - /guides/ristretto-vs-espresso/: 8 impressions, pos 36.375 — stable, best content position
+  - /guides/how-to-make-a-macchiato/: 8 impressions, pos 55.25 — stable
+  - /guides/cold-brew-vs-espresso/: 8 impressions, pos 70 — stable
+  - Homepage: 13 impressions, pos 6.15, 1 click
+  - /tags/weiss-distribution-technique/: 1 impression, pos 7 (tag page)
+- Note: Espresso-caffeine (Pulse 30), macchiato-vs-latte + espresso-crema + spanish-latte (Pulse 32) not yet visible in SC — need more indexing time.
+- SC queries dominated by flat white variants: "how to make a flat white" 15 imp pos 77, "flat white recipe" 12 imp pos 84, "how to make a flat white at home" 4 imp pos 65.
+
+**DataForSEO research ($0.15 this pulse = 2 search-volume batches):**
+- Batch 1: "cappuccino vs latte" = **49,500/mo LOW (6/100)** — HUGE. "latte vs cappuccino" → confirmed 27,100/mo LOW (6/100). "types of coffee drinks" = 27,100/mo MEDIUM (53/100) — too competitive. "black sesame latte" = 2,900/mo LOW (8/100) — confirmed for this pulse. "best milk frother" = HIGH (100/100) — skip. "types of espresso drinks" = MEDIUM (60/100) — skip.
+- Batch 2: Full cappuccino cluster — "latte vs cappuccino" = 27,100/mo LOW (6/100), "cappuccino vs flat white" = 6,600/mo LOW (4/100), "cappuccino vs latte vs macchiato" = 3,600/mo LOW (10/100), "cappuccino vs macchiato" = 2,900/mo LOW (2/100). **TOTAL CLUSTER: ~89,700/mo at near-zero competition.** "black sesame latte recipe" = 720/mo LOW (0/100).
+
+**Content executed:**
+
+1. **New: /guides/cappuccino-vs-latte/** (~2,200 words)
+   - Primary: "cappuccino vs latte" (49,500/mo, LOW 6/100) + "latte vs cappuccino" (27,100/mo, LOW 6/100)
+   - Also captures: "cappuccino vs flat white" (6,600/mo, LOW 4/100), "cappuccino vs latte vs macchiato" (3,600/mo, LOW 10/100), "cappuccino vs macchiato" (2,900/mo, LOW 2/100)
+   - **Total cluster: ~89,700/mo combined at near-zero competition**
+   - Covers: full comparison table, 5 key differences, cappuccino vs flat white section, cappuccino vs latte vs macchiato 4-way comparison, cappuccino vs macchiato comparison, how to make both, calorie comparison table by milk type, iced versions
+   - FAQ schema (8 Q&As) covering: main difference, caffeine, strength, beginner recommendation, flat white difference, no-machine method, macchiato difference, calories
+   - Internal links: cappuccino guide, latte guide, flat white vs latte, macchiato-vs-latte, steam milk guide
+
+2. **New: /recipes/black-sesame-latte-recipe/** (~1,600 words)
+   - Primary: "black sesame latte" (2,900/mo, LOW 8/100) + "black sesame latte recipe" (720/mo, LOW 0/100) = **~3,760/mo combined**
+   - Covers: what it is, homemade black sesame paste recipe, hot and iced versions, no-espresso variation, milk comparison table, tips, nutritional benefits
+   - FAQ schema (6 Q&As) covering: taste, where to buy, without espresso, caffeine, powder vs paste, black vs white sesame
+   - Internal links: matcha latte, strawberry matcha, iced matcha, lavender latte, rose latte, pistachio latte
+
+3. **Internal links added:**
+   - how-to-make-cappuccino.md → added cappuccino-vs-latte link in closing section
+   - macchiato-vs-latte.md → added cappuccino-vs-latte link in Related Comparisons section
+
+**Reasoning:**
+- Cappuccino vs latte cluster at 89,700/mo LOW is exceptional. "Cappuccino vs latte" alone (49,500/mo) is the second-largest individual keyword I've found after espresso martini. The comparison query pattern has proven to work (macchiato-vs-latte was Pulse 32, flat-white-vs-latte has 96 impressions). All five keywords in the cluster have LOW competition (2–10/100) — perfect new-site territory. The site now has deep cappuccino + latte + flat white + macchiato topical coverage, so this comparison page sits in a very well-linked context.
+- Black sesame latte: trending specialty drink, 2,900/mo at LOW (8/100), zero commercial competition. The nutty/trendy drinks cluster is working (pistachio latte, matcha variants all indexed). Quick win with genuine content value.
+
+**Outcome:** Commit 93137d1 pushed. Vercel deployment triggered. Site now has 68 articles.
+
+**Next (Pulse 34):** Monitor if espresso-caffeine + macchiato-vs-latte + cappuccino-vs-latte appear in SC. Research "americano vs espresso" (check if high volume), "cold brew vs iced coffee" (check), and other comparison clusters. Flat white at 96 impressions and climbing — watch for position breakthrough.
+
+---
+
 ## 2026-04-16 06:00 IDT — Pulse 32: Macchiato vs Latte (33.7k/mo) + Espresso Crema + Spanish Latte
 
 **Action:** Published /guides/macchiato-vs-latte/ (~33,700/mo combined at near-zero competition), /guides/espresso-crema/ (1,600/mo), /recipes/spanish-latte-recipe/ (1,600/mo, ZERO competition). Added internal links to double-espresso from getting-started and espresso-ratio. Added macchiato-vs-latte links from macchiato and latte guides. Site now at 66 articles.

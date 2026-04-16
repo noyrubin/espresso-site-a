@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 13 (Pulse 32) — 66 articles published. SC highlights: flat-white now **87 impressions** pos 79.1 (up from 72!), mocha 16 imp pos 70.3, turmeric 11 imp pos 68.8, ristretto 8 imp pos 36.375, macchiato 8 imp pos 55.25. Red eye coffee NEW at 2 imp pos 76. Gibraltar TAG page at pos 12. GA4: Apr 14 = 4 sessions (1 organic); still pre-ranking phase but impressions growing. Pulse 32: Published macchiato-vs-latte (33,700/mo combined at near-zero competition — BIGGEST CLUSTER THIS PULSE), espresso-crema (1,600/mo), spanish-latte-recipe (1,600/mo, ZERO competition). Added internal links double-espresso from getting-started + espresso-ratio. Added macchiato-vs-latte links from macchiato guide + latte guide. DataForSEO spend this pulse: $0.15 (2 search-volume batches). Cumulative: well under $1/day.
+Day 13 (Pulse 33) — 68 articles published. SC highlights: flat-white now **96 impressions** (up from 87!), pos 79.0 — trajectory still climbing. Red eye coffee up to 7 imp pos 70.7 (was 2 last pulse). Mocha 16 imp, turmeric 11 imp, ristretto 8 imp pos 36.4 (best content position), macchiato 8 imp, cold-brew-vs-espresso 8 imp. Homepage 13 imp pos 6.15, 1 click. GA4: still pre-ranking, 1 organic session Apr 14. Pulse 33: Published cappuccino-vs-latte MEGA guide (~89,700/mo combined at near-zero competition — BIGGEST CLUSTER SINCE ESPRESSO CAFFEINE) + black-sesame-latte-recipe (3,760/mo combined). Added cappuccino-vs-latte links from cappuccino guide + macchiato-vs-latte guide. DataForSEO spend this pulse: $0.15 (2 search-volume batches). Cumulative: well under $1/day.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -84,6 +84,8 @@ Day 13 (Pulse 32) — 66 articles published. SC highlights: flat-white now **87 
 | macchiato vs latte | 27,100 | LOW (3/100) | /guides/macchiato-vs-latte/ | Published + FAQ (Pulse 32) — also captures "latte vs macchiato" (6,600/mo, LOW 2/100) = ~33,700/mo combined |
 | espresso crema | 1,600 | LOW (5/100) | /guides/espresso-crema/ | Published + FAQ (Pulse 32) |
 | spanish latte recipe | 1,600 | LOW (0/100) | /recipes/spanish-latte-recipe/ | Published + FAQ (Pulse 32) — ZERO competition |
+| cappuccino vs latte | 49,500 | LOW (6/100) | /guides/cappuccino-vs-latte/ | Published + FAQ (Pulse 33) — also captures "latte vs cappuccino" (27,100/mo, LOW 6/100), "cappuccino vs flat white" (6,600/mo, LOW 4/100), "cappuccino vs latte vs macchiato" (3,600/mo, LOW 10/100), "cappuccino vs macchiato" (2,900/mo, LOW 2/100) = **~89,700/mo combined at near-zero competition** |
+| black sesame latte | 2,900 | LOW (8/100) | /recipes/black-sesame-latte-recipe/ | Published + FAQ (Pulse 33) — also captures "black sesame latte recipe" (720/mo, LOW 0/100) = ~3,760/mo combined |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -91,7 +93,8 @@ Day 13 (Pulse 32) — 66 articles published. SC highlights: flat-white now **87 
 ## Content Pipeline
 
 ### Ideas Backlog
-- "black sesame latte" (2,900/mo, LOW 8/100) — trending drink, zero commercial competition — good candidate next pulse
+- "mocha vs latte" (720/mo, LOW?) — small, probably covered via macchiato-vs-latte + cappuccino-vs-latte pages
+- "espresso vs coffee" (high volume?) — check if separate from espresso-vs-drip already covered
 - "coffee syrup recipe" (3,600/mo, LOW 5/100) — individual syrup keywords all have HIGH competition (brown sugar 100/100, lavender 100/100, vanilla coffee 100/100) — skip for now despite parent keyword being LOW
 - "hazelnut latte recipe" (140/mo, LOW 1/100) — too small, skip standalone
 - "how to make espresso at home" (3,600/mo, HIGH 98/100) — too competitive despite volume
@@ -150,6 +153,8 @@ Day 13 (Pulse 32) — 66 articles published. SC highlights: flat-white now **87 
 - [DONE Pulse 32] "macchiato vs latte" (27,100/mo, LOW 3/100) + "latte vs macchiato" (6,600/mo, LOW 2/100) = ~33,700/mo combined — published as /guides/macchiato-vs-latte/. BEST CLUSTER THIS PULSE.
 - [DONE Pulse 32] "espresso crema" (1,600/mo, LOW 5/100) — published as /guides/espresso-crema/.
 - [DONE Pulse 32] "spanish latte recipe" (1,600/mo, LOW 0/100) — published as /recipes/spanish-latte-recipe/. Zero competition.
+- [DONE Pulse 33] "cappuccino vs latte" (49,500/mo, LOW 6/100) MEGA CLUSTER — published as /guides/cappuccino-vs-latte/. Also captures "latte vs cappuccino" (27,100/mo), "cappuccino vs flat white" (6,600/mo), "cappuccino vs latte vs macchiato" (3,600/mo), "cappuccino vs macchiato" (2,900/mo) = ~89,700/mo combined at near-zero competition. BIGGEST CLUSTER SINCE ESPRESSO CAFFEINE.
+- [DONE Pulse 33] "black sesame latte" (2,900/mo, LOW 8/100) + "black sesame latte recipe" (720/mo, LOW 0/100) = ~3,760/mo combined — published as /recipes/black-sesame-latte-recipe/. Trending specialty drink.
 - "nitro cold brew" (18,100/mo, MEDIUM 47/100) — borderline competition, hold for later
 - "cold brew concentrate recipe" (1,300/mo, LOW 12/100) — small, consider adding to cold brew recipe page as variation
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
@@ -228,6 +233,8 @@ Day 13 (Pulse 32) — 66 articles published. SC highlights: flat-white now **87 
 64. /guides/macchiato-vs-latte/ (NEW pulse 32, + FAQ) — ~33,700/mo combined: "macchiato vs latte" (27,100/mo, LOW 3/100) + "latte vs macchiato" (6,600/mo, LOW 2/100) — full comparison with tables, recipes, variations, FAQs
 65. /guides/espresso-crema/ (NEW pulse 32, + FAQ) — 1,600/mo LOW (5/100) — crema science, color guide, troubleshooting table, how to get more crema
 66. /recipes/spanish-latte-recipe/ (NEW pulse 32, + FAQ) — 1,600/mo LOW (0/100) ZERO competition — hot, iced, coconut, cardamom, café bombón variations
+67. /guides/cappuccino-vs-latte/ (NEW pulse 33, + FAQ) — ~89,700/mo combined: "cappuccino vs latte" (49,500/mo, LOW 6/100) + "latte vs cappuccino" (27,100/mo, LOW 6/100) + "cappuccino vs flat white" (6,600/mo, LOW 4/100) + "cappuccino vs latte vs macchiato" (3,600/mo, LOW 10/100) + "cappuccino vs macchiato" (2,900/mo, LOW 2/100)
+68. /recipes/black-sesame-latte-recipe/ (NEW pulse 33, + FAQ) — ~3,760/mo combined: "black sesame latte" (2,900/mo, LOW 8/100) + "black sesame latte recipe" (720/mo, LOW 0/100)
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -272,10 +279,10 @@ Day 13 (Pulse 32) — 66 articles published. SC highlights: flat-white now **87 
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 33:** Check if espresso-caffeine, macchiato-vs-latte, and espresso-crema pages start showing SC impressions (new = should appear fast). Research next clusters: "black sesame latte" (2,900/mo, LOW 8/100) is the top candidate. Check "latte art for beginners" volume update, and explore "types of coffee drinks" or "espresso bar setup" angles. Monitor flat white — at 87 impressions pos 79 it may break page 7 soon.
-2. **Pulse 34:** Look at whether any high-impression pages (flat white 87 imp, mocha 16 imp) have improved in position. If flat white cracks pos 50–60 range, an optimization pass (title tag, first paragraph) could accelerate it. Consider a "home espresso setup guide" cluster: comprehensive page covering equipment selection that links to all review/guide content.
-3. **Pulse 35:** Check if breve (22,200/mo), cortado (33,100/mo), cold foam (33,100/mo), and the new macchiato-vs-latte (33,700/mo) pages are starting to rank — these are the highest-volume pages. Any first-page position for these would be a major traffic unlock.
+1. **Pulse 34:** Check if espresso-crema, macchiato-vs-latte (Pulse 32) and now cappuccino-vs-latte (Pulse 33) start showing SC impressions. Research remaining comparison clusters: "americano vs espresso" (check volume), "cold brew vs iced coffee" (check), "latte art for beginners" (explore). Monitor flat white trajectory — at 96 impressions pos 79 it's climbing consistently, may hit pos 70 range soon.
+2. **Pulse 35:** Look at whether any high-impression pages (flat white 96 imp, mocha 16 imp) have improved positions. If flat white cracks pos 60–70 range, consider a title optimization pass. Check if cappuccino-vs-latte (89,700/mo cluster) is indexed and showing any impressions — this is the highest-priority new page. Also check if macchiato-vs-latte has first impressions.
+3. **Pulse 36:** If flat white continues climbing toward page 5–6, consider whether adding a "related questions" section or expanding FAQ could help with featured snippet eligibility. Check cortado (33,100/mo) and cold foam (33,100/mo) positions — any movement toward top 50 is progress.
 
 ---
-*Last updated: 2026-04-16 (Pulse 32)*
+*Last updated: 2026-04-16 (Pulse 33)*
 
