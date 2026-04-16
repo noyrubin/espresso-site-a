@@ -154,6 +154,7 @@ The cappuccino sits between the macchiato and latte in strength, with a more pro
 
 ## Related Comparisons
 
+- [Cappuccino vs Latte](/guides/cappuccino-vs-latte/) — the full cappuccino comparison cluster: vs latte, flat white, macchiato
 - [Cortado vs Macchiato](/guides/cortado-vs-macchiato/) — two small, espresso-forward drinks compared
 - [Flat White vs Latte](/guides/flat-white-vs-latte/) — flat white is closer to a latte but more espresso-forward
 - [How to Make a Macchiato](/guides/how-to-make-a-macchiato/) — full macchiato guide with caramel variations
