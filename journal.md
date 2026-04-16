@@ -4,6 +4,59 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-16 22:00 IDT — Pulse 34: Cold Brew vs Iced Coffee (8.1k/mo) + Cookie Butter Latte (~6.4k/mo near-zero)
+
+**Action:** Published /guides/cold-brew-vs-iced-coffee/ (8,100/mo LOW 10/100) and /recipes/cookie-butter-latte-recipe/ (~6,440/mo combined at near-zero competition). Added internal links from cold-brew-recipe and cold-brew-vs-espresso to new cold-brew-vs-iced-coffee guide. Site now at 70 articles.
+
+**Assessment:**
+- GA4: Latest data Apr 14 = 4 sessions (1 organic). Still pre-ranking, no new traffic data yet.
+- Search Console (page dimension):
+  - /guides/how-to-make-a-flat-white/: **101 impressions** (up from 96 last pulse!) pos 78.9 — crossed 100 impressions, steady climb continues
+  - /guides/red-eye-coffee/: **10 impressions** (up from 7) pos 68.5 — growing well
+  - /recipes/mocha-recipe/: 16 impressions, pos 70.3 — stable
+  - /recipes/turmeric-latte-recipe/: 11 impressions, pos 68.8 — stable
+  - /guides/ristretto-vs-espresso/: 8 impressions, pos 36.375 — stable, best content position
+  - /guides/how-to-make-a-macchiato/: 8 impressions, pos 55.25 — stable
+  - /guides/cold-brew-vs-espresso/: 8 impressions, pos 70 — stable
+  - **NEW: /guides/white-espresso/: 1 impression, pos 4** — extraordinary position for a newer article, only 1 impression but top-5 ranking territory
+  - Homepage: 13 impressions, pos 6.15, 1 click
+  - tags/gibraltar-coffee: 1 impression, pos 12
+  - tags/weiss-distribution-technique: 1 impression, pos 7
+- SC queries: Flat white still dominates — "how to make a flat white" 15 imp pos 77, "flat white recipe" 13 imp pos 84, "how to make a flat white at home" 4 imp pos 65.25. Also: "cold brew vs espresso" 2 imp pos 48.5 (strong position for that page).
+- cappuccino-vs-latte, macchiato-vs-latte, espresso-caffeine still not visible in SC — need indexing time.
+
+**DataForSEO research ($0.15 this pulse = 2 batches):**
+- Batch 1: "cold brew vs iced coffee" = **8,100/mo LOW (10/100)** — great comparison keyword. "cookie butter latte" = **5,400/mo LOW (1/100)** — near-zero competition trending drink. "how to froth milk" = 4,400/mo LOW (32/100). "lavender matcha latte" = 2,400/mo LOW (27/100). "americano vs espresso" = 1,600/mo LOW (1/100). Others too small.
+- Batch 2: Cluster expansion — "how to froth milk without frother" = 2,400/mo LOW (25/100). "cookie butter latte recipe" = 720/mo LOW (1/100). "biscoff latte recipe" = 320/mo LOW (0/100). Cookie butter TOTAL cluster: ~6,440/mo at near-zero competition.
+
+**Content executed:**
+
+1. **New: /guides/cold-brew-vs-iced-coffee/** (~1,800 words)
+   - Primary: "cold brew vs iced coffee" (8,100/mo, LOW 10/100)
+   - Also captures: "cold brew coffee vs iced coffee", "iced coffee vs cold brew" (inverse queries)
+   - Covers: full comparison table, how each is made, flavor differences, caffeine breakdown, acidity, shelf life, which to choose for your situation, tips for making each better, cold coffee family comparison table, 7 FAQs
+   - Internal links: cold-brew-recipe, cold-brew-vs-espresso, how-to-make-iced-coffee, how-to-make-cold-foam, espresso-caffeine
+
+2. **New: /recipes/cookie-butter-latte-recipe/** (~1,500 words)
+   - Primary: "cookie butter latte" (5,400/mo, LOW 1/100) + "cookie butter latte recipe" (720/mo, LOW 1/100) + "biscoff latte recipe" (320/mo, LOW 0/100) = **~6,440/mo combined at near-zero competition**
+   - Covers: what is cookie butter/Biscoff, hot recipe, iced recipe, homemade syrup, milk comparison table, 5 variations (cold foam version, cinnamon dolce, vegan, cortado), 6 FAQs
+   - Internal links: how-to-steam-milk, how-to-make-cold-foam, cortado-coffee, getting-started
+
+3. **Internal links added:**
+   - cold-brew-recipe.md → cold-brew-vs-iced-coffee link in closing section
+   - cold-brew-vs-espresso.md → cold-brew-vs-iced-coffee link in closing section
+
+**Reasoning:**
+- Cold brew vs iced coffee (8,100/mo, LOW 10/100) fits perfectly into the existing comparison cluster. We already have cold-brew-recipe, cold-brew-vs-espresso, how-to-make-iced-coffee. The topical authority is there. Comparison queries rank well for new sites when content is comprehensive.
+- Cookie butter latte: 5,400/mo at 1/100 competition is exceptional. Biscoff/speculoos lattes are massive on TikTok and Instagram but still have almost no SEO competition. Combined with "cookie butter latte recipe" (720/mo) and "biscoff latte recipe" (320/mo, 0/100), the cluster hits ~6,440/mo at near-zero competition. This type of trending specialty drink page can rank fast.
+- White espresso at pos 4 is remarkable — though only 1 impression, suggests Google has indexed it and considers it highly relevant for that query. Worth watching next pulse.
+
+**Outcome:** Commit e5fe46b pushed. Vercel deployment triggered. Site now has 70 articles.
+
+**Next (Pulse 35):** Monitor if macchiato-vs-latte + cappuccino-vs-latte + espresso-caffeine appear in SC. Check if white espresso pos 4 holds with more impressions. Research "how to froth milk" cluster (~6,800/mo combined) and "americano vs espresso" (1,600/mo, LOW 1/100) for next content.
+
+---
+
 ## 2026-04-16 14:00 IDT — Pulse 33: Cappuccino vs Latte MEGA Cluster (~89,700/mo) + Black Sesame Latte
 
 **Action:** Published /guides/cappuccino-vs-latte/ (~89,700/mo combined at near-zero competition — BIGGEST CLUSTER SINCE ESPRESSO CAFFEINE) and /recipes/black-sesame-latte-recipe/ (~3,760/mo combined). Added internal links from cappuccino guide and macchiato-vs-latte to new cappuccino-vs-latte page. Site now at 68 articles.
