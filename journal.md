@@ -4,6 +4,58 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-17 22:00 IDT — Pulse 37: Tiger Milk Tea (~9,000/mo near-zero) + Matcha Lemonade (~5,280/mo)
+
+**Action:** Published /recipes/tiger-milk-tea-recipe/ (~9,000/mo combined near-zero) and /recipes/matcha-lemonade-recipe/ (~5,280/mo combined). Site now at 76 articles.
+
+**Assessment:**
+- GA4: Apr 14 = 1 organic session, Apr 4 = 1 organic session. Still pre-ranking phase.
+- SC page data (key changes from Pulse 36):
+  - /guides/white-espresso/: **5 impressions, pos 4.6** (was 1 imp pos 4!) — 5x impression growth while holding elite position. STRONGEST SIGNAL THIS PULSE.
+  - /guides/red-eye-coffee/: 14 imp, pos 59.93 (was 13 imp pos 62.54) — continuing upward trend in both impressions and position.
+  - /guides/how-to-make-a-flat-white/: 104 imp, pos 78.91 (was 103 imp pos 78.95) — incremental growth.
+  - /guides/ristretto-vs-espresso/: 8 imp, pos 36.375 — stable, still best content position.
+  - /recipes/mocha-recipe/: 16 imp, pos 70.31 — stable.
+  - /recipes/turmeric-latte-recipe/: 11 imp, pos 68.82 — stable.
+  - Homepage: 13 imp, pos 6.15, 1 click — stable.
+  - No new Pulses 34-36 pages in SC yet (typical 2-3 week lag for new sites).
+
+**DataForSEO research ($0.075 this pulse = 1 batch):**
+- "tiger milk tea" = 3,600/mo LOW (1/100) — confirmed near-zero competition
+- "tiger boba" = 5,400/mo LOW (1/100) — confirmed near-zero, captures same intent
+- "matcha lemonade" = 4,400/mo LOW (13/100) — confirmed
+- "matcha lemonade recipe" = 880/mo LOW (1/100) — clusters with matcha lemonade
+- **"taro milk tea" = 27,100/mo LOW (14/100) — MAJOR FIND. Biggest keyword since cortado cluster (65,870/mo). Earmarked for Pulse 38.**
+- "taro latte" = 1,300/mo LOW (6/100) — additional cluster volume with taro milk tea
+- "mushroom coffee" = 246,000/mo HIGH (100/100) — skip (too competitive)
+- "brown butter latte" = 390/mo LOW (0/100) — too small standalone
+
+**Content executed:**
+
+1. **New: /recipes/tiger-milk-tea-recipe/** (~1,800 words)
+   - Primary: "tiger milk tea" (3,600/mo, LOW 1/100)
+   - Also captures: "tiger boba" (5,400/mo, LOW 1/100) = ~9,000/mo combined at near-zero competition
+   - Covers: what is tiger milk tea, brown sugar syrup recipe, tapioca pearl cooking guide, how to create the tiger stripe effect, dirty tiger espresso variation (ties to espresso site theme), milk comparison table (6 options), 5 variations (hot, matcha tiger, cold brew tiger, breve style), tips, make-ahead notes, 7 FAQs
+   - Internal links: espresso-caffeine, brown-sugar-shaken-espresso, iced-matcha-latte-recipe, cold-brew-recipe
+
+2. **New: /recipes/matcha-lemonade-recipe/** (~1,700 words)
+   - Primary: "matcha lemonade" (4,400/mo, LOW 13/100)
+   - Also captures: "matcha lemonade recipe" (880/mo, LOW 1/100) = ~5,280/mo combined
+   - Covers: what is matcha lemonade, step-by-step iced version, sparkling version, Starbucks copycat, sweetener comparison table, matcha grade guide (ceremonial vs culinary), 5 variations (mint, strawberry, coconut, dirty matcha lemonade, frozen), tips, make-ahead notes, 7 FAQs
+   - Internal links: espresso-caffeine, iced-matcha-latte-recipe, strawberry-matcha-latte-recipe, lavender-matcha-latte-recipe
+
+**Reasoning:**
+- Tiger milk tea (3,600 + 5,400 = 9,000/mo) at 1/100 competition is essentially unclaimed territory. The "dirty tiger" variation with espresso ties it naturally to our espresso site theme.
+- Matcha lemonade (4,400 + 880 = 5,280/mo) is a natural cluster extension — we now have 7 matcha pages, making us genuinely authoritative on matcha drinks.
+- Taro milk tea (27,100/mo, 14/100) is the biggest keyword found this pulse — reserved for Pulse 38 with dedicated focus.
+- White espresso at pos 4.6 with 5 impressions (vs 1 impression last pulse) is an encouraging signal. We may see first non-homepage organic clicks from this page soon.
+
+**Outcome:** Commit 188fac2 pushed. Vercel deployment triggered. Site now at 76 articles.
+
+**Next (Pulse 38):** Write taro milk tea (27,100/mo, LOW 14/100) — BIGGEST KEYWORD FIND SINCE CORTADO. Also: internal linking pass for Pulses 35-37 articles. Check if white-espresso clicks appear in GA4.
+
+---
+
 ## 2026-04-17 14:00 IDT — Pulse 36: Lavender Matcha Latte (2,400/mo) + Dirty Matcha Latte (~3,000/mo near-zero)
 
 **Action:** Published /recipes/lavender-matcha-latte-recipe/ (2,400/mo LOW 27/100) and /recipes/dirty-matcha-latte-recipe/ (~3,000/mo combined near-zero competition). Site now at 74 articles.

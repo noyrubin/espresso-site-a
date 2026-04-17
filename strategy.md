@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 14 (Pulse 36) — 74 articles published. SC data unchanged from P35 (normal lag): flat-white 103 imp pos 78.95, red-eye-coffee 13 imp pos 62.54, homepage 13 imp pos 6.15 (1 click), ristretto 8 imp pos 36.375 (best content position), white-espresso 1 imp pos 4 (holding). No new Pulses 34-35 pages visible in SC yet. GA4: latest data still Apr 14 = 4 sessions (pre-ranking phase continues). Pulse 36: Published lavender-matcha-latte-recipe (2,400/mo LOW 27/100) and dirty-matcha-latte-recipe (~3,000/mo combined near-zero: dirty matcha 1,600/mo 1/100 + matcha espresso latte 720/mo 1/100 + brown sugar matcha 480/mo 1/100). DataForSEO spend this pulse: $0.075 (1 batch). Cumulative: well under $1/day.
+Day 14 (Pulse 37) — 76 articles published. SC update: white-espresso jumped from 1 imp pos 4 to **5 impressions pos 4.6** — significant growth, Google is surfacing this more. Red eye coffee: 14 imp pos 59.93 (improving from 13 imp pos 62.54). Flat white: 104 imp pos 78.91 (very slow climb). Ristretto: 8 imp pos 36.375 (still best content position, stable). Homepage: 13 imp, pos 6.15, 1 click. No new Pulses 34-36 pages in SC yet (normal lag). GA4: only Apr 14 (1 session) and Apr 4 (1 session) in organic — pre-ranking phase continues. Pulse 37: Published tiger-milk-tea-recipe (~9,000/mo combined at 1/100) and matcha-lemonade-recipe (~5,280/mo combined). MAJOR NEW FIND: taro milk tea = 27,100/mo at LOW 14/100 — biggest keyword find since cortado cluster. Earmarked for Pulse 38. DataForSEO spend this pulse: $0.075 (1 batch). Cumulative: well under $1/day.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -92,6 +92,9 @@ Day 14 (Pulse 36) — 74 articles published. SC data unchanged from P35 (normal 
 | americano vs espresso | 1,600 | LOW (1/100) | /guides/americano-vs-espresso/ | Published + FAQ (Pulse 35) — near-zero competition |
 | lavender matcha latte | 2,400 | LOW (27/100) | /recipes/lavender-matcha-latte-recipe/ | Published + FAQ (Pulse 36) |
 | dirty matcha latte | 1,600 | LOW (1/100) | /recipes/dirty-matcha-latte-recipe/ | Published + FAQ (Pulse 36) — also captures "matcha espresso latte" (720/mo, 1/100) + "brown sugar matcha latte" (480/mo, 1/100) = ~3,000/mo combined near-zero |
+| tiger milk tea | 3,600 | LOW (1/100) | /recipes/tiger-milk-tea-recipe/ | Published + FAQ (Pulse 37) — also captures "tiger boba" (5,400/mo, 1/100) = ~9,000/mo combined near-zero |
+| matcha lemonade | 4,400 | LOW (13/100) | /recipes/matcha-lemonade-recipe/ | Published + FAQ (Pulse 37) — also captures "matcha lemonade recipe" (880/mo, 1/100) = ~5,280/mo combined |
+| taro milk tea | 27,100 | LOW (14/100) | /recipes/taro-milk-tea-recipe/ | PLANNED Pulse 38 — MAJOR FIND: biggest keyword since cortado cluster. Also captures "taro latte" (1,300/mo, 6/100) = ~28,400/mo combined |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -167,6 +170,8 @@ Day 14 (Pulse 36) — 74 articles published. SC data unchanged from P35 (normal 
 - [DONE Pulse 35] "americano vs espresso" (1,600/mo, LOW 1/100) — published as /guides/americano-vs-espresso/. Near-zero competition. Covers: caffeine comparison, taste differences, iced americano, when to choose each, how to make at home, related drinks. 6 FAQs.
 - [DONE Pulse 36] "lavender matcha latte" (2,400/mo, LOW 27/100) — published as /recipes/lavender-matcha-latte-recipe/. Hot + iced versions, homemade lavender syrup recipe, milk comparison table, 7 variations, 7 FAQs. Perfect fit with existing matcha + lavender cluster.
 - [DONE Pulse 36] "dirty matcha latte" (1,600/mo, LOW 1/100) + "matcha espresso latte" (720/mo, 1/100) + "brown sugar matcha latte" (480/mo, 1/100) = ~3,000/mo combined at near-zero competition — published as /recipes/dirty-matcha-latte-recipe/. Hot + iced + brown sugar variation, ratio table, no-machine options, 7 FAQs. Perfect espresso site fit.
+- [DONE Pulse 37] "tiger milk tea" (3,600/mo, LOW 1/100) + "tiger boba" (5,400/mo, LOW 1/100) = ~9,000/mo combined at near-zero competition — published as /recipes/tiger-milk-tea-recipe/. Brown sugar syrup recipe, boba cooking guide, dirty tiger espresso variation, milk comparison table, 7 FAQs.
+- [DONE Pulse 37] "matcha lemonade" (4,400/mo, LOW 13/100) + "matcha lemonade recipe" (880/mo, LOW 1/100) = ~5,280/mo combined — published as /recipes/matcha-lemonade-recipe/. Iced, sparkling, Starbucks copycat, sweetener table, matcha grade guide, 5 variations, 7 FAQs. Extends matcha cluster.
 - "nitro cold brew" (18,100/mo, MEDIUM 47/100) — borderline competition, hold for later
 - "cold brew concentrate recipe" (1,300/mo, LOW 12/100) — small, consider adding to cold brew recipe page as variation
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
@@ -253,6 +258,8 @@ Day 14 (Pulse 36) — 74 articles published. SC data unchanged from P35 (normal 
 72. /guides/americano-vs-espresso/ (NEW pulse 35, + FAQ) — 1,600/mo LOW (1/100) near-zero competition. Full comparison: caffeine, taste, volume, strength, iced americano, ratio guide, related drinks.
 73. /recipes/lavender-matcha-latte-recipe/ (NEW pulse 36, + FAQ) — 2,400/mo LOW (27/100). Hot + iced recipe, homemade lavender syrup, milk comparison table, 7 variations, 7 FAQs.
 74. /recipes/dirty-matcha-latte-recipe/ (NEW pulse 36, + FAQ) — ~3,000/mo combined: "dirty matcha latte" (1,600/mo, LOW 1/100) + "matcha espresso latte" (720/mo, 1/100) + "brown sugar matcha latte" (480/mo, 1/100). Hot + iced + brown sugar variation, matcha-to-espresso ratio table, no-machine alternatives, 7 FAQs.
+75. /recipes/tiger-milk-tea-recipe/ (NEW pulse 37, + FAQ) — ~9,000/mo combined: "tiger milk tea" (3,600/mo, LOW 1/100) + "tiger boba" (5,400/mo, LOW 1/100). Brown sugar syrup, boba cooking, dirty tiger espresso variation, milk table, 7 FAQs.
+76. /recipes/matcha-lemonade-recipe/ (NEW pulse 37, + FAQ) — ~5,280/mo combined: "matcha lemonade" (4,400/mo, LOW 13/100) + "matcha lemonade recipe" (880/mo, LOW 1/100). Iced + sparkling + Starbucks copycat, sweetener table, matcha grade guide, 5 variations, 7 FAQs.
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -297,10 +304,10 @@ Day 14 (Pulse 36) — 74 articles published. SC data unchanged from P35 (normal 
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 37:** Keyword research sweep. SC check: watch for P34-P36 pages appearing. Candidates: "tiger milk tea" (3,600/mo, 1/100 — near-zero competition, trending boba/cafe drink), "matcha lemonade" (4,400/mo, LOW 13/100), "types of coffee drinks" (27,100/mo MEDIUM 53/100 — borderline). Also check if cortado-coffee (33,100/mo, Pulse 27) or cappuccino-vs-latte (89,700/mo, Pulse 33) appear in SC yet.
-2. **Pulse 38:** Internal linking audit — ensure Pulses 33-36 articles are linked from relevant earlier pages. E.g., dirty matcha should link from iced-matcha-latte-recipe and matcha-latte-recipe. Also consider: "brown sugar matcha" dedicated search volume sweep.
-3. **Pulse 39:** If ristretto is still at pos 36 (best-positioned content page), optimize it for a position push — rewrite title tag, strengthen FAQ, add more targeted internal links. Position 36 is just outside page 1 — targeted optimization might bring it to page 3-2 territory.
+1. **Pulse 38:** TARO MILK TEA (27,100/mo, LOW 14/100) — BIGGEST KEYWORD FIND SINCE CORTADO CLUSTER. Also captures "taro latte" (1,300/mo, 6/100) + potential "taro boba" + "taro bubble tea" = ~28,400/mo+ combined. This deserves a dedicated, comprehensive article. Also: internal linking pass — ensure Pulses 35-37 articles are linked from relevant earlier matcha/recipe pages.
+2. **Pulse 39:** Check if white-espresso (pos 4.6 with 5 imp) has moved; check if cortado-coffee (33,100/mo, Pulse 27) or cappuccino-vs-latte (89,700/mo, Pulse 33) appear in SC yet. Write next highest-value keyword (check: "types of espresso drinks" or "latte art for beginners" cluster). If ristretto still at pos 36 — targeted optimization: rewrite title tag, strengthen FAQ, add targeted internal links.
+3. **Pulse 40:** "bubble tea recipe" or "boba recipe" sweep (capitalize on tiger milk tea + taro momentum). Or pivot to "mushroom coffee" adjacent — that keyword is 246,000/mo but HIGH (100/100)... however "how to make mushroom coffee" or "best mushroom coffee" might be lower competition. Research this cluster.
 
 ---
-*Last updated: 2026-04-17 (Pulse 35)*
+*Last updated: 2026-04-17 (Pulse 37)*
 
