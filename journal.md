@@ -4,6 +4,59 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-17 06:00 IDT — Pulse 35: How to Froth Milk (~6,800/mo LOW) + Americano vs Espresso (1,600/mo near-zero)
+
+**Action:** Published /guides/how-to-froth-milk/ (~6,800/mo combined LOW) and /guides/americano-vs-espresso/ (1,600/mo, 1/100 near-zero competition). Site now at 72 articles.
+
+**Assessment:**
+- GA4: Latest data Apr 14 = 4 sessions (still pre-ranking, no organic traffic surge yet).
+- Search Console (page dimension):
+  - /guides/how-to-make-a-flat-white/: **103 impressions** (up from 101!) pos 78.95 — steady climb
+  - /guides/red-eye-coffee/: **13 impressions, pos 62.5** (was 10 imp pos 68.5) — growing in BOTH impressions AND position. Strong signal.
+  - /recipes/mocha-recipe/: 16 impressions, pos 70.3 — stable
+  - /recipes/turmeric-latte-recipe/: 11 impressions, pos 68.8 — stable
+  - /guides/ristretto-vs-espresso/: 8 impressions, pos 36.375 — stable, best content position
+  - /guides/how-to-make-a-macchiato/: 8 impressions, pos 55.25
+  - /guides/cold-brew-vs-espresso/: 8 impressions, pos 70
+  - /guides/white-espresso/: **1 impression, pos 4** — holding extraordinary position
+  - Homepage: 13 impressions, pos 6.15, 1 click
+  - tags/gibraltar-coffee: 1 imp pos 12, tags/weiss-distribution-technique: 1 imp pos 7
+  - No new Pulse 34 pages visible in SC yet (indexing lag normal)
+- SC queries: flat white dominates (~70+ imp across variants). "cold brew vs espresso" 2 imp pos 48.5. "cold brew espresso" 3 imp pos 79. "are mochas hot" 1 imp pos 45.
+
+**DataForSEO research ($0.075 this pulse = 1 batch):**
+- "how to froth milk" = 4,400/mo LOW (32/100) — confirmed
+- "how to froth milk without frother" = 2,400/mo LOW (25/100) — confirmed, cluster total ~6,800/mo
+- "americano vs espresso" = 1,600/mo LOW (1/100) — confirmed near-zero competition
+- "lavender matcha latte" = 2,400/mo LOW (27/100) — noted for Pulse 36
+- "how to make espresso without machine" = 4,400/mo HIGH (85/100) — skip
+- "brown butter latte" = 390/mo 0/100 — tiny, noted
+
+**Content executed:**
+
+1. **New: /guides/how-to-froth-milk/** (~1,900 words)
+   - Primary: "how to froth milk" (4,400/mo, LOW 32/100)
+   - Also captures: "how to froth milk without frother" (2,400/mo, LOW 25/100) = ~6,800/mo combined
+   - Covers: what frothing is, milk type comparison table (7 milks), 5 complete methods (steam wand, electric frother, French press, jar, whisk), drink-specific foam guide table, cold foam section, 7 FAQs
+   - Internal links: how-to-make-cold-foam, how-to-steam-milk-latte-art, how-to-make-cappuccino, how-to-make-a-flat-white, cortado-coffee
+
+2. **New: /guides/americano-vs-espresso/** (~1,100 words)
+   - Primary: "americano vs espresso" (1,600/mo, LOW 1/100) — near-zero competition
+   - Covers: what each drink is, side-by-side comparison table, caffeine equivalence, taste differences, iced Americano, when to choose each, how to make at home with ratios, related drinks, 6 FAQs
+   - Internal links: espresso-caffeine, iced-americano-recipe, americano-vs-long-black, lungo-coffee, ristretto-vs-espresso, red-eye-coffee, moka-pot-vs-espresso
+
+**Reasoning:**
+- "How to froth milk" is a natural fit — 4,400 + 2,400 = ~6,800/mo at LOW competition. Our site has cappuccino, latte, flat white, cortado guides — all about milk drinks — and this is the practical skill post those pages naturally link to. Good topical coverage for the "home barista" cluster.
+- "Americano vs espresso" at 1/100 competition is essentially unclaimed territory for 1,600/mo. Quick comprehensive comparison. We already have americano-vs-long-black and iced-americano-recipe, so topical authority is there.
+- Red eye coffee improvement (pos 68.5 → 62.5) with more impressions is the clearest upward ranking trend besides flat white. Suggests comparison/definition guides are gaining traction.
+- White espresso pos 4 holding. Still only 1 impression but Google clearly considers it highly relevant.
+
+**Outcome:** Commit 2e749bc pushed. Vercel deployment triggered. Site now at 72 articles.
+
+**Next (Pulse 36):** Watch for cold-brew-vs-iced-coffee + cookie-butter-latte (Pulse 34) + new Pulse 35 pages appearing in SC. Research "lavender matcha latte" (2,400/mo, LOW 27/100) — fits matcha + lavender clusters. Monitor red eye coffee position for continued improvement toward pos <50.
+
+---
+
 ## 2026-04-16 22:00 IDT — Pulse 34: Cold Brew vs Iced Coffee (8.1k/mo) + Cookie Butter Latte (~6.4k/mo near-zero)
 
 **Action:** Published /guides/cold-brew-vs-iced-coffee/ (8,100/mo LOW 10/100) and /recipes/cookie-butter-latte-recipe/ (~6,440/mo combined at near-zero competition). Added internal links from cold-brew-recipe and cold-brew-vs-espresso to new cold-brew-vs-iced-coffee guide. Site now at 70 articles.

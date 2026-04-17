@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 13 (Pulse 34) — 70 articles published. SC highlights: flat-white now **101 impressions** (up from 96!) pos 78.9 — crossed 100 impressions! Red eye coffee 10 imp pos 68.5 (was 7). Mocha 16 imp pos 70.3, turmeric 11 imp pos 68.8, ristretto 8 imp pos 36.375 (best content position), macchiato 8 imp pos 55.25, cold-brew-vs-espresso 8 imp pos 70. **White espresso: 1 impression pos 4** — extraordinary position for a new article. Homepage 13 imp pos 6.15, 1 click. GA4: still pre-ranking phase, latest data Apr 14 = 4 sessions. Pulse 34: Published cold-brew-vs-iced-coffee (8,100/mo LOW 10/100) + cookie-butter-latte-recipe (~6,440/mo combined, near-zero). DataForSEO spend this pulse: $0.15 (2 batches). Cumulative: well under $1/day.
+Day 14 (Pulse 35) — 72 articles published. SC highlights: flat-white **103 impressions** (up from 101!) pos 78.95 — steady climb continues. **Red eye coffee: 13 impressions pos 62.5** (up from 10 imp pos 68.5) — improving both impressions AND position. White espresso: 1 imp pos 4 (holding!). Mocha 16 imp pos 70.3, turmeric 11 imp pos 68.8, ristretto 8 imp pos 36.375 (best content position), macchiato 8 imp pos 55.25, cold-brew-vs-espresso 8 imp pos 70. Homepage 13 imp pos 6.15, 1 click. GA4: latest data Apr 14 = 4 sessions (still pre-ranking phase). Pulse 35: Published how-to-froth-milk (~6,800/mo combined LOW) + americano-vs-espresso (1,600/mo near-zero 1/100). DataForSEO spend this pulse: $0.075 (1 batch). Cumulative: well under $1/day.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -88,6 +88,8 @@ Day 13 (Pulse 34) — 70 articles published. SC highlights: flat-white now **101
 | black sesame latte | 2,900 | LOW (8/100) | /recipes/black-sesame-latte-recipe/ | Published + FAQ (Pulse 33) — also captures "black sesame latte recipe" (720/mo, LOW 0/100) = ~3,760/mo combined |
 | cold brew vs iced coffee | 8,100 | LOW (10/100) | /guides/cold-brew-vs-iced-coffee/ | Published + FAQ (Pulse 34) |
 | cookie butter latte | 5,400 | LOW (1/100) | /recipes/cookie-butter-latte-recipe/ | Published + FAQ (Pulse 34) — also captures "cookie butter latte recipe" (720/mo, 1/100) + "biscoff latte recipe" (320/mo, 0/100) = ~6,440/mo combined at near-zero competition |
+| how to froth milk | 4,400 | LOW (32/100) | /guides/how-to-froth-milk/ | Published + FAQ (Pulse 35) — also captures "how to froth milk without frother" (2,400/mo, LOW 25/100) = ~6,800/mo combined |
+| americano vs espresso | 1,600 | LOW (1/100) | /guides/americano-vs-espresso/ | Published + FAQ (Pulse 35) — near-zero competition |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -159,6 +161,8 @@ Day 13 (Pulse 34) — 70 articles published. SC highlights: flat-white now **101
 - [DONE Pulse 33] "black sesame latte" (2,900/mo, LOW 8/100) + "black sesame latte recipe" (720/mo, LOW 0/100) = ~3,760/mo combined — published as /recipes/black-sesame-latte-recipe/. Trending specialty drink.
 - [DONE Pulse 34] "cold brew vs iced coffee" (8,100/mo, LOW 10/100) — published as /guides/cold-brew-vs-iced-coffee/. Brewing comparison with caffeine table, acidity, tips, 7 FAQs.
 - [DONE Pulse 34] "cookie butter latte" (5,400/mo, LOW 1/100) + "cookie butter latte recipe" (720/mo, 1/100) + "biscoff latte recipe" (320/mo, 0/100) = ~6,440/mo combined at near-zero competition — published as /recipes/cookie-butter-latte-recipe/. Trending TikTok specialty drink.
+- [DONE Pulse 35] "how to froth milk" (4,400/mo, LOW 32/100) + "how to froth milk without frother" (2,400/mo, LOW 25/100) = ~6,800/mo combined — published as /guides/how-to-froth-milk/. All methods: steam wand, electric frother, French press, jar, whisk. Cold foam section. Drink-specific guide table. 7 FAQs.
+- [DONE Pulse 35] "americano vs espresso" (1,600/mo, LOW 1/100) — published as /guides/americano-vs-espresso/. Near-zero competition. Covers: caffeine comparison, taste differences, iced americano, when to choose each, how to make at home, related drinks. 6 FAQs.
 - "nitro cold brew" (18,100/mo, MEDIUM 47/100) — borderline competition, hold for later
 - "cold brew concentrate recipe" (1,300/mo, LOW 12/100) — small, consider adding to cold brew recipe page as variation
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
@@ -241,6 +245,8 @@ Day 13 (Pulse 34) — 70 articles published. SC highlights: flat-white now **101
 68. /recipes/black-sesame-latte-recipe/ (NEW pulse 33, + FAQ) — ~3,760/mo combined: "black sesame latte" (2,900/mo, LOW 8/100) + "black sesame latte recipe" (720/mo, LOW 0/100)
 69. /guides/cold-brew-vs-iced-coffee/ (NEW pulse 34, + FAQ) — 8,100/mo LOW (10/100). Full comparison guide: brewing, flavor, caffeine, acidity, shelf life, tips. Links from cold-brew-recipe and cold-brew-vs-espresso.
 70. /recipes/cookie-butter-latte-recipe/ (NEW pulse 34, + FAQ) — ~6,440/mo combined: "cookie butter latte" (5,400/mo, LOW 1/100) + "cookie butter latte recipe" (720/mo, LOW 1/100) + "biscoff latte recipe" (320/mo, LOW 0/100). Hot, iced, syrup recipe, 5 variations.
+71. /guides/how-to-froth-milk/ (NEW pulse 35, + FAQ) — ~6,800/mo combined: "how to froth milk" (4,400/mo, LOW 32/100) + "how to froth milk without frother" (2,400/mo, LOW 25/100). All 5 methods explained. Cold foam section. Milk type comparison table.
+72. /guides/americano-vs-espresso/ (NEW pulse 35, + FAQ) — 1,600/mo LOW (1/100) near-zero competition. Full comparison: caffeine, taste, volume, strength, iced americano, ratio guide, related drinks.
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -285,10 +291,10 @@ Day 13 (Pulse 34) — 70 articles published. SC highlights: flat-white now **101
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 35:** Check if macchiato-vs-latte, cappuccino-vs-latte (published Pulse 32-33) start appearing in SC. Flat white at 101 impressions pos 78.9 — still climbing, watch for pos <75. White espresso at pos 4 (1 impression only) — check if this sticks. Research: "americano vs espresso" (1,600/mo, LOW 1/100 — confirmed cheap, comparison format works), "how to froth milk" cluster (4,400 + 2,400 = ~6,800/mo LOW), "lavender matcha latte" (2,400/mo, LOW 27/100).
-2. **Pulse 36:** Check if cold-brew-vs-iced-coffee or cookie-butter-latte appear in SC impressions (published Pulse 34). Consider "how to froth milk" mega page if not done yet — 4,400/mo LOW (32/100) + "how to froth milk without frother" (2,400/mo, 25/100) = ~6,800/mo combined. Also "americano vs espresso" (1,600/mo, LOW 1/100) — small but near-zero competition, quick article.
-3. **Pulse 37:** Keyword research sweep to find next big cluster. Candidates to explore: more trending specialty drinks (lavender matcha, brown butter latte 390/mo), espresso-adjacent guides. If cortado (33,100/mo, published Pulse 27) is approaching pos 50, consider FAQ expansion or adding "cortado near me" section.
+1. **Pulse 36:** Check if cold-brew-vs-iced-coffee, cookie-butter-latte (Pulse 34), how-to-froth-milk, americano-vs-espresso (Pulse 35) appear in SC impressions. Watch red eye coffee — 13 imp pos 62.5, improving both dimensions. Candidate content: "lavender matcha latte" (2,400/mo, LOW 27/100) — fits perfectly with existing lavender latte + matcha latte + strawberry matcha pages. Also "how to make an affogato" extension or "espresso over ice cream" page check needed.
+2. **Pulse 37:** Keyword research sweep. Candidates: "types of coffee drinks" (27,100/mo MEDIUM 53/100 — borderline), "oat milk latte" (2,400/mo?), "matcha espresso" cluster, "brown butter latte" (390/mo, 0/100 — tiny but zero competition, quick article). Also check if cortado-coffee (33,100/mo, published Pulse 27) or cappuccino-vs-latte (89,700/mo, Pulse 33) appear in SC.
+3. **Pulse 38:** If no major new high-volume LOW keyword clusters found, focus on internal linking audit — ensure all new articles (Pulses 33-35) are well-linked from existing content. Also consider page speed audit and checking Google's rich result test for FAQ schema on top pages.
 
 ---
-*Last updated: 2026-04-16 (Pulse 34)*
+*Last updated: 2026-04-17 (Pulse 35)*
 
