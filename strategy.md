@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 14 (Pulse 35) — 72 articles published. SC highlights: flat-white **103 impressions** (up from 101!) pos 78.95 — steady climb continues. **Red eye coffee: 13 impressions pos 62.5** (up from 10 imp pos 68.5) — improving both impressions AND position. White espresso: 1 imp pos 4 (holding!). Mocha 16 imp pos 70.3, turmeric 11 imp pos 68.8, ristretto 8 imp pos 36.375 (best content position), macchiato 8 imp pos 55.25, cold-brew-vs-espresso 8 imp pos 70. Homepage 13 imp pos 6.15, 1 click. GA4: latest data Apr 14 = 4 sessions (still pre-ranking phase). Pulse 35: Published how-to-froth-milk (~6,800/mo combined LOW) + americano-vs-espresso (1,600/mo near-zero 1/100). DataForSEO spend this pulse: $0.075 (1 batch). Cumulative: well under $1/day.
+Day 14 (Pulse 36) — 74 articles published. SC data unchanged from P35 (normal lag): flat-white 103 imp pos 78.95, red-eye-coffee 13 imp pos 62.54, homepage 13 imp pos 6.15 (1 click), ristretto 8 imp pos 36.375 (best content position), white-espresso 1 imp pos 4 (holding). No new Pulses 34-35 pages visible in SC yet. GA4: latest data still Apr 14 = 4 sessions (pre-ranking phase continues). Pulse 36: Published lavender-matcha-latte-recipe (2,400/mo LOW 27/100) and dirty-matcha-latte-recipe (~3,000/mo combined near-zero: dirty matcha 1,600/mo 1/100 + matcha espresso latte 720/mo 1/100 + brown sugar matcha 480/mo 1/100). DataForSEO spend this pulse: $0.075 (1 batch). Cumulative: well under $1/day.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -90,6 +90,8 @@ Day 14 (Pulse 35) — 72 articles published. SC highlights: flat-white **103 imp
 | cookie butter latte | 5,400 | LOW (1/100) | /recipes/cookie-butter-latte-recipe/ | Published + FAQ (Pulse 34) — also captures "cookie butter latte recipe" (720/mo, 1/100) + "biscoff latte recipe" (320/mo, 0/100) = ~6,440/mo combined at near-zero competition |
 | how to froth milk | 4,400 | LOW (32/100) | /guides/how-to-froth-milk/ | Published + FAQ (Pulse 35) — also captures "how to froth milk without frother" (2,400/mo, LOW 25/100) = ~6,800/mo combined |
 | americano vs espresso | 1,600 | LOW (1/100) | /guides/americano-vs-espresso/ | Published + FAQ (Pulse 35) — near-zero competition |
+| lavender matcha latte | 2,400 | LOW (27/100) | /recipes/lavender-matcha-latte-recipe/ | Published + FAQ (Pulse 36) |
+| dirty matcha latte | 1,600 | LOW (1/100) | /recipes/dirty-matcha-latte-recipe/ | Published + FAQ (Pulse 36) — also captures "matcha espresso latte" (720/mo, 1/100) + "brown sugar matcha latte" (480/mo, 1/100) = ~3,000/mo combined near-zero |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -163,6 +165,8 @@ Day 14 (Pulse 35) — 72 articles published. SC highlights: flat-white **103 imp
 - [DONE Pulse 34] "cookie butter latte" (5,400/mo, LOW 1/100) + "cookie butter latte recipe" (720/mo, 1/100) + "biscoff latte recipe" (320/mo, 0/100) = ~6,440/mo combined at near-zero competition — published as /recipes/cookie-butter-latte-recipe/. Trending TikTok specialty drink.
 - [DONE Pulse 35] "how to froth milk" (4,400/mo, LOW 32/100) + "how to froth milk without frother" (2,400/mo, LOW 25/100) = ~6,800/mo combined — published as /guides/how-to-froth-milk/. All methods: steam wand, electric frother, French press, jar, whisk. Cold foam section. Drink-specific guide table. 7 FAQs.
 - [DONE Pulse 35] "americano vs espresso" (1,600/mo, LOW 1/100) — published as /guides/americano-vs-espresso/. Near-zero competition. Covers: caffeine comparison, taste differences, iced americano, when to choose each, how to make at home, related drinks. 6 FAQs.
+- [DONE Pulse 36] "lavender matcha latte" (2,400/mo, LOW 27/100) — published as /recipes/lavender-matcha-latte-recipe/. Hot + iced versions, homemade lavender syrup recipe, milk comparison table, 7 variations, 7 FAQs. Perfect fit with existing matcha + lavender cluster.
+- [DONE Pulse 36] "dirty matcha latte" (1,600/mo, LOW 1/100) + "matcha espresso latte" (720/mo, 1/100) + "brown sugar matcha latte" (480/mo, 1/100) = ~3,000/mo combined at near-zero competition — published as /recipes/dirty-matcha-latte-recipe/. Hot + iced + brown sugar variation, ratio table, no-machine options, 7 FAQs. Perfect espresso site fit.
 - "nitro cold brew" (18,100/mo, MEDIUM 47/100) — borderline competition, hold for later
 - "cold brew concentrate recipe" (1,300/mo, LOW 12/100) — small, consider adding to cold brew recipe page as variation
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
@@ -247,6 +251,8 @@ Day 14 (Pulse 35) — 72 articles published. SC highlights: flat-white **103 imp
 70. /recipes/cookie-butter-latte-recipe/ (NEW pulse 34, + FAQ) — ~6,440/mo combined: "cookie butter latte" (5,400/mo, LOW 1/100) + "cookie butter latte recipe" (720/mo, LOW 1/100) + "biscoff latte recipe" (320/mo, LOW 0/100). Hot, iced, syrup recipe, 5 variations.
 71. /guides/how-to-froth-milk/ (NEW pulse 35, + FAQ) — ~6,800/mo combined: "how to froth milk" (4,400/mo, LOW 32/100) + "how to froth milk without frother" (2,400/mo, LOW 25/100). All 5 methods explained. Cold foam section. Milk type comparison table.
 72. /guides/americano-vs-espresso/ (NEW pulse 35, + FAQ) — 1,600/mo LOW (1/100) near-zero competition. Full comparison: caffeine, taste, volume, strength, iced americano, ratio guide, related drinks.
+73. /recipes/lavender-matcha-latte-recipe/ (NEW pulse 36, + FAQ) — 2,400/mo LOW (27/100). Hot + iced recipe, homemade lavender syrup, milk comparison table, 7 variations, 7 FAQs.
+74. /recipes/dirty-matcha-latte-recipe/ (NEW pulse 36, + FAQ) — ~3,000/mo combined: "dirty matcha latte" (1,600/mo, LOW 1/100) + "matcha espresso latte" (720/mo, 1/100) + "brown sugar matcha latte" (480/mo, 1/100). Hot + iced + brown sugar variation, matcha-to-espresso ratio table, no-machine alternatives, 7 FAQs.
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -291,9 +297,9 @@ Day 14 (Pulse 35) — 72 articles published. SC highlights: flat-white **103 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 36:** Check if cold-brew-vs-iced-coffee, cookie-butter-latte (Pulse 34), how-to-froth-milk, americano-vs-espresso (Pulse 35) appear in SC impressions. Watch red eye coffee — 13 imp pos 62.5, improving both dimensions. Candidate content: "lavender matcha latte" (2,400/mo, LOW 27/100) — fits perfectly with existing lavender latte + matcha latte + strawberry matcha pages. Also "how to make an affogato" extension or "espresso over ice cream" page check needed.
-2. **Pulse 37:** Keyword research sweep. Candidates: "types of coffee drinks" (27,100/mo MEDIUM 53/100 — borderline), "oat milk latte" (2,400/mo?), "matcha espresso" cluster, "brown butter latte" (390/mo, 0/100 — tiny but zero competition, quick article). Also check if cortado-coffee (33,100/mo, published Pulse 27) or cappuccino-vs-latte (89,700/mo, Pulse 33) appear in SC.
-3. **Pulse 38:** If no major new high-volume LOW keyword clusters found, focus on internal linking audit — ensure all new articles (Pulses 33-35) are well-linked from existing content. Also consider page speed audit and checking Google's rich result test for FAQ schema on top pages.
+1. **Pulse 37:** Keyword research sweep. SC check: watch for P34-P36 pages appearing. Candidates: "tiger milk tea" (3,600/mo, 1/100 — near-zero competition, trending boba/cafe drink), "matcha lemonade" (4,400/mo, LOW 13/100), "types of coffee drinks" (27,100/mo MEDIUM 53/100 — borderline). Also check if cortado-coffee (33,100/mo, Pulse 27) or cappuccino-vs-latte (89,700/mo, Pulse 33) appear in SC yet.
+2. **Pulse 38:** Internal linking audit — ensure Pulses 33-36 articles are linked from relevant earlier pages. E.g., dirty matcha should link from iced-matcha-latte-recipe and matcha-latte-recipe. Also consider: "brown sugar matcha" dedicated search volume sweep.
+3. **Pulse 39:** If ristretto is still at pos 36 (best-positioned content page), optimize it for a position push — rewrite title tag, strengthen FAQ, add more targeted internal links. Position 36 is just outside page 1 — targeted optimization might bring it to page 3-2 territory.
 
 ---
 *Last updated: 2026-04-17 (Pulse 35)*

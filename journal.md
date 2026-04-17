@@ -4,6 +4,53 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-17 14:00 IDT — Pulse 36: Lavender Matcha Latte (2,400/mo) + Dirty Matcha Latte (~3,000/mo near-zero)
+
+**Action:** Published /recipes/lavender-matcha-latte-recipe/ (2,400/mo LOW 27/100) and /recipes/dirty-matcha-latte-recipe/ (~3,000/mo combined near-zero competition). Site now at 74 articles.
+
+**Assessment:**
+- GA4: Latest data still Apr 14 = 4 sessions. Pre-ranking phase continues, no organic surge yet.
+- Search Console (page dimension): data unchanged from Pulse 35 — same pages visible, same positions. No new Pulses 34-35 pages in SC yet (normal indexing lag, often 2-3 weeks for new sites).
+  - Flat white: 103 impressions pos 78.95 (unchanged)
+  - Red eye coffee: 13 impressions pos 62.54 (stable — was improving last pulse)
+  - Homepage: 13 imp pos 6.15, 1 click
+  - Ristretto: 8 imp pos 36.375 (best content position, holding)
+  - White espresso: 1 imp pos 4 (holding)
+- SC queries: still dominated by flat white variants. "cold brew vs espresso" 2 imp pos 48.5. No new query types from recent articles.
+
+**DataForSEO research ($0.075 this pulse = 1 batch):**
+- "lavender matcha latte" = 2,400/mo LOW (27/100) — confirmed, fits matcha + lavender cluster
+- "dirty matcha latte" = 1,600/mo LOW (1/100) — near-zero competition
+- "matcha espresso latte" = 720/mo LOW (1/100) — captured by dirty matcha article
+- "brown sugar matcha latte" = 480/mo LOW (1/100) — captured as variation in dirty matcha
+- "matcha lemonade" = 4,400/mo LOW (13/100) — noted for future pulse
+- "tiger milk tea" = 3,600/mo LOW (1/100) — near-zero competition, very promising for Pulse 37
+- "oat milk latte" = 1,900/mo MEDIUM (56/100) — skip, medium competition
+
+**Content executed:**
+
+1. **New: /recipes/lavender-matcha-latte-recipe/** (~1,800 words)
+   - Primary: "lavender matcha latte" (2,400/mo, LOW 27/100)
+   - Covers: hot + iced versions, homemade lavender syrup recipe (10 min), milk comparison table (6 milks), 5 variations (London Fog hybrid, honey version, vanilla, coconut, frappé), matcha quality notes, 7 FAQs
+   - Internal links: matcha-latte-recipe, iced-matcha-latte-recipe, strawberry-matcha-latte-recipe, lavender-latte-recipe
+
+2. **New: /recipes/dirty-matcha-latte-recipe/** (~1,600 words)
+   - Primary: "dirty matcha latte" (1,600/mo, LOW 1/100)
+   - Also captures: "matcha espresso latte" (720/mo, 1/100), "brown sugar matcha latte" (480/mo, 1/100), "matcha espresso" = ~3,000/mo combined at near-zero competition
+   - Covers: what it is, hot + iced recipe, brown sugar variation (TikTok-famous), flavor profile, caffeine analysis, milk pairing table, matcha-to-espresso ratio table, no-machine alternatives, 7 FAQs
+   - Internal links: espresso-caffeine, iced-matcha-latte-recipe, matcha-latte-recipe, lavender-matcha-latte-recipe, strawberry-matcha-latte-recipe, brown-sugar-shaken-espresso, iced-americano-recipe, espresso-martini-recipe, getting-started
+
+**Reasoning:**
+- Lavender matcha (2,400/mo, 27/100) is the natural next step in our matcha cluster. We already have 4 matcha pages — the lavender matcha variant is a trending TikTok drink that fits perfectly. Strong internal linking opportunity.
+- Dirty matcha (1,600 + 720 + 480 = ~2,800/mo) at 1/100 competition is essentially unclaimed territory. It's also perfect for our espresso site because it literally uses an espresso shot — it's a matcha espresso hybrid. Natural fit that expands our espresso content into the matcha world.
+- Tiger milk tea (3,600/mo, 1/100) is earmarked for Pulse 37 — trending boba/cafe drink at near-zero competition.
+
+**Outcome:** Commit f6c142e pushed. Vercel deployment triggered. Site now at 74 articles.
+
+**Next (Pulse 37):** Research "tiger milk tea" (3,600/mo, 1/100) and "matcha lemonade" (4,400/mo, LOW 13/100). Both have strong numbers. Also check if new SC pages have appeared from Pulses 34-35. Watch ristretto at pos 36.375 — consider targeted optimization if still there.
+
+---
+
 ## 2026-04-17 06:00 IDT — Pulse 35: How to Froth Milk (~6,800/mo LOW) + Americano vs Espresso (1,600/mo near-zero)
 
 **Action:** Published /guides/how-to-froth-milk/ (~6,800/mo combined LOW) and /guides/americano-vs-espresso/ (1,600/mo, 1/100 near-zero competition). Site now at 72 articles.
