@@ -36,7 +36,7 @@ Today it's the world's most popular espresso cocktail, and unlike most trends, i
 - **50ml (1¾ oz) vodka** — use a clean, neutral vodka; nothing too harsh
 - **25ml (¾ oz) coffee liqueur** — Kahlúa is the standard; Tia Maria works well too
 - **35ml (1¼ oz) fresh espresso** — freshly pulled, still hot, ideally 1 double shot
-- **10ml (2 tsp) simple syrup** — optional, depending on how sweet your coffee liqueur is
+- **10ml (2 tsp) [simple syrup](/guides/simple-syrup-recipe/)** — optional, depending on how sweet your coffee liqueur is
 - **Ice** — lots of it, for shaking
 - **3 coffee beans** — for garnish (traditional presentation: 3 beans = health, wealth, happiness)
 

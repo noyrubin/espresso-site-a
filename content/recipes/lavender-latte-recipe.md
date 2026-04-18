@@ -23,7 +23,7 @@ faq:
     answer: "Absolutely. Oat milk is the most popular dairy-free choice — its creaminess pairs particularly well with lavender's floral notes. Almond milk and coconut milk also work; coconut milk adds a subtle tropical note that some enjoy with lavender."
 ---
 
-A lavender latte is one of those drinks that feels fancy but is surprisingly simple to make at home. The key is a good homemade lavender simple syrup — it takes about 10 minutes and transforms a regular latte into something genuinely special.
+A lavender latte is one of those drinks that feels fancy but is surprisingly simple to make at home. The key is a good homemade lavender simple syrup — it takes about 10 minutes and transforms a regular latte into something genuinely special. (The full syrup method, plus vanilla, caramel, and brown sugar variations, is in our [simple syrup recipe guide](/guides/simple-syrup-recipe/).)
 
 This guide covers everything: the syrup recipe, the latte ratios, an iced lavender latte version, and tips to get the flavor balance right.
 

@@ -115,7 +115,7 @@ Chai takes sweetener well, but the type matters:
 
 ## How to Make an Iced Chai Latte
 
-The iced version is refreshing and often becomes the daily go-to once you have concentrate in the fridge.
+The iced version is refreshing and often becomes the daily go-to once you have concentrate in the fridge. For a dedicated iced preparation with Starbucks copycat tips, see our full [iced chai latte recipe](/recipes/iced-chai-latte-recipe/).
 
 ### Method
 
