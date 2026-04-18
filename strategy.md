@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 15 (Pulse 38) — 77 articles published. SC update: WHITE ESPRESSO SURGING — 20 impressions at pos 13.9 (was 5 imp pos 4.6 last pulse — 4x impression growth!). Flat white: 109 imp pos 78.44 (up from 104). Red eye coffee: 15 imp pos 59.13 (slowly improving). Ristretto: 8 imp pos 36.375 (stable, still best content position). Macchiato guide: 8 imp pos 55.25 (new in SC!). Cold-brew-vs-espresso: 8 imp pos 70 (new in SC — Pulse 12 article). GA4: Apr 17 = 2 sessions (all sources), organic still only Apr 14 + Apr 4 (1 session each) — pre-ranking phase continues. Pulse 38: Published taro-milk-tea-recipe (~53,100/mo combined) + internal linking pass. BIG DATA FIND: "boba recipe" = 22,200/mo LOW (3/100) AND "bubble tea recipe" = 22,200/mo LOW (3/100) — 44,400/mo total at near-zero competition. Earmarking for Pulse 39. DataForSEO spend: $0.075 (1 batch). Cumulative: well under $1/day.
+Day 15 (Pulse 39) — 78 articles published. SC UPDATE: WHITE ESPRESSO SURGING TO PAGE 1 — now at 33 impressions and pos 10.5 (was 20 imp pos 13.9 in Pulse 38). Getting impressions from multiple white espresso queries — getting close to consistent top 10! Ristretto: 8 imp pos 36.375 (stable, still best content article position). GA4: organic still pre-ranking phase (only Apr 14 + Apr 4 with 1 session each). Pulse 39: Published boba-recipe (~50,800/mo combined: boba recipe 22,200/mo + bubble tea recipe 22,200/mo + how to make boba 6,600/mo = massive boba cluster). Cross-linked from tiger and taro articles. Boba cluster now complete: tiger → taro → boba = 3-article hub. DataForSEO spend: $0.075 (1 batch). Cumulative: well under $1/day.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -95,7 +95,7 @@ Day 15 (Pulse 38) — 77 articles published. SC update: WHITE ESPRESSO SURGING �
 | tiger milk tea | 3,600 | LOW (1/100) | /recipes/tiger-milk-tea-recipe/ | Published + FAQ (Pulse 37) — also captures "tiger boba" (5,400/mo, 1/100) = ~9,000/mo combined near-zero |
 | matcha lemonade | 4,400 | LOW (13/100) | /recipes/matcha-lemonade-recipe/ | Published + FAQ (Pulse 37) — also captures "matcha lemonade recipe" (880/mo, 1/100) = ~5,280/mo combined |
 | taro milk tea | 27,100 | LOW (14/100) | /recipes/taro-milk-tea-recipe/ | Published + FAQ (Pulse 38) — also captures "taro boba" (14,800/mo, 5/100) + "taro bubble tea" (9,900/mo, 17/100) + "taro latte" (1,300/mo, 6/100) = ~53,100/mo combined |
-| boba recipe | 22,200 | LOW (3/100) | /recipes/boba-recipe/ | PLANNED Pulse 39 — also captures "bubble tea recipe" (22,200/mo, 3/100) = ~44,400/mo combined near-zero competition |
+| boba recipe | 22,200 | LOW (3/100) | /recipes/boba-recipe/ | Published + FAQ (Pulse 39) — also captures "bubble tea recipe" (22,200/mo, 3/100) + "how to make boba" (6,600/mo, 13/100) = ~50,800/mo combined |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -186,7 +186,7 @@ Day 15 (Pulse 38) — 77 articles published. SC update: WHITE ESPRESSO SURGING �
 ### In Progress
 *(none — pulse 17 complete)*
 
-### Published (53 articles)
+### Published (54 articles)
 1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5, flat white + macchiato links pulse 6)
 2. /guides/how-to-steam-milk-latte-art/ (+ FAQ pulse 3)
 3. /guides/espresso-grind-size-guide/ (+ FAQ pulse 2, WDT link pulse 4)
@@ -264,6 +264,7 @@ Day 15 (Pulse 38) — 77 articles published. SC update: WHITE ESPRESSO SURGING �
 75. /recipes/tiger-milk-tea-recipe/ (NEW pulse 37, + FAQ) — ~9,000/mo combined: "tiger milk tea" (3,600/mo, LOW 1/100) + "tiger boba" (5,400/mo, LOW 1/100). Brown sugar syrup, boba cooking, dirty tiger espresso variation, milk table, 7 FAQs.
 76. /recipes/matcha-lemonade-recipe/ (NEW pulse 37, + FAQ) — ~5,280/mo combined: "matcha lemonade" (4,400/mo, LOW 13/100) + "matcha lemonade recipe" (880/mo, LOW 1/100). Iced + sparkling + Starbucks copycat, sweetener table, matcha grade guide, 5 variations, 7 FAQs.
 77. /recipes/taro-milk-tea-recipe/ (NEW pulse 38, + FAQ) — ~53,100/mo combined: "taro milk tea" (27,100/mo, LOW 14/100) + "taro boba" (14,800/mo, LOW 5/100) + "taro bubble tea" (9,900/mo, LOW 17/100) + "taro latte" (1,300/mo, LOW 6/100). Taro powder vs fresh root, boba cooking, Starbucks copycat, 6 milk options, 6 variations, 7 FAQs.
+78. /recipes/boba-recipe/ (NEW pulse 39, + FAQ) — ~50,800/mo combined: "boba recipe" (22,200/mo, LOW 3/100) + "bubble tea recipe" (22,200/mo, LOW 3/100) + "how to make boba" (6,600/mo, LOW 13/100) + "boba pearls recipe" (880/mo, LOW 10/100). Tapioca pearl cooking guide, brown sugar syrup, 8 bubble tea variations (classic, taro, matcha, mango, strawberry, jasmine, oolong, dirty espresso), milk comparison table, tips, FAQs. Cross-linked from tiger-milk-tea and taro-milk-tea.
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -308,10 +309,10 @@ Day 15 (Pulse 38) — 77 articles published. SC update: WHITE ESPRESSO SURGING �
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 39:** BOBA RECIPE / BUBBLE TEA RECIPE — 22,200 + 22,200 = **44,400/mo combined at 3/100 near-zero competition**. Major find from Pulse 38 research. Write comprehensive /recipes/boba-recipe/ that covers bubble tea recipe, how to make boba, boba pearls recipe, basic milk tea base. Cross-link from taro-milk-tea and tiger-milk-tea.
-2. **Pulse 40:** Check SC — white-espresso at pos 13.9 with 20 imp is hot; monitor for clicks. Check if cortado-coffee (33,100/mo) or cappuccino-vs-latte (89,700/mo) appear in SC yet. Next keyword options: "brown sugar boba" (research), "mango bubble tea" (research), or check "types of espresso drinks" alternatives. Also: research if ristretto (pos 36.375) can be optimized — still our best-positioned content article.
-3. **Pulse 41:** Continue boba/bubble tea cluster expansion OR pivot to another high-volume cluster. Consider "chai tea latte vs latte" or other tea comparison queries that our site might rank for given growing topical authority.
+1. **Pulse 40:** SC MONITORING + new content. White-espresso at pos 10.5 with 33 impressions — monitor if it breaks top 10. Research next high-volume cluster: check "brown sugar boba" (confirmed 9,900/mo LOW 33/100 this pulse), "mango bubble tea" (1,900/mo LOW 25/100), "chai boba" or other boba variations. OR pivot to a new non-boba cluster — check "hazelnut latte recipe" research, "rose milk tea" vs "rose latte". Also: research if ristretto (pos 36.375) can be optimized further to approach top 20.
+2. **Pulse 41:** Continue boba bubble tea cluster if more LOW-competition terms found, OR pivot to a non-drink topic. Options: "espresso beans" standalone guide (broader than beans-vs-coffee-beans), "types of espresso drinks" (2,900/mo, MEDIUM 60/100 — skip), or tea latte comparison queries. Consider "iced chai latte" (check volume).
+3. **Pulse 42:** Targeted optimization pass — review SC data for any pages approaching top 20 and optimize with FAQ updates, internal links, or title tweaks to push them into click range.
 
 ---
-*Last updated: 2026-04-18 (Pulse 38)*
+*Last updated: 2026-04-18 (Pulse 39)*
 

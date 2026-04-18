@@ -4,6 +4,46 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-18 14:00 IDT — Pulse 39: Boba Recipe / Bubble Tea Recipe (~50,800/mo combined at 3/100)
+
+**Action:** Published /recipes/boba-recipe/ targeting "boba recipe" + "bubble tea recipe" + "how to make boba" = ~50,800/mo combined at near-zero competition. Added cross-links from tiger-milk-tea and taro-milk-tea articles.
+
+**Assessment:**
+- GA4: Organic still pre-ranking phase — only Apr 14 (1 session) + Apr 4 (1 session). Apr 18 data not available yet.
+- SC KEY UPDATE: **/guides/white-espresso/ now at 33 impressions, pos 10.5** (was 20 imp pos 13.9 in Pulse 38 — 65% impression growth, pos improved 3 spots). Getting very close to consistent top 10! Flat white continues at ~58 imp (multiple flat-white query variants visible). Ristretto stable at 8 imp pos 36.375.
+- No clicks yet from content articles — positions need to reach top 10 consistently.
+
+**DataForSEO research ($0.075 this pulse = 1 batch):**
+- Confirmed boba cluster: "boba recipe" = 22,200/mo LOW (3/100), "bubble tea recipe" = 22,200/mo LOW (3/100)
+- Also captured: "how to make boba" = 6,600/mo LOW (13/100), "boba pearls recipe" = 880/mo LOW (10/100)
+- Additional research: "brown sugar boba" = 9,900/mo LOW (33/100) — borderline, "how to make bubble tea" = 3,600/mo MEDIUM (42/100) — skip main keyword
+- "mango bubble tea" = 1,900/mo LOW (25/100) — included as variation in article
+- Total primary cluster: ~50,800/mo combined at near-zero competition
+
+**Content executed:**
+
+1. **New: /recipes/boba-recipe/** (~2,000 words)
+   - Primary: "boba recipe" (22,200/mo, LOW 3/100) + "bubble tea recipe" (22,200/mo, LOW 3/100)
+   - Also captures: "how to make boba" (6,600/mo, LOW 13/100) + "boba pearls recipe" (880/mo, LOW 10/100) = **~50,800/mo combined**
+   - Covers: what is boba, ingredients, step-by-step boba pearl cooking guide (30-min traditional + quick-cook variant), brown sugar syrup for coating, classic milk tea base recipe, milk type comparison table (7 milks), 8 bubble tea variations (classic, taro, matcha, brown sugar tiger, mango, strawberry, jasmine, oolong, dirty espresso boba), make-ahead tips, where to buy tapioca pearls
+   - Internal links from boba-recipe: taro-milk-tea, tiger-milk-tea, matcha-latte-recipe, dirty-matcha-latte-recipe, brown-sugar-shaken-espresso, espresso-caffeine
+   - 7 FAQs covering: basic boba recipe, pearl cooking time, best tea, making from scratch, preventing hardening, milk options, brown sugar boba
+
+2. **Cross-links added:**
+   - /recipes/tiger-milk-tea-recipe/ — updated "Love boba drinks?" footer link to include boba-recipe link
+   - /recipes/taro-milk-tea-recipe/ — added boba-recipe link to "Boba timing" tips section
+
+**Reasoning:**
+- Boba recipe cluster was the planned Pulse 39 focus from the roadmap. With "boba recipe" and "bubble tea recipe" each at 22,200/mo at 3/100 competition (matching the lowest competition we've ever found), this is a high-priority target.
+- The boba cluster is now complete: tiger-milk-tea (9,000/mo) → taro-milk-tea (53,100/mo) → boba-recipe (50,800/mo) — three interlinked articles covering all the major boba/bubble tea keywords. This cluster signals topical authority in the milk tea / bubble tea space.
+- White-espresso at pos 10.5 with 33 impressions is getting very close to page 1 clicks — no further optimization needed, just time for Google to continue ranking it up.
+
+**Outcome:** Commit 047048e pushed. Vercel deployment triggered. Site now at 78 articles.
+
+**Next (Pulse 40):** Monitor white-espresso for top-10 break (could be first content click!). Research next cluster: brown sugar boba (9,900/mo, LOW 33/100) as standalone OR a new non-boba keyword. Check if ristretto-vs-espresso (pos 36.375) or other articles have climbed. Consider "iced chai latte" or "rose milk tea" research.
+
+---
+
 ## 2026-04-18 06:00 IDT — Pulse 38: Taro Milk Tea (~53,100/mo combined) + Internal Linking Pass
 
 **Action:** Published /recipes/taro-milk-tea-recipe/ (BIGGEST CLUSTER THIS PULSE). Internal linking pass for Pulses 35-37 matcha cluster articles.
