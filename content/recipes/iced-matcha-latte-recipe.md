@@ -222,4 +222,4 @@ A: Matcha itself is high in antioxidants (particularly EGCG), L-theanine, and ch
 
 ---
 
-*More matcha and iced drink ideas: try the layered [strawberry matcha latte](/recipes/strawberry-matcha-latte-recipe/) (a stunning visual drink with a strawberry base), the classic [matcha latte recipe](/recipes/matcha-latte-recipe/) for the hot version, or our [iced latte recipe](/recipes/iced-latte-recipe/) if you prefer espresso as your base.*
+*More matcha and iced drink ideas: try the layered [strawberry matcha latte](/recipes/strawberry-matcha-latte-recipe/) (a stunning visual drink with a strawberry base), the classic [matcha latte recipe](/recipes/matcha-latte-recipe/) for the hot version, the floral [lavender matcha latte](/recipes/lavender-matcha-latte-recipe/), the espresso-infused [dirty matcha latte](/recipes/dirty-matcha-latte-recipe/), or our [matcha lemonade recipe](/recipes/matcha-lemonade-recipe/) for a bright citrus twist.*
