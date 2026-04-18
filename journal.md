@@ -4,6 +4,58 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-18 06:00 IDT — Pulse 38: Taro Milk Tea (~53,100/mo combined) + Internal Linking Pass
+
+**Action:** Published /recipes/taro-milk-tea-recipe/ (BIGGEST CLUSTER THIS PULSE). Internal linking pass for Pulses 35-37 matcha cluster articles.
+
+**Assessment:**
+- GA4: Apr 17 = 2 sessions (all sources). Organic still only Apr 14 (1 session) + Apr 4 (1 session). Pre-ranking phase continues.
+- SC pages (key changes from Pulse 37):
+  - /guides/white-espresso/: **20 impressions, pos 13.9** (was 5 imp pos 4.6!) — 4x impression growth. SURGING. Google is showing us for far more queries on this topic.
+  - /guides/how-to-make-a-flat-white/: 109 imp, pos 78.44 (up from 104) — steady growth.
+  - /guides/red-eye-coffee/: 15 imp, pos 59.13 (up from 14 imp) — steadily improving.
+  - /guides/ristretto-vs-espresso/: 8 imp, pos 36.375 — stable, still best content position.
+  - /guides/how-to-make-a-macchiato/: 8 imp, pos 55.25 — **NEW in SC!** Pulse 6 article appearing.
+  - /guides/cold-brew-vs-espresso/: 8 imp, pos 70 — **NEW in SC!** Pulse 12 article appearing.
+  - Homepage: 13 imp, pos 6.15, 1 click (stable).
+  - No click-through traffic from content articles yet — positions need to climb to top-10 first.
+
+**DataForSEO research ($0.075 this pulse = 1 batch):**
+- "taro milk tea" = 27,100/mo, LOW (14/100) — confirmed
+- "taro boba" = 14,800/mo, LOW (5/100) — MUCH BIGGER than expected (vs 5,400 noted for tiger boba)
+- "taro bubble tea" = 9,900/mo, LOW (17/100) — additional cluster volume
+- "taro latte" = 1,300/mo, LOW (6/100) — cluster tail
+- **"boba recipe" = 22,200/mo, LOW (3/100) — MAJOR FIND**
+- **"bubble tea recipe" = 22,200/mo, LOW (3/100) — same volume, near-zero competition**
+- Combined boba recipe cluster = ~44,400/mo at 3/100. Earmarked for Pulse 39.
+- "types of espresso drinks" = 2,900/mo, MEDIUM (60/100) — skip
+- "mushroom latte" = 390/mo, HIGH (100/100) — skip
+
+**Content executed:**
+
+1. **New: /recipes/taro-milk-tea-recipe/** (~2,000 words)
+   - Primary: "taro milk tea" (27,100/mo, LOW 14/100)
+   - Also captures: "taro boba" (14,800/mo, LOW 5/100) + "taro bubble tea" (9,900/mo, LOW 17/100) + "taro latte" (1,300/mo, LOW 6/100) = **~53,100/mo combined** — biggest cluster since espresso caffeine (90,960/mo)
+   - Covers: what is taro, taro powder vs fresh root table, classic taro milk tea recipe, boba cooking guide (quick-cook + traditional), taro bubble tea assembly, taro latte (hot + iced), Starbucks copycat, milk options table (7 milks), 6 variations (brown sugar taro, taro matcha, taro coconut, blended boba, espresso taro latte, taro jasmine), tips, make-ahead notes, 7 FAQs
+   - Internal links: dirty-matcha-latte-recipe, iced-matcha-latte-recipe
+
+2. **Internal linking pass:**
+   - /recipes/matcha-latte-recipe/ → added 3 links to lavender-matcha, dirty-matcha, matcha-lemonade (matcha cluster now fully cross-linked)
+   - /recipes/iced-matcha-latte-recipe/ → added links to lavender-matcha, dirty-matcha, matcha-lemonade
+   - /guides/how-to-steam-milk-latte-art/ → added how-to-froth-milk link
+   - /recipes/tiger-milk-tea-recipe/ → added taro-milk-tea cross-link (boba cluster now interlinked)
+
+**Reasoning:**
+- Taro milk tea (27,100/mo) was the planned Pulse 38 focus from last pulse. With taro boba at 14,800/mo and taro bubble tea at 9,900/mo also at LOW competition, the total cluster (~53,100/mo) is far bigger than the initial estimate. One comprehensive article capturing all three.
+- Internal linking pass ensures matcha and boba clusters are properly connected — Google uses internal links to understand site structure and content relationships. Linking the 5-article matcha cluster together strengthens topical authority.
+- The boba/bubble tea recipe cluster (44,400/mo at 3/100) is a huge find — same size as cold foam cluster and at near-zero competition. Must execute next pulse while the boba momentum (tiger + taro articles) is fresh.
+
+**Outcome:** Commit 1c8f625 pushed. Vercel deployment triggered. Site now at 77 articles.
+
+**Next (Pulse 39):** Write /recipes/boba-recipe/ — boba recipe + bubble tea recipe = ~44,400/mo combined at 3/100 near-zero competition. Cross-link from tiger-milk-tea and taro-milk-tea. This pulse + the two boba articles (tiger, taro) = a boba/bubble tea cluster that makes us authoritative in this space.
+
+---
+
 ## 2026-04-17 22:00 IDT — Pulse 37: Tiger Milk Tea (~9,000/mo near-zero) + Matcha Lemonade (~5,280/mo)
 
 **Action:** Published /recipes/tiger-milk-tea-recipe/ (~9,000/mo combined near-zero) and /recipes/matcha-lemonade-recipe/ (~5,280/mo combined). Site now at 76 articles.
