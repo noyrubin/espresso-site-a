@@ -98,7 +98,7 @@ The "dirty tiger" adds a single espresso shot to create a three-layer drink: car
 
 For more on espresso at home, see our [espresso caffeine guide](/guides/espresso-caffeine/) or our [brown sugar shaken espresso recipe](/recipes/brown-sugar-shaken-espresso/) for another brown-sugar-meets-espresso classic.
 
-**Love boba drinks?** Try our [taro milk tea recipe](/recipes/taro-milk-tea-recipe/) — creamy purple taro boba is the perfect companion to tiger milk tea.
+**Love boba drinks?** Try our [taro milk tea recipe](/recipes/taro-milk-tea-recipe/) or our complete [boba recipe guide](/recipes/boba-recipe/) — covering all the bubble tea basics, pearl-cooking techniques, and 8 variations from classic to mango.
 
 ## Milk Options Compared
 

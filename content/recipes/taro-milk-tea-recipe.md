@@ -201,7 +201,7 @@ Use jasmine green tea instead of black tea as the base. Jasmine's floral notes c
 
 **Color expectations:** Natural taro has a light lavender-gray hue. Vivid purple often means food coloring was added to the powder. Both are fine — just know what you're buying.
 
-**Boba timing:** Always make boba right before serving. Pre-made boba becomes hard and unpleasant within a few hours.
+**Boba timing:** Always make boba right before serving. Pre-made boba becomes hard and unpleasant within a few hours. For a full deep-dive on cooking tapioca pearls and making different bubble tea styles, see our complete [boba recipe guide](/recipes/boba-recipe/).
 
 **Sweetness timing:** Add sweetener while liquid is slightly warm — it dissolves more easily than in cold drinks.
 
