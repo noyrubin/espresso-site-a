@@ -4,6 +4,51 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-19 14:00 IDT — Pulse 42: Brown Sugar Milk Tea (6,600/mo 11/100) + Strawberry Latte (1,900/mo 2/100)
+
+**Action:** Published two new articles and ran DataForSEO research batch.
+
+**Assessment:**
+- **WHITE ESPRESSO holding top 5:** /guides/white-espresso/ at pos 5.47, 85 impressions (up from 5.93/77 last pulse — position improving). 1 click on "what is white espresso" (pos 6.3, 22 impressions). Climbing.
+- SC pages: how-to-make-a-flat-white 110 imp pos 78.4 (highest impressions, still deep — needs site authority to improve; content is solid), how-to-froth-milk 26 imp pos 57.3, red-eye-coffee 17 imp pos 58.9, mocha-recipe 16 imp pos 70.3, turmeric-latte 11 imp pos 68.8, ristretto-vs-espresso 8 imp pos 36.4 (no improvement yet from internal link boost — needs more time)
+- Homepage: 14 impressions, pos 6.1, 1 click
+- GA4: 2 organic sessions total (Apr 4 + Apr 14). Traffic still pre-ranking stage. Bulk of articles indexed but not yet reaching top 10.
+- SC query analysis: "what is white espresso" (1 click, 22 imp, pos 6.3). Flat-white queries dominate impression list: "how to make a flat white" (18 imp, pos 77), "flat white recipe" (14 imp, pos 83.9), "how to make flat white" (10 imp, pos 84.2) — all indexed but deep.
+
+**DataForSEO research ($0.075 this pulse = 1 batch):**
+- "brown sugar milk tea" = 6,600/mo, LOW (11/100) — CONFIRMED GOOD OPPORTUNITY. Distinct from tiger milk tea.
+- "cafe de olla" = 60,500/mo, MEDIUM (46/100) — still borderline, defer SERP check to next pulse
+- "strawberry latte" = 1,900/mo, LOW (2/100) — near-zero competition, quick article
+- "maple latte" = 1,000/mo, LOW (0/100) — zero competition, defer
+- "coconut latte" = 1,300/mo, LOW (2/100) — near-zero, defer
+- "iced brown sugar shaken espresso" = 2,400/mo, LOW (3/100) — already covered by existing brown-sugar-shaken-espresso page (27,100/mo), skip standalone
+
+**Content executed:**
+
+1. **New: /recipes/brown-sugar-milk-tea-recipe/** (~1,700 words)
+   - Primary: "brown sugar milk tea" (6,600/mo, LOW 11/100)
+   - Captures: "brown sugar boba tea", "brown sugar milk tea recipe", "brown sugar oat milk latte", "Taiwan brown sugar milk tea"
+   - Differentiated from tiger milk tea: explicit comparison table (tiger = streaked glass + required boba; brown sugar milk tea = stirred in, no required boba)
+   - Covers: brown sugar syrup recipe (5-min), hot + iced versions, sweetness ratio table (1–4 tbsp options), milk comparison table, boba add-on guide, 5 variations (Taiwan style, oat milk latte, green tea, oolong, taro)
+   - 7 FAQs
+   - Internal links to: tiger-milk-tea-recipe, boba-recipe, simple-syrup-recipe, taro-milk-tea-recipe
+
+2. **New: /recipes/strawberry-latte-recipe/** (~1,650 words)
+   - Primary: "strawberry latte" (1,900/mo, LOW 2/100) — near-zero competition
+   - Captures: "strawberry latte recipe", "iced strawberry latte", "iced strawberry oat milk latte"
+   - Covers: what is strawberry latte, fresh strawberry syrup recipe (10-min, also covers jam/freeze-dried shortcuts), hot + iced recipe, milk table, sweetness guide, Starbucks strawberry cold foam dupe, 5 variations, no-machine alternatives, 6 FAQs
+   - Internal links to: matcha-latte-recipe, strawberry-matcha-latte-recipe, iced-latte-recipe, vanilla-latte-recipe, vanilla-sweet-cream-cold-brew, how-to-make-iced-coffee
+
+**Reasoning:**
+- Brown sugar milk tea (6,600/mo, 11/100) is a natural next article given we already own the milk tea cluster (tiger, taro, boba, rose). The distinct-from-tiger-milk-tea positioning is important — I wrote a comparison table to make the differentiation clear and avoid keyword cannibalization with /recipes/tiger-milk-tea-recipe/. Both pages now cross-link, which strengthens the topical cluster.
+- Strawberry latte (1,900/mo, 2/100) is a quick, near-zero-competition win that extends the latte recipe cluster. Also cross-links to strawberry-matcha-latte (8,100/mo, 25/100 — our existing article gets a relevant internal link boost).
+
+**Outcome:** Commit a4438d5 pushed. Vercel deployment triggered. Site now at 84 articles. Hugo build confirmed clean (458 pages).
+
+**Next (Pulse 43):** Check "cafe de olla" SERP to assess if MEDIUM competition (46/100) is manageable for informational angle. Research "maple latte" (1,000/mo, 0/100) for quick zero-competition article. Monitor ristretto position (pos 36 — needs more time from internal link). Monitor white espresso (pos 5.47 — could climb into solid top 5 for more clicks).
+
+---
+
 ## 2026-04-19 06:00 IDT — Pulse 41: Vietnamese Coffee Recipe (6,600/mo 2/100) + Rose Milk Tea (1,600/mo 9/100) + Ristretto Link Boost
 
 **Action:** Published two new articles and added an internal link from the highest-impression page to ristretto.

@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 16 (Pulse 41) — 82 articles published. WHITE ESPRESSO ACCELERATING: now pos 5.93, 77 impressions, 1 click (up from pos 9.047 / 42 imp last pulse — 83% impression growth). Getting very close to consistent top 5. Ristretto still at pos 36.375 — added internal link from flat-white guide (110 impressions) to boost it. Pulse 41: Published vietnamese-coffee-recipe (6,600/mo, 2/100 — near-zero competition) and rose-milk-tea-recipe (1,600/mo, 9/100). DataForSEO spend: $0.15 this pulse (2 batches). Cumulative: well under $1/day.
+Day 16 (Pulse 42) — 84 articles published. WHITE ESPRESSO HOLDING TOP 5: pos 5.47, 85 impressions (up from 5.93/77 last pulse — position improving, impressions growing). 1 click on "what is white espresso" (pos 6.3). Flat-white guide at 110 impressions pos 78.4 — indexed broadly but ranking deep; content is solid, this is an authority/age issue. Ristretto at pos 36.4 — no movement yet from internal link boost (needs more time). Pulse 42: Published brown-sugar-milk-tea-recipe (6,600/mo, 11/100) and strawberry-latte-recipe (1,900/mo, 2/100). DataForSEO spend: $0.075 this pulse (1 batch). Cumulative: well under $1/day.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -100,6 +100,8 @@ Day 16 (Pulse 41) — 82 articles published. WHITE ESPRESSO ACCELERATING: now po
 | iced chai latte | 9,900 | LOW (9/100) | /recipes/iced-chai-latte-recipe/ | Published + FAQ (Pulse 40) — also captures "iced chai latte recipe" (1,900/mo, 13/100) + "chai tea latte recipe" (4,400/mo, 13/100) = ~16K/mo combined |
 | Vietnamese coffee recipe | 6,600 | LOW (2/100) | /recipes/vietnamese-coffee-recipe/ | Published + FAQ (Pulse 41) — near-zero competition; also captures "Vietnamese iced coffee recipe", "ca phe sua da", "Vietnamese egg coffee" cluster |
 | rose milk tea | 1,600 | LOW (9/100) | /recipes/rose-milk-tea-recipe/ | Published + FAQ (Pulse 41) — extends milk tea cluster; also captures "rose milk tea recipe", "rose boba" |
+| brown sugar milk tea | 6,600 | LOW (11/100) | /recipes/brown-sugar-milk-tea-recipe/ | Published + FAQ (Pulse 42) — distinct from tiger milk tea (no required boba/streaks), captures "brown sugar boba tea", "brown sugar tea latte" cluster |
+| strawberry latte | 1,900 | LOW (2/100) | /recipes/strawberry-latte-recipe/ | Published + FAQ (Pulse 42) — near-zero competition; also captures "strawberry latte recipe", "iced strawberry latte", "strawberry oat milk latte" |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -274,6 +276,8 @@ Day 16 (Pulse 41) — 82 articles published. WHITE ESPRESSO ACCELERATING: now po
 81. /recipes/vietnamese-coffee-recipe/ (NEW pulse 41, + FAQ) — "Vietnamese coffee recipe" (6,600/mo, LOW 2/100) near-zero competition. Also captures "Vietnamese iced coffee recipe", "ca phe sua da recipe", "Vietnamese egg coffee", "Vietnamese drip coffee". Covers: phin filter method (hot + iced), espresso/French press/moka pot shortcuts, condensed milk ratio table, milk brand guide, 4 variations (black iced, egg coffee/ca phe trung, coconut coffee, dirty espresso), make-ahead tips, 7 FAQs.
 82. /recipes/rose-milk-tea-recipe/ (NEW pulse 41, + FAQ) — "rose milk tea" (1,600/mo, LOW 9/100). Also captures "rose milk tea recipe", "rose boba". DIY rose syrup recipe, hot + iced versions, condensed milk option, 5 boba options, 5 variations (rose green tea, rose oolong, strawberry rose, rose lychee, rose matcha). Internal links to boba-recipe and taro-milk-tea.
 Internal link boost: added ristretto link from how-to-make-a-flat-white (110 impressions, highest in SC).
+83. /recipes/brown-sugar-milk-tea-recipe/ (NEW pulse 42, + FAQ) — "brown sugar milk tea" (6,600/mo, LOW 11/100). Differentiated from tiger milk tea (no required boba/streaks). Brown sugar syrup recipe, hot + iced versions, sweetness ratio table, milk table, boba add-on section, 5 variations (Taiwan style, oat milk latte, green tea, oolong, taro). Internal links to tiger-milk-tea, boba-recipe, simple-syrup, taro-milk-tea.
+84. /recipes/strawberry-latte-recipe/ (NEW pulse 42, + FAQ) — "strawberry latte" (1,900/mo, LOW 2/100). Near-zero competition. Covers: fresh strawberry syrup recipe, hot + iced versions, milk table, sweetness guide, Starbucks dupe (strawberry cold foam), 5 variations, no-machine alternatives. Internal links to matcha-latte, strawberry-matcha-latte, vanilla-latte, iced-latte.
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -318,10 +322,10 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 42:** White espresso at pos 5.93 → watch for more clicks. Explore: "brown sugar milk tea" (6,600/mo, 11/100) — distinct from tiger milk tea enough to warrant own page; OR "cafe de olla" (60,500/mo MEDIUM 46/100) — very high volume but borderline competition (risky for new site). Check "mushroom coffee" as a trend piece. Research "Vietnamese egg coffee" cluster (ca phe trung) for follow-up standalone. Monitor new Vietnamese coffee page SC impressions (expect 2–3 weeks to appear).
-2. **Pulse 43:** Targeted optimization pass — check SC data on all pages. Focus: how-to-make-a-flat-white (110 impressions at pos 78 — needs more internal links from high-authority pages, potentially a title tag change). Ristretto (pos 36 — now has flat-white link, monitor if moves). Consider "espresso brewing ratio" FAQ expansion on ratio page.
-3. **Pulse 44:** If white espresso hits top 3, document what worked and replicate pattern for similar pages. Explore larger "how to" keyword gaps. Consider a dedicated equipment guide for phin filters (to support Vietnamese coffee article) or moka pot buying guide.
+1. **Pulse 43:** Research "cafe de olla" (60,500/mo, MEDIUM 46/100) — run a SERP check to see if informational articles rank despite MEDIUM paid competition. If SERP shows info-focused results (not brand/ecommerce), worth attempting. Explore "mango matcha latte" (720/mo, 8/100) as a quick extension of the matcha cluster. Check "maple latte" (1,000/mo, 0/100) — zero competition, easy short article. SC check: monitor if flat-white impressions (110 at pos 78) move at all after ristretto link boost.
+2. **Pulse 44:** Check if white espresso breaks pos 5 to get more CTR. Look for any page gaining traction in SC (impressions at pos 20–40) and optimize with internal links. Consider "espresso brewing ratio" FAQ expansion on ratio page. Run a DataForSEO keyword-ideas pass on "tea" seed to find any tea-adjacent clusters we haven't covered.
+3. **Pulse 45:** Equipment content pass — look at low-competition equipment guides: "best moka pot" (check volume/comp), "phin filter" as equipment article, "aeropress review" if competition is manageable. These tend to convert well and build authority in the brewing gear space. Consider whether Breville Bambino Plus review can be expanded with more structured comparison data to improve its ranking.
 
 ---
-*Last updated: 2026-04-19 (Pulse 41)*
+*Last updated: 2026-04-19 (Pulse 42)*
 
