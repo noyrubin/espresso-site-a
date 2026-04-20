@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 17 (Pulse 45) — 90 articles published. WHITE ESPRESSO still top 5: pos 4.03, 126 impressions (slightly improved from 4.105/123 last pulse). 1 click on "what is white espresso" (pos 5.875, 24 impressions). How-to-froth-milk at 52 impressions pos 61 (steady gain). How-to-make-a-flat-white: 110 impressions pos 78 (stable). Ristretto at pos 36.375 (stable). New pages in SC: macchiato (8 imp, pos 55), turmeric-latte (11 imp, pos 69), cold-brew-vs-espresso (8 imp, pos 70). Pulse 45: published french press guide (9,900/mo 30/100) + mango bubble tea (1,900+320/mo) + added 3 internal links to how-to-froth-milk. DataForSEO spend: $0.075 this pulse (1 search-volume batch). Cumulative: well under $1/day.
+Day 17 (Pulse 46) — 92 articles published. WHITE ESPRESSO holding top 5: pos 4.03, 126 impressions (stable). 1 click on "what is white espresso" (pos 5.875, 24 impressions). How-to-froth-milk: 52 impressions pos 61. How-to-make-a-flat-white: 110 impressions pos 78. Ristretto: pos 36.375. Macchiato: 10 imp, pos 44.4 (closer to page 3!). GA4 organic: very sparse — still pre-ranking stage. Pulse 46: published hot chocolate recipe (74k+/mo MEGA cluster, LOW 5/100) + horchata latte (3,600/mo 8/100) + internal links. DataForSEO spend: $0.15 this pulse (2 batches). Cumulative: well under $1/day.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -108,6 +108,8 @@ Day 17 (Pulse 45) — 90 articles published. WHITE ESPRESSO still top 5: pos 4.0
 | coffee to water ratio | 6,600 | LOW (2/100) | /guides/coffee-to-water-ratio/ | Published + FAQ (Pulse 44) — near-zero competition; covers all methods: espresso, French press, pour over, drip, cold brew, moka pot, AeroPress; also targets "coffee ratio" cluster |
 | how to use french press | 9,900 | LOW (30/100) | /guides/how-to-use-french-press/ | Published + FAQ (Pulse 45) — step-by-step brewing guide, ratios table, grind size, troubleshooting, cleaning, hot-brewed vs cold brew methods |
 | mango bubble tea | 1,900 | LOW (25/100) | /recipes/mango-bubble-tea-recipe/ | Published + FAQ (Pulse 45) — also captures "mango boba recipe" (320/mo, LOW 3/100) + mango matcha variation = ~2,220/mo combined at near-zero competition |
+| hot chocolate recipe | 74,000 | LOW (5/100) | /recipes/hot-chocolate-recipe/ | Published + FAQ (Pulse 46) — MEGA CLUSTER: also captures "hot cocoa recipe" (74,000/mo, LOW 5/100) + "mexican hot chocolate recipe" (6,600/mo, LOW 3/100) + "white hot chocolate recipe" (1,300/mo, LOW 3/100) = ~81,600/mo combined at near-zero competition |
+| horchata latte | 3,600 | LOW (8/100) | /recipes/horchata-latte-recipe/ | Published + FAQ (Pulse 46) — also captures "iced horchata latte" (320/mo, LOW 0/100) = ~3,920/mo combined |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -189,9 +191,15 @@ Day 17 (Pulse 45) — 90 articles published. WHITE ESPRESSO still top 5: pos 4.0
 - [DONE Pulse 38] Internal linking pass — 3 new links from matcha-latte-recipe (→ lavender-matcha, dirty-matcha, matcha-lemonade), updated iced-matcha-latte-recipe (same cluster), how-to-froth-milk link added to steam-milk guide, taro ↔ tiger cross-link.
 - [DONE Pulse 45] "how to use french press" (9,900/mo, LOW 30/100) — published as /guides/how-to-use-french-press/
 - [DONE Pulse 45] "mango bubble tea" (1,900/mo, LOW 25/100) + "mango boba recipe" (320/mo, LOW 3/100) = ~2,220/mo — published as /recipes/mango-bubble-tea-recipe/
-- "lychee milk tea" (590/mo, LOW 1/100) — near-zero competition, extends milk tea cluster
+- [DONE Pulse 46] "hot chocolate recipe" (74,000/mo, LOW 5/100) MEGA CLUSTER — published as /recipes/hot-chocolate-recipe/. Also captures "hot cocoa recipe" (74,000/mo, LOW 5/100) + "mexican hot chocolate recipe" (6,600/mo, LOW 3/100) + "white hot chocolate recipe" (1,300/mo, LOW 3/100) = ~81,600/mo combined. Stovetop + steam wand + microwave + cocoa powder methods. 6 variations, milk guide table, 7 FAQs.
+- [DONE Pulse 46] "horchata latte" (3,600/mo, LOW 8/100) + "iced horchata latte" (320/mo, LOW 0/100) = ~3,920/mo — published as /recipes/horchata-latte-recipe/. Full homemade horchata recipe, hot + iced versions, shortcuts table, roast pairing table, 5 variations, 6 FAQs.
+- "lychee milk tea" (590/mo, LOW 1/100) — near-zero competition, extends milk tea cluster — PRIORITY for Pulse 47
 - "mango matcha latte" (720/mo, LOW 8/100) — extends matcha cluster, low competition — also covered as variation in mango-bubble-tea-recipe
 - "butterfly pea latte" (390/mo, LOW 17/100) — trendy blue/purple drink, could get shares from visual appeal
+- "peppermint mocha recipe" (1,600/mo, LOW 7/100) — seasonal Starbucks copycat, low competition
+- "eggnog latte recipe" (1,600/mo, LOW 1/100) — near-zero competition seasonal, good for building authority
+- "gingerbread latte recipe" (1,000/mo, LOW 1/100) — near-zero competition seasonal
+- "oat milk latte recipe" (210/mo, LOW 4/100) — too small standalone, skip
 - "nitro cold brew" (18,100/mo, MEDIUM 47/100) — borderline competition, hold for later
 - "cold brew concentrate recipe" (1,300/mo, LOW 12/100) — small, consider adding to cold brew recipe page as variation
 - "nespresso vs espresso machine" (880/mo, HIGH 91/100) — skip, too competitive
@@ -301,6 +309,8 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 88. /guides/coffee-to-water-ratio/ (NEW pulse 44, + FAQ) — "coffee to water ratio" (6,600/mo, LOW 2/100) near-zero competition. Quick-reference table for all methods, espresso 1:2/1:1/1:3, French press 1:15, pour over 1:15-1:17, drip 1:16-1:18, AeroPress 1:6-1:15, moka pot 1:7, cold brew 1:4-1:8. Taste adjustment guide, light vs dark roast, grams vs tablespoons conversion. 7 FAQs. Internal links to espresso-ratio-guide, cold-brew-recipe, espresso-grind-size-guide.
 89. /guides/how-to-use-french-press/ (NEW pulse 45, + FAQ) — "how to use french press" (9,900/mo, LOW 30/100). Step-by-step brewing guide: preheat, bloom, steep 4 min, plunge slow. Ratio table (all press sizes), grind size guide, water temp, troubleshooting table, iced french press + cold brew methods, cleaning guide, vs espresso comparison. 7 FAQs. Internal links to coffee-to-water-ratio, cold-brew-recipe, espresso-caffeine.
 90. /recipes/mango-bubble-tea-recipe/ (NEW pulse 45, + FAQ) — ~2,220/mo combined: "mango bubble tea" (1,900/mo, LOW 25/100) + "mango boba recipe" (320/mo, LOW 3/100). Fresh vs frozen mango syrup, tea base options table, milk options table, mango matcha variation, mango taro variation, mango lychee variation, frozen slushie. Sweetness guide table. 7 FAQs. Internal links to boba-recipe, taro-milk-tea-recipe, tiger-milk-tea-recipe, matcha-latte-recipe.
+91. /recipes/hot-chocolate-recipe/ (NEW pulse 46, + FAQ) — ~81,600/mo combined: "hot chocolate recipe" (74,000/mo, LOW 5/100) + "hot cocoa recipe" (74,000/mo, LOW 5/100) + "mexican hot chocolate recipe" (6,600/mo, LOW 3/100) + "white hot chocolate recipe" (1,300/mo, LOW 3/100). Stovetop, steam wand, microwave, cocoa-powder methods. Milk comparison table, 6 variations (Mexican, white, salted caramel, peppermint, orange, mocha), toppings guide, troubleshooting table, make-ahead ganache tip. 7 FAQs. Internal link from mocha-recipe.
+92. /recipes/horchata-latte-recipe/ (NEW pulse 46, + FAQ) — ~3,920/mo combined: "horchata latte" (3,600/mo, LOW 8/100) + "iced horchata latte" (320/mo, LOW 0/100). Full homemade horchata from-scratch recipe (soak, blend, strain). Hot + iced versions. Shortcuts table (store-bought, rice milk + cinnamon, concentrate). Sweetness adjustment table, espresso roast pairing table, 5 variations. 6 FAQs. Internal link from cafe-de-olla-recipe.
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -345,10 +355,11 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 46:** "lychee milk tea" (590/mo, LOW 1/100) as quick cluster extension. Research new keyword batch targeting: Starbucks seasonal copycats (peppermint mocha recipe? eggnog latte? holiday drinks?), health/functional angle: "mushroom coffee recipe" (390/mo, LOW 19/100 — borderline), "oat milk latte" (look up), "horchata latte" (check). Also consider "butterfly pea latte" (390/mo, LOW 17/100) from Ideas Backlog — visually striking drink that gets shares.
-2. **Pulse 47:** How-to-make-a-flat-white (110 impressions pos 78) has high impression count but stuck at pos 78 — worth a content update/expansion. Check if page needs more internal link equity (already linked from: ristretto-vs-espresso, cortado-recipe, latte-guide). Also review ristretto page (pos 36) — very close to page 3 territory. Could be boosted with more internal links. Check espresso-caffeine page — 90,960/mo combined cluster, may be starting to gain impressions.
-3. **Pulse 48:** Run DataForSEO on completely new angle — equipment reviews at medium-term horizon: "best pour over coffee maker" (check volume), "best aeropress recipe" (HIGH 91/100 — skip), "best milk frother" (check volume). Also check "how to make pour over coffee" (9,900/mo? — check). Consider home coffee fundamentals still missing: "how to grind coffee beans" or "coffee bean storage".
+1. **Pulse 47:** "lychee milk tea" (590/mo, 1/100) as quick cluster extension. "peppermint mocha recipe" (1,600/mo, LOW 7/100) — Starbucks seasonal copycat, naturally links to mocha-recipe and hot-chocolate-recipe. Research best milk frother (check volume) and "how to grind coffee beans" (check competition). Also consider butterfly pea latte (390/mo, 17/100) for visual appeal.
+2. **Pulse 48:** How-to-make-a-flat-white (110 impressions pos 78) has high impression count but stuck at pos 78 — worth a content expansion pass. Check ristretto page (pos 36.375) — very close to page 3 territory, consider more internal links. Check espresso-caffeine impressions — 90,960/mo combined cluster, should be getting indexed by now.
+3. **Pulse 49:** Run DataForSEO on equipment angle: "best milk frother" (check volume), "how to grind coffee beans" (check competition), "best coffee grinder under 100" (check). Consider seasonal baking-adjacent: "gingerbread latte recipe" (1,000/mo, LOW 1/100) + "eggnog latte recipe" (1,600/mo, LOW 1/100) — both near-zero competition seasonal keywords.
 
 ---
-*Last updated: 2026-04-20 (Pulse 45)*
+*Last updated: 2026-04-20 (Pulse 46)*
+
 
