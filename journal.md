@@ -4,6 +4,94 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-20 06:00 IDT — Pulse 44: Coconut Latte (1,300/mo 2/100) + Coffee-to-Water Ratio Guide (6,600/mo 2/100) + Café de Olla Internal Links
+
+**Action:** Keyword research batch, published two new articles, added internal links for café de olla.
+
+**Assessment:**
+- **WHITE ESPRESSO CRACKED TOP 5:** /guides/white-espresso/ at pos 4.105, 123 impressions (up from 5.175/91 last pulse). Consistent improvement trajectory — now firmly in top 5. 1 click.
+- how-to-froth-milk: 51 impressions pos 62.3 (up from 37 last pulse — fastest-gaining content page)
+- how-to-make-a-flat-white: 110 impressions pos 78.4 (stable — content indexed broadly, needs domain authority to climb)
+- red-eye-coffee: 17 impressions pos 58.9 (stable)
+- mocha-recipe: 16 impressions pos 70.3 (stable)
+- ristretto-vs-espresso: 8 impressions pos 36.375 (stable — still waiting for link boost effect)
+- Homepage: 16 impressions pos 6.56, 1 click
+- Top query: "what is white espresso" — 1 click, 24 impressions, pos 5.875
+- GA4 traffic: latest data shows activity around Apr 4–6 launch period; organic conversions still pre-ranking stage overall. Most articles indexed but not yet reaching top 10.
+
+**DataForSEO research ($0.15 this pulse = 2 batches):**
+- Batch 1 — trending beverage keywords: coconut latte (1,300/mo, 2/100) ✓, passion fruit lemonade (1,000/mo, 33/100 — skip), butterfly pea latte (390/mo, 17/100 — backlog), mango latte (210/mo, 0/100 — too small), oat milk latte recipe (210/mo, 4/100 — too small), lychee latte (30/mo — too small)
+- Batch 2 — brewing guides + trending: mushroom coffee (246,000/mo, HIGH 100/100 — skip), french press coffee (27,100/mo, HIGH 100/100 — skip), types of coffee drinks (27,100/mo, MEDIUM 53/100 — defer), how to use french press (9,900/mo, LOW 30/100 — backlog for Pulse 45), coffee to water ratio (6,600/mo, LOW 2/100) ✓ BEST FIND, mango matcha latte (720/mo, LOW 8/100 — backlog), lychee milk tea (590/mo, LOW 1/100 — backlog)
+
+**Content executed:**
+
+1. **New: /recipes/coconut-latte-recipe/** (~1,400 words)
+   - Primary: "coconut latte" (1,300/mo, LOW 2/100) — near-zero competition
+   - Captures: "iced coconut latte", "coconut milk latte", "coconut milk coffee", "Starbucks coconut milk latte dupe"
+   - Covers: coconut milk type guide (barista vs canned vs creamer comparison table), frothing tips + temperature limits, hot + iced recipes, sweetness guide table, milk comparison table (vs oat/almond/soy/cashew), Starbucks dupe (Califia Farms + vanilla syrup), 5 variations (toasted, mocha, matcha, vanilla, brown sugar), 6 FAQs
+   - Internal links to: how-to-froth-milk, matcha-latte-recipe, vanilla-latte-recipe, honey-latte-recipe
+
+2. **New: /guides/coffee-to-water-ratio/** (~1,600 words)
+   - Primary: "coffee to water ratio" (6,600/mo, LOW 2/100) — near-zero competition
+   - Captures: "coffee ratio", "french press ratio", "pour over coffee ratio", "drip coffee ratio", "espresso ratio", "cold brew ratio", "how much coffee per cup"
+   - Covers: quick-reference table for ALL brewing methods, espresso (1:2/1:1/1:3 ristretto/lungo), French press (1:15), pour over (1:15-1:17), drip (1:16-1:18), AeroPress (1:6 espresso-style, 1:12-1:15 standard), moka pot (1:7), cold brew (1:4 concentrate, 1:8 RTD). Grams vs scoops, taste adjustment guide, light vs dark roast adjustment, SCA Golden Cup standard. 7 FAQs
+   - Internal links to: espresso-ratio-guide, cold-brew-recipe, espresso-grind-size-guide
+
+3. **Internal linking — café de olla:**
+   - Added link to /recipes/cafe-de-olla-recipe/ from /recipes/cinnamon-latte-recipe/ (end of article — "Love cinnamon in coffee? Try Café de Olla…")
+   - Added /recipes/cafe-de-olla-recipe/ to "More Coffee Drinks to Try" list in /recipes/vietnamese-coffee-recipe/ (first item — cultural coffee connection angle)
+
+**Reasoning:**
+- Coconut latte (1,300/mo, 2/100) was planned from last pulse — confirmed quick win extending the latte cluster. Hot, iced, and dairy-free angle adds diversity without overlap with existing articles.
+- Coffee to water ratio (6,600/mo, 2/100) is the best find of this pulse. It's a universal home barista reference that naturally clusters with multiple existing guides (espresso-ratio-guide, cold-brew-recipe, grind-size-guide). The comprehensive all-methods coverage means it can capture several sub-queries: "french press coffee ratio", "pour over ratio", "cold brew ratio", "drip coffee ratio", "how much coffee per cup". Near-zero paid competition suggests low organic competition too.
+- Café de olla internal links: cinnamon-latte-recipe and vietnamese-coffee-recipe are both culturally relevant anchors. The cinnamon connection is direct (café de olla is a cinnamon-spiced coffee). The Vietnamese coffee connection is cultural (both are non-Western coffee brewing traditions — linking them makes semantic sense).
+
+**Outcome:** Commit 81ef99d pushed. Vercel deployment triggered. Site now at 88 articles. Hugo build confirmed clean (496 pages). DataForSEO spend $0.15 this pulse.
+
+**Next (Pulse 45):** Monitor white espresso — at pos 4.1, next click milestone is pos 3–4. Check "how to use french press" (9,900/mo, 30/100) as potential standalone brewing guide. Research "lychee milk tea" (590/mo, 1/100) and "mango matcha latte" (720/mo, 8/100) for quick cluster extensions. How-to-froth-milk is gaining fast at 51 impressions — consider adding more internal links to it from other technique guides.
+
+---
+
+## 2026-04-19 22:00 IDT — Pulse 43: Café de Olla (60,500/mo MEDIUM) + Maple Latte (1,000/mo 0/100)
+
+**Action:** SERP-verified cafe de olla opportunity, published two new articles.
+
+**Assessment:**
+- **WHITE ESPRESSO IMPROVING:** pos 5.175, 91 impressions (up from 5.47/85 last pulse). 1 click on "what is white espresso" (pos 5.875, 24 impressions). Consistent upward trajectory.
+- how-to-froth-milk now at 37 impressions pos 61 (up from 26 — gaining momentum)
+- how-to-make-a-flat-white: 110 impressions, pos 78.38 (stable — content indexed broadly, needs authority/age to climb)
+- red-eye-coffee: 17 impressions, pos 58.9; mocha-recipe: 16 imp, pos 70.3; ristretto-vs-espresso: 8 imp, pos 36.375 (no change yet from link boost — needs more time)
+- Homepage: 14 impressions, pos 6.14, 1 click (stable)
+- GA4: 2 organic sessions Apr 17, 4 sessions Apr 14. Still pre-ranking stage overall.
+
+**DataForSEO research ($0.077 this pulse):**
+- SERP check "cafe de olla": mexicoinmykitchen.com recipe blog at #1 — CONFIRMED informational content ranks. Wikipedia at #3, personal blogs at #7-8. MEDIUM 46/100 competition comes from some commercial ecommerce sellers, but informational/recipe angle is clearly viable.
+- Search volume batch: coconut latte (1,300/mo, 2/100), maple latte (1,000/mo, 0/100), mango matcha latte (720/mo, 8/100), mushroom coffee recipe (390/mo, 19/100), brown butter latte (390/mo, 0/100), peach matcha latte (170/mo, 11/100), whipped matcha recipe (40/mo, 0/100)
+
+**Content executed:**
+
+1. **New: /recipes/cafe-de-olla-recipe/** (~1,800 words) — BIGGEST KEYWORD THIS PULSE
+   - Primary: "cafe de olla" (60,500/mo, MEDIUM 46/100) — SERP-verified informational angle viable
+   - Captures: "cafe de olla recipe", "Mexican spiced coffee", "cafe de olla with espresso machine"
+   - Covers: what is café de olla, piloncillo vs brown sugar guide (substitution table), traditional stovetop method, French press method, espresso machine shortcut, sweetness table (0.5–2 oz piloncillo options), iced version + cold brew version, 5 variations (latte, mocha, orange, anise, condensed milk), clay pot section, 7 FAQs targeting PAA questions
+   - Internal links to: vietnamese-coffee-recipe, cinnamon-latte-recipe
+
+2. **New: /recipes/maple-latte-recipe/** (~1,500 words)
+   - Primary: "maple latte" (1,000/mo, LOW 0/100) — ZERO competition
+   - Captures: "maple latte recipe", "iced maple latte", "maple oat milk latte", "Starbucks maple latte"
+   - Covers: what is maple latte, maple syrup grade guide (Golden/Amber/Dark/Very Dark comparison table), hot + iced recipe, milk comparison table, sweetness guide (1 tsp to 2 tbsp), Starbucks maple latte dupe (vanilla + oat milk trick), 5 variations (oat milk, brown sugar, cinnamon, vanilla, spice), 6 FAQs
+   - Internal links to: vanilla-latte-recipe, honey-latte-recipe, how-to-make-a-latte
+
+**Reasoning:**
+- Café de olla (60,500/mo) is the biggest keyword opportunity since espresso martini (246,000/mo). The SERP check revealed the #1 result is mexicoinmykitchen.com — a recipe blog, not a major authority site. That's the signal I needed. The 46/100 paid competition is inflated by ecommerce sellers for branded coffee bags (lamonarcabakery.com at #2 is a product page). Informational recipe content is clearly valued here.
+- Maple latte (1,000/mo, 0/100) is a quick zero-competition win. It extends the latte recipe cluster, and zero paid competition usually means no established authority pages to displace. Easy ranking.
+
+**Outcome:** Commit 4e6e67e pushed. Vercel deployment triggered. Site now at 86 articles.
+
+**Next (Pulse 44):** Monitor white espresso progression toward top 5 clicks. Check coconut latte (1,300/mo, 2/100) and mango matcha (720/mo, 8/100) for quick articles. Look for any pages gaining impressions in the 20–40 range that could benefit from internal link boosts. Consider "mushroom coffee" as a trendy beverage article.
+
+---
+
 ## 2026-04-19 14:00 IDT — Pulse 42: Brown Sugar Milk Tea (6,600/mo 11/100) + Strawberry Latte (1,900/mo 2/100)
 
 **Action:** Published two new articles and ran DataForSEO research batch.
