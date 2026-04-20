@@ -52,7 +52,7 @@ For a deeper comparison of these two drinks, see our [flat white vs latte guide]
 - **Scale** (optional but helpful for shot weight)
 - **Thermometer** (optional — for learning correct milk temperature)
 
-A flat white absolutely requires a real steam wand. Frothing attachments and French press milk frothers won't produce the right texture — they make bubbles, not microfoam. If you don't have a steam wand yet, see our [getting started guide](/guides/getting-started/) for machine recommendations.
+A flat white absolutely requires a real steam wand. Frothing attachments and French press milk frothers won't produce the right texture — they make bubbles, not microfoam. If you don't have a steam wand yet, see our [getting started guide](/guides/getting-started/) for machine recommendations. For no-steam-wand frothing alternatives, see our [how to froth milk guide](/guides/how-to-froth-milk/).
 
 ## Step-by-Step Flat White Recipe
 

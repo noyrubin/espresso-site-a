@@ -34,7 +34,7 @@ Compare this to a cappuccino, which uses more foam and less milk, or a [flat whi
 - Espresso cup or latte glass (8–12 oz for a single)
 - Milk pitcher (typically 12 oz for a single drink)
 
-If you're using a machine without a steam wand, a French press can froth milk by plunging rapidly — it won't produce true microfoam, but it works in a pinch.
+If you're using a machine without a steam wand, a French press can froth milk by plunging rapidly — it won't produce true microfoam, but it works in a pinch. For all no-steam-wand frothing methods, see our [how to froth milk guide](/guides/how-to-froth-milk/).
 
 ## The Latte Recipe
 

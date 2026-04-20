@@ -141,7 +141,7 @@ For a deeper dive into milk steaming technique, see our [guide to steaming milk 
 
 ## Cappuccino Variations Worth Trying
 
-**Iced cappuccino:** Pull your espresso and let it cool slightly. Fill a glass with ice, add 2–3 oz of cold-foamed milk (use a handheld frother on cold milk), then pour the espresso over. Different from the hot version but refreshing.
+**Iced cappuccino:** Pull your espresso and let it cool slightly. Fill a glass with ice, add 2–3 oz of cold-foamed milk (use a handheld frother on cold milk), then pour the espresso over. Different from the hot version but refreshing. For all frothing methods (steam wand, electric frother, French press, jar), see our [how to froth milk guide](/guides/how-to-froth-milk/).
 
 **Flavored cappuccino:** Add a small amount of vanilla, caramel, or hazelnut syrup to the cup before adding espresso. Use it sparingly — a good cappuccino doesn't need much.
 
