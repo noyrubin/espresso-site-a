@@ -179,3 +179,5 @@ For the warmth of a cinnamon latte, whole milk and oat milk are the standout cho
 ---
 
 *The cinnamon latte is one of the easiest flavored lattes to make from scratch — your cinnamon syrup will last two weeks in the fridge and works across a dozen different drinks. Make a batch and you'll have the base for honey cinnamon lattes, maple lattes, iced cinnamon lattes, and more all week long.*
+
+*Love cinnamon in coffee? Try our [Café de Olla recipe](/recipes/cafe-de-olla-recipe/) — a traditional Mexican spiced coffee made with cinnamon sticks, piloncillo, and anise. It's a full-flavored cup that takes cinnamon-in-coffee to a completely different level.*

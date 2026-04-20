@@ -187,6 +187,7 @@ A: You can. G7 by Trung Nguyen makes instant Vietnamese coffee packets that are 
 
 ## More Coffee Drinks to Try
 
+- [Café de Olla Recipe](/recipes/cafe-de-olla-recipe/) — traditional Mexican cinnamon-spiced coffee, another cultural brewing tradition worth exploring
 - [Dirty Chai Latte Recipe](/recipes/dirty-chai-latte-recipe/) — espresso meets spiced tea
 - [Cold Brew Recipe](/guides/cold-brew-recipe/) — easy concentrate method for iced coffee all week
 - [Affogato Recipe](/recipes/affogato-recipe/) — espresso poured over ice cream
