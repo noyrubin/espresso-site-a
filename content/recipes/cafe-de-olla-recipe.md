@@ -171,4 +171,4 @@ For everyday use, a saucepan or French press is perfectly good. But if you find 
 
 ---
 
-*Try this with our [Vietnamese Coffee Recipe](/recipes/vietnamese-coffee-recipe/) for another deeply traditional coffee method, or explore [cinnamon latte recipe](/recipes/cinnamon-latte-recipe/) for a quick cinnamon coffee fix.*
+*Try this with our [Vietnamese Coffee Recipe](/recipes/vietnamese-coffee-recipe/) for another deeply traditional coffee method, explore [cinnamon latte recipe](/recipes/cinnamon-latte-recipe/) for a quick cinnamon coffee fix, or try a [horchata latte](/recipes/horchata-latte-recipe/) — another Mexican-inspired cinnamon-spiced coffee drink.*
