@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 17 (Pulse 44) — 88 articles published. WHITE ESPRESSO BREAKTHROUGH: pos 4.105, 123 impressions (up from 5.175/91 — cracked top 5!). 1 click on "what is white espresso" (pos 5.875, 24 impressions). How-to-froth-milk up to 51 impressions pos 62 (gaining fast). How-to-make-a-flat-white stable at 110 impressions pos 78. Ristretto at pos 36.375 — still steady, waiting for age effect. Pulse 44: published coconut latte (1,300/mo, 2/100) + coffee-to-water ratio guide (6,600/mo, 2/100). Cafe de olla internal links added from cinnamon-latte-recipe + vietnamese-coffee-recipe. DataForSEO spend: $0.15 this pulse (2 search-volume batches). Cumulative: well under $1/day.
+Day 17 (Pulse 45) — 90 articles published. WHITE ESPRESSO still top 5: pos 4.03, 126 impressions (slightly improved from 4.105/123 last pulse). 1 click on "what is white espresso" (pos 5.875, 24 impressions). How-to-froth-milk at 52 impressions pos 61 (steady gain). How-to-make-a-flat-white: 110 impressions pos 78 (stable). Ristretto at pos 36.375 (stable). New pages in SC: macchiato (8 imp, pos 55), turmeric-latte (11 imp, pos 69), cold-brew-vs-espresso (8 imp, pos 70). Pulse 45: published french press guide (9,900/mo 30/100) + mango bubble tea (1,900+320/mo) + added 3 internal links to how-to-froth-milk. DataForSEO spend: $0.075 this pulse (1 search-volume batch). Cumulative: well under $1/day.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -106,6 +106,8 @@ Day 17 (Pulse 44) — 88 articles published. WHITE ESPRESSO BREAKTHROUGH: pos 4.
 | maple latte | 1,000 | LOW (0/100) | /recipes/maple-latte-recipe/ | Published + FAQ (Pulse 43) — ZERO competition; also targets "maple latte recipe" |
 | coconut latte | 1,300 | LOW (2/100) | /recipes/coconut-latte-recipe/ | Published + FAQ (Pulse 44) — near-zero competition; also targets "iced coconut latte", "coconut milk latte" |
 | coffee to water ratio | 6,600 | LOW (2/100) | /guides/coffee-to-water-ratio/ | Published + FAQ (Pulse 44) — near-zero competition; covers all methods: espresso, French press, pour over, drip, cold brew, moka pot, AeroPress; also targets "coffee ratio" cluster |
+| how to use french press | 9,900 | LOW (30/100) | /guides/how-to-use-french-press/ | Published + FAQ (Pulse 45) — step-by-step brewing guide, ratios table, grind size, troubleshooting, cleaning, hot-brewed vs cold brew methods |
+| mango bubble tea | 1,900 | LOW (25/100) | /recipes/mango-bubble-tea-recipe/ | Published + FAQ (Pulse 45) — also captures "mango boba recipe" (320/mo, LOW 3/100) + mango matcha variation = ~2,220/mo combined at near-zero competition |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -185,9 +187,10 @@ Day 17 (Pulse 44) — 88 articles published. WHITE ESPRESSO BREAKTHROUGH: pos 4.
 - [DONE Pulse 37] "matcha lemonade" (4,400/mo, LOW 13/100) + "matcha lemonade recipe" (880/mo, LOW 1/100) = ~5,280/mo combined — published as /recipes/matcha-lemonade-recipe/. Iced, sparkling, Starbucks copycat, sweetener table, matcha grade guide, 5 variations, 7 FAQs. Extends matcha cluster.
 - [DONE Pulse 38] "taro milk tea" (27,100/mo, LOW 14/100) + "taro boba" (14,800/mo, LOW 5/100) + "taro bubble tea" (9,900/mo, LOW 17/100) + "taro latte" (1,300/mo, LOW 6/100) = ~53,100/mo combined at LOW competition — published as /recipes/taro-milk-tea-recipe/. Taro powder vs fresh, boba cooking guide, Starbucks copycat, 6 milk options, 6 variations, 7 FAQs. BIGGEST CLUSTER THIS PULSE.
 - [DONE Pulse 38] Internal linking pass — 3 new links from matcha-latte-recipe (→ lavender-matcha, dirty-matcha, matcha-lemonade), updated iced-matcha-latte-recipe (same cluster), how-to-froth-milk link added to steam-milk guide, taro ↔ tiger cross-link.
-- "how to use french press" (9,900/mo, LOW 30/100) — solid volume, manageable competition; could be standalone guide or combined with coffee-to-water-ratio (which already covers French press ratio)
+- [DONE Pulse 45] "how to use french press" (9,900/mo, LOW 30/100) — published as /guides/how-to-use-french-press/
+- [DONE Pulse 45] "mango bubble tea" (1,900/mo, LOW 25/100) + "mango boba recipe" (320/mo, LOW 3/100) = ~2,220/mo — published as /recipes/mango-bubble-tea-recipe/
 - "lychee milk tea" (590/mo, LOW 1/100) — near-zero competition, extends milk tea cluster
-- "mango matcha latte" (720/mo, LOW 8/100) — extends matcha cluster, low competition
+- "mango matcha latte" (720/mo, LOW 8/100) — extends matcha cluster, low competition — also covered as variation in mango-bubble-tea-recipe
 - "butterfly pea latte" (390/mo, LOW 17/100) — trendy blue/purple drink, could get shares from visual appeal
 - "nitro cold brew" (18,100/mo, MEDIUM 47/100) — borderline competition, hold for later
 - "cold brew concentrate recipe" (1,300/mo, LOW 12/100) — small, consider adding to cold brew recipe page as variation
@@ -296,6 +299,8 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 86. /recipes/maple-latte-recipe/ (NEW pulse 43, + FAQ) — "maple latte" (1,000/mo, LOW 0/100) ZERO competition. Maple syrup grade guide (Golden/Amber/Dark/Very Dark), hot + iced versions, milk table, sweetness guide, Starbucks maple latte dupe, 5 variations (oat milk, brown sugar, cinnamon, vanilla, spice), 6 FAQs. Internal links to vanilla-latte-recipe, honey-latte-recipe, how-to-make-a-latte.
 87. /recipes/coconut-latte-recipe/ (NEW pulse 44, + FAQ) — "coconut latte" (1,300/mo, LOW 2/100) near-zero competition. Coconut milk type guide (barista vs canned vs creamer), frothing tips, hot + iced recipes, sweetness table, milk comparison table, Starbucks coconut milk latte dupe, 5 variations (toasted, mocha, matcha, vanilla, brown sugar), 6 FAQs. Internal links to how-to-froth-milk, matcha-latte, vanilla-latte, honey-latte.
 88. /guides/coffee-to-water-ratio/ (NEW pulse 44, + FAQ) — "coffee to water ratio" (6,600/mo, LOW 2/100) near-zero competition. Quick-reference table for all methods, espresso 1:2/1:1/1:3, French press 1:15, pour over 1:15-1:17, drip 1:16-1:18, AeroPress 1:6-1:15, moka pot 1:7, cold brew 1:4-1:8. Taste adjustment guide, light vs dark roast, grams vs tablespoons conversion. 7 FAQs. Internal links to espresso-ratio-guide, cold-brew-recipe, espresso-grind-size-guide.
+89. /guides/how-to-use-french-press/ (NEW pulse 45, + FAQ) — "how to use french press" (9,900/mo, LOW 30/100). Step-by-step brewing guide: preheat, bloom, steep 4 min, plunge slow. Ratio table (all press sizes), grind size guide, water temp, troubleshooting table, iced french press + cold brew methods, cleaning guide, vs espresso comparison. 7 FAQs. Internal links to coffee-to-water-ratio, cold-brew-recipe, espresso-caffeine.
+90. /recipes/mango-bubble-tea-recipe/ (NEW pulse 45, + FAQ) — ~2,220/mo combined: "mango bubble tea" (1,900/mo, LOW 25/100) + "mango boba recipe" (320/mo, LOW 3/100). Fresh vs frozen mango syrup, tea base options table, milk options table, mango matcha variation, mango taro variation, mango lychee variation, frozen slushie. Sweetness guide table. 7 FAQs. Internal links to boba-recipe, taro-milk-tea-recipe, tiger-milk-tea-recipe, matcha-latte-recipe.
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -340,10 +345,10 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 45:** White espresso at pos 4.1 — monitor for clicks. Equipment content pass: check "how to use french press" (9,900/mo, LOW 30/100) as brewing guide — volume is solid and 30/100 is manageable. Also check "lychee milk tea" (590/mo, LOW 1/100) as quick milk tea cluster extension. Consider "mango matcha latte" (720/mo, 8/100) as matcha cluster extension. Look for any new high-volume low-comp gaps in brewing methods: "french press to water ratio" is now covered by coffee-to-water-ratio, but dedicated "how to use french press" could be its own page.
-2. **Pulse 46:** Review which pages are gaining impressions but still ranking at pos 40–80. How-to-make-a-flat-white (110 imp, pos 78) and how-to-froth-milk (51 imp, pos 62) need more internal links and possibly content updates. Consider a "coffee drink guide" hub or "types of coffee drinks" (27,100/mo, MEDIUM 53/100 — might be worth checking SERP). Equipment angle: "best moka pot" or "phin filter" for equipment diversity.
-3. **Pulse 47:** Run DataForSEO search-volume on fresh batch of trending beverage keywords — particularly health/functional angle: "adaptogens in coffee" (small but trending), "collagen coffee" (check volume), "ashwagandha latte" (check volume). Also look at Starbucks seasonal copycat recipes (Starbucks copies perform well due to brand search spillover).
+1. **Pulse 46:** "lychee milk tea" (590/mo, LOW 1/100) as quick cluster extension. Research new keyword batch targeting: Starbucks seasonal copycats (peppermint mocha recipe? eggnog latte? holiday drinks?), health/functional angle: "mushroom coffee recipe" (390/mo, LOW 19/100 — borderline), "oat milk latte" (look up), "horchata latte" (check). Also consider "butterfly pea latte" (390/mo, LOW 17/100) from Ideas Backlog — visually striking drink that gets shares.
+2. **Pulse 47:** How-to-make-a-flat-white (110 impressions pos 78) has high impression count but stuck at pos 78 — worth a content update/expansion. Check if page needs more internal link equity (already linked from: ristretto-vs-espresso, cortado-recipe, latte-guide). Also review ristretto page (pos 36) — very close to page 3 territory. Could be boosted with more internal links. Check espresso-caffeine page — 90,960/mo combined cluster, may be starting to gain impressions.
+3. **Pulse 48:** Run DataForSEO on completely new angle — equipment reviews at medium-term horizon: "best pour over coffee maker" (check volume), "best aeropress recipe" (HIGH 91/100 — skip), "best milk frother" (check volume). Also check "how to make pour over coffee" (9,900/mo? — check). Consider home coffee fundamentals still missing: "how to grind coffee beans" or "coffee bean storage".
 
 ---
-*Last updated: 2026-04-19 (Pulse 43)*
+*Last updated: 2026-04-20 (Pulse 45)*
 

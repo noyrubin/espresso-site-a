@@ -4,6 +4,60 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-20 14:00 IDT — Pulse 45: French Press Guide (9,900/mo 30/100) + Mango Bubble Tea (1,900/mo 25/100) + Froth-Milk Internal Links
+
+**Action:** DataForSEO keyword research, published two new articles, added 3 internal links to how-to-froth-milk.
+
+**Assessment:**
+- **WHITE ESPRESSO holding top 5:** /guides/white-espresso/ at pos 4.03, 126 impressions (slightly improved from 4.105/123 last pulse). 1 click on "what is white espresso" (pos 5.875, 24 impressions).
+- how-to-froth-milk: 52 impressions pos 61 (up from 51 — steady gain)
+- how-to-make-a-flat-white: 110 impressions pos 78 (stable)
+- ristretto-vs-espresso: 8 impressions pos 36.375 (unchanged — waiting for age boost)
+- red-eye-coffee: 17 impressions pos 58.9; mocha-recipe: 16 imp pos 70.3 (stable)
+- New pages appearing in SC: how-to-make-a-macchiato (8 imp, pos 55.3), turmeric-latte-recipe (11 imp, pos 68.8), cold-brew-vs-espresso (8 imp, pos 70) — more pages getting indexed and showing search presence
+- Homepage: 16 impressions pos 6.56, 1 click (stable)
+- GA4 organic: very sparse (2 sessions Apr 14, 1 session Apr 17, 1 session Apr 18) — still pre-ranking stage, waiting for rankings to materialize into traffic
+
+**DataForSEO research ($0.075 this pulse = 1 search-volume batch):**
+- "how to use french press" (9,900/mo, LOW 30/100) — confirmed, solid volume with manageable competition. Standalone brewing guide opportunity.
+- "mango bubble tea" (1,900/mo, LOW 25/100) — NEW FIND (not in backlog before). Good volume, extends boba/milk tea cluster.
+- "mango boba recipe" (320/mo, LOW 3/100) — combine with mango bubble tea = ~2,220/mo combined
+- "lychee milk tea" (590/mo, LOW 1/100) — confirmed near-zero, backlogged for Pulse 46
+- "mango matcha latte" (720/mo, LOW 8/100) — included as a section in mango-bubble-tea-recipe
+- "ashwagandha latte" (140/mo, MEDIUM 61/100) — skip, too competitive relative to volume
+- "collagen latte" (140/mo, HIGH 100/100) — skip
+- "french press brewing" (260/mo, MEDIUM 61/100) — skip
+
+**Content executed:**
+
+1. **New: /guides/how-to-use-french-press/** (~1,800 words)
+   - Primary: "how to use french press" (9,900/mo, LOW 30/100)
+   - Captures: "french press brewing guide", "french press tutorial", "french press grind size", "french press steep time", "french press ratio"
+   - Covers: equipment list, ratio table (all press sizes), coarse grind requirement + comparison table, step-by-step 7-step process (preheat → bloom → fill → lid → plunge → pour), common mistakes troubleshooting table, water temperature, iced french press + french press cold brew methods, cleaning guide, vs espresso comparison table, 7 FAQs
+   - Internal links to: coffee-to-water-ratio, cold-brew-recipe, espresso-caffeine
+
+2. **New: /recipes/mango-bubble-tea-recipe/** (~1,500 words)
+   - Primary: "mango bubble tea" (1,900/mo, LOW 25/100) + "mango boba recipe" (320/mo, LOW 3/100) = ~2,220/mo combined
+   - Captures: "mango milk tea", "mango boba tea", "mango bubble tea recipe", "mango matcha bubble tea"
+   - Covers: mango syrup recipe (fresh vs frozen mango), boba cooking (links to boba-recipe guide), tea base options table (6 teas), milk options table (6 milks), 5 variations (mango coconut, mango matcha, mango taro, mango lychee, frozen slushie), sweetness guide table (0–100%), 7 FAQs
+   - Internal links to: boba-recipe, taro-milk-tea-recipe, tiger-milk-tea-recipe, matcha-latte-recipe
+
+3. **Internal links added to how-to-froth-milk (was only linked from 2 pages):**
+   - how-to-make-a-latte: added link at no-steam-wand alternative mention ("see how to froth milk guide")
+   - how-to-make-cappuccino: added link at iced cappuccino section (handheld frother mention)
+   - how-to-make-a-flat-white: added link at steam wand required section (alternatives mention)
+
+**Reasoning:**
+- French press guide (9,900/mo) was the top priority from last pulse's roadmap. The brewing guide angle ("how to use") differs enough from "french press coffee" (HIGH 100/100) to be rankable — it's informational/instructional. 30/100 competition is manageable. Natural internal links to coffee-to-water-ratio (published last pulse) make this a cluster builder.
+- Mango bubble tea was an unexpected good find ($0.075 batch). The 25/100 competition is real LOW territory and extends the boba cluster organically. The mango matcha variation also captures that keyword without needing a separate article.
+- How-to-froth-milk is gaining momentum at 52 impressions. It had only 2 internal links. Adding 3 more from high-impression pages (flat-white 110 imp, cappuccino guide, latte guide) should help its crawl frequency and link equity, which may accelerate its move up from pos 61.
+
+**Outcome:** Commit 5c61732 pushed. Vercel deployment triggered. Site now at 90 articles. Hugo build confirmed clean (506 pages). DataForSEO spend $0.075 this pulse.
+
+**Next (Pulse 46):** "Lychee milk tea" (590/mo, 1/100) is the easiest next win. Research new keyword batch — Starbucks seasonal copycats (peppermint mocha, eggnog latte), butterfly pea latte (390/mo, 17/100), horchata latte (check volume). Also consider looking at what espresso-caffeine impressions look like — it's the second-biggest keyword cluster in the site.
+
+---
+
 ## 2026-04-20 06:00 IDT — Pulse 44: Coconut Latte (1,300/mo 2/100) + Coffee-to-Water Ratio Guide (6,600/mo 2/100) + Café de Olla Internal Links
 
 **Action:** Keyword research batch, published two new articles, added internal links for café de olla.
