@@ -4,6 +4,55 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-21 06:00 IDT — Pulse 47: Peppermint Mocha Recipe (1,600/mo 7/100) + Lychee Milk Tea (590/mo 1/100) + Internal Links
+
+**Action:** DataForSEO keyword research (1 batch, $0.075), published two new articles, added internal links.
+
+**Assessment:**
+- **WHITE ESPRESSO stable top 5:** /guides/white-espresso/ pos 4.02, 127 impressions, 1 click — holding strong
+- how-to-make-a-flat-white: 110 impressions pos 78.4 — highest impression count but very deep ranking; needs more authority
+- how-to-froth-milk: 52 impressions pos 61.1 — cluster of froth/milk queries all present in SC
+- how-to-make-a-macchiato: 10 impressions pos 44.4 — improving, page 4.5 territory
+- ristretto-vs-espresso: 8 impressions pos 36.4 — closest to page 3 (pos 30 = page 3 start)
+- red-eye-coffee: 17 impressions pos 58.9; mocha-recipe: 16 impressions pos 70.3; turmeric-latte: 11 impressions pos 68.8
+- Homepage: 19 impressions pos 6.26, 1 click
+- GA4 organic: 1 session Apr 14, 1 session Apr 4 — still pre-ranking stage. 92 articles in index, ranking signals still building.
+- SC query data shows many flat-white variants: "flat white recipe" (14 imp, pos 84), "homemade flat white coffee" (3 imp, pos 69), "how do i make a flat white coffee at home" (3 imp, pos 81) — heavy crawler attention on this page cluster.
+
+**DataForSEO research ($0.075 this pulse = 1 batch):**
+- "best milk frother" (8,100/mo, HIGH 100/100) — skip, too competitive
+- "how to grind coffee beans" (3,600/mo, MEDIUM 66/100) — borderline, defer
+- "peppermint mocha recipe" (1,600/mo, LOW 7/100) ✓ seasonal Starbucks copycat
+- "eggnog latte recipe" (1,600/mo, LOW 1/100) — backlog, near-zero competition seasonal
+- "gingerbread latte recipe" (1,000/mo, LOW 1/100) — backlog, near-zero competition seasonal
+- "lychee milk tea" (590/mo, LOW 1/100) ✓ confirmed, extends milk tea cluster
+- "butterfly pea latte" (390/mo, LOW 17/100) — backlog, small volume
+- "lychee latte recipe" — N/A volume, skip
+
+**Content executed:**
+
+1. **New: /recipes/peppermint-mocha-recipe/** (~1,500 words)
+   - Primary: "peppermint mocha recipe" (1,600/mo, LOW 7/100)
+   - Homemade peppermint syrup recipe, hot + iced versions, Starbucks copycat, milk table, 6 variations (white chocolate, latte, peppermint hot chocolate without espresso, frappuccino, vegan, cold foam), peppermint dosing guide, make-ahead tips, 7 FAQs
+   - Internal links: → mocha-recipe, → hot-chocolate-recipe, → how-to-make-cold-foam, → espresso-caffeine
+   - Inbound links: mocha-recipe → peppermint-mocha-recipe (in Peppermint Mocha variation section), hot-chocolate-recipe → peppermint-mocha-recipe (in Peppermint Hot Chocolate variation section)
+
+2. **New: /recipes/lychee-milk-tea-recipe/** (~1,400 words)
+   - Primary: "lychee milk tea" (590/mo, LOW 1/100)
+   - Fresh vs canned vs syrup lychee comparison, homemade lychee simple syrup recipe, tea base comparison table (jasmine/oolong/black/white), milk options table, boba toppings guide (tapioca pearls, lychee jelly, popping boba, basil seeds, cold foam), 6 variations (rose, matcha, taro, mango, iced green tea, brown sugar), fresh vs canned vs syrup comparison table, make-ahead tips, 7 FAQs
+   - Internal links: → boba-recipe, → rose-milk-tea-recipe, → taro-milk-tea-recipe, → how-to-make-cold-foam
+   - Inbound link: boba-recipe → lychee-milk-tea-recipe (added to Jasmine Green Tea Boba variation)
+
+**Reasoning:**
+- Peppermint mocha (1,600/mo, 7/100): natural companion to mocha-recipe (already ranked, 16 impressions) and hot-chocolate-recipe (published Pulse 46 with a peppermint variation section). The peppermint mocha page gives those variation sections a dedicated home with much more depth — and provides reciprocal internal links. Seasonal keyword but Google will index it year-round. The Starbucks copycat angle is extremely popular in the recipe niche.
+- Lychee milk tea (590/mo, 1/100): small volume but near-zero competition, extends the established milk tea cluster (taro, tiger, brown sugar, mango, rose milk tea all published). The jasmine tea base connection gives it natural topical relevance to the whole boba section. Internal link from boba-recipe to jasmine/lychee variation is the most natural cross-link.
+
+**Outcome:** Commit 6a45c6a pushed. Site now at 94 articles. Vercel deployment triggered. DataForSEO spend $0.075 this pulse; cumulative well under $1/day.
+
+**Next (Pulse 48):** (1) Content expansion pass on how-to-make-a-flat-white (110 impressions at pos 78 — high crawl attention, worth improving depth). (2) Seasonal cluster: eggnog latte (1,600/mo, 1/100) + gingerbread latte (1,000/mo, 1/100) — could combine as "Holiday Latte Recipes" or publish separately. (3) Check ristretto-vs-espresso (pos 36.4) — consider additional internal links to push it onto page 3. (4) Consider butterfly pea latte (390/mo, 17/100) if pulse has capacity.
+
+---
+
 ## 2026-04-20 22:00 IDT — Pulse 46: Hot Chocolate Recipe (74k+/mo MEGA cluster, LOW 5/100) + Horchata Latte (3,600/mo 8/100) + Internal Links
 
 **Action:** DataForSEO keyword research (2 batches), published two new articles, added internal links from mocha-recipe and cafe-de-olla-recipe.

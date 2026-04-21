@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 17 (Pulse 46) — 92 articles published. WHITE ESPRESSO holding top 5: pos 4.03, 126 impressions (stable). 1 click on "what is white espresso" (pos 5.875, 24 impressions). How-to-froth-milk: 52 impressions pos 61. How-to-make-a-flat-white: 110 impressions pos 78. Ristretto: pos 36.375. Macchiato: 10 imp, pos 44.4 (closer to page 3!). GA4 organic: very sparse — still pre-ranking stage. Pulse 46: published hot chocolate recipe (74k+/mo MEGA cluster, LOW 5/100) + horchata latte (3,600/mo 8/100) + internal links. DataForSEO spend: $0.15 this pulse (2 batches). Cumulative: well under $1/day.
+Day 18 (Pulse 47) — 94 articles published. WHITE ESPRESSO stable top 5: pos 4.02, 127 impressions, 1 click. Flat white: 110 imp pos 78.4 (high crawl attention, deep ranking — candidate for content expansion). Froth-milk: 52 imp pos 61.1. Macchiato: 10 imp pos 44.4. Ristretto: pos 36.4 (closest to page 3). GA4 organic: very sparse, still pre-ranking. Pulse 47: published peppermint mocha recipe (1,600/mo 7/100) + lychee milk tea (590/mo 1/100) + internal links. DataForSEO spend: $0.075 this pulse (1 batch). Cumulative: well under $1/day.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -110,6 +110,8 @@ Day 17 (Pulse 46) — 92 articles published. WHITE ESPRESSO holding top 5: pos 4
 | mango bubble tea | 1,900 | LOW (25/100) | /recipes/mango-bubble-tea-recipe/ | Published + FAQ (Pulse 45) — also captures "mango boba recipe" (320/mo, LOW 3/100) + mango matcha variation = ~2,220/mo combined at near-zero competition |
 | hot chocolate recipe | 74,000 | LOW (5/100) | /recipes/hot-chocolate-recipe/ | Published + FAQ (Pulse 46) — MEGA CLUSTER: also captures "hot cocoa recipe" (74,000/mo, LOW 5/100) + "mexican hot chocolate recipe" (6,600/mo, LOW 3/100) + "white hot chocolate recipe" (1,300/mo, LOW 3/100) = ~81,600/mo combined at near-zero competition |
 | horchata latte | 3,600 | LOW (8/100) | /recipes/horchata-latte-recipe/ | Published + FAQ (Pulse 46) — also captures "iced horchata latte" (320/mo, LOW 0/100) = ~3,920/mo combined |
+| peppermint mocha recipe | 1,600 | LOW (7/100) | /recipes/peppermint-mocha-recipe/ | Published + FAQ (Pulse 47) — seasonal Starbucks copycat; internal links from mocha-recipe + hot-chocolate-recipe |
+| lychee milk tea | 590 | LOW (1/100) | /recipes/lychee-milk-tea-recipe/ | Published + FAQ (Pulse 47) — near-zero competition; extends milk tea cluster |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -193,12 +195,12 @@ Day 17 (Pulse 46) — 92 articles published. WHITE ESPRESSO holding top 5: pos 4
 - [DONE Pulse 45] "mango bubble tea" (1,900/mo, LOW 25/100) + "mango boba recipe" (320/mo, LOW 3/100) = ~2,220/mo — published as /recipes/mango-bubble-tea-recipe/
 - [DONE Pulse 46] "hot chocolate recipe" (74,000/mo, LOW 5/100) MEGA CLUSTER — published as /recipes/hot-chocolate-recipe/. Also captures "hot cocoa recipe" (74,000/mo, LOW 5/100) + "mexican hot chocolate recipe" (6,600/mo, LOW 3/100) + "white hot chocolate recipe" (1,300/mo, LOW 3/100) = ~81,600/mo combined. Stovetop + steam wand + microwave + cocoa powder methods. 6 variations, milk guide table, 7 FAQs.
 - [DONE Pulse 46] "horchata latte" (3,600/mo, LOW 8/100) + "iced horchata latte" (320/mo, LOW 0/100) = ~3,920/mo — published as /recipes/horchata-latte-recipe/. Full homemade horchata recipe, hot + iced versions, shortcuts table, roast pairing table, 5 variations, 6 FAQs.
-- "lychee milk tea" (590/mo, LOW 1/100) — near-zero competition, extends milk tea cluster — PRIORITY for Pulse 47
+- [DONE Pulse 47] "lychee milk tea" (590/mo, LOW 1/100) — published as /recipes/lychee-milk-tea-recipe/
 - "mango matcha latte" (720/mo, LOW 8/100) — extends matcha cluster, low competition — also covered as variation in mango-bubble-tea-recipe
 - "butterfly pea latte" (390/mo, LOW 17/100) — trendy blue/purple drink, could get shares from visual appeal
-- "peppermint mocha recipe" (1,600/mo, LOW 7/100) — seasonal Starbucks copycat, low competition
-- "eggnog latte recipe" (1,600/mo, LOW 1/100) — near-zero competition seasonal, good for building authority
-- "gingerbread latte recipe" (1,000/mo, LOW 1/100) — near-zero competition seasonal
+- [DONE Pulse 47] "peppermint mocha recipe" (1,600/mo, LOW 7/100) — published
+- "eggnog latte recipe" (1,600/mo, LOW 1/100) — near-zero competition seasonal, good for building authority — PRIORITY Pulse 48
+- "gingerbread latte recipe" (1,000/mo, LOW 1/100) — near-zero competition seasonal — PRIORITY Pulse 48 (could combine with eggnog as holiday cluster)
 - "oat milk latte recipe" (210/mo, LOW 4/100) — too small standalone, skip
 - "nitro cold brew" (18,100/mo, MEDIUM 47/100) — borderline competition, hold for later
 - "cold brew concentrate recipe" (1,300/mo, LOW 12/100) — small, consider adding to cold brew recipe page as variation
@@ -217,7 +219,7 @@ Day 17 (Pulse 46) — 92 articles published. WHITE ESPRESSO holding top 5: pos 4
 ### In Progress
 *(none — pulse 17 complete)*
 
-### Published (54 articles)
+### Published (56 articles)
 1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5, flat white + macchiato links pulse 6)
 2. /guides/how-to-steam-milk-latte-art/ (+ FAQ pulse 3)
 3. /guides/espresso-grind-size-guide/ (+ FAQ pulse 2, WDT link pulse 4)
@@ -311,6 +313,8 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 90. /recipes/mango-bubble-tea-recipe/ (NEW pulse 45, + FAQ) — ~2,220/mo combined: "mango bubble tea" (1,900/mo, LOW 25/100) + "mango boba recipe" (320/mo, LOW 3/100). Fresh vs frozen mango syrup, tea base options table, milk options table, mango matcha variation, mango taro variation, mango lychee variation, frozen slushie. Sweetness guide table. 7 FAQs. Internal links to boba-recipe, taro-milk-tea-recipe, tiger-milk-tea-recipe, matcha-latte-recipe.
 91. /recipes/hot-chocolate-recipe/ (NEW pulse 46, + FAQ) — ~81,600/mo combined: "hot chocolate recipe" (74,000/mo, LOW 5/100) + "hot cocoa recipe" (74,000/mo, LOW 5/100) + "mexican hot chocolate recipe" (6,600/mo, LOW 3/100) + "white hot chocolate recipe" (1,300/mo, LOW 3/100). Stovetop, steam wand, microwave, cocoa-powder methods. Milk comparison table, 6 variations (Mexican, white, salted caramel, peppermint, orange, mocha), toppings guide, troubleshooting table, make-ahead ganache tip. 7 FAQs. Internal link from mocha-recipe.
 92. /recipes/horchata-latte-recipe/ (NEW pulse 46, + FAQ) — ~3,920/mo combined: "horchata latte" (3,600/mo, LOW 8/100) + "iced horchata latte" (320/mo, LOW 0/100). Full homemade horchata from-scratch recipe (soak, blend, strain). Hot + iced versions. Shortcuts table (store-bought, rice milk + cinnamon, concentrate). Sweetness adjustment table, espresso roast pairing table, 5 variations. 6 FAQs. Internal link from cafe-de-olla-recipe.
+93. /recipes/peppermint-mocha-recipe/ (NEW pulse 47, + FAQ) — 1,600/mo LOW (7/100). Seasonal Starbucks copycat. Homemade peppermint syrup recipe, hot + iced versions, Starbucks copycat dupe, milk table, peppermint dosing guide, 6 variations (white choc, latte, hot choc, frappuccino, vegan, cold foam), make-ahead tips. 7 FAQs. Internal links from mocha-recipe + hot-chocolate-recipe.
+94. /recipes/lychee-milk-tea-recipe/ (NEW pulse 47, + FAQ) — 590/mo LOW (1/100) near-zero competition. Extends milk tea cluster. Lychee syrup from fresh/canned, jasmine green tea base, tea base comparison table, milk options table, boba/jelly/popping boba toppings, 6 variations (rose, matcha, taro, mango, iced green tea, brown sugar), fresh vs canned vs syrup table, make-ahead tips. 7 FAQs. Internal link from boba-recipe.
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -355,11 +359,11 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 47:** "lychee milk tea" (590/mo, 1/100) as quick cluster extension. "peppermint mocha recipe" (1,600/mo, LOW 7/100) — Starbucks seasonal copycat, naturally links to mocha-recipe and hot-chocolate-recipe. Research best milk frother (check volume) and "how to grind coffee beans" (check competition). Also consider butterfly pea latte (390/mo, 17/100) for visual appeal.
-2. **Pulse 48:** How-to-make-a-flat-white (110 impressions pos 78) has high impression count but stuck at pos 78 — worth a content expansion pass. Check ristretto page (pos 36.375) — very close to page 3 territory, consider more internal links. Check espresso-caffeine impressions — 90,960/mo combined cluster, should be getting indexed by now.
-3. **Pulse 49:** Run DataForSEO on equipment angle: "best milk frother" (check volume), "how to grind coffee beans" (check competition), "best coffee grinder under 100" (check). Consider seasonal baking-adjacent: "gingerbread latte recipe" (1,000/mo, LOW 1/100) + "eggnog latte recipe" (1,600/mo, LOW 1/100) — both near-zero competition seasonal keywords.
+1. **Pulse 48:** Flat white content expansion (110 impressions, pos 78.4 — high crawl attention = Google sees it as relevant, just needs more depth/authority). Eggnog latte (1,600/mo, 1/100) + gingerbread latte (1,000/mo, 1/100) — could combine as Holiday Latté Recipes or two quick articles. Add internal links to ristretto-vs-espresso to push it past pos 30 (page 3 threshold).
+2. **Pulse 49:** Research equipment angle: "best milk frother" is HIGH (100/100) — skip. Check "how to grind coffee beans" (3,600/mo, 66/100) — borderline MEDIUM, could do if informational angle is rankable. Run keyword-ideas for "coffee grinder" cluster. Butterfly pea latte (390/mo, 17/100) — quick article for visual/social appeal.
+3. **Pulse 50:** Audit top impression pages: white espresso (127 imp), flat white (110 imp), froth milk (52 imp) — check what PAA questions appear in SERP for each; consider adding FAQ expansions or new H2 sections to match PAA queries showing up.
 
 ---
-*Last updated: 2026-04-20 (Pulse 46)*
+*Last updated: 2026-04-21 (Pulse 47)*
 
 
