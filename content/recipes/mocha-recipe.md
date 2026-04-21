@@ -171,7 +171,7 @@ Use 70–85% dark chocolate sauce instead of milk chocolate or standard syrup. T
 Oat milk mochas are excellent — the natural sweetness of oat milk complements chocolate beautifully, and oat milk steams well. Use 4–5 oz of barista-style oat milk (the versions labeled "barista" foam much better than regular oat milk). The texture is slightly thinner than whole milk but the flavor is often preferred.
 
 ### Peppermint Mocha
-Add ¼ teaspoon of peppermint extract (or 1 pump of peppermint syrup) to the chocolate-espresso base before adding milk. Peppermint mocha is the classic holiday coffee shop drink — the mint cuts through the richness of the chocolate and makes the espresso pop. Garnish with crushed candy cane.
+Add ¼ teaspoon of peppermint extract (or 1 pump of peppermint syrup) to the chocolate-espresso base before adding milk. [Peppermint mocha](/recipes/peppermint-mocha-recipe/) is the classic holiday coffee shop drink — the mint cuts through the richness of the chocolate and makes the espresso pop. Garnish with crushed candy cane.
 
 ### Salted Caramel Mocha
 Add 1 tablespoon of caramel sauce along with the chocolate sauce (use ¾ tablespoon of each). Add a small pinch of sea salt to the chocolate-espresso base before adding milk. The salt amplifies both the chocolate and the espresso.

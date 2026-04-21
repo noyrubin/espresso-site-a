@@ -169,7 +169,7 @@ White hot chocolate has no cocoa — it's made entirely from white chocolate, wh
 Prepare classic recipe. Stir in 1 tbsp [caramel sauce](/recipes/caramel-macchiato-recipe/) and a generous pinch of flaky sea salt. Top with whipped cream and another drizzle of caramel.
 
 ### Peppermint Hot Chocolate
-Prepare classic recipe. Add ¼ tsp peppermint extract (not mint — peppermint is more concentrated and cleaner). Top with whipped cream and crushed candy cane.
+Prepare classic recipe. Add ¼ tsp peppermint extract (not mint — peppermint is more concentrated and cleaner). Top with whipped cream and crushed candy cane. Want espresso added? See the full [peppermint mocha recipe](/recipes/peppermint-mocha-recipe/) — same flavor profile with a double shot of espresso.
 
 ### Spiced Hot Chocolate
 Prepare classic recipe. Add ½ tsp cinnamon, ¼ tsp cardamom, pinch of nutmeg, and optional pinch of cayenne. This is essentially Mexican hot chocolate without the traditional piloncillo.

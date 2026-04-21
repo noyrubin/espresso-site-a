@@ -127,7 +127,7 @@ Blend ½ cup fresh or frozen mango chunks with 1 cup water and 1 tbsp honey unti
 Blend ¾ cup fresh or frozen strawberries with 2 tbsp simple syrup and a squeeze of lemon. Strain through a fine-mesh sieve. Mix with ½ cup cold brewed tea over ice and boba pearls. Top with a splash of milk for a creamier version.
 
 ### 6. Jasmine Green Tea Boba
-Brew 2 jasmine green tea bags in 1 cup hot water for 3 minutes (don't overbrew — jasmine tea turns bitter). Cool. Mix with 1 cup coconut milk + 2 tbsp simple syrup. Pour over ice and pearls.
+Brew 2 jasmine green tea bags in 1 cup hot water for 3 minutes (don't overbrew — jasmine tea turns bitter). Cool. Mix with 1 cup coconut milk + 2 tbsp simple syrup. Pour over ice and pearls. For a fruity twist, add lychee syrup — see the [lychee milk tea recipe](/recipes/lychee-milk-tea-recipe/) for the full version with lychee jelly and popping boba options.
 
 ### 7. Oolong Milk Tea Boba
 Brew 2 oolong tea bags for 4 minutes. Cool. The earthy, floral notes of oolong pair beautifully with evaporated milk (2–3 tbsp) for an authentic Hong Kong milk tea flavor. Sweeten with honey rather than sugar.
