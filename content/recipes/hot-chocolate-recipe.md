@@ -257,5 +257,5 @@ Absolutely — this creates a mocha. Add 1–2 shots of espresso to your prepare
 
 {{< faq >}}
 **What are the best toppings for hot chocolate?**
-Whipped cream is classic. For next-level hot chocolate: chocolate shavings (use a vegetable peeler on a chocolate bar), a pinch of flaky sea salt, or a cinnamon stick for Mexican style. A layer of [cold foam](/guides/how-to-make-cold-foam/) instead of whipped cream gives a lighter, café-style presentation.
+[Homemade whipped cream](/guides/how-to-make-whipped-cream/) is classic — it takes 5 minutes and tastes far better than canned. For next-level hot chocolate: chocolate shavings (use a vegetable peeler on a chocolate bar), a pinch of flaky sea salt, or a cinnamon stick for Mexican style. A layer of [cold foam](/guides/how-to-make-cold-foam/) instead of whipped cream gives a lighter, café-style presentation.
 {{< /faq >}}

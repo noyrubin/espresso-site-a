@@ -85,7 +85,7 @@ Pull your double shot directly into the mug. Stir briefly — the chocolate shou
 Steam 4–5 oz of milk to 130–150°F (55–65°C). You want less foam than a latte — just a thin layer of microfoam. If the milk is too foamy, the mocha becomes a cappuccino-mocha hybrid (not bad, just different). Swirl the pitcher to integrate the foam with the milk before pouring.
 
 **Step 5: Pour and serve**  
-Pour the steamed milk over the espresso-chocolate base in a slow, circular motion. Hold back the foam slightly with a spoon, then add it on top. If using whipped cream, add it now and dust with cocoa powder or a drizzle of chocolate sauce.
+Pour the steamed milk over the espresso-chocolate base in a slow, circular motion. Hold back the foam slightly with a spoon, then add it on top. If using whipped cream, add it now and dust with cocoa powder or a drizzle of chocolate sauce. For the best result, make [homemade whipped cream](/guides/how-to-make-whipped-cream/) — it takes 5 minutes and holds its shape much better than canned.
 
 ### Chocolate-Espresso Ratio Tips
 

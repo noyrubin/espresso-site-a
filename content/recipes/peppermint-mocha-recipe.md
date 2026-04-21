@@ -87,7 +87,7 @@ You can skip the syrup and add a few drops of peppermint extract directly to you
 
 4. **Steam the milk.** Steam 6–8 oz milk to around 140–150°F (60–65°C) with a fine, velvety foam. [How to steam milk perfectly](/guides/how-to-steam-milk-latte-art/) if you need the technique.
 
-5. **Pour and finish.** Pour steamed milk over the espresso-chocolate base, holding back the foam slightly, then spoon it on top. Add whipped cream and a chocolate shaving or sprinkle of cocoa if serving.
+5. **Pour and finish.** Pour steamed milk over the espresso-chocolate base, holding back the foam slightly, then spoon it on top. Add whipped cream and a chocolate shaving or sprinkle of cocoa if serving. See the [homemade whipped cream guide](/guides/how-to-make-whipped-cream/) for a peppermint whipped cream variation that makes this drink exceptional.
 
 ### Chocolate Options Ranked
 
