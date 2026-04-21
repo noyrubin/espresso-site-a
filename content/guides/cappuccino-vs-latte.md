@@ -115,7 +115,7 @@ The flat white lives between a cappuccino and a latte:
 | | Cappuccino | Flat White | Latte |
 |---|---|---|---|
 | **Volume** | 5–6 oz | 5–6 oz | 10–12 oz |
-| **Espresso** | 1–2 shots | 2 shots (ristretto) | 1–2 shots |
+| **Espresso** | 1–2 shots | 2 shots ([ristretto](/guides/ristretto-vs-espresso/)) | 1–2 shots |
 | **Foam** | Thick (1 cm+) | Microfoam only (no separate foam layer) | Thin microfoam |
 | **Taste** | Bold, foamy | Strong, velvety, smooth | Mild, creamy |
 | **Origin** | Italy | Australia/New Zealand | Italy |

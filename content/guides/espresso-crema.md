@@ -86,6 +86,8 @@ The [grind size](/guides/espresso-grind-size-guide/) directly affects extraction
 
 Aim for a 25–30 second shot time for a 1:2 ratio (18g in / 36g out). If your shot runs faster, grind finer. Slower, grind coarser.
 
+**Tip:** A [ristretto shot](/guides/ristretto-vs-espresso/) — pulled at a 1:1 to 1:1.5 ratio — produces noticeably thicker, more concentrated crema than a standard espresso. If you want more crema without changing your beans, try pulling a shorter shot.
+
 ### 4. Check your machine's pressure
 Real espresso crema requires at least 8 bars of pressure, ideally 9. Budget machines (moka pots, Nespresso-style capsule machines) produce "crema" but it's not the same — it's primarily CO₂ gas with less oil emulsification. A dedicated espresso machine with proper pump pressure is needed for authentic crema.
 

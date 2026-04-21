@@ -33,7 +33,7 @@ Here's everything you need to know — including how to make both at home.
 There are two traditional forms:
 
 ### Espresso Macchiato (Macchiato Corto)
-- 1 shot of espresso (about 1 oz)
+- 1 shot of espresso (about 1 oz) — sometimes a [ristretto](/guides/ristretto-vs-espresso/) for extra sweetness
 - A small dollop (1–2 teaspoons) of steamed milk or foam on top
 - Served in a small demitasse cup
 - Taste: very strong, just barely rounded
