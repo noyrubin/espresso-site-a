@@ -263,3 +263,7 @@ A: Cold brew concentrate keeps up to 2 weeks in a sealed container. Ready-to-dri
 
 A: Yes — espresso beans make excellent cold brew. Espresso roasts (typically medium-dark to dark) produce cold brew with deep, chocolatey, caramel notes. Medium roasts give lighter, fruitier results. The grind and ratio are the same regardless of roast.
 {{< /faq >}}
+
+---
+
+*Using cold brew concentrate? Try [coffee soda](/recipes/coffee-soda-recipe/) — sparkling water + concentrate makes a refreshing fizzy drink in under 2 minutes. For a sweetened condensed milk version, see [condensed milk coffee](/recipes/condensed-milk-coffee-recipe/).*
