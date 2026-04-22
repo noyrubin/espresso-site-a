@@ -168,6 +168,7 @@ A: Pre-chill your serving glass (rinse with cold water or freeze for 5 minutes).
 
 Love simple espresso-based recipes?
 
+- [Tiramisu Latte Recipe](/recipes/tiramisu-latte-recipe/) — Italy's famous dessert as a drinkable latte with mascarpone cream
 - [Espresso Tonic](/recipes/espresso-tonic/) — the simplest, most refreshing summer espresso drink
 - [Espresso Martini Recipe](/recipes/espresso-martini-recipe/) — the classic cocktail, made at home
 - [Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/) — cold, sweet, and completely addictive

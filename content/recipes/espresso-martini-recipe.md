@@ -245,6 +245,7 @@ A: Yes. Mix vodka, coffee liqueur, cooled espresso, and syrup up to 24 hours ahe
 
 Looking for more espresso cocktail ideas or classic espresso drinks?
 
+- [Irish Coffee Recipe](/recipes/irish-coffee-recipe/) — whiskey + coffee + floating cream — another classic coffee cocktail
 - [Brown Sugar Shaken Espresso](/recipes/brown-sugar-shaken-espresso/) — the Starbucks classic, made better at home
 - [Espresso Tonic](/recipes/espresso-tonic/) — the perfect summer espresso drink
 - [Classic Espresso Drinks Guide](/recipes/classic-espresso-drinks/) — the full roster of espresso-based drinks
