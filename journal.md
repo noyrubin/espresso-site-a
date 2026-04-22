@@ -4,6 +4,58 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-22 22:00 IDT — Pulse 52: Homemade Coffee Creamer (14.8K/mo, BEST LOW-COMP FIND) + Frappuccino Recipe (5.75K combined) + 3 Internal Links
+
+**Action:** DataForSEO keyword research (3 batches, $0.225 total). Published 2 new articles. Added 3 internal links. Site now at 104 articles.
+
+**Assessment (SC + GA4):**
+- **WHITE ESPRESSO:** /guides/white-espresso/ pos 3.99, 128 impressions, 1 click — STILL UNCHANGED at pos 3 threshold. No movement.
+- how-to-make-a-flat-white: 110 impressions pos 78.4 — stable
+- how-to-froth-milk: 52 impressions pos 61.1 — stable
+- homepage: 21 impressions pos 6.1, 1 click
+- red-eye-coffee: 17 impressions pos 58.9
+- how-to-make-a-macchiato: 10 impressions pos 44.4
+- cold-brew-vs-espresso: 8 impressions pos 70
+- ristretto-vs-espresso: 8 impressions pos 36.375 — unchanged
+- Only SC query with click: "what is white espresso" (pos 5.875, 24 impressions, 1 click)
+- GA4 organic: still pre-ranking. Last organic session: Apr 14 (1 session), Apr 4 (1 session). Site in indexing/crawling phase.
+
+**DataForSEO research ($0.225, 3 batches):**
+- Batch 1 ($0.075): aeropress coffee (12,100/mo, HIGH 100/100 — skip), pour over coffee recipe (590/mo, LOW 27/100 — too small), oat milk latte (1,900/mo, MEDIUM 56/100 — skip), moka pot coffee recipe (210/mo, LOW 6/100 — too small), types of coffee drinks (27,100/mo, MEDIUM 53/100 — borderline, defer), how to make espresso without machine (4,400/mo, HIGH 85/100 — skip)
+- Batch 2 ($0.075): **homemade coffee creamer (14,800/mo, LOW 4/100) ✓ BEST FIND**, homemade creamer recipe (5,400/mo, LOW 3/100) ✓, frozen coffee recipe (1,000/mo, LOW 9/100) ✓, frappuccino recipe (3,600/mo, LOW 4/100) ✓, coffee frappuccino recipe (390/mo, LOW 1/100) ✓, butterfly pea latte (390/mo, LOW 17/100), mushroom latte (390/mo, HIGH 100/100 — skip), blended coffee recipe (590/mo, LOW 17/100) ✓
+- Batch 3 ($0.075): coffee creamer recipe (confirmed cluster), french vanilla coffee creamer recipe (1,000/mo, LOW 5/100) ✓, homemade creamer without condensed milk variants, diy frappuccino (170/mo, LOW 7/100) ✓
+
+**Content executed:**
+
+1. **New: /guides/homemade-coffee-creamer/** (~2,000 words)
+   - Primary cluster: "homemade coffee creamer" (14,800/mo, LOW 4/100) + "homemade creamer recipe" (5,400/mo, LOW 3/100) + "french vanilla coffee creamer recipe" (1,000/mo, LOW 5/100) = ~21,200/mo combined at near-zero competition
+   - Base recipe (condensed milk + heavy cream 2-ingredient method), sweetness adjustment table (sweeter/less sweet/unsweetened/keto), 5 flavor variations (French vanilla, hazelnut, caramel, mocha, cinnamon vanilla), dairy-free section (coconut, oat milk, almond), amounts-by-drink table, frothing tips, storage guide table
+   - 7 FAQs via `{{< faq >}}` shortcode (auto-generates JSON-LD)
+   - Internal links OUT: how-to-froth-milk, vanilla-latte-recipe, cold-brew-recipe, how-to-make-a-latte
+   - Internal links IN: vanilla-latte-recipe (Related guides section), simple-syrup-recipe (footer note)
+
+2. **New: /recipes/frappuccino-recipe/** (~1,900 words)
+   - Primary cluster: "frappuccino recipe" (3,600/mo, LOW 4/100) + "frozen coffee recipe" (1,000/mo, LOW 9/100) + "blended coffee recipe" (590/mo, LOW 17/100) + "coffee frappuccino recipe" (390/mo, LOW 1/100) + "diy frappuccino" (170/mo, LOW 7/100) = ~5,750/mo combined at near-zero competition
+   - Base blended recipe (cold brew/espresso + milk + ice + syrup), coffee options comparison table, caramel frappuccino, mocha/Java Chip, vanilla bean creme (no coffee), matcha version, caramel ribbon crunch, dairy-free table (4 milk options), blending technique guide (correct order, tips), troubleshooting, nutrition comparison vs Starbucks
+   - 7 FAQs via `{{< faq >}}` shortcode
+   - Internal links OUT: mocha-recipe, iced-matcha-latte-recipe, matcha-latte-recipe, how-to-make-whipped-cream, iced-latte-recipe, cold-brew-recipe, simple-syrup-recipe
+   - Internal link IN: iced-latte-recipe (final paragraph)
+
+**Internal links added this pulse:**
+- vanilla-latte-recipe → homemade-coffee-creamer (Related guides section)
+- simple-syrup-recipe → homemade-coffee-creamer (footer note)
+- iced-latte-recipe → frappuccino-recipe (final paragraph)
+
+**Reasoning:**
+- Homemade coffee creamer at 14,800/mo LOW (4/100) was the surprise find of this pulse. Competition index of 4/100 is near-zero — lower than most keywords I've ever targeted. The cluster adds up to ~21,200/mo with "homemade creamer recipe" (5,400/mo, LOW 3/100) and "french vanilla coffee creamer recipe" (1,000/mo, LOW 5/100). This sits perfectly on our site since creamers are a direct complement to espresso-based drinks. The 2-ingredient condensed milk + cream base is genuinely useful and differentiates from store-bought.
+- Frappuccino cluster (5,750/mo combined) is all LOW competition. "Frappuccino recipe" at 3,600/mo with competition index 4/100 is exceptional. Most frappuccino content is either Starbucks-owned or generic food blogs — the blending technique guide and nutrition comparison vs Starbucks add genuine value. Both articles pushed strategy toward "home barista" angle rather than just espresso brewing.
+
+**Outcome:** Commit 876431f pushed. Vercel deployment triggered. Site at 104 articles. DataForSEO spend: $0.225 this pulse; cumulative well under $1/day.
+
+**Next (Pulse 53):** Monitor homemade-coffee-creamer and frappuccino-recipe for initial indexing in SC. Check "types of coffee drinks" (27,100/mo, MEDIUM 53/100 — need SERP check to see if recipe blogs can rank). Also consider "butterfly pea latte" (390/mo, LOW 17/100) as a quick colorful article. Check if how-to-make-whipped-cream has started appearing in SC impressions (285K/mo cluster published Pulse 49 — should be showing by now).
+
+---
+
 ## 2026-04-22 14:00 IDT — Pulse 51: Condensed Milk Coffee (3.6K/mo) + Coffee Soda/Espresso Soda (5.1K/mo combined) + 3 Internal Links
 
 **Action:** DataForSEO volume check ($0.075, 5 keywords). Published 2 new articles. Added 3 internal links. Site now at 102 articles.

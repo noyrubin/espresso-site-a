@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 19 (Pulse 51) — 102 articles published. WHITE ESPRESSO stable: pos 3.99, 128 impressions, 1 click — still at pos 3 threshold, index refresh awaited. Ristretto: pos 36.375 — unchanged still; internal links pending index. Published condensed milk coffee (3,600/mo, LOW 8/100) + coffee soda/espresso soda (5,110/mo combined, LOW comp). DataForSEO spend: $0.075 this pulse.
+Day 19 (Pulse 52) — 104 articles published. WHITE ESPRESSO: pos 3.99, 128 impressions, 1 click — unchanged; still at pos 3 threshold, waiting. Ristretto: pos 36.375 — unchanged. New clusters: homemade coffee creamer (14.8K/mo, LOW 4/100) + "homemade creamer recipe" (5.4K/mo, LOW 3/100) = ~21K/mo combined at near-zero comp (BEST NEW CLUSTER THIS PULSE). Frappuccino recipe (3.6K/mo, LOW 4/100) + frozen coffee cluster = ~5.75K/mo combined. DataForSEO spend: $0.225 this pulse.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -120,6 +120,8 @@ Day 19 (Pulse 51) — 102 articles published. WHITE ESPRESSO stable: pos 3.99, 1
 | tiramisu latte | 4,400 | LOW (1/100) | /recipes/tiramisu-latte-recipe/ | Published + FAQ (Pulse 50) — also captures "tiramisu latte recipe" (880/mo, LOW 0/100) = ~5,280/mo combined at ZERO competition |
 | condensed milk coffee | 3,600 | LOW (8/100) | /recipes/condensed-milk-coffee-recipe/ | Published + FAQ (Pulse 51) — standalone from vietnamese-coffee page; covers Cuban cortadito, Thai iced coffee, sweetness ratio guide |
 | coffee soda | 3,600 | LOW (26/100) | /recipes/coffee-soda-recipe/ | Published + FAQ (Pulse 51) — also captures "espresso soda" (1,300/mo, LOW 24/100) + "coffee soda recipe" (210/mo, LOW 0/100) = ~5,110/mo combined |
+| homemade coffee creamer | 14,800 | LOW (4/100) | /guides/homemade-coffee-creamer/ | Published + FAQ (Pulse 52) — also captures "homemade creamer recipe" (5,400/mo, LOW 3/100) + "french vanilla coffee creamer recipe" (1,000/mo, LOW 5/100) = ~21,200/mo combined at near-zero competition. BEST NEW CLUSTER THIS PULSE. |
+| frappuccino recipe | 3,600 | LOW (4/100) | /recipes/frappuccino-recipe/ | Published + FAQ (Pulse 52) — also captures "frozen coffee recipe" (1,000/mo, LOW 9/100) + "coffee frappuccino recipe" (390/mo, LOW 1/100) + "blended coffee recipe" (590/mo, LOW 17/100) = ~5,750/mo combined at near-zero competition |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -344,6 +346,8 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 100. /recipes/tiramisu-latte-recipe/ (NEW pulse 50, + FAQ) — ~5,280/mo combined: "tiramisu latte" (4,400/mo, LOW 1/100) + "tiramisu latte recipe" (880/mo, LOW 0/100) at ZERO paid competition. Mascarpone cream prep guide (room temp, ratio, batch for 4+ drinks), hot + iced versions, milk options table (6 types), latte vs regular latte comparison table, 5 variations (cold brew, double espresso, cappuccino, vegan cashew cream, matcha fusion), troubleshooting table, 7 FAQs. Internal link from affogato-recipe.
 101. /recipes/condensed-milk-coffee-recipe/ (NEW pulse 51, + FAQ) — 3,600/mo LOW (8/100). Standalone guide distinct from vietnamese-coffee-recipe. Covers: why condensed milk works (caramel flavor science), 4 types table, quick iced recipe, sweetness ratio guide table, Vietnamese ca phe sua da overview (link to main page), Cuban cortadito with espumita technique, Thai iced coffee (cardamom), coffee method table, 5 variations, 7 FAQs. Internal link IN from vietnamese-coffee-recipe.
 102. /recipes/coffee-soda-recipe/ (NEW pulse 51, + FAQ) — ~5,110/mo combined: "coffee soda" (3,600/mo, LOW 26/100) + "espresso soda" (1,300/mo, LOW 24/100) + "coffee soda recipe" (210/mo, LOW 0/100). Cold brew soda + espresso soda recipes, comparison table vs espresso tonic, sparkling water brand guide, ratio guide, Vietnamese coffee soda (ca phe so da), cream float, coffee lemonade, flavored variations table, troubleshooting table, 7 FAQs. Internal links IN from espresso-tonic, cold-brew-recipe.
+103. /guides/homemade-coffee-creamer/ (NEW pulse 52, + FAQ) — ~21,200/mo combined: "homemade coffee creamer" (14,800/mo, LOW 4/100) + "homemade creamer recipe" (5,400/mo, LOW 3/100) + "french vanilla coffee creamer recipe" (1,000/mo, LOW 5/100). Base recipe (condensed milk + heavy cream), 7 flavor variations (French vanilla, hazelnut, caramel, mocha, cinnamon vanilla, coconut DF, oat milk DF), sweetness adjustment table, frothing tips, storage guide, 7 FAQs. Internal links OUT: how-to-froth-milk, vanilla-latte-recipe, cold-brew-recipe, how-to-make-a-latte, simple-syrup-recipe. Internal links IN: vanilla-latte-recipe, simple-syrup-recipe. BEST NEW CLUSTER THIS PULSE (near-zero competition).
+104. /recipes/frappuccino-recipe/ (NEW pulse 52, + FAQ) — ~5,750/mo combined: "frappuccino recipe" (3,600/mo, LOW 4/100) + "frozen coffee recipe" (1,000/mo, LOW 9/100) + "blended coffee recipe" (590/mo, LOW 17/100) + "coffee frappuccino recipe" (390/mo, LOW 1/100) + "diy frappuccino" (170/mo, LOW 7/100). Base blended recipe (cold brew/espresso + milk + ice + syrup), caramel, mocha, Java Chip, vanilla bean creme (no coffee), matcha, caramel ribbon crunch, dairy-free options table, blending technique guide, troubleshooting, nutrition comparison (vs Starbucks), 7 FAQs. Internal links OUT: mocha-recipe, iced-matcha-latte-recipe, matcha-latte-recipe, how-to-make-whipped-cream, iced-latte-recipe, cold-brew-recipe, simple-syrup-recipe. Internal link IN: iced-latte-recipe.
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -388,11 +392,11 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 52:** SC audit — monitor white espresso (pos 3.99, hoping for pos 3 breakthrough), ristretto (pos 36.4 — 6 total internal links, index pending), whipped cream (285K/mo cluster, should be accumulating impressions). Research new keyword territory: "pour over coffee recipe" or "aeropress recipe" (check comp). If volume allows, consider "butterfly pea latte" (390/mo, LOW 17/100) as a quick colorful article.
-2. **Pulse 53:** Continue with new keyword exploration — check "matcha powder" (high volume?), "mushroom coffee" (246K/mo but HIGH 100/100 — verify again), "types of coffee drinks" (27,100/mo, MEDIUM 53/100 — borderline). Also check if any seasonal summer drink angles are still uncovered.
-3. **Pulse 54:** If white espresso has broken pos 3, add an internal link to /guides/espresso-beans-vs-coffee-beans/ (topically relevant) to try to push it further up. Continue building topical clusters where we have strong foundation (chai, matcha, milk tea series).
+1. **Pulse 53:** Explore remaining untapped keyword territory. Candidates: "types of coffee drinks" (27,100/mo, MEDIUM 53/100 — SERP check if recipe blogs rank), "cold brew coffee recipe" vs existing coverage, "butterfly pea latte" (390/mo, LOW 17/100) quick article. Also check summer drink angles: "iced brown sugar oat milk espresso" or "summertime espresso drinks". Check if how-to-make-whipped-cream (285K/mo cluster, published Pulse 49) has started accumulating impressions.
+2. **Pulse 54:** If white espresso finally breaks pos 3, add internal link from espresso-beans-vs-coffee-beans (topically close, strong page for internal linking). Continue extending coverage gaps. Also run SC query check specifically for homemade-coffee-creamer and frappuccino-recipe to see initial indexing.
+3. **Pulse 55:** Monitor homemade-coffee-creamer specifically — 14,800/mo at LOW 4/100 should accumulate impressions quickly once indexed. If impressions are growing, consider whether "heavy cream recipe" (check volume) or "whipped coffee creamer" are satellite pages worth building. Otherwise continue finding new keyword clusters.
 
 ---
-*Last updated: 2026-04-22 (Pulse 51)*
+*Last updated: 2026-04-22 (Pulse 52)*
 
 
