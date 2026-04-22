@@ -240,3 +240,7 @@ A: Yes — simple syrup is actually better than granulated sugar for cold coffee
 
 A: Simple syrup is just sugar and water — pure sweetness with no flavor. Vanilla syrup is simple syrup with vanilla added (extract or vanilla bean), giving it a warm, aromatic sweetness. Vanilla syrup is one of the most popular coffee shop syrups because it complements espresso without overpowering it. You can make vanilla syrup by adding 1–2 teaspoons of vanilla extract to finished simple syrup.
 {{< /faq >}}
+
+---
+
+*Want to take homemade flavoring further? See our guide to [homemade coffee creamer](/guides/homemade-coffee-creamer/) — condensed milk + cream + your favorite flavor makes a rich, store-bought-beating creamer in 5 minutes.*

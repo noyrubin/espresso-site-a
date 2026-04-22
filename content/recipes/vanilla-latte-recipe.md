@@ -193,3 +193,4 @@ Related guides:
 - [Mocha Recipe](/recipes/mocha-recipe/) — classic chocolate espresso drink, hot or iced
 - [Honey Latte Recipe](/recipes/honey-latte-recipe/) — natural sweetness, no syrup required
 - [Cinnamon Latte Recipe](/recipes/cinnamon-latte-recipe/) — honey cinnamon, maple, and cinnamon dolce variations
+- [Homemade Coffee Creamer](/guides/homemade-coffee-creamer/) — make vanilla, hazelnut, caramel, and mocha creamers from scratch
