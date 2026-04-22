@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 18 (Pulse 49) — 98 articles published. WHITE ESPRESSO improving: pos 3.99, 128 impressions, 1 click (improved from pos 4.02). "what is white espresso" query: 24 imp pos 5.875 (1 click) — strong query-level performance. Ristretto: pos 36.375 — essentially unchanged, internal links not fully indexed yet. BIGGEST CLUSTER FIND THIS SESSION: whipped cream recipe (135K/mo, LOW 24/100) + how to make whipped cream (74K/mo, LOW 23/100) + homemade whipped cream (60.5K/mo, LOW 27/100) + stabilized whipped cream (14.8K/mo, LOW 19/100) = ~285K/mo combined at LOW competition. Published whipped cream mega-guide + s'mores latte recipe. DataForSEO spend: $0.15 this pulse. Cumulative: well under $1/day.
+Day 19 (Pulse 50) — 100 articles published. WHITE ESPRESSO stable: pos 3.99, 128 impressions, 1 click — unchanged from Pulse 49. Still right on the edge of pos 3 breakthrough. Ristretto: pos 36.375 — unchanged; 3 new internal links from Pulse 48 not yet indexed. Published Irish coffee recipe (~30,590/mo combined, LOW 12/100) + tiramisu latte (5,280/mo, ZERO competition). DataForSEO spend: $0.225 this pulse (3 batches). NEW FINDS THIS PULSE: "condensed milk coffee" (3,600/mo, LOW 8/100), "coffee soda" (3,600/mo, LOW 26/100) + "espresso soda" (1,300/mo, LOW 24/100) = ~4,900/mo combined, "tiramisu latte" (4,400/mo, ZERO comp), "Irish coffee recipe" (27,100/mo, LOW 12/100).
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -116,6 +116,8 @@ Day 18 (Pulse 49) — 98 articles published. WHITE ESPRESSO improving: pos 3.99,
 | gingerbread latte recipe | 1,000 | LOW (1/100) | /recipes/gingerbread-latte-recipe/ | Published + FAQ (Pulse 48) — near-zero competition seasonal; homemade syrup, hot + iced, Starbucks copycat, 6 variations |
 | whipped cream recipe | 135,000 | LOW (24/100) | /guides/how-to-make-whipped-cream/ | Published + FAQ (Pulse 49) — MEGA CLUSTER: also captures "how to make whipped cream" (74K/mo, LOW 23/100) + "homemade whipped cream" (60.5K/mo, LOW 27/100) + "stabilized whipped cream" (14.8K/mo, LOW 19/100) = ~285K/mo combined. BIGGEST CLUSTER FOUND. |
 | s'mores latte | 1,000 | LOW (3/100) | /recipes/smores-latte-recipe/ | Published + FAQ (Pulse 49) — also captures "s'mores latte recipe" (320/mo, LOW 1/100) = ~1,320/mo combined near-zero competition |
+| Irish coffee recipe | 27,100 | LOW (12/100) | /recipes/irish-coffee-recipe/ | Published + FAQ (Pulse 50) — also captures "how to make Irish coffee" (2,900/mo, LOW 21/100) + "Irish coffee cocktail" (590/mo, LOW 3/100) = ~30,590/mo combined |
+| tiramisu latte | 4,400 | LOW (1/100) | /recipes/tiramisu-latte-recipe/ | Published + FAQ (Pulse 50) — also captures "tiramisu latte recipe" (880/mo, LOW 0/100) = ~5,280/mo combined at ZERO competition |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -207,6 +209,17 @@ Day 18 (Pulse 49) — 98 articles published. WHITE ESPRESSO improving: pos 3.99,
 - [DONE Pulse 48] "gingerbread latte recipe" (1,000/mo, LOW 1/100) — published as /recipes/gingerbread-latte-recipe/
 - [DONE Pulse 49] "whipped cream recipe" (135K/mo, LOW 24/100) + "how to make whipped cream" (74K/mo, LOW 23/100) + "homemade whipped cream" (60.5K/mo, LOW 27/100) + "stabilized whipped cream" (14.8K/mo, LOW 19/100) = ~285K/mo combined — published as /guides/how-to-make-whipped-cream/. BIGGEST CLUSTER FOUND THIS SESSION.
 - [DONE Pulse 49] "s'mores latte" (1,000/mo, LOW 3/100) + "s'mores latte recipe" (320/mo, LOW 1/100) = ~1,320/mo — published as /recipes/smores-latte-recipe/
+- [DONE Pulse 50] "Irish coffee recipe" (27,100/mo, LOW 12/100) + "how to make Irish coffee" (2,900/mo, LOW 21/100) + "Irish coffee cocktail" (590/mo, LOW 3/100) = ~30,590/mo combined — published as /recipes/irish-coffee-recipe/. Floating cream technique guide, whiskey brand table (Jameson/Bushmills/Tullamore/Powers/Redbreast), 6 variations. Internal link from espresso-martini-recipe.
+- [DONE Pulse 50] "tiramisu latte" (4,400/mo, LOW 1/100) + "tiramisu latte recipe" (880/mo, LOW 0/100) = ~5,280/mo combined at ZERO competition — published as /recipes/tiramisu-latte-recipe/. Mascarpone cream guide, hot + iced, milk comparison table, 5 variations. Internal link from affogato-recipe.
+- "condensed milk coffee" (3,600/mo, LOW 8/100) — distinct from Vietnamese coffee page, standalone article — NEXT candidate Pulse 51
+- "coffee soda" (3,600/mo, LOW 26/100) + "espresso soda" (1,300/mo, LOW 24/100) + "coffee soda recipe" (210/mo, LOW 0/100) = ~5,110/mo combined at LOW comp — NEXT candidate Pulse 51
+- "Vietnamese iced coffee" (14,800/mo, LOW 6/100) — already in vietnamese-coffee-recipe, but standalone term needs SC query check — may already be captured
+- "tiramisu latte" (4,400/mo, LOW 1/100) — DONE Pulse 50
+- "Irish coffee recipe" (27,100/mo, LOW 12/100) — DONE Pulse 50
+- "butterfly pea latte" (390/mo, LOW 17/100) — still candidate; butterfly pea FLOWER TEA (22,200/mo) is HIGH comp (75/100) — skip the tea version, do latte only if filler needed
+- "tiramisu latte" (4,400/mo, LOW 1/100) — DONE
+- "nutella latte" (720/mo, LOW 0/100) — zero competition, tiny volume, quick filler article if needed
+- "churro latte" (320/mo, LOW 2/100) — very small, near-zero comp, filler candidate
 - "oat milk latte recipe" (210/mo, LOW 4/100) — too small standalone, skip
 - "nitro cold brew" (18,100/mo, MEDIUM 47/100) — borderline competition, hold for later
 - "cold brew concentrate recipe" (1,300/mo, LOW 12/100) — small, consider adding to cold brew recipe page as variation
@@ -325,6 +338,8 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 96. /recipes/gingerbread-latte-recipe/ (NEW pulse 48, + FAQ) — 1,000/mo LOW (1/100) near-zero competition. Seasonal holiday recipe. Homemade gingerbread syrup from scratch (brown sugar + molasses + spices), hot + iced latte, Starbucks copycat, spice guide table, milk pairing table, 6 variations (cappuccino, dirty chai, matcha, mocha, cold brew, eggnog gingerbread). 6 FAQs. Cross-links to eggnog-latte-recipe.
 97. /guides/how-to-make-whipped-cream/ (NEW pulse 49, + FAQ) — ~285K/mo combined MEGA CLUSTER: "whipped cream recipe" (135K/mo, LOW 24/100) + "how to make whipped cream" (74K/mo, LOW 23/100) + "homemade whipped cream" (60.5K/mo, LOW 27/100) + "stabilized whipped cream" (14.8K/mo, LOW 19/100). Basic recipe, stiff/soft/medium peaks guide, 3 stabilization methods (cornstarch, cream of tartar, gelatin), 6 coffee-flavored variations (espresso, mocha, cinnamon, peppermint, vanilla bean, coconut), dosing table for coffee drinks, troubleshooting table, storage guide, no-mixer methods (whisk/jar/French press). 7 FAQs. Internal links from hot-chocolate-recipe, mocha-recipe, peppermint-mocha-recipe.
 98. /recipes/smores-latte-recipe/ (NEW pulse 49, + FAQ) — ~1,320/mo combined: "s'mores latte" (1,000/mo, LOW 3/100) + "s'mores latte recipe" (320/mo, LOW 1/100) near-zero competition. Hot + iced versions, homemade marshmallow syrup recipe, toasting methods (torch/gas stove/broiler), 7 variations (dark choc, white choc, dirty, cold brew, frappuccino, vegan, graham cracker), graham cracker rim guide. 6 FAQs.
+99. /recipes/irish-coffee-recipe/ (NEW pulse 50, + FAQ) — ~30,590/mo combined: "Irish coffee recipe" (27,100/mo, LOW 12/100) + "how to make Irish coffee" (2,900/mo, LOW 21/100) + "Irish coffee cocktail" (590/mo, LOW 3/100). Floating cream technique with spoon method, cream float troubleshooting table, 6 whiskey brand guide (Jameson/Bushmills/Tullamore D.E.W./Powers/Redbreast/Slane), coffee method table, sugar alternatives, 6 variations (iced, Bailey's, cold brew, latte, mocktail, vegan), crowd batch tips, 7 FAQs. Internal link from espresso-martini-recipe.
+100. /recipes/tiramisu-latte-recipe/ (NEW pulse 50, + FAQ) — ~5,280/mo combined: "tiramisu latte" (4,400/mo, LOW 1/100) + "tiramisu latte recipe" (880/mo, LOW 0/100) at ZERO paid competition. Mascarpone cream prep guide (room temp, ratio, batch for 4+ drinks), hot + iced versions, milk options table (6 types), latte vs regular latte comparison table, 5 variations (cold brew, double espresso, cappuccino, vegan cashew cream, matcha fusion), troubleshooting table, 7 FAQs. Internal link from affogato-recipe.
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -369,11 +384,11 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 50:** Research more high-volume LOW-competition keywords. Check: "Irish coffee recipe" (27K/mo — check comp), "whipped coffee" cluster (already covered via dalgona but check if dedicated page worth it), "condensed milk coffee" (check comp), "Vietnamese iced coffee" (already in vietnamese-coffee but check volume). Also: butterfly pea latte (390/mo, 17/100) — trendy visual drink, quick article.
-2. **Pulse 51:** Audit top impression pages: white espresso (128 imp, pos 3.99 — very close to pos 3), flat white (110 imp, pos 78) — check what PAA questions appear in SERP; consider FAQ expansions. Check if ristretto (pos 36.4) has moved after the 3 new internal links (Pulse 48). Check if whipped cream page has started showing impressions.
-3. **Pulse 52:** Consider adding new review-type content: "best manual espresso machine" or "best espresso machine under $200" (check DataForSEO competition). Also consider an "Irish coffee recipe" (27K/mo if LOW) as next mega-cluster candidate.
+1. **Pulse 51:** Research + write condensed milk coffee (3,600/mo, LOW 8/100) as standalone article. Check if "Vietnamese iced coffee" (14,800/mo, LOW 6/100) needs its own page or if existing vietnamese-coffee page captures it (run SC query check). Coffee soda + espresso soda combo article (4,900/mo combined, LOW comp) — refreshing summer drink, natural fit on espresso site. Butterfly pea latte (390/mo, LOW 17/100) — quick article if needed.
+2. **Pulse 52:** SC audit — monitor white espresso (pos 3.99, hoping for pos 3 breakthrough), ristretto (pos 36.4 — check if 6 total internal links are moving the needle), espresso-caffeine (should be accumulating impressions given 90K/mo cluster). If whipped cream page showing impressions, consider expanding (pirouette cookies variation, coffee whipped cream for tiramisu latte cross-link).
+3. **Pulse 53:** Review new keyword territories not yet explored: "best french press" (review intent — HIGH comp probably), "nespresso pods" (likely HIGH), "aeropress recipe" (check comp), "pour over coffee recipe" (check comp). Consider if we need a dedicated landing page strategy for seasonal keyword clusters (spring/summer drinks).
 
 ---
-*Last updated: 2026-04-21 (Pulse 49)*
+*Last updated: 2026-04-22 (Pulse 50)*
 
 

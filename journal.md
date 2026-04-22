@@ -4,6 +4,63 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-22 06:00 IDT — Pulse 50: Irish Coffee Recipe (30.6K/mo) + Tiramisu Latte (5.3K/mo, ZERO comp) + Internal Links
+
+**Action:** DataForSEO keyword research (3 batches, $0.225 total). Published 2 new articles. Added 2 internal links (espresso-martini → Irish coffee; affogato → tiramisu latte). Site now at 100 articles.
+
+**Assessment (SC + GA4):**
+- **WHITE ESPRESSO unchanged:** /guides/white-espresso/ pos 3.99, 128 impressions, 1 click — no change from Pulse 49. Still just outside pos 3.
+- how-to-make-a-flat-white: 110 imp pos 78.4 — stable
+- how-to-froth-milk: 52 imp pos 61.1 — stable
+- ristretto-vs-espresso: 8 imp pos 36.375 — unchanged still. Internal links from Pulse 48 not yet indexed.
+- mocha-recipe: 16 imp pos 70.3; red-eye-coffee: 17 imp pos 58.9; turmeric-latte-recipe: 11 imp pos 68.8
+- Homepage: 21 imp pos 6.1, 1 click
+- GA4 organic: still pre-ranking (last sessions: Apr 18 = 1, Apr 17 = 2, Apr 14 = 4)
+
+**DataForSEO research ($0.225 total, 3 batches):**
+- Batch 1: Irish coffee recipe (27,100/mo, LOW 12/100) ✓, Vietnamese iced coffee (14,800/mo, LOW 6/100 — already in vietnamese-coffee page), iced coffee recipe (14,800/mo, LOW 17/100 — already covered), condensed milk coffee (3,600/mo, LOW 8/100), coffee soda (3,600/mo, LOW 26/100), sparkling coffee (590/mo, LOW 15/100)
+- Batch 2: butterfly pea flower tea (22,200/mo, HIGH 75/100 — skip), tiramisu latte (4,400/mo, LOW 1/100) ✓ ZERO comp, cardamom coffee (1,900/mo, MEDIUM 49/100 — skip), nutella latte (720/mo, LOW 0/100), butterfly pea latte (390/mo, LOW 17/100), churro latte (320/mo, LOW 2/100)
+- Batch 3: how to make Irish coffee (2,900/mo, LOW 21/100), espresso soda (1,300/mo, LOW 24/100), tiramisu latte recipe (880/mo, LOW 0/100), Irish coffee cocktail (590/mo, LOW 3/100), coffee soda recipe (210/mo, LOW 0/100), condensed milk coffee recipe (70/mo, LOW 2/100)
+
+**Content executed:**
+
+1. **New: /recipes/irish-coffee-recipe/** (~2,200 words)
+   - Primary cluster: "Irish coffee recipe" (27,100/mo, LOW 12/100) + "how to make Irish coffee" (2,900/mo, LOW 21/100) + "Irish coffee cocktail" (590/mo, LOW 3/100) = ~30,590/mo combined
+   - Authentic recipe: hot coffee + Irish whiskey (45ml) + brown sugar + floating cold heavy cream
+   - Floating cream technique explained in full (back-of-spoon method, cream density science)
+   - Float troubleshooting table (4 failure modes + fixes)
+   - 6 whiskey brand guide: Jameson, Bushmills, Tullamore D.E.W., Powers Gold Label, Redbreast 12, Slane
+   - Coffee method table (5 methods from espresso to drip)
+   - Sugar alternatives section (brown sugar/demerara/simple syrup/honey/maple/no sugar)
+   - 6 variations: iced, Bailey's, cold brew, Irish coffee latte, non-alcoholic mocktail, vegan (coconut cream)
+   - Make-ahead / crowd-serving tips (thermos method, batch cream)
+   - 7 FAQs with JSON-LD schema
+   - Internal links OUT: how-to-make-whipped-cream, cold-brew-recipe, espresso-martini-recipe, affogato-recipe, how-to-make-a-latte
+   - Internal link IN: from espresso-martini-recipe Related Recipes section
+
+2. **New: /recipes/tiramisu-latte-recipe/** (~1,800 words)
+   - Primary cluster: "tiramisu latte" (4,400/mo, LOW 1/100) + "tiramisu latte recipe" (880/mo, LOW 0/100) = ~5,280/mo combined at ZERO paid competition
+   - Core: mascarpone cream (mascarpone + heavy cream + powdered sugar + vanilla) + espresso + steamed milk + cocoa dust
+   - Full mascarpone handling guide (room temp, ratio, batch recipe for 4 drinks, 3-day fridge storage)
+   - Hot version + iced version with step-by-step instructions
+   - Milk options table (6 types: whole/2%/oat/almond/soy/coconut)
+   - Tiramisu latte vs regular latte comparison table
+   - 5 variations: tiramisu cold brew latte, double espresso tiramisu, tiramisu cappuccino, vegan (cashew cream cheese), iced tiramisu matcha latte
+   - Troubleshooting table (5 problems + fixes)
+   - 7 FAQs with JSON-LD schema
+   - Internal links OUT: espresso-martini-recipe, affogato-recipe, mocha-recipe, vanilla-latte-recipe, how-to-make-a-latte
+   - Internal link IN: from affogato-recipe What to Make Next section
+
+**Reasoning:**
+- Irish coffee at 27,100/mo LOW (12/100) is a strong cluster for a coffee site. Planned in Pulse 49 roadmap. The floating cream technique angle differentiates from generic recipe sites — most tutorials skip the science of why it works. The whiskey brand table is genuinely useful decision-support content that ranks well.
+- Tiramisu latte at ZERO competition (1/100) is a slam dunk. Only 4,400/mo but with zero paid competition, organic ranking should be very achievable. The mascarpone angle differentiates from "latte with some cocoa powder" recipes — the cream layer is the authentic tiramisu element.
+
+**Outcome:** Commit 6b6d930 pushed. Vercel deployment triggered. Site at 100 articles (milestone). DataForSEO spend: $0.225 this pulse; cumulative well under $1/day.
+
+**Next (Pulse 51):** (1) Write condensed milk coffee standalone guide (3,600/mo, LOW 8/100). (2) Coffee soda + espresso soda combined article (4,900/mo combined, LOW comp). (3) SC check — monitor if ristretto has started moving from pos 36.4 and if white espresso breaks pos 3.
+
+---
+
 ## 2026-04-21 22:00 IDT — Pulse 49: Whipped Cream Mega-Guide (285K/mo) + S'mores Latte + Internal Links
 
 **Action:** DataForSEO keyword research (2 batches, $0.15 total), published 2 new articles, added 3 internal links to whipped cream guide from high-impression pages.
