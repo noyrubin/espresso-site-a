@@ -4,6 +4,56 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-22 14:00 IDT — Pulse 51: Condensed Milk Coffee (3.6K/mo) + Coffee Soda/Espresso Soda (5.1K/mo combined) + 3 Internal Links
+
+**Action:** DataForSEO volume check ($0.075, 5 keywords). Published 2 new articles. Added 3 internal links. Site now at 102 articles.
+
+**Assessment (SC + GA4):**
+- **WHITE ESPRESSO:** /guides/white-espresso/ pos 3.99, 128 impressions, 1 click — still unchanged at the threshold. Waiting for index refresh.
+- "what is white espresso" query: pos 5.875, 24 impressions, 1 click — best performing query
+- how-to-make-a-flat-white: 110 impressions pos 78.4 — stable
+- how-to-froth-milk: 52 impressions pos 61.1 — stable
+- how-to-make-a-macchiato: 10 impressions pos 44.4
+- red-eye-coffee: 17 impressions pos 58.9; mocha-recipe: 16 impressions pos 70.3
+- ristretto-vs-espresso: 8 impressions pos 36.375 — unchanged
+- Homepage: 21 impressions pos 6.1, 1 click
+- GA4 organic: minimal — Apr 14: 1 session, Apr 4: 1 session (organic channel filter). Most sessions from launch period (Apr 4-6). Site still pre-ranking phase.
+
+**DataForSEO research ($0.075, 5 keywords):**
+- Confirmed: condensed milk coffee (3,600/mo, LOW 8/100) — standalone from Vietnamese coffee page ✓
+- Confirmed: coffee soda (3,600/mo, LOW 26/100) + espresso soda (1,300/mo, LOW 24/100) + coffee soda recipe (210/mo, LOW 0/100) = ~5,110/mo combined ✓
+- Vietnamese iced coffee (14,800/mo, LOW 6/100) — confirmed already covered in vietnamese-coffee-recipe, no new standalone page needed
+
+**Content executed:**
+
+1. **New: /recipes/condensed-milk-coffee-recipe/** (~2,000 words)
+   - Primary: "condensed milk coffee" (3,600/mo, LOW 8/100) — distinct standalone from vietnamese-coffee-recipe
+   - Covers: why condensed milk works (caramel Maillard flavor), condensed milk types table (whole/low-fat/coconut/oat), quick iced recipe, hot latte version, sweetness ratio guide table, Vietnamese iced coffee overview (link to vietnam page for detail), Cuban cortadito with espumita technique, Thai iced coffee style (cardamom + evaporated milk), coffee method comparison table (espresso/moka/French press/drip/cold brew), no-machine alternatives, 5 variations (cold brew, cream float, dalgona-style, condensed milk affogato, coconut condensed milk)
+   - 7 FAQs with JSON-LD schema
+   - Internal links OUT: vietnamese-coffee-recipe (detail link), cold-brew-recipe, affogato-recipe, dalgona-coffee-recipe, espresso-caffeine
+   - Internal link IN: from vietnamese-coffee-recipe "More Coffee Drinks" section
+
+2. **New: /recipes/coffee-soda-recipe/** (~1,800 words)
+   - Primary: "coffee soda" (3,600/mo, LOW 26/100) + "espresso soda" (1,300/mo, LOW 24/100) + "coffee soda recipe" (210/mo, LOW 0/100) = ~5,110/mo combined
+   - Covers: coffee soda vs espresso soda vs espresso tonic comparison table (important differentiation — links to espresso-tonic page), cold brew soda recipe (main), espresso soda recipe (chilled espresso method), sparkling water brand guide table (Topo Chico/Pellegrino/club soda/Perrier/generic), ratio guide table, Vietnamese coffee soda (ca phe so da — condensed milk + espresso + sparkling water), cream float version (links to whipped cream page), coffee lemonade (cold brew + lemon juice + sparkling water), flavored variations table (vanilla/lavender/brown sugar/mint/orange bitters/cinnamon), no-machine alternatives, troubleshooting table (5 problems + fixes), 7 FAQs with JSON-LD schema
+   - Internal links OUT: espresso-tonic (comparison), cold-brew-recipe (cold brew method), simple-syrup-recipe (flavor syrups), how-to-make-whipped-cream (cream float), condensed-milk-coffee-recipe (Vietnamese coffee soda)
+   - Internal links IN: from espresso-tonic final paragraph, cold-brew-recipe footer note
+
+**Internal links added this pulse:**
+- vietnamese-coffee-recipe → condensed-milk-coffee-recipe (added to "More Coffee Drinks to Try" section)
+- espresso-tonic → coffee-soda-recipe (added to final paragraph as "sparkling water alternative")
+- cold-brew-recipe → coffee-soda-recipe + condensed-milk-coffee-recipe (added footer note)
+
+**Reasoning:**
+- Condensed milk coffee (3,600/mo, LOW 8/100) was the Pulse 51 top priority from the roadmap. Key differentiation from the existing vietnamese-coffee-recipe: that page covers the phin method and cultural context; this page focuses on condensed milk as an ingredient across multiple styles (Vietnamese shortcut, Cuban cortadito, Thai). The Cuban cortadito angle (espresso + condensed milk at 1:1 ratio with espumita technique) is a genuine informational gap — most recipe sites don't cover it.
+- Coffee soda + espresso soda (5,110/mo combined) is an excellent summer-adjacent piece. The differentiation table (coffee soda vs espresso soda vs espresso tonic) is a strong SEO move — it captures "what is the difference" intent and cross-links to our espresso tonic page. Vietnamese coffee soda (ca phe so da) adds a cultural angle that most sparkling coffee articles don't include.
+
+**Outcome:** Commit 28e4a9a pushed. Vercel deployment triggered. Site at 102 articles. DataForSEO spend: $0.075 this pulse; cumulative well under $1/day.
+
+**Next (Pulse 52):** SC audit — check if white espresso has finally broken through pos 3 (128 impressions, close watch). Monitor ristretto (pos 36.4 — 6 total internal links, index refresh pending). Check if how-to-make-whipped-cream has started accumulating impressions (285K/mo cluster, published 2 pulses ago). Consider: "butterfly pea latte" (390/mo, LOW 17/100) quick article, or look for new keyword territory in unexplored areas (pour over coffee recipe? aeropress recipe? types of espresso?).
+
+---
+
 ## 2026-04-22 06:00 IDT — Pulse 50: Irish Coffee Recipe (30.6K/mo) + Tiramisu Latte (5.3K/mo, ZERO comp) + Internal Links
 
 **Action:** DataForSEO keyword research (3 batches, $0.225 total). Published 2 new articles. Added 2 internal links (espresso-martini → Irish coffee; affogato → tiramisu latte). Site now at 100 articles.
