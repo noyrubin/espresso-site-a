@@ -158,7 +158,7 @@ A surprisingly good combination: 3 oz cold brew concentrate + 4–5 oz tonic wat
 
 ### Cold Brew Protein Shake
 
-Blend: 4 oz cold brew concentrate, 1 cup milk, 1 scoop chocolate protein powder, 1 banana, ice. A legitimate pre-workout drink.
+Blend: 4 oz cold brew concentrate, 1 cup milk, 1 scoop chocolate protein powder, 1 banana, ice. A legitimate pre-workout drink. See our full [coffee smoothie recipe](/recipes/coffee-smoothie-recipe/) for five variations — including a banana-forward version with no protein powder.
 
 ### Iced Brown Sugar Cold Brew
 

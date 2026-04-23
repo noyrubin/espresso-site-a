@@ -118,7 +118,7 @@ AeroPress is the most versatile brewing device — you can use it like espresso 
 - 15g coffee + 180–225ml water, steep 2 minutes, press slowly
 - Clean, smooth cup with low acidity
 
-AeroPress uses a paper filter which removes fines and oils, producing a cleaner cup than French press. The inverted method (flipping the device) allows for longer steeping without water dripping through prematurely.
+AeroPress uses a paper filter which removes fines and oils, producing a cleaner cup than French press. The inverted method (flipping the device) allows for longer steeping without water dripping through prematurely. For a full step-by-step AeroPress brewing guide with grind sizes, temperature, and recipe variations, see our [AeroPress recipe guide](/guides/aeropress-guide/).
 
 ## Moka Pot Coffee to Water Ratio
 

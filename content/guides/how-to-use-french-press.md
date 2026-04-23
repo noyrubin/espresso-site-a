@@ -186,7 +186,7 @@ The two brewing methods could hardly be more different:
 | Caffeine per serving | ~100mg (8 oz) | ~63mg (1 oz shot) |
 | Body | Heavy, full | Concentrated, thick |
 
-French press coffee per cup has more volume and more total caffeine than a single espresso shot. But espresso is far more concentrated per ml. For a full comparison of brewing methods and their caffeine content, see our [espresso caffeine guide](/guides/espresso-caffeine/).
+French press coffee per cup has more volume and more total caffeine than a single espresso shot. But espresso is far more concentrated per ml. For a full comparison of brewing methods and their caffeine content, see our [espresso caffeine guide](/guides/espresso-caffeine/). For a faster alternative that also uses immersion but adds manual pressure, see our [AeroPress guide](/guides/aeropress-guide/).
 
 ---
 
