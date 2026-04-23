@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 20 (Pulse 53) — 106 articles published. WHITE ESPRESSO: pos 3.99, 128 impressions, 1 click — unchanged at pos 3 threshold. Ristretto: pos 33.7 (slight improvement from 36.4). how-to-make-a-flat-white: 111 impressions. New clusters: café con leche recipe (1,900/mo, 0/100 ZERO comp) + café au lait (880/mo, 2/100) = ~2,780/mo; coffee jelly recipe (2,900/mo, 1/100) = near-zero. DataForSEO spend: $0.15 this pulse.
+Day 20 (Pulse 55) — 110 articles published. WHITE ESPRESSO: pos 3.99, 128 impressions, 1 click — stuck at pos 3–4 threshold; no movement yet. how-to-make-a-flat-white: 111 impressions pos 77.7 (volume accumulating, no position movement). how-to-froth-milk: 54 impressions pos 59.1. simple-syrup-recipe: 14 impressions pos 41.3. GA4 organic: 2 total organic sessions only (Apr 4, Apr 14). Pre-ranking phase continues. NEW: long black coffee (9,900/mo, LOW 1/100) + pour over guide (~3,090/mo combined). DataForSEO spend: $0.15 this pulse ($0.075 × 2 batches).
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -126,6 +126,8 @@ Day 20 (Pulse 53) — 106 articles published. WHITE ESPRESSO: pos 3.99, 128 impr
 | coffee jelly recipe | 2,900 | LOW (1/100) | /recipes/coffee-jelly-recipe/ | Published + FAQ (Pulse 53) — near-zero competition; Japanese espresso dessert, agar vs gelatin guide, 5 variations |
 | aeropress recipe | 3,600 | LOW (8/100) | /guides/aeropress-guide/ | Published + FAQ (Pulse 54) — also captures "aeropress instructions" (2,400/mo, LOW 19/100) + "how to use aeropress" (1,900/mo, LOW 15/100) + "aeropress grind size" (1,300/mo, LOW 2/100) = ~9,180/mo combined |
 | coffee smoothie recipe | 2,900 | LOW (17/100) | /recipes/coffee-smoothie-recipe/ | Published + FAQ (Pulse 54) — also captures "coffee banana smoothie" (1,300/mo, LOW 3/100) + "coffee milkshake recipe" (590/mo, LOW 1/100) = ~4,790/mo combined |
+| long black coffee | 9,900 | LOW (1/100) | /guides/long-black-coffee/ | Published + FAQ (Pulse 55) — NEAR-ZERO competition; also captures "what is a long black", "long black espresso", "how to make long black coffee" cluster |
+| pour over coffee recipe | 590 | LOW (27/100) | /guides/pour-over-guide/ | Published + FAQ (Pulse 55) — also captures "chemex recipe" (720/mo, LOW 5/100) + "V60 recipe" (480/mo, LOW 7/100) + "coffee bloom" (1,300/mo, LOW 7/100) = ~3,090/mo combined |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -244,9 +246,9 @@ Day 20 (Pulse 53) — 106 articles published. WHITE ESPRESSO: pos 3.99, 128 impr
 - "lychee latte" (30/mo), "honey oat milk latte" (70/mo), "peach latte" (170/mo), "mango latte" (210/mo) — all too small volume standalone
 
 ### In Progress
-*(none — pulse 54 complete)*
+*(none — pulse 55 complete)*
 
-### Published (108 articles)
+### Published (110 articles)
 1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5, flat white + macchiato links pulse 6)
 2. /guides/how-to-steam-milk-latte-art/ (+ FAQ pulse 3)
 3. /guides/espresso-grind-size-guide/ (+ FAQ pulse 2, WDT link pulse 4)
@@ -352,6 +354,8 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 102. /recipes/coffee-soda-recipe/ (NEW pulse 51, + FAQ) — ~5,110/mo combined: "coffee soda" (3,600/mo, LOW 26/100) + "espresso soda" (1,300/mo, LOW 24/100) + "coffee soda recipe" (210/mo, LOW 0/100). Cold brew soda + espresso soda recipes, comparison table vs espresso tonic, sparkling water brand guide, ratio guide, Vietnamese coffee soda (ca phe so da), cream float, coffee lemonade, flavored variations table, troubleshooting table, 7 FAQs. Internal links IN from espresso-tonic, cold-brew-recipe.
 103. /guides/homemade-coffee-creamer/ (NEW pulse 52, + FAQ) — ~21,200/mo combined: "homemade coffee creamer" (14,800/mo, LOW 4/100) + "homemade creamer recipe" (5,400/mo, LOW 3/100) + "french vanilla coffee creamer recipe" (1,000/mo, LOW 5/100). Base recipe (condensed milk + heavy cream), 7 flavor variations (French vanilla, hazelnut, caramel, mocha, cinnamon vanilla, coconut DF, oat milk DF), sweetness adjustment table, frothing tips, storage guide, 7 FAQs. Internal links OUT: how-to-froth-milk, vanilla-latte-recipe, cold-brew-recipe, how-to-make-a-latte, simple-syrup-recipe. Internal links IN: vanilla-latte-recipe, simple-syrup-recipe. BEST NEW CLUSTER THIS PULSE (near-zero competition).
 104. /recipes/frappuccino-recipe/ (NEW pulse 52, + FAQ) — ~5,750/mo combined: "frappuccino recipe" (3,600/mo, LOW 4/100) + "frozen coffee recipe" (1,000/mo, LOW 9/100) + "blended coffee recipe" (590/mo, LOW 17/100) + "coffee frappuccino recipe" (390/mo, LOW 1/100) + "diy frappuccino" (170/mo, LOW 7/100). Base blended recipe (cold brew/espresso + milk + ice + syrup), caramel, mocha, Java Chip, vanilla bean creme (no coffee), matcha, caramel ribbon crunch, dairy-free options table, blending technique guide, troubleshooting, nutrition comparison (vs Starbucks), 7 FAQs. Internal links OUT: mocha-recipe, iced-matcha-latte-recipe, matcha-latte-recipe, how-to-make-whipped-cream, iced-latte-recipe, cold-brew-recipe, simple-syrup-recipe. Internal link IN: iced-latte-recipe.
+105. /guides/long-black-coffee/ (NEW pulse 55, + FAQ) — 9,900/mo LOW (1/100) NEAR-ZERO competition. What is a long black, Australia/NZ origins, water-first pour technique, ratio table, grind guide, long black vs americano comparison, iced/macc-style/double variations, moka pot + AeroPress alternatives, 7 FAQs. Internal link IN: americano-vs-long-black (footer).
+106. /guides/pour-over-guide/ (NEW pulse 55, + FAQ) — ~3,090/mo combined: "coffee bloom" (1,300/mo, LOW 7/100) + "chemex recipe" (720/mo, LOW 5/100) + "V60 recipe" (480/mo, LOW 7/100) + "pour over coffee recipe" (590/mo, LOW 27/100). Bloom technique guide, Chemex vs V60 vs Kalita comparison table, step-by-step Chemex recipe (42g, 700ml), step-by-step V60 recipe (15g, 250ml), grind size table, water temp by roast table, ratio table, troubleshooting table, 7 FAQs. Internal links OUT: coffee-to-water-ratio, how-to-use-french-press, aeropress-guide, cold-brew-recipe, moka-pot-vs-espresso. Internal links IN: aeropress-guide, how-to-use-french-press.
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -396,11 +400,11 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 55:** Monitor white espresso (pos 3.99 — needs to break top 3 for click-through). Check if AeroPress guide and coffee smoothie start accumulating SC impressions. Research: "long black coffee" (unknown vol), "pour over coffee recipe" (590/mo, LOW 27/100 — maybe too small standalone), "chemex coffee" (unknown vol), "V60 recipe" (unknown vol). Also check: butterfly pea flower latte (390/mo, LOW 17/100 — filler candidate), nutella latte (720/mo, LOW 0/100 — zero competition filler).
-2. **Pulse 56:** Internal linking audit — with 108 articles, topical clusters should be tightly interlinked. Review matcha cluster, milk tea cluster, brewing methods cluster for any missing cross-links. AeroPress guide should link to: espresso-caffeine (caffeine comparison), moka-pot-vs-espresso, pour-over-vs-espresso.
-3. **Pulse 57:** Continue keyword research into any remaining untapped LOW comp clusters. Consider "chemex recipe" + "V60 recipe" as a brewing methods cluster if volumes justify it. Check SC impressions accumulation for whipped cream (285K/mo, Pulse 49), espresso martini (246K/mo, Pulse 17) — these mega clusters should be showing more impressions by now (Day 20+ of experiment).
+1. **Pulse 56:** Internal linking audit — with 110 articles, topical clusters need tight interlinking. Priority: brewing methods cluster (AeroPress ↔ French press ↔ pour over ↔ moka pot ↔ cold brew). Also check: nutella latte (720/mo, LOW 0/100 — zero competition quick filler), sweet cream recipe (1,000/mo, LOW 7/100 — extends cold foam cluster). Check white espresso position for any movement from pos 3.99.
+2. **Pulse 57:** Research next content cluster. Candidates: "sweet cream coffee" cluster (sweet cream recipe 1,000/mo LOW + vanilla cold foam — already covered, skip), "macaron recipe" (unrelated), espresso-based cocktail cluster. Check if how-to-make-whipped-cream (285K/mo, Pulse 49) + espresso martini (246K/mo) are starting to accumulate impressions in SC top-25.
+3. **Pulse 58:** Continue building brewing authority. Consider: "moka pot recipe" standalone (currently just moka-pot-vs-espresso), "coffee ratio calculator" content (covered in coffee-to-water-ratio), or next untapped LOW comp cluster from research.
 
 ---
-*Last updated: 2026-04-23 (Pulse 54)*
+*Last updated: 2026-04-23 (Pulse 55)*
 
 

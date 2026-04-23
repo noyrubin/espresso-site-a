@@ -4,6 +4,52 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-23 22:00 IDT — Pulse 55: Long Black Coffee Guide (9,900/mo, LOW 1/100) + Pour Over Guide Chemex/V60/Bloom (~3,090/mo) + 3 Internal Links
+
+**Action:** DataForSEO keyword research (2 batches, $0.15 total). Published 2 new articles. Added 3 inbound internal links. Site now at 110 articles.
+
+**Assessment (SC + GA4):**
+- **WHITE ESPRESSO:** /guides/white-espresso/ pos 3.99, 128 impressions, 1 click — no position change from Pulse 54
+- how-to-make-a-flat-white: 111 impressions pos 77.7 — stable, impressions accumulating
+- how-to-froth-milk: 54 impressions pos 59.1 — stable
+- simple-syrup-recipe: 14 impressions, pos 41.3 — solid position
+- ristretto-vs-espresso: 9 impressions, pos 33.7 — improving
+- GA4 organic: 2 total organic sessions (Apr 4, Apr 14). Pre-ranking phase continues.
+- Top SC query: "what is white espresso" (pos 5.875, 24 impressions, 1 click)
+
+**DataForSEO research ($0.15, 2 batches):**
+- Batch 1 ($0.075): **long black coffee (9,900/mo, LOW 1/100 — NEAR-ZERO COMPETITION ✓ BEST FIND)**, chemex coffee (12,100/mo, HIGH 100/100 — skip), chemex recipe (720/mo, LOW 5/100 ✓), V60 recipe (480/mo, LOW 7/100 ✓), pour over coffee recipe (590/mo, LOW 27/100 ✓), coffee bloom (1,300/mo, LOW 7/100 ✓), pour over coffee guide (70/mo, MEDIUM 39/100 — skip)
+- Batch 2 ($0.075): lavender simple syrup (6,600/mo, HIGH 100/100 — skip), vanilla cold foam (2,900/mo, MEDIUM 65/100 — skip), brown sugar cold foam (1,300/mo, HIGH 68/100 — skip), sweet cream recipe (1,000/mo, LOW 7/100 — candidate next pulse), nutella latte (720/mo, LOW 0/100 — zero comp filler), rose syrup recipe (720/mo, LOW 3/100 — small), butterfly pea latte (390/mo, LOW 17/100 — skip standalone)
+
+**Content executed:**
+
+1. **New: /guides/long-black-coffee/** (~2,000 words)
+   - Primary: "long black coffee" (9,900/mo, LOW 1/100) — NEAR-ZERO competition
+   - Secondary: "what is a long black", "long black espresso", "how to make long black coffee" (all captured)
+   - Differentiates from americano-vs-long-black: this page focuses on the long black itself — Australian/NZ origins, water-first technique, crema preservation, ratio guide table, grind troubleshooting, iced/macchiato-style/double variations, moka pot + AeroPress alternatives, 7 FAQs
+   - Internal link IN: americano-vs-long-black (footer link added)
+
+2. **New: /guides/pour-over-guide/** (~2,000 words)
+   - Primary cluster: "coffee bloom" (1,300/mo, LOW 7/100) + "chemex recipe" (720/mo, LOW 5/100) + "V60 recipe" (480/mo, LOW 7/100) + "pour over coffee recipe" (590/mo, LOW 27/100) = ~3,090/mo combined
+   - Coffee bloom section (CO₂ science, saturation technique), Chemex vs V60 vs Kalita comparison table, Chemex step-by-step recipe (42g/700ml, 4–5 min), V60 step-by-step recipe (15g/250ml, 2:30–3:00), grind size table, water temp by roast table, ratio table (1:15–1:18), troubleshooting table, Chemex vs V60 buyer guide section, 7 FAQs
+   - Internal links OUT: coffee-to-water-ratio, how-to-use-french-press, aeropress-guide, cold-brew-recipe, moka-pot-vs-espresso
+   - Internal links IN: aeropress-guide (pour-over-guide link added), how-to-use-french-press (pour-over-guide link added)
+
+**Internal links added this pulse:**
+- americano-vs-long-black → long-black-coffee (footer paragraph)
+- aeropress-guide → pour-over-guide (comparison section)
+- how-to-use-french-press → pour-over-guide (comparison section)
+
+**Reasoning:**
+- Long black coffee at 9,900/mo with 1/100 competition is the highest-value find this pulse. It's a natural extension of the americano/espresso drinks cluster and directly connected to our existing americano-vs-long-black and americano-vs-espresso pages, but it's genuinely distinct — the dedicated page covers technique, origins, variations, and alternatives that the comparison page doesn't. The water-first technique and crema preservation angle gives us substantive content well beyond "it's like an americano but different." 
+- Pour over guide completes the brewing methods cluster: we now have AeroPress (Pulse 54), French press (Pulse 45), moka pot (Pulse 11), cold brew (Pulse 22), and now pour over (Chemex + V60). The "coffee bloom" keyword at 1,300/mo is an informational query we can own, and combining it with chemex recipe + V60 recipe + pour over recipe gives ~3,090/mo in a cluster where content quality matters most.
+
+**Outcome:** Commit abf3fe9 pushed. Vercel deployment triggered. Site at 110 articles. DataForSEO spend: $0.15 this pulse; cumulative well under $1/day.
+
+**Next (Pulse 56):** Internal linking audit for brewing methods cluster (AeroPress ↔ French press ↔ pour over ↔ moka pot ↔ cold brew — make sure all cross-link). Research: "sweet cream recipe" (1,000/mo, LOW 7/100) as next standalone, "nutella latte" (720/mo, zero comp) as quick filler. Monitor white espresso for any pos movement toward top 3.
+
+---
+
 ## 2026-04-23 14:00 IDT — Pulse 54: AeroPress Guide (~9,180/mo cluster) + Coffee Smoothie Recipe (~4,790/mo) + 3 Internal Links
 
 **Action:** DataForSEO keyword research (3 batches, $0.225 total). Published 2 new articles. Added 3 inbound internal links. Site now at 108 articles.
