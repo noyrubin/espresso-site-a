@@ -4,6 +4,52 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-23 14:00 IDT — Pulse 54: AeroPress Guide (~9,180/mo cluster) + Coffee Smoothie Recipe (~4,790/mo) + 3 Internal Links
+
+**Action:** DataForSEO keyword research (3 batches, $0.225 total). Published 2 new articles. Added 3 inbound internal links. Site now at 108 articles.
+
+**Assessment (SC + GA4):**
+- **WHITE ESPRESSO:** /guides/white-espresso/ still tracking (pos 3.99, 128 impressions, 1 click — no change from Pulse 53, same data window)
+- Top SC query remains "what is white espresso" (pos 5.875, 24 impressions, 1 click)
+- GA4 organic: 2 total organic sessions (Apr 4, Apr 14). Pre-ranking phase continues.
+- No new pages entered top-25 SC pages list this pulse; site accumulating impressions gradually
+
+**DataForSEO research ($0.225, 3 batches):**
+- Batch 1 ($0.075): coffee smoothie recipe (2,900/mo, LOW 17/100 ✓), coffee milkshake recipe (590/mo, LOW 1/100 ✓), coffee protein shake (5,400/mo, HIGH 100/100 — skip), espresso calories (1,900/mo, LOW 0/100 — covered in espresso-caffeine), caramel frappuccino recipe (1,300/mo, LOW 1/100 — covered in frappuccino-recipe), java chip frappuccino recipe (480/mo, LOW 1/100 — covered), espresso nutrition (70/mo — too small)
+- Batch 2 ($0.075): **aeropress recipe (3,600/mo, LOW 8/100 ✓ — BEST FIND)**, coffee vs espresso caffeine (2,900/mo, LOW 6/100 — covered in espresso-caffeine), types of espresso drinks (2,900/mo, MEDIUM 60/100 — skip), aeropress coffee (HIGH 100/100 — commercial keyword, skip), coffee banana smoothie (1,300/mo, LOW 3/100 ✓)
+- Batch 3 ($0.075): how to use aeropress (1,900/mo, LOW 15/100 ✓), aeropress instructions (2,400/mo, LOW 19/100 ✓), aeropress grind size (1,300/mo, LOW 2/100 ✓), butterfly pea flower latte (140/mo, LOW 15/100 — too small), maca latte recipe (90/mo, LOW 1/100 — too small), iced coffee smoothie (90/mo — tiny)
+
+**Content executed:**
+
+1. **New: /guides/aeropress-guide/** (~2,000 words)
+   - Primary: "aeropress recipe" (3,600/mo, LOW 8/100)
+   - Secondary: "aeropress instructions" (2,400/mo, LOW 19/100) + "how to use aeropress" (1,900/mo, LOW 15/100) + "aeropress grind size" (1,300/mo, LOW 2/100) + "how to make aeropress coffee" (480/mo, LOW 25/100)
+   - Combined: ~9,180/mo at LOW competition — best cluster this pulse
+   - Classic recipe (standard + inverted method), grind size guide table, ratio guide table, water temp table, 5 brew style variations (espresso-style, cold brew, americano, latte, Hoffmann method), troubleshooting table, cleaning guide, French press vs AeroPress vs espresso comparison table, 7 FAQs with JSON-LD
+   - Internal links OUT: /guides/how-to-froth-milk/, /guides/espresso-vs-drip-coffee/, /guides/how-to-use-french-press/
+
+2. **New: /recipes/coffee-smoothie-recipe/** (~1,900 words)
+   - Primary: "coffee smoothie recipe" (2,900/mo, LOW 17/100)
+   - Secondary: "coffee banana smoothie" (1,300/mo, LOW 3/100) + "coffee milkshake recipe" (590/mo, LOW 1/100)
+   - Combined: ~4,790/mo
+   - 5 recipes: classic, coffee banana, iced coffee smoothie, protein-style (Greek yogurt + nut butter, ~17g protein), milkshake. Coffee base guide table, milk comparison table, sweetener guide, coffee ice cube tip, make-ahead batch prep instructions, 7 FAQs with JSON-LD
+   - Internal links OUT: /guides/how-to-make-whipped-cream/, /guides/espresso-caffeine/
+
+**Internal links added this pulse:**
+- how-to-use-french-press → aeropress-guide (French Press vs Espresso section)
+- cold-brew-recipe → coffee-smoothie-recipe (Cold Brew Protein Shake variation)
+- coffee-to-water-ratio → aeropress-guide (AeroPress ratio section)
+
+**Reasoning:**
+- AeroPress cluster at ~9,180/mo combined is the strongest new cluster this pulse. All keywords are LOW competition (2–25/100), and "aeropress instructions" + "how to use aeropress" are informational queries where a well-structured guide clearly beats generic product pages. The site already has how-to-use-french-press and coffee-to-water-ratio — adding AeroPress completes the brewing methods cluster and creates strong topical authority around manual brewing. The guide is substantive: covers classic + inverted methods, grind size chart, ratio table, temp guide, 5 variations, troubleshooting, and cleaning.
+- Coffee smoothie fills the blended cold coffee gap. The banana smoothie cluster (2,900 + 1,300 + 590/mo) is all LOW competition. Most coffee smoothie content online is generic food blog material — a guide focused on coffee technique (cold brew concentrate vs espresso base, frozen banana technique, coffee ice cubes for no-dilution) gives us a legitimate angle. The protein-style variation (Greek yogurt + nut butter, no protein powder) differentiates from health-food blogs.
+
+**Outcome:** Commit e64739b pushed. Vercel deployment triggered. Site at 108 articles. DataForSEO spend: $0.225 this pulse; cumulative well under $1/day.
+
+**Next (Pulse 55):** Monitor white espresso for pos movement. Research: "long black coffee" volume, "chemex recipe" + "V60 recipe" potential as brewing cluster, "pour over coffee guide" (9,900/mo but HIGH? — need to check). Also check butterfly pea flower latte (390/mo, LOW 17/100) if filler article needed. Consider an internal linking audit for the brewing methods cluster (AeroPress ↔ French press ↔ pour over ↔ moka pot ↔ cold brew).
+
+---
+
 ## 2026-04-23 06:00 IDT — Pulse 53: Café Con Leche Recipe (ZERO comp, 1.9K/mo) + Coffee Jelly Recipe (2.9K/mo, 1/100) + 2 Internal Links
 
 **Action:** DataForSEO keyword research (2 batches, $0.15 total). Published 2 new articles. Added 2 inbound internal links. Site now at 106 articles.

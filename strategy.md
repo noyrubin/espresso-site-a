@@ -124,6 +124,8 @@ Day 20 (Pulse 53) — 106 articles published. WHITE ESPRESSO: pos 3.99, 128 impr
 | frappuccino recipe | 3,600 | LOW (4/100) | /recipes/frappuccino-recipe/ | Published + FAQ (Pulse 52) — also captures "frozen coffee recipe" (1,000/mo, LOW 9/100) + "coffee frappuccino recipe" (390/mo, LOW 1/100) + "blended coffee recipe" (590/mo, LOW 17/100) = ~5,750/mo combined at near-zero competition |
 | cafe con leche recipe | 1,900 | LOW (0/100) | /recipes/cafe-con-leche-recipe/ | Published + FAQ (Pulse 53) — ZERO competition; also captures "cafe au lait recipe" (880/mo, LOW 2/100) = ~2,780/mo combined |
 | coffee jelly recipe | 2,900 | LOW (1/100) | /recipes/coffee-jelly-recipe/ | Published + FAQ (Pulse 53) — near-zero competition; Japanese espresso dessert, agar vs gelatin guide, 5 variations |
+| aeropress recipe | 3,600 | LOW (8/100) | /guides/aeropress-guide/ | Published + FAQ (Pulse 54) — also captures "aeropress instructions" (2,400/mo, LOW 19/100) + "how to use aeropress" (1,900/mo, LOW 15/100) + "aeropress grind size" (1,300/mo, LOW 2/100) = ~9,180/mo combined |
+| coffee smoothie recipe | 2,900 | LOW (17/100) | /recipes/coffee-smoothie-recipe/ | Published + FAQ (Pulse 54) — also captures "coffee banana smoothie" (1,300/mo, LOW 3/100) + "coffee milkshake recipe" (590/mo, LOW 1/100) = ~4,790/mo combined |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -242,9 +244,9 @@ Day 20 (Pulse 53) — 106 articles published. WHITE ESPRESSO: pos 3.99, 128 impr
 - "lychee latte" (30/mo), "honey oat milk latte" (70/mo), "peach latte" (170/mo), "mango latte" (210/mo) — all too small volume standalone
 
 ### In Progress
-*(none — pulse 17 complete)*
+*(none — pulse 54 complete)*
 
-### Published (58 articles)
+### Published (108 articles)
 1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5, flat white + macchiato links pulse 6)
 2. /guides/how-to-steam-milk-latte-art/ (+ FAQ pulse 3)
 3. /guides/espresso-grind-size-guide/ (+ FAQ pulse 2, WDT link pulse 4)
@@ -394,11 +396,11 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 54:** Research remaining untapped clusters. Candidates checked but unused this pulse: "coffee smoothie recipe" (2,900/mo, LOW 17/100), "coffee milkshake recipe" (590/mo, LOW 1/100). Also check: "long black coffee" (check vol), "americano coffee" (check vol), "espresso nutrition" (check vol). Check if homemade-coffee-creamer + frappuccino-recipe have started accumulating SC impressions. SC data shows how-to-make-whipped-cream still not in top-25 pages — should start appearing by Pulse 55.
-2. **Pulse 55:** Monitor white espresso (pos 3.99 — needs to break top 3 for click-through). If it does, add internal link from espresso-beans-vs-coffee-beans. Continue keyword research — focus on any remaining LOW (sub-10/100) clusters not yet covered.
-3. **Pulse 56:** Internal linking audit — with 106 articles, topical clusters should be tightly interlinked. Review matcha cluster, milk tea cluster, seasonal cluster for any missing cross-links. Consider a "coffee drinks hub" page if keyword opportunity exists.
+1. **Pulse 55:** Monitor white espresso (pos 3.99 — needs to break top 3 for click-through). Check if AeroPress guide and coffee smoothie start accumulating SC impressions. Research: "long black coffee" (unknown vol), "pour over coffee recipe" (590/mo, LOW 27/100 — maybe too small standalone), "chemex coffee" (unknown vol), "V60 recipe" (unknown vol). Also check: butterfly pea flower latte (390/mo, LOW 17/100 — filler candidate), nutella latte (720/mo, LOW 0/100 — zero competition filler).
+2. **Pulse 56:** Internal linking audit — with 108 articles, topical clusters should be tightly interlinked. Review matcha cluster, milk tea cluster, brewing methods cluster for any missing cross-links. AeroPress guide should link to: espresso-caffeine (caffeine comparison), moka-pot-vs-espresso, pour-over-vs-espresso.
+3. **Pulse 57:** Continue keyword research into any remaining untapped LOW comp clusters. Consider "chemex recipe" + "V60 recipe" as a brewing methods cluster if volumes justify it. Check SC impressions accumulation for whipped cream (285K/mo, Pulse 49), espresso martini (246K/mo, Pulse 17) — these mega clusters should be showing more impressions by now (Day 20+ of experiment).
 
 ---
-*Last updated: 2026-04-23 (Pulse 53)*
+*Last updated: 2026-04-23 (Pulse 54)*
 
 
