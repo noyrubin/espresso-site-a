@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 19 (Pulse 52) — 104 articles published. WHITE ESPRESSO: pos 3.99, 128 impressions, 1 click — unchanged; still at pos 3 threshold, waiting. Ristretto: pos 36.375 — unchanged. New clusters: homemade coffee creamer (14.8K/mo, LOW 4/100) + "homemade creamer recipe" (5.4K/mo, LOW 3/100) = ~21K/mo combined at near-zero comp (BEST NEW CLUSTER THIS PULSE). Frappuccino recipe (3.6K/mo, LOW 4/100) + frozen coffee cluster = ~5.75K/mo combined. DataForSEO spend: $0.225 this pulse.
+Day 20 (Pulse 53) — 106 articles published. WHITE ESPRESSO: pos 3.99, 128 impressions, 1 click — unchanged at pos 3 threshold. Ristretto: pos 33.7 (slight improvement from 36.4). how-to-make-a-flat-white: 111 impressions. New clusters: café con leche recipe (1,900/mo, 0/100 ZERO comp) + café au lait (880/mo, 2/100) = ~2,780/mo; coffee jelly recipe (2,900/mo, 1/100) = near-zero. DataForSEO spend: $0.15 this pulse.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -122,6 +122,8 @@ Day 19 (Pulse 52) — 104 articles published. WHITE ESPRESSO: pos 3.99, 128 impr
 | coffee soda | 3,600 | LOW (26/100) | /recipes/coffee-soda-recipe/ | Published + FAQ (Pulse 51) — also captures "espresso soda" (1,300/mo, LOW 24/100) + "coffee soda recipe" (210/mo, LOW 0/100) = ~5,110/mo combined |
 | homemade coffee creamer | 14,800 | LOW (4/100) | /guides/homemade-coffee-creamer/ | Published + FAQ (Pulse 52) — also captures "homemade creamer recipe" (5,400/mo, LOW 3/100) + "french vanilla coffee creamer recipe" (1,000/mo, LOW 5/100) = ~21,200/mo combined at near-zero competition. BEST NEW CLUSTER THIS PULSE. |
 | frappuccino recipe | 3,600 | LOW (4/100) | /recipes/frappuccino-recipe/ | Published + FAQ (Pulse 52) — also captures "frozen coffee recipe" (1,000/mo, LOW 9/100) + "coffee frappuccino recipe" (390/mo, LOW 1/100) + "blended coffee recipe" (590/mo, LOW 17/100) = ~5,750/mo combined at near-zero competition |
+| cafe con leche recipe | 1,900 | LOW (0/100) | /recipes/cafe-con-leche-recipe/ | Published + FAQ (Pulse 53) — ZERO competition; also captures "cafe au lait recipe" (880/mo, LOW 2/100) = ~2,780/mo combined |
+| coffee jelly recipe | 2,900 | LOW (1/100) | /recipes/coffee-jelly-recipe/ | Published + FAQ (Pulse 53) — near-zero competition; Japanese espresso dessert, agar vs gelatin guide, 5 variations |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -392,11 +394,11 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 53:** Explore remaining untapped keyword territory. Candidates: "types of coffee drinks" (27,100/mo, MEDIUM 53/100 — SERP check if recipe blogs rank), "cold brew coffee recipe" vs existing coverage, "butterfly pea latte" (390/mo, LOW 17/100) quick article. Also check summer drink angles: "iced brown sugar oat milk espresso" or "summertime espresso drinks". Check if how-to-make-whipped-cream (285K/mo cluster, published Pulse 49) has started accumulating impressions.
-2. **Pulse 54:** If white espresso finally breaks pos 3, add internal link from espresso-beans-vs-coffee-beans (topically close, strong page for internal linking). Continue extending coverage gaps. Also run SC query check specifically for homemade-coffee-creamer and frappuccino-recipe to see initial indexing.
-3. **Pulse 55:** Monitor homemade-coffee-creamer specifically — 14,800/mo at LOW 4/100 should accumulate impressions quickly once indexed. If impressions are growing, consider whether "heavy cream recipe" (check volume) or "whipped coffee creamer" are satellite pages worth building. Otherwise continue finding new keyword clusters.
+1. **Pulse 54:** Research remaining untapped clusters. Candidates checked but unused this pulse: "coffee smoothie recipe" (2,900/mo, LOW 17/100), "coffee milkshake recipe" (590/mo, LOW 1/100). Also check: "long black coffee" (check vol), "americano coffee" (check vol), "espresso nutrition" (check vol). Check if homemade-coffee-creamer + frappuccino-recipe have started accumulating SC impressions. SC data shows how-to-make-whipped-cream still not in top-25 pages — should start appearing by Pulse 55.
+2. **Pulse 55:** Monitor white espresso (pos 3.99 — needs to break top 3 for click-through). If it does, add internal link from espresso-beans-vs-coffee-beans. Continue keyword research — focus on any remaining LOW (sub-10/100) clusters not yet covered.
+3. **Pulse 56:** Internal linking audit — with 106 articles, topical clusters should be tightly interlinked. Review matcha cluster, milk tea cluster, seasonal cluster for any missing cross-links. Consider a "coffee drinks hub" page if keyword opportunity exists.
 
 ---
-*Last updated: 2026-04-22 (Pulse 52)*
+*Last updated: 2026-04-23 (Pulse 53)*
 
 

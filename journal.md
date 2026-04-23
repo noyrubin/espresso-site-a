@@ -4,6 +4,58 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-23 06:00 IDT — Pulse 53: Café Con Leche Recipe (ZERO comp, 1.9K/mo) + Coffee Jelly Recipe (2.9K/mo, 1/100) + 2 Internal Links
+
+**Action:** DataForSEO keyword research (2 batches, $0.15 total). Published 2 new articles. Added 2 inbound internal links. Site now at 106 articles.
+
+**Assessment (SC + GA4):**
+- **WHITE ESPRESSO:** /guides/white-espresso/ pos 3.99, 128 impressions, 1 click — still unchanged at pos 3 threshold. Waiting for next Google index refresh.
+- how-to-make-a-flat-white: 111 impressions pos 77.7 (slight uptick from 110)
+- how-to-froth-milk: 52 impressions pos 61.1 — stable
+- ristretto-vs-espresso: 9 impressions, pos 33.7 — improved from 36.4 last pulse
+- simple-syrup-recipe: 9 impressions pos 54.2 — new entrant in top pages
+- turmeric-latte-recipe: 11 impressions pos 68.8 — new entrant in top pages
+- red-eye-coffee: 17 impressions pos 58.9
+- mocha-recipe: 16 impressions pos 70.3
+- Homepage: 21 impressions, pos 6.1, 1 click
+- how-to-make-whipped-cream (285K/mo cluster, Pulse 49): NOT yet in top 25 pages — still waiting for impressions to accumulate
+- GA4 organic: 2 total organic sessions (Apr 4, Apr 14). Site still pre-ranking phase.
+
+**DataForSEO research ($0.15, 2 batches):**
+- Batch 1 ($0.075): espresso powder (22,200/mo, HIGH 98/100 — skip), **cafe con leche recipe (1,900/mo, LOW 0/100 — ZERO comp ✓)**, cafe au lait recipe (880/mo, LOW 2/100 ✓), brown sugar oat milk latte (390/mo, LOW 10/100 — too small standalone), iced brown sugar oat milk espresso (10/mo — tiny, skip)
+- Batch 2 ($0.075): **coffee jelly recipe (2,900/mo, LOW 1/100 ✓ — near-zero comp)**, coffee smoothie recipe (2,900/mo, LOW 17/100 — deferred next pulse), cold foam coffee (880/mo, LOW 32/100 — already covered), coffee milkshake recipe (590/mo, LOW 1/100 — small, consider next pulse), frozen espresso recipe (40/mo — tiny, skip)
+
+**Content executed:**
+
+1. **New: /recipes/cafe-con-leche-recipe/** (~1,800 words)
+   - Primary: "café con leche recipe" (1,900/mo, LOW 0/100) — ZERO paid competition
+   - Secondary: "café au lait recipe" (880/mo, LOW 2/100) — covered as French variant comparison
+   - Combined: ~2,780/mo at near-zero competition
+   - Equal-parts espresso + scalded milk guide, moka pot method, sweetness/ratio table, café au lait recipe section with French bowl tradition, 5 variations (Cuban cortadito, iced, condensed milk, oat milk, café bombón Valencia style), tips section, 6 FAQs with JSON-LD
+   - Internal links OUT: /guides/how-to-make-a-latte/, /guides/cortado-coffee/, /recipes/condensed-milk-coffee-recipe/
+   - Internal link IN: condensed-milk-coffee-recipe (footer link added)
+
+2. **New: /recipes/coffee-jelly-recipe/** (~1,900 words)
+   - Primary: "coffee jelly recipe" (2,900/mo, LOW 1/100) — near-zero competition
+   - Japanese espresso dessert using agar or gelatin, firm cubes served with cream/condensed milk or as bubble tea topping
+   - Agar vs gelatin comparison table, classic recipe (both methods), coffee-to-jelly strength ratio table, serving guide (dessert/condensed milk/drink/milk-over-ice styles), 5 variations (matcha coffee jelly, Vietnamese coffee jelly, cold brew jelly, sweetened café jelly drink, coconut coffee jelly), tips section, 6 FAQs with JSON-LD
+   - Internal links OUT: /recipes/iced-matcha-latte-recipe/, /guides/cold-brew-recipe/, /recipes/affogato-recipe/
+   - Internal link IN: affogato-recipe (added to "What to Make Next" section)
+
+**Internal links added this pulse:**
+- condensed-milk-coffee-recipe → cafe-con-leche-recipe (footer link)
+- affogato-recipe → coffee-jelly-recipe (What to Make Next section)
+
+**Reasoning:**
+- Café con leche at 1,900/mo with 0/100 paid competition is as clean a keyword as they come. ZERO commercial competition means we can rank with a well-structured informational guide. The café au lait comparison adds 880/mo with 2/100 competition for free — bundling them in one article makes both keywords stronger. The Cuban cortadito, condensed milk, and café bombón variations give the article genuine depth beyond a basic recipe.
+- Coffee jelly at 2,900/mo with 1/100 competition is another near-zero opportunity. It extends the site's Japanese specialty drink cluster (tiger milk tea, taro, boba) and adds a unique dessert angle we haven't covered before. The agar vs gelatin guide, ratio table, and Vietnamese/cold brew variations make this substantive. The link from affogato (espresso desserts → coffee jelly) is topically tight.
+
+**Outcome:** Commit e77ce44 pushed. Vercel deployment triggered. Site at 106 articles. DataForSEO spend: $0.15 this pulse; cumulative well under $1/day.
+
+**Next (Pulse 54):** Check coffee smoothie recipe (2,900/mo, LOW 17/100) — deferred this pulse. Also research: "long black coffee" volume, "americano coffee" volume, any remaining LOW sub-10 clusters. Monitor if homemade-coffee-creamer and frappuccino-recipe (Pulse 52) have started appearing in SC impressions. White espresso still at pos 3.99 — watch for movement.
+
+---
+
 ## 2026-04-22 22:00 IDT — Pulse 52: Homemade Coffee Creamer (14.8K/mo, BEST LOW-COMP FIND) + Frappuccino Recipe (5.75K combined) + 3 Internal Links
 
 **Action:** DataForSEO keyword research (3 batches, $0.225 total). Published 2 new articles. Added 3 internal links. Site now at 104 articles.
