@@ -168,6 +168,7 @@ A: Pre-chill your serving glass (rinse with cold water or freeze for 5 minutes).
 
 Love simple espresso-based recipes?
 
+- [Coffee Jelly Recipe](/recipes/coffee-jelly-recipe/) — Japanese espresso dessert with cream or condensed milk
 - [Tiramisu Latte Recipe](/recipes/tiramisu-latte-recipe/) — Italy's famous dessert as a drinkable latte with mascarpone cream
 - [Espresso Tonic](/recipes/espresso-tonic/) — the simplest, most refreshing summer espresso drink
 - [Espresso Martini Recipe](/recipes/espresso-martini-recipe/) — the classic cocktail, made at home
