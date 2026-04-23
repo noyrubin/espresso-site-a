@@ -219,7 +219,7 @@ For deep cleaning, the AeroPress is dishwasher-safe (top rack). A quick wipe wit
 | Espresso machine | 25–30 sec | 9 bars | Fine | True espresso crema, latte drinks |
 | Moka Pot | 5 min | Steam (1–2 bar) | Fine-medium | Stovetop espresso-style |
 
-If you're interested in how AeroPress compares to espresso or other methods, see our [espresso vs drip coffee guide](/guides/espresso-vs-drip-coffee/) or [how to use a French press](/guides/how-to-use-french-press/).
+If you're interested in how AeroPress compares to espresso or other methods, see our [espresso vs drip coffee guide](/guides/espresso-vs-drip-coffee/) or [how to use a French press](/guides/how-to-use-french-press/). For pour over methods (Chemex and V60), see our [pour over guide](/guides/pour-over-guide/).
 
 ---
 

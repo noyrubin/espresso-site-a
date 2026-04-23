@@ -106,7 +106,7 @@ With any black espresso drink, the quality of your shot determines everything. A
 
 Getting your shot dialed in is worth the effort. Start with our [espresso grind size guide](/guides/espresso-grind-size-guide/) if you're dialing in a new bean, or the [espresso ratio guide](/guides/espresso-ratio-guide/) if you want to understand extraction more deeply.
 
-For a deeper dive into how lungo compares to Americano and when you'd choose one over the other, see our [lungo vs americano guide](/guides/lungo-vs-americano/). And if you're curious about the shorter end of the espresso spectrum, the [ristretto vs espresso guide](/guides/ristretto-vs-espresso/) explains how a restricted pull changes the flavor entirely.
+For a deeper dive into how lungo compares to Americano and when you'd choose one over the other, see our [lungo vs americano guide](/guides/lungo-vs-americano/). If you want to focus specifically on long black coffee — its origins, ratio guide, and Australasian café culture — see our dedicated [long black coffee guide](/guides/long-black-coffee/). And if you're curious about the shorter end of the espresso spectrum, the [ristretto vs espresso guide](/guides/ristretto-vs-espresso/) explains how a restricted pull changes the flavor entirely.
 
 Once you have a solid shot, both drinks are simple to make and very satisfying. If you'd prefer yours cold, see the [iced americano recipe](/recipes/iced-americano-recipe/) — it's one of the simplest iced espresso drinks you can make at home.
 
