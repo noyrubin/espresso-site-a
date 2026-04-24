@@ -4,6 +4,63 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-24 06:00 IDT — Pulse 56: Coffee Ice Cubes (4,400/mo, 2/100) + Sweet Cream Recipe (~1,720/mo) + Brewing Methods Cluster Cross-Links
+
+**Action:** DataForSEO research (1 batch, $0.075). Published 2 new articles. Fixed brewing methods internal linking. Added 4 inbound internal links. Site now at 112 articles.
+
+**Assessment (SC + GA4):**
+- **WHITE ESPRESSO:** /guides/white-espresso/ pos 3.99, 128 impressions, 1 click — no change from Pulse 55
+- how-to-make-a-flat-white: 111 impressions pos 77.7 — stable
+- how-to-froth-milk: 54 impressions pos 59.1 — stable
+- simple-syrup-recipe: 16 impressions pos 37.25 — improving slightly
+- ristretto-vs-espresso: 9 impressions pos 33.7 — approaching mid-page 2
+- how-to-make-a-macchiato: 10 impressions pos 44.4
+- GA4 total: low-traffic period (Apr 18: 1 session, Apr 17: 2 sessions, Apr 14: 4 sessions)
+- GA4 organic: still only 2 sessions total (Apr 4, Apr 14) — pre-ranking phase continues
+
+**DataForSEO research ($0.075, 1 batch):**
+- **coffee ice cubes (4,400/mo, LOW 2/100) — BEST FIND THIS PULSE**
+- sweet cream coffee creamer (9,900/mo, HIGH 100/100 — skip, too competitive)
+- sweet cream recipe (1,000/mo, LOW 7/100 ✓ — confirmed)
+- vanilla sweet cream recipe (720/mo, LOW 10/100 ✓ — combine with above)
+- nutella latte (720/mo, LOW 0/100 — zero comp filler for future pulse)
+- churro latte (320/mo, LOW 2/100 — very small filler candidate)
+- espresso powder uses (40/mo — too small)
+
+**Internal linking audit — Brewing Methods Cluster:**
+- **moka-pot-vs-espresso.md:** Added hyperlink for AeroPress in comparison table (was plain text). Updated See Also footer to include /guides/aeropress-guide/, /guides/how-to-use-french-press/, /guides/pour-over-guide/.
+- **cold-brew-recipe.md:** Added links to AeroPress, French press, pour over at the end of the closing paragraph (was only linking to cold-brew-vs-espresso + cold-brew-vs-iced-coffee).
+- ✓ French press already linked to AeroPress + pour over (added Pulse 55)
+- ✓ AeroPress already linked to French press + pour over (added Pulse 54/55)
+- ✓ Pour over already linked to AeroPress + French press + moka pot + cold brew (added Pulse 55)
+
+**Content executed:**
+
+1. **New: /guides/coffee-ice-cubes/** (~2,000 words)
+   - Primary: "coffee ice cubes" (4,400/mo, LOW 2/100) — BEST FIND PULSE 56
+   - Secondary: "how to make coffee ice cubes", "coffee ice cube recipe" cluster
+   - Why coffee ice cubes prevent dilution, basic recipe, 3 strength tiers (regular/concentrated/cold brew concentrate), espresso cubes, best-uses section (iced coffee, iced latte, smoothies, frappuccino, iced mocha), tray size guide table, 4 variations (vanilla, milk, sweetened, cold foam cubes), tips + troubleshooting table, 7 FAQs with JSON-LD
+   - Internal links IN: coffee-smoothie-recipe (tip section already mentioned coffee ice cubes — now linked), how-to-make-iced-coffee (ice cube section)
+   - Internal links OUT: cold-brew-recipe, coffee-smoothie-recipe, frappuccino-recipe, vanilla-sweet-cream-cold-brew
+
+2. **New: /guides/sweet-cream-recipe/** (~1,800 words)
+   - Primary: "sweet cream recipe" (1,000/mo, LOW 7/100)
+   - Secondary: "vanilla sweet cream recipe" (720/mo, LOW 10/100) = ~1,720/mo combined
+   - What is sweet cream (vs whipped cream, half-and-half), basic recipe (2:1 heavy cream:milk + vanilla syrup), vanilla sweet cream recipe, how to froth into cold foam, cream-to-milk ratio table (4 ratios), sweetness guide table, comparison table (5 cream types), 5 variations (brown sugar, cinnamon, hazelnut, coconut DF, caramel), how-to-use section (cold brew, iced latte, iced coffee, hot coffee), storage tips, 6 FAQs with JSON-LD
+   - Internal links IN: vanilla-sweet-cream-cold-brew (added link to sweet-cream-recipe), how-to-make-cold-foam (added link to sweet-cream-recipe)
+   - Internal links OUT: simple-syrup-recipe, how-to-make-cold-foam, vanilla-sweet-cream-cold-brew, homemade-coffee-creamer, cold-brew-recipe
+
+**Reasoning:**
+- Coffee ice cubes at 4,400/mo with 2/100 competition is the surprise find of this pulse — higher volume than sweet cream and virtually no competition. The key insight is "prevents dilution" which is a genuine problem every iced coffee drinker faces. Most content online mentions coffee ice cubes as a passing tip; a dedicated guide with the full technique (three strength tiers, tray options, 4 variations) is meaningfully better.
+- Sweet cream recipe completes the cold foam / vanilla sweet cream cluster. We already have vanilla-sweet-cream-cold-brew and how-to-make-cold-foam — the dedicated sweet cream recipe page links them together and captures the direct "sweet cream recipe" search query that doesn't lead to either existing page.
+- Brewing methods cross-link audit: moka pot was the only brewing methods page not linking back to AeroPress, French press, or pour over. Fixed by adding the hyperlink in the comparison table and updating the See Also footer. Cold brew also lacked links to manual brewing methods — added at the bottom. The full brewing methods cluster is now fully interlinked.
+
+**Outcome:** Commit 829289f pushed. Vercel deployment triggered. Site at 112 articles. DataForSEO spend: $0.075 this pulse; cumulative well under $1/day.
+
+**Next (Pulse 57):** Quick filler: "nutella latte" (720/mo, 0/100 — 800 words, zero competition). Research: check SC for any new pages entering top-25 queries, especially whipped cream cluster (Pulse 49) and espresso martini (Pulse 17). Monitor if white espresso (pos 3.99) has moved toward top 3. Consider "nitro cold brew" SERP check (18,100/mo, MEDIUM 47/100).
+
+---
+
 ## 2026-04-23 22:00 IDT — Pulse 55: Long Black Coffee Guide (9,900/mo, LOW 1/100) + Pour Over Guide Chemex/V60/Bloom (~3,090/mo) + 3 Internal Links
 
 **Action:** DataForSEO keyword research (2 batches, $0.15 total). Published 2 new articles. Added 3 inbound internal links. Site now at 110 articles.
