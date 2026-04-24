@@ -4,6 +4,64 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-24 14:00 IDT — Pulse 57: Tiramisu Recipe (201K/mo — BIGGEST KEYWORD SINCE ESPRESSO MARTINI) + Nutella Latte (720/mo, ZERO comp) + 3 Internal Links
+
+**Action:** DataForSEO research (2 search-volume batches + 2 SERPs, $0.229 total). Published 2 new articles. Added 3 inbound internal links. Site now at 114 articles.
+
+**Assessment (SC + GA4):**
+- **WHITE ESPRESSO:** /guides/white-espresso/ pos 4.0, 129 impressions, 1 click — holding steady, no movement toward top 3
+- how-to-make-a-flat-white: 111 impressions pos 77.7 — stable
+- how-to-froth-milk: 55 impressions pos 58 — stable
+- simple-syrup-recipe: 16 impressions pos 37.25 — stable
+- ristretto-vs-espresso: 9 impressions pos 33.7 — approaching mid-page 2
+- how-to-make-a-macchiato: 10 impressions pos 44.4
+- GA4 total today: 1 session (Apr 24). Organic: still only 2 sessions total (Apr 4, Apr 14) — pre-ranking phase
+- SC queries: "what is white espresso" (pos 5.875, 24 impressions, 1 click) is top query. Only 25 queries showing, all related to flat white/froth milk/white espresso cluster.
+
+**DataForSEO research ($0.229, 2 search-vol batches + 2 SERPs):**
+- Batch 1 ($0.075): nutella latte (720/mo, LOW 0/100 ✓ zero comp), butterfly pea latte (390/mo, LOW 17/100), brown butter latte (390/mo, LOW 0/100 ✓), churro latte (320/mo, LOW 2/100), espresso powder recipe (260/mo, LOW 1/100), moka pot coffee recipe (210/mo, LOW 6/100 — too small)
+- Batch 2 ($0.075): **tiramisu recipe (201,000/mo, LOW paid 5/100 — MASSIVE FIND)**, coffee cake recipe (60,500/mo, LOW 7/100), espresso powder (22,200/mo, HIGH 98/100 — skip), espresso cake (1,300/mo, LOW 11/100), oat milk latte recipe (210/mo, LOW 4/100 — too small)
+- SERP nitro cold brew ($0.002): Results #1–9 are ALL product pages (Starbucks, HighBrew, Rise Brewing, dropkickbrew) — only 1 blog at #4. Confirmed: skip nitro cold brew.
+- SERP tiramisu recipe ($0.002): Results dominated by **mid-size food blogs** — tastesbetterfromscratch.com #1, sallysbakingaddiction.com #2, bakewithzoha.com #4, bromabakery.com #7. No AllRecipes, Food Network, or NYT Cooking. SERP features: recipes (schema important!), PAA, video. CONFIRMED: worthwhile target.
+
+**Why tiramisu recipe is on-niche:**
+- Tiramisu's primary ingredient IS espresso — the entire flavor profile depends on the quality and strength of the coffee soak
+- We already have a tiramisu-latte-recipe page (Pulse 50, 4,400/mo) — the full dessert page is a natural cluster expansion
+- At 201K/mo, even a sub-1% ranking success would be a significant traffic driver
+- SERP confirmed: mid-size food blogs rank, not untouchable giants — consistent with our content approach
+
+**Why coffee cake recipe was skipped:**
+- "Coffee cake" in American English = cinnamon streusel cake (eaten with coffee, not coffee-flavored)
+- SERP would show AllRecipes/Food Network with irrelevant-to-our-niche streusel cakes
+- Search intent mismatch — not worth it
+
+**Content executed:**
+
+1. **New: /recipes/tiramisu-recipe/** (~2,300 words)
+   - Primary: "tiramisu recipe" (201,000/mo, LOW paid 5/100) — BIGGEST KEYWORD SINCE ESPRESSO MARTINI
+   - Secondary: "easy tiramisu recipe", "classic tiramisu recipe", "homemade tiramisu", "espresso tiramisu"
+   - Full professional recipe: bain-marie cooked egg yolk base, mascarpone cream guide, espresso soak ratio table (4 ratios), 8 step-by-step instructions, mascarpone troubleshooting table, 6 variations (espresso martini tiramisu, chocolate, matcha, strawberry, vegan, individual cups), make-ahead tips (fridge 4 days, freezer 3 months), how to use your espresso machine section, 7 FAQs
+   - **Recipe JSON-LD schema** (critical for SERP "recipes" carousel feature)
+   - Internal links IN: tiramisu-latte-recipe (added to "More Espresso Recipes"), affogato-recipe (added to "What to Make Next")
+   - Internal links OUT: tiramisu-latte-recipe, espresso-martini-recipe, affogato-recipe, espresso-caffeine guide
+
+2. **New: /recipes/nutella-latte-recipe/** (~1,400 words)
+   - Primary: "nutella latte" (720/mo, LOW 0/100) — ZERO competition
+   - Secondary: "nutella coffee recipe", "hazelnut chocolate latte" cluster
+   - Hot + iced methods, Nutella-clumping solution (hot espresso first), Nutella syrup recipe for batching, milk options table (5 types), 5 variations (cappuccino, cold brew, mocha, white choc, vegan), Nutella amount guide table, Starbucks copycat section, 6 FAQs
+   - Internal links IN: mocha-recipe (added to "Related Recipes")
+   - Internal links OUT: mocha-recipe, tiramisu-latte-recipe, vanilla-latte-recipe
+
+**Reasoning:**
+- Tiramisu recipe at 201K/mo with food blogs (not giants) in the SERP is the most significant keyword opportunity since espresso martini (246K/mo, Pulse 17). The paid competition index of 5/100 is low, but more importantly, the SERP showed we can compete: tastesbetterfromscratch.com and sallysbakingaddiction.com aren't untouchable authorities. Our domain authority is low now, but the Recipe JSON-LD schema gives us a chance at the "recipes" carousel even without top organic position. Tiramisu is genuinely on-niche — espresso is the ingredient that defines the dessert.
+- Nutella latte is a fast, zero-competition win that fills a natural gap in the chocolate/hazelnut espresso drink cluster. The key insight (dissolve in hot espresso, not cold milk) makes this genuinely helpful content, not filler.
+
+**Outcome:** Commit 78254ac pushed. Vercel deployment triggered. Site at 114 articles. DataForSEO spend: $0.229 this pulse; cumulative well under $1/day.
+
+**Next (Pulse 58):** Research: "espresso cake" (1,300/mo, LOW 11/100), "brown butter latte" (390/mo, 0/100 — zero comp), "churro latte" (320/mo, LOW 2/100). Monitor if tiramisu recipe gets indexed quickly (check SC). Investigate if any new pages have entered the top-25 SC query list. Check white espresso position for any movement.
+
+---
+
 ## 2026-04-24 06:00 IDT — Pulse 56: Coffee Ice Cubes (4,400/mo, 2/100) + Sweet Cream Recipe (~1,720/mo) + Brewing Methods Cluster Cross-Links
 
 **Action:** DataForSEO research (1 batch, $0.075). Published 2 new articles. Fixed brewing methods internal linking. Added 4 inbound internal links. Site now at 112 articles.

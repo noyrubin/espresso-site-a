@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 21 (Pulse 56) — 112 articles published. WHITE ESPRESSO: pos 3.99, 128 impressions, 1 click — no change. how-to-make-a-flat-white: 111 impressions pos 77.7. how-to-froth-milk: 54 impressions pos 59.1. simple-syrup-recipe: 16 impressions pos 37.25. ristretto-vs-espresso: 9 impressions pos 33.7. GA4 organic: 2 total organic sessions only (Apr 4, Apr 14). Pre-ranking phase continues. NEW: coffee ice cubes (4,400/mo, LOW 2/100 — BEST FIND PULSE 56) + sweet cream recipe (~1,720/mo combined). DataForSEO spend: $0.075 this pulse. Brewing methods cluster fully interlinked (moka pot now links to AeroPress + French press + pour over).
+Day 21 (Pulse 57) — 114 articles published. WHITE ESPRESSO: pos 4.0, 129 impressions, 1 click — no change. how-to-make-a-flat-white: 111 impressions pos 77.7. how-to-froth-milk: 55 impressions pos 58. simple-syrup-recipe: 16 impressions pos 37.25. ristretto-vs-espresso: 9 impressions pos 33.7. GA4 organic: still only 2 sessions (Apr 4, Apr 14). Pre-ranking phase continues. NEW: tiramisu recipe (201K/mo — BIGGEST KEYWORD FIND SINCE ESPRESSO MARTINI, SERP has mid-size food blogs) + nutella latte (720/mo, ZERO comp). DataForSEO spend: $0.229 this pulse (2 search-vol batches + 2 SERPs). Nitro cold brew SERP confirmed product-dominated — skipped.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -130,6 +130,8 @@ Day 21 (Pulse 56) — 112 articles published. WHITE ESPRESSO: pos 3.99, 128 impr
 | pour over coffee recipe | 590 | LOW (27/100) | /guides/pour-over-guide/ | Published + FAQ (Pulse 55) — also captures "chemex recipe" (720/mo, LOW 5/100) + "V60 recipe" (480/mo, LOW 7/100) + "coffee bloom" (1,300/mo, LOW 7/100) = ~3,090/mo combined |
 | coffee ice cubes | 4,400 | LOW (2/100) | /guides/coffee-ice-cubes/ | Published + FAQ (Pulse 56) — BEST FIND PULSE 56; also captures "how to make coffee ice cubes", "coffee ice cube recipe" cluster |
 | sweet cream recipe | 1,000 | LOW (7/100) | /guides/sweet-cream-recipe/ | Published + FAQ (Pulse 56) — also captures "vanilla sweet cream recipe" (720/mo, LOW 10/100) = ~1,720/mo combined |
+| tiramisu recipe | 201,000 | LOW paid (5/100) | /recipes/tiramisu-recipe/ | Published + FAQ + Recipe JSON-LD (Pulse 57) — BIGGEST KEYWORD FIND SINCE ESPRESSO MARTINI. Espresso-soaked ladyfingers, cooked mascarpone cream, 8-step recipe, Recipe schema. SERP has mid-size food blogs (tastesbetterfromscratch.com, sallysbakingaddiction.com, bakewithzoha.com) — not AllRecipes/NYT. |
+| nutella latte | 720 | LOW (0/100) | /recipes/nutella-latte-recipe/ | Published + FAQ (Pulse 57) — ZERO competition; also captures "nutella coffee recipe" cluster |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -234,6 +236,8 @@ Day 21 (Pulse 56) — 112 articles published. WHITE ESPRESSO: pos 3.99, 128 impr
 - "churro latte" (320/mo, LOW 2/100) — very small, near-zero comp, filler candidate
 - [DONE Pulse 56] "coffee ice cubes" (4,400/mo, LOW 2/100) — published as /guides/coffee-ice-cubes/
 - [DONE Pulse 56] "sweet cream recipe" (1,000/mo, LOW 7/100) + "vanilla sweet cream recipe" (720/mo, LOW 10/100) = ~1,720/mo — published as /guides/sweet-cream-recipe/
+- [DONE Pulse 57] "tiramisu recipe" (201,000/mo, LOW paid 5/100) — published as /recipes/tiramisu-recipe/ with Recipe JSON-LD. BIGGEST KEYWORD FIND SINCE ESPRESSO MARTINI. SERP has mid-size food blogs (not AllRecipes/NYT). Espresso is the primary ingredient.
+- [DONE Pulse 57] "nutella latte" (720/mo, LOW 0/100) — published as /recipes/nutella-latte-recipe/ ZERO competition
 - "oat milk latte recipe" (210/mo, LOW 4/100) — too small standalone, skip
 - "nitro cold brew" (18,100/mo, MEDIUM 47/100) — borderline competition, hold for later
 - "cold brew concentrate recipe" (1,300/mo, LOW 12/100) — small, consider adding to cold brew recipe page as variation
@@ -362,6 +366,8 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 106. /guides/pour-over-guide/ (NEW pulse 55, + FAQ) — ~3,090/mo combined: "coffee bloom" (1,300/mo, LOW 7/100) + "chemex recipe" (720/mo, LOW 5/100) + "V60 recipe" (480/mo, LOW 7/100) + "pour over coffee recipe" (590/mo, LOW 27/100). Bloom technique guide, Chemex vs V60 vs Kalita comparison table, step-by-step Chemex recipe (42g, 700ml), step-by-step V60 recipe (15g, 250ml), grind size table, water temp by roast table, ratio table, troubleshooting table, 7 FAQs. Internal links OUT: coffee-to-water-ratio, how-to-use-french-press, aeropress-guide, cold-brew-recipe, moka-pot-vs-espresso. Internal links IN: aeropress-guide, how-to-use-french-press.
 107. /guides/coffee-ice-cubes/ (NEW pulse 56, + FAQ) — 4,400/mo LOW (2/100) BEST FIND PULSE 56. What are coffee ice cubes, why they work (no dilution), basic recipe, 3 strength tiers (regular/concentrated/cold brew), espresso cubes, best uses (iced coffee, iced latte, smoothies, frappuccino), tray size guide table, 4 variations (vanilla, milk, sweetened, cold foam), troubleshooting table, 7 FAQs. Internal links IN: coffee-smoothie-recipe, how-to-make-iced-coffee.
 108. /guides/sweet-cream-recipe/ (NEW pulse 56, + FAQ) — ~1,720/mo combined: "sweet cream recipe" (1,000/mo, LOW 7/100) + "vanilla sweet cream recipe" (720/mo, LOW 10/100). Base recipe, vanilla sweet cream recipe, how to froth into cold foam, cream-to-milk ratio table, sweetness guide table, comparison table (sweet cream vs half-and-half vs heavy cream vs others), 5 variations (brown sugar, cinnamon, hazelnut, coconut DF, caramel), how-to-use section, storage tips, 6 FAQs. Internal links IN: vanilla-sweet-cream-cold-brew, how-to-make-cold-foam.
+109. /recipes/tiramisu-recipe/ (NEW pulse 57, + FAQ + Recipe JSON-LD) — 201,000/mo LOW paid (5/100) BIGGEST KEYWORD FIND SINCE ESPRESSO MARTINI. Classic Italian tiramisu: cooked egg yolk bain-marie method, espresso soak ratio table, mascarpone cream troubleshooting table, 6 variations (espresso martini, chocolate, matcha, strawberry, vegan, individual cups), make-ahead tips, 7 FAQs, full Recipe schema. SERP: mid-size food blogs (tastesbetterfromscratch.com #1, sallysbakingaddiction.com #2). Internal links IN: tiramisu-latte-recipe, affogato-recipe.
+110. /recipes/nutella-latte-recipe/ (NEW pulse 57, + FAQ) — 720/mo LOW (0/100) ZERO competition. Hot + iced, Nutella dissolving technique (hot espresso first), Nutella syrup for batching, milk options table, 5 variations (cappuccino, cold brew, mocha, white choc, vegan), amount guide table, 6 FAQs. Internal link IN: mocha-recipe.
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -406,11 +412,11 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 57:** Research next cluster. Candidates: "nutella latte" (720/mo, 0/100 — zero comp, quick 800-word article), "churro latte" (320/mo, LOW 2/100), "oat milk latte" cluster (too small?), "nitro cold brew" (18,100/mo MEDIUM 47/100 — check SERP to see if blog-style content can rank). Monitor if white espresso has moved from pos 3.99 toward top 3. Check if whipped cream (Pulse 49) + espresso martini (Pulse 17) are accumulating impressions.
-2. **Pulse 58:** Continue content. Consider: "moka pot recipe" standalone (9,900/mo, need to check comp), "mushroom coffee benefits" vs "mushroom coffee recipe" split (both are 246K/mo but HIGH — skip main term, maybe a sub-angle?). DataForSEO check for untapped clusters.
-3. **Pulse 59:** Optimization pass. Check SC data for any pages that have moved to pos 20–50 and could be pushed toward page 1 with better on-page SEO or more internal links. Key watchlist: ristretto-vs-espresso (pos 33.7), simple-syrup-recipe (pos 37.25), how-to-make-a-macchiato (pos 44.4).
+1. **Pulse 58:** Research next big cluster. Key candidates: "espresso cake" (1,300/mo, LOW 11/100) combined with "coffee cake" angle, "brown butter latte" (390/mo, 0/100 — zero comp), "churro latte" (320/mo, LOW 2/100). DataForSEO: check if any mega-volume keywords still missed — focus on dessert/baking + coffee niche since tiramisu shows food blogs can be beaten. Monitor white espresso (pos 4.0) for movement toward pos 1–3.
+2. **Pulse 59:** Optimization pass. Check SC data for pages at pos 20–50 that could be pushed toward page 1. Key watchlist: ristretto-vs-espresso (pos 33.7), simple-syrup-recipe (pos 37.25), how-to-make-a-macchiato (pos 44.4). Also look for pages with 10+ impressions at pos 50–80 that need internal link support.
+3. **Pulse 60:** Check if tiramisu recipe (201K/mo) has been indexed and is generating impressions. If SC shows any queries related to tiramisu, these are early signals. Continue content — look for more coffee-adjacent dessert/baking keywords (espresso cake, affogato variations, coffee ice cream).
 
 ---
-*Last updated: 2026-04-24 (Pulse 56)*
+*Last updated: 2026-04-24 (Pulse 57)*
 
 
