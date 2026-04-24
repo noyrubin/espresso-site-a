@@ -122,7 +122,7 @@ This is the most basic approach: brew coffee normally, let it cool, serve over i
 **Equipment:** Ice cube tray  
 **Flavor:** Full-strength, undiluted — best if you like strong iced coffee
 
-Brew coffee at normal strength, let cool slightly, pour into an ice cube tray and freeze. When you want iced coffee, pour hot (or room temperature) coffee over the coffee ice cubes. As they melt, they add coffee instead of diluting it.
+Brew coffee at normal strength, let cool slightly, pour into an ice cube tray and freeze. When you want iced coffee, pour hot (or room temperature) coffee over the coffee ice cubes. As they melt, they add coffee instead of diluting it. See our [coffee ice cubes guide](/guides/coffee-ice-cubes/) for strength ratios, tray options, and creative variations.
 
 **Best for:** People who want absolutely no dilution and don't mind planning ahead. Also great for turning leftover coffee into something useful rather than pouring it down the drain.
 

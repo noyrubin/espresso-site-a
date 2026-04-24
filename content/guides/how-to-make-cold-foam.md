@@ -250,7 +250,7 @@ Cold foam is almost always added to cold drinks:
 
 ---
 
-Making cold foam at home takes less than two minutes once you have the technique down. Start with the basic whole milk version, get the texture right, then move on to the flavored variations. The vanilla sweet cream cold foam is worth making at least once — it genuinely rivals the Starbucks version at a fraction of the price.
+Making cold foam at home takes less than two minutes once you have the technique down. Start with the basic whole milk version, get the texture right, then move on to the flavored variations. The vanilla sweet cream cold foam is worth making at least once — it genuinely rivals the Starbucks version at a fraction of the price. For the full sweet cream base recipe and more variations, see our [sweet cream recipe guide](/guides/sweet-cream-recipe/).
 
 If you want to build a full cold drink, check out our [cold brew recipe](/guides/cold-brew-recipe/) for the base, or our [iced latte recipe](/recipes/iced-latte-recipe/) for another classic cold drink to top with foam.
 

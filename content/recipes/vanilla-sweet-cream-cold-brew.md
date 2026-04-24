@@ -79,7 +79,7 @@ For a full breakdown of cold brew methods and ratios, see our [cold brew recipe 
 
 ## How to Make Vanilla Sweet Cream
 
-The sweet cream is what makes this drink special. It's thinner than whipped cream — pourable, not fluffy — so it floats on top and slowly marbles through the cold brew as you drink.
+The sweet cream is what makes this drink special. It's thinner than whipped cream — pourable, not fluffy — so it floats on top and slowly marbles through the cold brew as you drink. For the full recipe, ratios, and variations including brown sugar and cinnamon versions, see our dedicated [sweet cream recipe guide](/guides/sweet-cream-recipe/).
 
 1. Combine heavy cream, milk, and vanilla syrup in a small jar or measuring cup.
 2. Whisk or stir well until combined.

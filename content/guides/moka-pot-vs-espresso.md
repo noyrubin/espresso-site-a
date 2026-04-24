@@ -141,9 +141,9 @@ To put both in context:
 | Method | Pressure | Concentration | Cost | Skill Level |
 |---|---|---|---|---|
 | Moka pot | 1–2 bar | High | $ | Low |
-| AeroPress | 0.5–1 bar | Medium-high | $$ | Low-medium |
+| [AeroPress](/guides/aeropress-guide/) | 0.5–1 bar | Medium-high | $$ | Low-medium |
 | Espresso machine | 9 bar | Very high | $$$+ | Medium-high |
-| [Pour over / drip](/guides/espresso-vs-drip-coffee/) | None | Medium | $–$$ | Low-medium |
+| [Pour over / drip](/guides/pour-over-guide/) | None | Medium | $–$$ | Low-medium |
 
 The moka pot sits in a unique spot: higher pressure than any non-pressurized method, far lower than espresso, and at a price point anyone can afford.
 
@@ -155,4 +155,4 @@ If you want the real thing — proper espresso with crema, the full range of mil
 
 ---
 
-*See also: [Espresso vs Drip Coffee](/guides/espresso-vs-drip-coffee/) | [Espresso Grind Size Guide](/guides/espresso-grind-size-guide/) | [Espresso Ratio: The Complete Guide](/guides/espresso-ratio-guide/)*
+*See also: [AeroPress Guide](/guides/aeropress-guide/) | [How to Use a French Press](/guides/how-to-use-french-press/) | [Pour Over Guide (Chemex + V60)](/guides/pour-over-guide/) | [Espresso vs Drip Coffee](/guides/espresso-vs-drip-coffee/) | [Espresso Grind Size Guide](/guides/espresso-grind-size-guide/)*

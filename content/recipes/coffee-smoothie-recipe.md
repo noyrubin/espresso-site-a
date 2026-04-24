@@ -175,7 +175,7 @@ If your banana is very ripe (spotted brown-yellow), you likely won't need any ad
 
 **Freeze banana portions:** Peel, slice, and freeze bananas in a zip-lock bag. Keep in freezer for up to 3 months. Pull out a portion each morning — no need to thaw.
 
-**Coffee ice cubes:** Pour leftover cold brew into an ice cube tray and freeze. Use coffee ice cubes instead of regular ice — doubles the coffee flavor without dilution.
+**Coffee ice cubes:** Pour leftover cold brew into an ice cube tray and freeze. Use coffee ice cubes instead of regular ice — doubles the coffee flavor without dilution. See our [coffee ice cubes guide](/guides/coffee-ice-cubes/) for tips on strength, tray options, and more uses.
 
 **Batch prep:** Measure out smoothie ingredients (except liquid) into individual freezer bags or containers. Grab a bag, dump in blender, add coffee + milk, blend. Breakfast in 90 seconds.
 
