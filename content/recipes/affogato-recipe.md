@@ -168,6 +168,7 @@ A: Pre-chill your serving glass (rinse with cold water or freeze for 5 minutes).
 
 Love simple espresso-based recipes?
 
+- [Coffee Ice Cream Recipe](/recipes/coffee-ice-cream-recipe/) — No-churn or churned espresso ice cream — the perfect base for a homemade affogato
 - [Coffee Jelly Recipe](/recipes/coffee-jelly-recipe/) — Japanese espresso dessert with cream or condensed milk
 - [Tiramisu Recipe](/recipes/tiramisu-recipe/) — Classic Italian tiramisu with espresso-soaked ladyfingers and mascarpone cream
 - [Tiramisu Latte Recipe](/recipes/tiramisu-latte-recipe/) — Italy's famous dessert as a drinkable latte with mascarpone cream

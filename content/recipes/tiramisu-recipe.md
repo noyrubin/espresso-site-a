@@ -214,7 +214,7 @@ A: Yes. Tiramisu freezes well for up to 3 months. Assemble without the cocoa dus
 
 ---
 
-*Also try the drinkable version: [Tiramisu Latte Recipe](/recipes/tiramisu-latte-recipe/) — espresso, mascarpone cream, and cocoa in a glass. Or if you're in an espresso cocktail mood, check out the [Espresso Martini Recipe](/recipes/espresso-martini-recipe/) and [Affogato Recipe](/recipes/affogato-recipe/) — two more Italian classics that center the coffee shot.*
+*Also try the drinkable version: [Tiramisu Latte Recipe](/recipes/tiramisu-latte-recipe/) — espresso, mascarpone cream, and cocoa in a glass. Or keep the espresso dessert theme going: [Coffee Ice Cream Recipe](/recipes/coffee-ice-cream-recipe/) — rich no-churn or churned espresso ice cream perfect for an affogato base. And if you want to bake, our [Espresso Cake Recipe](/recipes/espresso-cake-recipe/) uses real shots in the batter and mocha buttercream frosting. Or check out the [Espresso Martini Recipe](/recipes/espresso-martini-recipe/) and [Affogato Recipe](/recipes/affogato-recipe/) — two more Italian classics that center the coffee shot.*
 
 <script type="application/ld+json">
 {

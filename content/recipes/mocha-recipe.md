@@ -351,6 +351,7 @@ Not quite. A mocha uses significantly less chocolate than hot chocolate — typi
 
 ## Related Recipes
 If you enjoy chocolate espresso drinks, these are worth trying next:
+- [Espresso Cake Recipe](/recipes/espresso-cake-recipe/) — layered espresso cake with mocha buttercream frosting, baked with real shots
 - [Nutella Latte Recipe](/recipes/nutella-latte-recipe/) — hazelnut chocolate latte made with actual Nutella
 - [Caramel Macchiato Recipe](/recipes/caramel-macchiato-recipe/) — sweet caramel and espresso layered with milk
 - [Vanilla Latte Recipe](/recipes/vanilla-latte-recipe/) — smooth, classic latte with a vanilla twist
