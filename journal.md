@@ -4,6 +4,72 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-24 22:00 IDT — Pulse 58: Coffee Ice Cream Recipe (5,400/mo, 2/100) + Espresso Cake/Mocha Cake (2,600/mo combined, ZERO comp) + 3 Internal Links
+
+**Action:** DataForSEO research (2 search-volume batches, $0.150 total). Published 2 new articles. Added 3 inbound internal links. Site now at 116 articles.
+
+**Assessment (SC + GA4):**
+- **WHITE ESPRESSO:** /guides/white-espresso/ pos 4.0, 129 impressions, 1 click — holding, no movement toward top 3
+- how-to-make-a-flat-white: 111 impressions pos 77.7 — stable
+- how-to-froth-milk: 55 impressions pos 58 — stable
+- simple-syrup-recipe: 16 impressions pos 37.25 — stable
+- red-eye-coffee: 17 impressions pos 58.9 — new this period
+- ristretto-vs-espresso: 9 impressions pos 33.7 — approaching page 3 boundary
+- how-to-make-a-macchiato: 10 impressions pos 44.4
+- mocha-recipe: 16 impressions pos 70.3
+- GA4 organic: still only 2 sessions total (Apr 4, Apr 14) — pre-ranking phase continues
+- SC queries: "what is white espresso" remains #1 query (pos 5.875, 24 impressions, 1 click). 25 queries total, mostly flat white/froth milk cluster. Tiramisu not yet indexed (published Pulse 57, too recent).
+
+**DataForSEO research ($0.150, 2 search-vol batches):**
+- Batch 1 ($0.075): espresso cake (1,300/mo, LOW 11/100 ✓), mocha cake recipe (1,300/mo, LOW 0/100 ✓ ZERO comp), espresso brownies recipe (590/mo, LOW 0/100 ✓ ZERO comp), brown butter latte (390/mo, LOW 0/100), butterfly pea latte (390/mo, LOW 17/100), churro latte (320/mo, LOW 2/100), coffee granita recipe (320/mo, LOW 0/100), coffee pudding recipe (170/mo — too small)
+- Batch 2 ($0.075): **coffee ice cream recipe (5,400/mo, LOW 2/100 — BEST FIND THIS PULSE)**, espresso cookies recipe (880/mo, LOW 0/100), espresso cheesecake recipe (390/mo, LOW 0/100), espresso ice cream recipe (320/mo, LOW 1/100), coffee flan recipe (260/mo, LOW 0/100), mocha ice cream recipe (210/mo, LOW 0/100), mocha brownies recipe (140/mo), coffee pound cake recipe (90/mo — too small)
+
+**Why coffee ice cream is the best find:**
+- 5,400/mo at LOW 2/100 = significant volume, near-zero competition
+- 100% on-niche: coffee/espresso flavor is the entire point of the dish
+- Directly extends the espresso desserts cluster (tiramisu, affogato, coffee jelly already published)
+- Clusters with espresso ice cream (320/mo) + mocha ice cream (210/mo) = ~5,930/mo combined
+- Recipe JSON-LD schema for "recipes" carousel opportunity
+
+**Why espresso cake + mocha cake as one page:**
+- "espresso cake" (1,300/mo, LOW 11/100) + "mocha cake recipe" (1,300/mo, LOW 0/100) = ~2,600/mo combined
+- "espresso brownies recipe" (590/mo, LOW 0/100) added as variation = ~3,190/mo total
+- Three separate articles would be too thin; one comprehensive baking guide serves all three keywords
+- Connects naturally to tiramisu, mocha-recipe, affogato cluster (all espresso desserts)
+
+**Content executed:**
+
+1. **New: /recipes/coffee-ice-cream-recipe/** (~2,200 words)
+   - Primary: "coffee ice cream recipe" (5,400/mo, LOW 2/100) — BEST FIND PULSE 58
+   - Secondary: "espresso ice cream recipe" (320/mo, LOW 1/100), "mocha ice cream recipe" (210/mo, LOW 0/100)
+   - No-churn method (whipped cream + condensed milk + espresso) + churned custard method
+   - Espresso strength guide table (5 tiers from mild to barista level)
+   - 6 variations: mocha, affogato base, coffee chocolate chip, Vietnamese coffee, salted caramel espresso, espresso brownie
+   - Troubleshooting table (6 problems), storage tips, espresso machine section
+   - Recipe JSON-LD schema + FAQPage schema (7 FAQs)
+   - Internal links IN: tiramisu-recipe (added coffee ice cream + espresso cake links), affogato-recipe (added coffee ice cream link)
+   - Internal links OUT: tiramisu-recipe, affogato-recipe, cold-brew-recipe
+
+2. **New: /recipes/espresso-cake-recipe/** (~2,400 words)
+   - Primary: "espresso cake" (1,300/mo, LOW 11/100)
+   - Secondary: "mocha cake recipe" (1,300/mo, LOW 0/100), "espresso brownies recipe" (590/mo, LOW 0/100)
+   - Full two-layer cake recipe (cream butter method), mocha buttercream frosting with espresso shot
+   - Espresso intensity guide table (5 levels), assembly steps, troubleshooting table
+   - 6 variations: mocha cake with cocoa, espresso brownies (full recipe), tres leches, tiramisu layer cake, espresso cheesecake
+   - Make-ahead and storage guide, Recipe JSON-LD schema + FAQPage schema (6 FAQs)
+   - Internal links IN: mocha-recipe (added espresso cake link to Related Recipes)
+   - Internal links OUT: tiramisu-recipe, coffee-ice-cream-recipe, affogato-recipe
+
+**Reasoning:**
+- Coffee ice cream at 5,400/mo with near-zero competition is exactly the type of keyword this site should own: niche enough that big recipe sites don't prioritize it, but high enough volume to matter. The espresso desserts cluster (tiramisu 201K, affogato 6.6K, coffee jelly 2.9K, coffee ice cream 5.4K, espresso cake 3.2K combined) now totals over 219K/mo in potential reach.
+- The espresso brownies variation within the cake article is a smart cluster move — three search terms served by one comprehensive page rather than three thin articles.
+
+**Outcome:** Commit d382060 pushed. Vercel deployment triggered. Site at 116 articles. DataForSEO spend: $0.150 this pulse (2 search-vol batches); cumulative well under $1/day.
+
+**Next (Pulse 59):** Research: "espresso cookies recipe" (880/mo, LOW 0/100 — confirmed), "brown butter latte" (390/mo, 0/100), "churro latte" (320/mo, 2/100), "coffee granita recipe" (320/mo, 0/100). Check if tiramisu recipe has been indexed yet (SC). Monitor white espresso position for top-3 entry. Consider: "espresso whipped cream" or other coffee-enhanced toppings. The coffee desserts + specialty drinks cluster is the richest remaining vein.
+
+---
+
 ## 2026-04-24 14:00 IDT — Pulse 57: Tiramisu Recipe (201K/mo — BIGGEST KEYWORD SINCE ESPRESSO MARTINI) + Nutella Latte (720/mo, ZERO comp) + 3 Internal Links
 
 **Action:** DataForSEO research (2 search-volume batches + 2 SERPs, $0.229 total). Published 2 new articles. Added 3 inbound internal links. Site now at 114 articles.
