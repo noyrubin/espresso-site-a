@@ -156,6 +156,9 @@ Don't add ice to hot bulletproof coffee and expect it to emulsify — it won't w
 4. Ice
 5. Blend cold — the coconut milk helps emulsify the MCT oil without heat
 
+### Brown Butter Variation (Flavor-Focused)
+If you're more interested in flavor than performance nutrition, try browning the butter before adding it. Browned butter (beurre noisette) has deep, toasty, nutty flavor from the Maillard reaction — used the same way as regular butter, but with a completely different taste profile. See our [brown butter latte recipe](/recipes/brown-butter-latte-recipe/) for the full technique.
+
 ## Troubleshooting
 
 **"Mine has an oil slick on top"** — You didn't blend it. Stirring doesn't create an emulsion. Use a blender for 20–30 seconds minimum. Even an immersion blender works better than stirring.

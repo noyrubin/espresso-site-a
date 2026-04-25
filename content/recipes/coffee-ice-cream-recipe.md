@@ -146,7 +146,7 @@ If you have a home espresso machine, pull ristretto shots (1:1.5 ratio, ~20ml pe
 
 No espresso machine? Strong moka pot coffee (2× the grounds in the same water amount) works as a substitute. A concentrated cold brew (1:4 ratio steeped 18 hours) also works but gives a smoother, less bitter result. See our [cold brew recipe](/guides/cold-brew-recipe/) for details.
 
-For more espresso desserts, see our [tiramisu recipe](/recipes/tiramisu-recipe/) and [affogato recipe](/recipes/affogato-recipe/).
+For more espresso desserts, see our [tiramisu recipe](/recipes/tiramisu-recipe/), [affogato recipe](/recipes/affogato-recipe/), and [coffee granita recipe](/recipes/coffee-granita-recipe/) — the ultra-simple Italian frozen espresso that requires only a fork and a freezer.
 
 ## FAQ
 
