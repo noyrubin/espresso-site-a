@@ -154,7 +154,7 @@ Pull each shot as a ristretto (1:1.5 ratio, ~20ml) for the most concentrated fla
 
 No machine? Strong moka pot coffee works. Use the darkest roast you have and pack the grounds firmly. The moka pot's pressure extracts more oils than drip coffee, producing a closer analog to espresso.
 
-For more coffee-flavored desserts, see our [tiramisu recipe](/recipes/tiramisu-recipe/), [coffee ice cream recipe](/recipes/coffee-ice-cream-recipe/), and [affogato recipe](/recipes/affogato-recipe/).
+For more coffee-flavored desserts, see our [tiramisu recipe](/recipes/tiramisu-recipe/), [coffee ice cream recipe](/recipes/coffee-ice-cream-recipe/), [espresso cookies recipe](/recipes/espresso-cookies-recipe/), and [affogato recipe](/recipes/affogato-recipe/).
 
 ## FAQ
 
