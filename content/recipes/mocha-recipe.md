@@ -50,10 +50,10 @@ A mocha has roughly equal billing between coffee and chocolate. If the chocolate
 - Optional: whipped cream, extra chocolate drizzle
 
 **Chocolate options ranked:**
-1. **Dark chocolate sauce** — deepest flavor, less sweet, best for coffee lovers
-2. **Chocolate syrup** (like Torani) — sweet, consistent, easy to work with
-3. **Cocoa powder + sugar** — more control, slightly grainy if not mixed properly
-4. **Nutella** — a popular trick; adds hazelnut note and creaminess
+1. **Homemade mocha sauce** — best flavor; see the full [mocha sauce recipe](/recipes/mocha-sauce-recipe/) for a rich chocolate-espresso sauce you can make in 10 minutes
+2. **Dark chocolate sauce** — deepest flavor, less sweet, best for coffee lovers
+3. **Chocolate syrup** (like Torani) — sweet, consistent, easy to work with
+4. **Cocoa powder + sugar** — more control, slightly grainy if not mixed properly
 5. **Hot chocolate mix** — convenient but often overly sweet and starchy
 
 The best mocha chocolate is one you actually like eating — if you love 70% dark chocolate, use dark sauce. If you prefer sweeter milk chocolate, use a milder syrup.
