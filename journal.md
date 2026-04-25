@@ -4,6 +4,66 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-25 06:00 IDT — Pulse 59: Espresso Cookies Recipe (880/mo, ZERO comp) + Coffee Overnight Oats (880/mo, 24/100) + 2 Internal Links
+
+**Action:** DataForSEO research (1 search-volume batch, $0.075 total). Published 2 new articles. Added 2 inbound internal links. Site now at 118 articles.
+
+**Assessment (SC + GA4):**
+- **WHITE ESPRESSO:** /guides/white-espresso/ pos 4.0, 130 impressions, 1 click — still holding at pos 4, not yet breaking into top 3
+- ristretto-vs-espresso: 10 impressions, pos 31.3 — **improved from 33.7 last pulse**, slowly climbing
+- how-to-make-a-flat-white: 111 impressions, pos 77.7 — stable (high impressions, very low position — still deep in rankings)
+- how-to-froth-milk: 56 impressions, pos 57.2 — stable
+- simple-syrup-recipe: 16 impressions, pos 37.25 — stable
+- red-eye-coffee: 17 impressions, pos 58.9 — stable
+- how-to-make-a-macchiato: 10 impressions, pos 44.4 — stable
+- mocha-recipe: 16 impressions, pos 70.3 — stable
+- GA4 organic: still only 2 sessions total (Apr 4, Apr 14) — pre-ranking phase continues
+- SC queries: "what is white espresso" (pos 5.875, 24 impressions, 1 click) remains top query
+- Tiramisu recipe (published Pulse 57): not yet showing in SC data — still indexing or too recent for impressions
+
+**DataForSEO research ($0.075, 1 search-vol batch):**
+- espresso cookies recipe (880/mo, LOW 0/100 ✓ ZERO comp) — BEST FIND THIS PULSE
+- overnight oats coffee / coffee overnight oats (880/mo each, LOW 24/100 ✓) — same keyword, good volume
+- mocha sauce recipe (480/mo, LOW 1/100 ✓) — near-zero comp, extends mocha cluster (saved for next pulse)
+- espresso cheesecake recipe (390/mo, LOW 0/100 ✓) — zero comp (saved for next pulse)
+- coffee granita recipe (320/mo, LOW 0/100 ✓) — zero comp (saved for next pulse)
+- hazelnut coffee syrup recipe (210/mo, LOW 4/100) — too small standalone
+- coffee caramel sauce (170/mo, HIGH 100/100) — skip, too competitive despite small volume
+- hazelnut latte recipe (140/mo, LOW 1/100) — too small, skip
+
+**Content executed:**
+
+1. **New: /recipes/espresso-cookies-recipe/** (~2,400 words)
+   - Primary: "espresso cookies recipe" (880/mo, LOW 0/100) — ZERO competition
+   - Also captures: "espresso chocolate chip cookies", "espresso shortbread cookies", "espresso sugar cookies", "espresso biscotti", "mocha crinkle cookies"
+   - Base chocolate chip recipe + 4 variations (shortbread, sugar cookie, biscotti, mocha crinkle)
+   - Espresso powder brand comparison table (King Arthur vs DeLallo vs instant coffee)
+   - Espresso dosing guide table (5 levels: 1 tbsp to 3 tbsp + intensity descriptions)
+   - Troubleshooting table (5 common problems), storage + make-ahead guide
+   - Recipe JSON-LD schema + {{< faq >}} shortcode (6 FAQs)
+   - Internal link IN: espresso-cake-recipe (added espresso cookies link to "For more coffee-flavored desserts")
+   - Internal links OUT: affogato-recipe, coffee-ice-cream-recipe
+
+2. **New: /recipes/coffee-overnight-oats/** (~2,100 words)
+   - Primary: "coffee overnight oats" / "overnight oats coffee" (880/mo each, LOW 24/100)
+   - Also captures cold brew overnight oats angle
+   - Cold brew concentrate vs espresso comparison table, coffee type guide table
+   - 5 variations: mocha, tiramisu oats (with mascarpone), vanilla sweet cream, iced latte oats, peanut butter espresso
+   - Oat ratio guide table, toppings guide table, meal prep instructions
+   - Troubleshooting table (5 problems), Recipe JSON-LD schema + {{< faq >}} shortcode (6 FAQs)
+   - Internal link IN: cold-brew-recipe (added coffee overnight oats link before cold foam mention)
+   - Internal links OUT: cold-brew-recipe, tiramisu-recipe, how-to-make-a-latte
+
+**Reasoning:**
+- Espresso cookies at 880/mo with zero competition is a textbook target: the keyword has enough volume to matter, zero competition means a new site can rank for it, and it perfectly extends the coffee desserts cluster (tiramisu → coffee ice cream → espresso cake → espresso cookies — all cohesive espresso baking content).
+- Coffee overnight oats is a natural fit: coffee is the primary ingredient, and at 880/mo with LOW 24/100 competition, it's achievable. The recipe creates a genuinely useful entry point for people searching how to use cold brew concentrate for breakfast, internally linking to the cold brew guide.
+
+**Outcome:** Commit e213f08 pushed. Vercel deployment triggered. Site at 118 articles. DataForSEO spend: $0.075 this pulse (1 search-vol batch); cumulative well under $1/day.
+
+**Next (Pulse 60):** Confirmed from this pulse's research: mocha sauce recipe (480/mo, 1/100), espresso cheesecake recipe (390/mo, 0/100), coffee granita recipe (320/mo, 0/100). Also consider: churro latte (320/mo, 2/100), brown butter latte (390/mo, 0/100). The coffee desserts + specialty coffee cluster continues to be the richest vein with near-zero competition.
+
+---
+
 ## 2026-04-24 22:00 IDT — Pulse 58: Coffee Ice Cream Recipe (5,400/mo, 2/100) + Espresso Cake/Mocha Cake (2,600/mo combined, ZERO comp) + 3 Internal Links
 
 **Action:** DataForSEO research (2 search-volume batches, $0.150 total). Published 2 new articles. Added 3 inbound internal links. Site now at 116 articles.

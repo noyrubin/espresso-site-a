@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 21 (Pulse 58) — 116 articles published. WHITE ESPRESSO: pos 4.0, 129 impressions, 1 click — holding. how-to-make-a-flat-white: 111 impressions pos 77.7. how-to-froth-milk: 55 impressions pos 58. simple-syrup-recipe: 16 impressions pos 37.25. ristretto-vs-espresso: pos 33.7. red-eye-coffee: 17 impressions pos 58.9. GA4 organic: still only 2 sessions total (Apr 4, Apr 14) — pre-ranking phase continues. NEW THIS PULSE: coffee ice cream recipe (5,400/mo, LOW 2/100) + espresso cake/mocha cake (2,600/mo combined, 0/100 — ZERO comp) — espresso desserts cluster now at 5 articles. DataForSEO spend: $0.150 this pulse (2 search-vol batches). Key new insight: coffee desserts cluster (tiramisu 201K, coffee ice cream 5.4K, espresso cake 2.6K, affogato 6.6K, coffee jelly 2.9K) = significant topical authority signal for espresso baking/desserts.
+Day 22 (Pulse 59) — 118 articles published. WHITE ESPRESSO: pos 4.0, 130 impressions, 1 click — holding. ristretto-vs-espresso: pos 31.3 (improved from 33.7 — approaching page 3 boundary). how-to-make-a-flat-white: 111 impressions pos 77.7. how-to-froth-milk: 56 impressions pos 57.2. simple-syrup-recipe: 16 impressions pos 37.25. GA4 organic: still only 2 sessions total (Apr 4, Apr 14) — pre-ranking phase continues. NEW THIS PULSE: espresso cookies recipe (880/mo, LOW 0/100 — ZERO comp) + coffee overnight oats (880/mo, LOW 24/100). DataForSEO spend: $0.075 this pulse (1 search-vol batch). Key insight: ristretto page slowly climbing; bulk of published content not yet indexed/ranked. Continuing to fill low-comp keyword gaps in coffee desserts + specialty drinks cluster.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -134,6 +134,8 @@ Day 21 (Pulse 58) — 116 articles published. WHITE ESPRESSO: pos 4.0, 129 impre
 | nutella latte | 720 | LOW (0/100) | /recipes/nutella-latte-recipe/ | Published + FAQ (Pulse 57) — ZERO competition; also captures "nutella coffee recipe" cluster |
 | coffee ice cream recipe | 5,400 | LOW (2/100) | /recipes/coffee-ice-cream-recipe/ | Published + FAQ + Recipe JSON-LD (Pulse 58) — also captures "espresso ice cream recipe" (320/mo, LOW 1/100) + "mocha ice cream recipe" (210/mo, LOW 0/100) = ~5,930/mo combined |
 | espresso cake | 1,300 | LOW (11/100) | /recipes/espresso-cake-recipe/ | Published + FAQ + Recipe JSON-LD (Pulse 58) — also captures "mocha cake recipe" (1,300/mo, LOW 0/100) + "espresso brownies recipe" (590/mo, LOW 0/100) as variation = ~3,190/mo combined at near-zero competition |
+| espresso cookies recipe | 880 | LOW (0/100) | /recipes/espresso-cookies-recipe/ | Published + FAQ + Recipe JSON-LD (Pulse 59) — ZERO competition; chocolate chip + shortbread + sugar cookie + biscotti + mocha crinkle variations; espresso powder dosing guide table |
+| coffee overnight oats | 880 | LOW (24/100) | /recipes/coffee-overnight-oats/ | Published + FAQ + Recipe JSON-LD (Pulse 59) — also captures "overnight oats coffee" (880/mo, 24/100); cold brew + espresso versions; tiramisu, mocha, peanut butter, iced latte, vanilla sweet cream variations |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -242,6 +244,8 @@ Day 21 (Pulse 58) — 116 articles published. WHITE ESPRESSO: pos 4.0, 129 impre
 - [DONE Pulse 57] "nutella latte" (720/mo, LOW 0/100) — published as /recipes/nutella-latte-recipe/ ZERO competition
 - [DONE Pulse 58] "coffee ice cream recipe" (5,400/mo, LOW 2/100) — published as /recipes/coffee-ice-cream-recipe/ with Recipe JSON-LD. No-churn + churned methods, espresso strength guide table, 6 variations (mocha, affogato, Vietnamese, salted caramel, chocolate chip, brownie), troubleshooting table, 7 FAQs. Also captures espresso ice cream (320/mo) + mocha ice cream (210/mo) = ~5,930/mo combined.
 - [DONE Pulse 58] "espresso cake" (1,300/mo, LOW 11/100) + "mocha cake recipe" (1,300/mo, LOW 0/100) + "espresso brownies recipe" (590/mo, LOW 0/100 variation) = ~3,190/mo combined at near-zero competition — published as /recipes/espresso-cake-recipe/ with Recipe JSON-LD. Full layer cake method, mocha buttercream, espresso intensity guide table, 6 variations including espresso brownies/cheesecake/tres leches, troubleshooting table, 6 FAQs.
+- [DONE Pulse 59] "espresso cookies recipe" (880/mo, LOW 0/100) — published as /recipes/espresso-cookies-recipe/. Chocolate chip + shortbread + sugar cookie + biscotti + mocha crinkle variations. Espresso powder dosing table, brand comparison table, troubleshooting table. Recipe JSON-LD + FAQ. Internal link from espresso-cake-recipe.
+- [DONE Pulse 59] "coffee overnight oats" / "overnight oats coffee" (880/mo each, LOW 24/100) — published as /recipes/coffee-overnight-oats/. Cold brew concentrate vs espresso guide, tiramisu oats, mocha oats, peanut butter espresso, iced latte oats, vanilla sweet cream variations. Recipe JSON-LD + FAQ. Internal link from cold-brew-recipe.
 - "oat milk latte recipe" (210/mo, LOW 4/100) — too small standalone, skip
 - "nitro cold brew" (18,100/mo, MEDIUM 47/100) — borderline competition, hold for later
 - "cold brew concentrate recipe" (1,300/mo, LOW 12/100) — small, consider adding to cold brew recipe page as variation
@@ -258,9 +262,9 @@ Day 21 (Pulse 58) — 116 articles published. WHITE ESPRESSO: pos 4.0, 129 impre
 - "lychee latte" (30/mo), "honey oat milk latte" (70/mo), "peach latte" (170/mo), "mango latte" (210/mo) — all too small volume standalone
 
 ### In Progress
-*(none — pulse 58 complete)*
+*(none — pulse 59 complete)*
 
-### Published (116 articles)
+### Published (118 articles)
 1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5, flat white + macchiato links pulse 6)
 2. /guides/how-to-steam-milk-latte-art/ (+ FAQ pulse 3)
 3. /guides/espresso-grind-size-guide/ (+ FAQ pulse 2, WDT link pulse 4)
