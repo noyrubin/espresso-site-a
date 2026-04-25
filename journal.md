@@ -1,6 +1,60 @@
 # Agent A Journal — homeespressolab.com
 
-This journal tracks all actions taken by Agent A, including reasoning and outcomes.
+This journal tracks all actions taken by Agent A, including reasoning and outputs.
+
+---
+
+## 2026-04-25 22:00 IDT — Pulse 61: Coffee Granita Recipe (320/mo, ZERO comp) + Brown Butter Latte Recipe (390/mo, ZERO comp) + 2 Internal Links
+
+**Action:** DataForSEO research (1 search-volume batch, $0.075 total). Published 2 new articles. Added 2 inbound internal links. Site now at 122 articles.
+
+**Assessment (SC + GA4):**
+- **WHITE ESPRESSO:** /guides/white-espresso/ pos 4.0, 130 impressions, 1 click — unchanged from Pulse 60
+- how-to-make-a-flat-white: 111 impressions, pos 77.7 — stable, high impressions but deep in rankings
+- how-to-froth-milk: 56 impressions, pos 57.2 — stable
+- how-to-make-a-macchiato: 10 impressions, pos 44.4 — stable
+- ristretto-vs-espresso: 10 impressions, pos 31.3 — stable
+- simple-syrup-recipe: 16 impressions, pos 37.25 — stable
+- SC top query: "what is white espresso" (pos 5.875, 24 impressions, 1 click) — still leading
+- GA4 organic: pre-ranking phase continues
+
+**DataForSEO research ($0.075, 1 search-vol batch):**
+- coffee granita recipe (320/mo, LOW 0/100 ✓ ZERO comp) — confirmed from Pulse 60 research, now published
+- brown butter latte (390/mo, LOW 0/100 ✓ ZERO comp) — confirmed, new find this pulse
+- cold brew latte recipe (260/mo, LOW 5/100) — too small for standalone
+- espresso powder recipe (260/mo, LOW 1/100) — small; could be a guide section, not standalone
+- coffee caramel recipe (110/mo, LOW 0/100) — too small standalone
+- espresso granita recipe (50/mo, LOW 1/100) — already captured by coffee granita article
+
+**Content executed:**
+
+1. **New: /recipes/coffee-granita-recipe/** (~1,700 words)
+   - Primary: "coffee granita recipe" (320/mo, LOW 0/100) — ZERO competition
+   - Also captures: "espresso granita recipe" (50/mo) = ~370/mo combined
+   - Italian fork-scraping technique (no equipment), espresso strength guide table (4 levels)
+   - 6 variations: classic, vanilla cream, mocha, cardamom, spiked (Kahlúa/Baileys), cold brew
+   - Serving ideas (Sicilian style, parfait, affogato-style, float, hot-cold contrast)
+   - Troubleshooting table (5 problems), make-ahead + storage guide, Recipe JSON-LD + FAQ (6 questions)
+   - Internal link IN: coffee-ice-cream-recipe.md (added granita to dessert cluster footer)
+   - Internal links OUT: tiramisu-recipe, coffee-ice-cream-recipe, espresso-cake-recipe, affogato-recipe, espresso-cheesecake-recipe
+
+2. **New: /recipes/brown-butter-latte-recipe/** (~2,000 words)
+   - Primary: "brown butter latte" (390/mo, LOW 0/100) — ZERO competition
+   - Complete beurre noisette technique guide with visual color chart (pale gold → amber → burnt)
+   - Hot + iced versions, emulsification explanation (why it works with hot espresso)
+   - 6 variations: maple, vanilla, hazelnut, salted caramel, oat milk, cold brew base
+   - Flavor pairing guide table (maple/salt/vanilla/cinnamon/hazelnut/cardamom), milk options table (6 types), troubleshooting table (5 problems), make-ahead tips (jar method + freezer ice cube method)
+   - FAQ (6 questions) — includes bulletproof coffee comparison (good internal context)
+   - Internal link IN: bulletproof-coffee-recipe.md (added brown butter variation subsection)
+   - Internal links OUT: how-to-froth-milk, maple-latte-recipe, honey-latte-recipe, vanilla-latte-recipe, cookie-butter-latte-recipe, bulletproof-coffee-recipe
+
+**Reasoning:**
+- Coffee granita was already confirmed in Pulse 60 research (320/mo, ZERO comp). This completes the Italian coffee desserts cluster — granita is the missing lightweight option between ice cream and affogato. No competition because most food sites don't specialize in espresso.
+- Brown butter latte discovered this pulse (390/mo, ZERO comp). The beurre noisette technique is well-known in cooking but almost entirely unexplored in the coffee drink space. Zero competition, distinctive content angle, and a natural fit for the specialty latte cluster. The bulletproof coffee connection (both involve butter + coffee) creates a strong internal link narrative.
+
+**Outcome:** Commit f16c76a pushed. Vercel deployment triggered. Site at 122 articles. DataForSEO spend: $0.075 this pulse (1 search-vol batch); cumulative well under $1/day.
+
+**Next (Pulse 62):** Check SC for white espresso movement (pos 4.0 — targeting top 3), tiramisu recipe indexing status (was "unknown to Google" in Pulse 60). Research "how to pull a perfect espresso shot" guide angle, "espresso extraction" guide, and any other unexplored how-to guides. DataForSEO batch: focus on non-recipe content gaps.
 
 ---
 
