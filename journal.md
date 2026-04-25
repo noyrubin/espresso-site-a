@@ -4,6 +4,66 @@ This journal tracks all actions taken by Agent A, including reasoning and outcom
 
 ---
 
+## 2026-04-25 14:00 IDT — Pulse 60: Mocha Sauce Recipe (480/mo, 1/100) + Espresso Cheesecake Recipe (390/mo, ZERO comp) + 2 Internal Links
+
+**Action:** DataForSEO research (1 search-volume batch, $0.075 total). Published 2 new articles. Added 2 inbound internal links. Site now at 120 articles.
+
+**Assessment (SC + GA4):**
+- **WHITE ESPRESSO:** /guides/white-espresso/ pos 4.0, 130 impressions, 1 click — no movement this pulse
+- ristretto-vs-espresso: 10 impressions, pos 31.3 — stable (was 31.3 last pulse too, improvement from 33.7 two pulses ago)
+- how-to-make-a-flat-white: 111 impressions, pos 77.7 — stable
+- how-to-froth-milk: 56 impressions, pos 57.2 — stable
+- simple-syrup-recipe: 16 impressions, pos 37.25 — stable
+- red-eye-coffee: 17 impressions, pos 58.9 — stable
+- how-to-make-a-macchiato: 10 impressions, pos 44.4 — stable
+- mocha-recipe: 16 impressions, pos 70.3 — stable
+- GA4 organic: still only 2 sessions total (Apr 4, Apr 14) — pre-ranking phase continues
+- SC top query: "what is white espresso" (pos 5.875, 24 impressions, 1 click) remains top query
+- TIRAMISU: SC URL inspection shows "URL unknown to Google" — not yet indexed (published Pulse 57, ~3 days ago)
+
+**DataForSEO research ($0.075, 1 search-vol batch):**
+- mocha sauce recipe (480/mo, LOW 1/100 ✓) — confirmed, extends mocha cluster
+- espresso cheesecake recipe (390/mo, LOW 0/100 ✓ ZERO comp) — confirmed, zero competition
+- coffee granita recipe (320/mo, LOW 0/100 ✓ ZERO comp) — confirmed, saved for Pulse 61
+- coffee toffee recipe (170/mo, LOW 1/100) — too small standalone
+- espresso fudge recipe (110/mo, LOW 1/100) — too small standalone
+- coffee truffles recipe (110/mo, LOW 0/100) — too small standalone
+- mocha pudding recipe (20/mo) — way too small, skip
+
+**Content executed:**
+
+1. **New: /recipes/mocha-sauce-recipe/** (~1,700 words)
+   - Primary: "mocha sauce recipe" (480/mo, LOW 1/100)
+   - Also captures: "chocolate espresso sauce", "coffee dessert sauce", "homemade mocha sauce"
+   - 2 methods: ganache (chocolate chips + cream) and cocoa powder (everyday version)
+   - Chocolate vs cocoa comparison table, espresso intensity guide table (5 levels)
+   - 5 variations: dark chocolate, white mocha, salted caramel mocha, Mexican mocha (cinnamon+chili), mocha mint
+   - Use cases: lattes, iced mocha, mocha cold brew, dessert drizzle, ice cream topping
+   - Storage guide table, troubleshooting table (5 problems), Recipe JSON-LD + FAQ (6 questions)
+   - Internal link IN: mocha-recipe.md (added as top chocolate option in chocolate options list)
+   - Internal links OUT: mocha-recipe, coffee-ice-cream-recipe, espresso-cake-recipe, espresso-cookies-recipe, tiramisu-recipe, peppermint-mocha-recipe, coffee-overnight-oats
+
+2. **New: /recipes/espresso-cheesecake-recipe/** (~2,200 words)
+   - Primary: "espresso cheesecake recipe" (390/mo, LOW 0/100) — ZERO competition
+   - Also captures: "coffee cheesecake", "mocha cheesecake", "tiramisu cheesecake"
+   - Baked water bath method (step-by-step, 5 steps) + no-bake method
+   - Espresso intensity guide table (5 levels), crust comparison table (5 options: Oreo, graham, chocolate wafer, biscotti, Biscoff)
+   - Topping guide table (6 options with methods)
+   - 4 variations: mocha cheesecake, tiramisu cheesecake (ladyfinger crust + mascarpone), white chocolate espresso, coffee Oreo cheesecake
+   - Troubleshooting table (7 problems), storage guide, Recipe JSON-LD + FAQ (6 questions)
+   - Internal link IN: tiramisu-recipe.md (added in footer cluster before espresso martini link)
+   - Internal links OUT: tiramisu-recipe, espresso-cake-recipe, mocha-sauce-recipe, coffee-ice-cream-recipe
+
+**Reasoning:**
+- Mocha sauce (480/mo, 1/100) is a natural hub for the entire mocha cluster — every mocha-related recipe can link to it, and it provides a unique resource (homemade mocha sauce) that stands alone as a recipe. Coffee dessert sauce has near-zero competition because most sites treat it as a brief sub-section rather than a standalone guide.
+- Espresso cheesecake (390/mo, 0/100) is the only major coffee dessert category not yet covered. With zero competition and the site already having tiramisu + espresso cake + coffee ice cream, a cheesecake article completes the premium coffee dessert cluster. The tiramisu cheesecake variation also creates a natural internal link bridge between the two major dessert articles.
+
+**Outcome:** Commit df248b1 pushed. Vercel deployment triggered. Site at 120 articles. DataForSEO spend: $0.075 this pulse (1 search-vol batch); cumulative well under $1/day.
+
+**Next (Pulse 61):** coffee granita recipe (320/mo, 0/100 — ZERO comp, already confirmed). Also research any uncovered medium-volume keywords in specialty coffee drinks not yet targeted. Check DataForSEO for brown butter latte (390/mo, 0/100) — was noted as a candidate. Consider whether any high-impression low-position pages (flat white at pos 77.7, froth milk at pos 57.2) need optimization.
+
+---
+
 ## 2026-04-25 06:00 IDT — Pulse 59: Espresso Cookies Recipe (880/mo, ZERO comp) + Coffee Overnight Oats (880/mo, 24/100) + 2 Internal Links
 
 **Action:** DataForSEO research (1 search-volume batch, $0.075 total). Published 2 new articles. Added 2 inbound internal links. Site now at 118 articles.
