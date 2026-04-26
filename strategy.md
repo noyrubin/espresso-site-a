@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 23 (Pulse 62) — 124 articles published. WHITE ESPRESSO: pos 4.0, 130 impressions, 1 click — still stable at pos 4, no movement. how-to-make-a-flat-white: 111 impressions at pos 77.7 — high impressions, stuck deep. GA4 organic: still pre-ranking phase (only 2 sessions all-time). TIRAMISU RECIPE: Still "URL unknown to Google" after 6+ days — very concerning. Sitemap re-submitted this pulse. 11+ inbound links to tiramisu-recipe already exist so crawl discovery should not be the issue. NEW THIS PULSE: light roast vs dark roast (4,400/mo, LOW 15/100) + how long do coffee beans last (2,900/mo, LOW 6/100). DataForSEO spend: $0.15 this pulse (2 search-vol batches). Espresso technique keywords (tamping, extraction, etc.) turned out mostly tiny volume (<400/mo) or high competition — skip. Key insight: coffee knowledge/education gap found (roast levels, storage/freshness). Next focus: continue exploring coffee education gaps + check if tiramisu gets indexed, monitor flat-white impressions for position movement.
+Day 23 (Pulse 63) — 124 articles, internal-link optimization pass. WHITE ESPRESSO: pos 4.0, 130 imp, 1 click — still stable. how-to-make-a-flat-white: 111 imp at pos 77.7 — page is fully built (368 lines, FAQ + Recipe schema, comprehensive); pos 77 is now backlink/authority limited, NOT on-page; no further on-page work justified. TIRAMISU RECIPE: Progress! Moved from "URL unknown to Google" to **"Discovered - currently not indexed"** — Google has found it via sitemap, just hasn't crawled yet. No further intervention needed; wait. THIS PULSE: SC optimization pass — added 4 contextual inbound links to **simple-syrup-recipe** (pos 37.25, 16 imp) from vanilla-latte, caramel-macchiato, pumpkin-spice-latte, peppermint-mocha, maple-latte (all already discussed syrups but didn't link). Added 2 contextual inbound links to **how-to-make-a-macchiato** (pos 44.4, 10 imp) from cappuccino-vs-latte (89,700/mo cluster) and double-espresso. Skipped ristretto-vs-espresso (already 14 inbound links — saturated). DataForSEO spend: $0 this pulse. Next focus: research coffee education gap (arabica vs robusta, coffee origins, grind size chart) + monitor whether the link boost moves simple-syrup/macchiato up by next pulse.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -280,7 +280,7 @@ Day 23 (Pulse 62) — 124 articles published. WHITE ESPRESSO: pos 4.0, 130 impre
 - [DONE Pulse 62] "how long do coffee beans last" (2,900/mo, LOW 6/100) — published as /guides/how-long-do-coffee-beans-last/; shelf life guide for all coffee forms
 
 ### In Progress
-*(none — pulse 62 complete)*
+*(none — pulse 63 complete; internal link boost only, no new content)*
 
 ### Published (124 articles)
 1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5, flat white + macchiato links pulse 6)
@@ -442,11 +442,11 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 63:** SC optimization pass — pages at pos 20–40 that could be boosted with internal links or content expansion. Key targets: ristretto-vs-espresso (pos 31.3), simple-syrup-recipe (pos 37.25), how-to-make-a-macchiato (pos 44.4). One additional inbound link each from thematically adjacent pages could push them toward page 1. Also check tiramisu-recipe indexing (still "unknown" after 6+ days, sitemap submitted this pulse).
-2. **Pulse 64:** Coffee knowledge/education content gap — research "coffee origin guide", "how coffee is made", "arabica vs robusta" volume + competition. Also explore: "coffee grind size chart" (probably HIGH comp), "how much coffee per cup" (possible low comp). Evaluate how-to-make-a-flat-white (111 impressions, pos 77.7) optimization.
-3. **Pulse 65:** Continue most promising cluster from Pulse 64 research. Consider whether white-espresso page (pos 4.0, 130 impressions) needs on-page optimization to move to pos 1–3.
+1. **Pulse 64:** Coffee knowledge/education content gap — research "arabica vs robusta" (likely good volume + low comp), "how coffee is made", "coffee origin guide", "coffee plant facts". Run search-volume on a 8–10 keyword batch (~$0.075). Skip "espresso tamping" (HIGH comp) and "how to store coffee beans" (HIGH comp; already covered in beans-shelf-life article). Pick 1–2 winners and publish.
+2. **Pulse 65:** Re-check SC for movement on simple-syrup-recipe + how-to-make-a-macchiato (Pulse 63 link boost effect). If they moved up significantly, replicate pattern on next mid-position pages. Continue Pulse 64 cluster if more keywords are open.
+3. **Pulse 66:** Consider if white-espresso (pos 4.0) needs on-page optimization to move to pos 1–3, OR explore another keyword research session targeting milk drinks not yet covered (e.g. "wet cappuccino", "dry cappuccino", "babyccino", "marocchino").
 
 ---
-*Last updated: 2026-04-26 (Pulse 62)*
+*Last updated: 2026-04-26 (Pulse 63)*
 
 

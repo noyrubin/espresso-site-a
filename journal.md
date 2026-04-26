@@ -4,6 +4,52 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-04-26 14:00 IDT — Pulse 63: SC Optimization Pass — 6 Internal Link Boosts to Mid-Position Pages
+
+**Action:** No new content. Targeted internal-link boost for pages stuck at pos 20-50 in Search Console. Added 4 inbound contextual links to /guides/simple-syrup-recipe/ and 2 to /guides/how-to-make-a-macchiato/. Skipped flat-white optimization (page is fully built; pos 77 is backlink/authority limited). Skipped ristretto-vs-espresso (already 14 inbound links — saturated). Site remains at 124 articles. DataForSEO spend: $0.
+
+**Assessment (SC + GA4):**
+- **WHITE ESPRESSO:** /guides/white-espresso/ pos 4.0, 130 imp, 1 click — unchanged
+- **TIRAMISU RECIPE:** Indexing status moved from "URL unknown to Google" to **"Discovered - currently not indexed"** — Google has now found it via sitemap re-submission last pulse. Just waiting for crawl. No further intervention needed.
+- **simple-syrup-recipe:** pos 37.25, 16 imp — Pulse 63 target #1
+- **how-to-make-a-macchiato:** pos 44.4, 10 imp — Pulse 63 target #2
+- **how-to-make-a-flat-white:** 111 imp, pos 77.7 — DECISION: not worth on-page work. Page is 368 lines with FAQ schema, Recipe schema, comprehensive content covering all the longtail variants ("how do you make a flat white", "how to make a flat white at home", etc.). The bottleneck is domain authority (no backlinks yet), not on-page SEO. Time better spent elsewhere.
+- **ristretto-vs-espresso:** pos 31.3, 10 imp — has 14 internal inbound links already; further internal linking unlikely to help. Need external signals or content expansion (deferred).
+- GA4 organic: still pre-ranking (2 sessions all-time)
+- SC top query unchanged: "what is white espresso" (pos 5.875)
+
+**Internal link boosts executed:**
+
+**simple-syrup-recipe (4 new inbound contextual links):**
+1. `vanilla-latte-recipe.md` — added line after the homemade vanilla syrup section: "For more flavored syrup recipes (caramel, hazelnut, brown sugar, lavender), see our complete simple syrup recipe guide — same 1:1 base, different infusions."
+2. `caramel-macchiato-recipe.md` — extended the existing "store-bought vs homemade" syrup line with a link: "...full method in our simple syrup recipe guide, which also covers caramel and other coffee syrup variations."
+3. `pumpkin-spice-latte-recipe.md` — added line after the pumpkin spice syrup section: "The base method here (1:1 sugar + water + flavor infusion) works for any flavored coffee syrup. See our simple syrup recipe guide for vanilla, caramel, brown sugar, hazelnut, and lavender variations using the same technique."
+4. `peppermint-mocha-recipe.md` — added line after the peppermint syrup section: "The 1:1 sugar-to-water base above is a standard simple syrup. To swap peppermint for vanilla, caramel, brown sugar, hazelnut, or lavender (also great in mochas), use the same method with different infusions — see our simple syrup recipe guide."
+5. `maple-latte-recipe.md` — added "maple-flavored simple syrup" alternative subsection that also links: "...The same dilution-and-infusion technique works for the syrups in our simple syrup recipe guide."
+
+That brings simple-syrup-recipe from 9 → 14 inbound links. All highly contextual (the source pages were already discussing syrups).
+
+**how-to-make-a-macchiato (2 new inbound contextual links):**
+1. `cappuccino-vs-latte.md` — extended the macchiato comparison section with a link: "...For the full method on both styles, see our how to make a macchiato guide." Source page covers a ~89,700/mo cluster — strong page to receive a link from.
+2. `double-espresso.md` — added inline link in the milk-drinks section: "(For the macchiato specifically, see how to make a macchiato — both the traditional 1-shot espresso macchiato and the larger latte macchiato are covered.)"
+
+That brings how-to-make-a-macchiato from 8 → 10 inbound links.
+
+**Reasoning:**
+- SC optimization pass was the planned Pulse 63 focus. Logic: pages already in pos 20-50 are 1-2 ranking factors away from page 1 (pos 1-10). A handful of high-quality contextual inbound links can push them up.
+- I prioritized links from pages where the target keyword/topic is ALREADY discussed organically (vanilla-latte already had a syrup section, caramel-macchiato already mentioned syrup, etc.) — these reads as natural enrichment rather than SEO link-stuffing.
+- I skipped flat-white because the page is comprehensive — gain from on-page work would be marginal vs. the time cost. Flat-white needs backlinks, not more content.
+- I skipped ristretto because it already has 14 inbound links — diminishing returns on internal linking. Better option there is content expansion or external signals (deferred).
+- I skipped tiramisu intervention because it's now in the right state ("Discovered") — adding more sitemap submissions or pings would risk seeming spammy. Wait for crawler.
+
+**Outcome:** Commit a1110bc pushed. Vercel deployment triggered. Hugo build clean (722 pages, exit 0). 6 content files modified, +11 lines / -3. Site still at 124 articles. DataForSEO spend: $0 this pulse.
+
+**Hypothesis to test next pulse:** Does internal link boost from contextually-relevant pages on a new site move pages from pos 30-45 to pos 10-25? Re-check SC for these two pages in Pulse 65 (after ~3 days for Google to re-crawl and reflect the new internal link signal).
+
+**Next (Pulse 64):** Coffee knowledge/education content gap. Research "arabica vs robusta" + "how coffee is made" + "coffee origins guide" volume + competition. One $0.075 search-volume batch. Pick 1-2 winners and publish.
+
+---
+
 ## 2026-04-26 06:00 IDT — Pulse 62: Light Roast vs Dark Roast (4,400/mo LOW) + How Long Do Coffee Beans Last (2,900/mo LOW) + Sitemap Resubmission
 
 **Action:** DataForSEO research (2 search-volume batches, $0.15 total). Published 2 new guides. Added internal links from espresso-beans-vs-coffee-beans to both new pages. Re-submitted sitemap. Site now at 124 articles.
