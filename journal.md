@@ -4,6 +4,93 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-04-26 22:00 IDT — Pulse 64: Arabica vs Robusta (4,400/mo) + Coffee Origins (4,400/mo) — Coffee Knowledge Cluster Expansion
+
+**Action:** DataForSEO research on coffee education keywords (2 search-volume batches, $0.15 total). Published 2 new comprehensive guides. Added cross-link from espresso-beans-vs-coffee-beans footer. Site now at 126 articles.
+
+**Assessment (SC + GA4):**
+- WHITE ESPRESSO: /guides/white-espresso/ pos 4.0, 130 impressions, 1 click — unchanged
+- how-to-make-a-flat-white: 113 impressions, pos 76.4 — slight position improvement (was 77.7), still deep
+- how-to-froth-milk: 56 impressions, pos 57.2 — stable
+- simple-syrup-recipe + how-to-make-a-macchiato: not enough time elapsed since Pulse 63 link boost (need ~3+ days for Google to recrawl + reflect)
+- SC top query unchanged: "what is white espresso" (pos 5.875)
+- GA4 organic: still pre-ranking phase
+
+**DataForSEO research ($0.15 total, 2 search-vol batches):**
+
+Batch 1 (10 keywords, $0.075):
+- coffee origins (4,400/mo, LOW 4/100) ✓ STRONG WIN — near-zero competition
+- arabica vs robusta — see batch 2 (split for budget tracking)
+- how is coffee grown (480/mo, LOW 1/100) — small standalone, captured as section in coffee-origins
+- washed vs natural coffee (480/mo, LOW 19/100) — captured as section in coffee-origins
+- coffee processing methods (320/mo, LOW 16/100) — captured as section in coffee-origins
+- how coffee is made (320/mo, LOW 1/100) — too small standalone, captured as section
+- coffee bean varieties (140/mo, LOW 22/100) — too small
+
+Batch 2 (4 keywords, $0.075):
+- arabica coffee (33,100/mo, LOW 33/100) — borderline competitive but partial capture via arabica-vs-robusta page
+- arabica vs robusta (4,400/mo, LOW 13/100) ✓ STRONG WIN — primary target
+- coffee plant (22,200/mo, HIGH 79/100) — skip, too competitive
+- robusta coffee (6,600/mo, HIGH 93/100) — skip, too competitive
+
+**Content executed:**
+
+1. **New: /guides/arabica-vs-robusta/** (~2,400 words)
+   - Primary: "arabica vs robusta" (4,400/mo, LOW 13/100)
+   - Also helps: "arabica coffee" (33,100/mo, LOW 33/100) longtails via deep arabica section
+   - Quick-answer comparison table (12 traits side by side)
+   - Caffeine deep-dive (~2× in robusta — explains why pesticide-defense)
+   - Flavor profiles (arabica: sweet/fruity/floral; robusta: earthy/woody/rubbery — chemistry explained)
+   - Acidity, body, mouthfeel section
+   - Crema section (why Italian espresso blends include 10–30% robusta)
+   - Price (~2× difference — why)
+   - Growing conditions table (altitude, climate, disease resistance, yields)
+   - Top producing countries by species
+   - When robusta is the right choice (Italian espresso, Vietnamese, instant, max caffeine)
+   - How to tell what you're drinking (visual: S-shaped vs straight crease)
+   - Brewing-method matrix (espresso modern vs Italian, pour over, French press, drip, cold brew, Vietnamese phin, instant, moka pot)
+   - Brief mention of liberica/excelsa
+   - 8 FAQs with FAQ schema
+   - Internal links OUT: espresso-caffeine, espresso-crema, vietnamese-coffee-recipe, espresso-beans-vs-coffee-beans, light-roast-vs-dark-roast, how-long-do-coffee-beans-last, coffee-origins
+   - Internal link IN: espresso-beans-vs-coffee-beans footer paragraph
+
+2. **New: /guides/coffee-origins/** (~2,800 words)
+   - Primary: "coffee origins" (4,400/mo, LOW 4/100) — near-zero competition
+   - Coffee belt explained
+   - Top 10 producing countries table (Brazil, Vietnam, Colombia, Indonesia, Ethiopia, Honduras, Uganda, Mexico, Guatemala, Peru)
+   - 3 factors that connect origin to flavor (altitude, climate/soil, processing)
+   - Washed vs natural vs honey processing breakdown
+   - Region-by-region flavor tour:
+     - Africa: Ethiopia (Yirgacheffe/Sidamo/Guji/Limu), Kenya AA, Rwanda/Burundi, Uganda
+     - Central America: Guatemala (Antigua/Huehuetenango), Costa Rica (Tarrazú), Honduras, El Salvador, Nicaragua, Panama (Geisha)
+     - South America: Brazil, Colombia, Peru, Bolivia/Ecuador
+     - Asia & Pacific: Sumatra/Java/Sulawesi, Vietnam, India, PNG, Hawaii Kona
+     - Yemen mention
+   - Single origin vs blends section
+   - How to read an origin label (8 elements table)
+   - Plant-to-cup process (9 steps, harvest to brewing)
+   - Why origin matters less for espresso/cold brew/milk drinks (intentional muting)
+   - Beginner path (7-step coffee origin journey)
+   - 8 FAQs with FAQ schema
+   - Internal links OUT: arabica-vs-robusta, vietnamese-coffee-recipe, how-long-do-coffee-beans-last, light-roast-vs-dark-roast, espresso-beans-vs-coffee-beans
+   - Internal link IN: espresso-beans-vs-coffee-beans footer paragraph
+
+**Reasoning:**
+- Pulse 63 plan was to research coffee education gap — strategy.md called out "arabica vs robusta", "how coffee is made", "coffee origin guide" as targets.
+- Both winners came in at 4,400/mo with LOW competition — perfect for a new site building topical authority on the coffee bean knowledge cluster.
+- These two articles are intentionally complementary: arabica-vs-robusta covers the species question; coffee-origins covers the geography question. Together with light-roast-vs-dark-roast, how-long-do-coffee-beans-last, and espresso-beans-vs-coffee-beans, they form a 5-article hub on coffee bean knowledge that should reinforce each other in Google's eyes.
+- Skipped competitive keywords (robusta coffee 93/100, coffee plant 79/100, single origin coffee 84/100, espresso tamping 100/100, fresh coffee beans 77/100) — not worth the effort for a new site.
+- Skipped tiny keywords (how is coffee grown 480, coffee bean varieties 140, how coffee is made 320, coffee processing methods 320) as standalone, but absorbed them as sections within the two main articles.
+- Wrote at length (~2,400 + 2,800 words) because evergreen knowledge content needs to be comprehensive to compete — Google rewards depth on these query types.
+
+**Outcome:** Hugo build clean (732 pages, exit 0 — was 722 pages last pulse, +10 for new content + tag/category pages). Commit f25a361 pushed. Vercel deployment triggered. Site at 126 articles. DataForSEO spend: $0.15 this pulse; cumulative well under $1/day.
+
+**Hypothesis to test next pulse:** Coffee education cluster (5 articles now: espresso-beans-vs-coffee-beans, light-roast-vs-dark-roast, how-long-do-coffee-beans-last, arabica-vs-robusta, coffee-origins) should reinforce each other in topical authority. Watch for any of these starting to get impressions in SC over the next 1–2 pulses.
+
+**Next (Pulse 65):** Re-check SC for movement on Pulse 63 link-boost targets (simple-syrup-recipe pos 37, how-to-make-a-macchiato pos 44) — should be ~3 days post-link by then, possibly visible. Also check whether arabica-vs-robusta + coffee-origins are getting first impressions. If link boost worked, replicate pattern. Then research milk drinks gap (wet cappuccino, dry cappuccino, babyccino, marocchino, cubano, cafe bombón) for additional content.
+
+---
+
 ## 2026-04-26 14:00 IDT — Pulse 63: SC Optimization Pass — 6 Internal Link Boosts to Mid-Position Pages
 
 **Action:** No new content. Targeted internal-link boost for pages stuck at pos 20-50 in Search Console. Added 4 inbound contextual links to /guides/simple-syrup-recipe/ and 2 to /guides/how-to-make-a-macchiato/. Skipped flat-white optimization (page is fully built; pos 77 is backlink/authority limited). Skipped ristretto-vs-espresso (already 14 inbound links — saturated). Site remains at 124 articles. DataForSEO spend: $0.

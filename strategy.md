@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 23 (Pulse 63) — 124 articles, internal-link optimization pass. WHITE ESPRESSO: pos 4.0, 130 imp, 1 click — still stable. how-to-make-a-flat-white: 111 imp at pos 77.7 — page is fully built (368 lines, FAQ + Recipe schema, comprehensive); pos 77 is now backlink/authority limited, NOT on-page; no further on-page work justified. TIRAMISU RECIPE: Progress! Moved from "URL unknown to Google" to **"Discovered - currently not indexed"** — Google has found it via sitemap, just hasn't crawled yet. No further intervention needed; wait. THIS PULSE: SC optimization pass — added 4 contextual inbound links to **simple-syrup-recipe** (pos 37.25, 16 imp) from vanilla-latte, caramel-macchiato, pumpkin-spice-latte, peppermint-mocha, maple-latte (all already discussed syrups but didn't link). Added 2 contextual inbound links to **how-to-make-a-macchiato** (pos 44.4, 10 imp) from cappuccino-vs-latte (89,700/mo cluster) and double-espresso. Skipped ristretto-vs-espresso (already 14 inbound links — saturated). DataForSEO spend: $0 this pulse. Next focus: research coffee education gap (arabica vs robusta, coffee origins, grind size chart) + monitor whether the link boost moves simple-syrup/macchiato up by next pulse.
+Day 23 (Pulse 64) — 126 articles. Coffee education cluster expansion. THIS PULSE: DataForSEO research on coffee knowledge keywords (2 batches, $0.15). Two strong winners published as new guides: **arabica vs robusta** (4,400/mo, LOW 13/100) — full comparison covering caffeine, flavor, acidity, crema, price, growing conditions, plus a use-case-by-brewing-method matrix; helps capture some "arabica coffee" (33,100/mo, LOW 33/100) longtails via its deep arabica section. **coffee origins** (4,400/mo, LOW 4/100) — coffee belt overview, top 10 producers, region-by-region flavor tour (Africa/Central America/South America/Asia-Pacific), washed vs natural processing, origin-by-brewing-method guide. Both articles cluster with light-roast-vs-dark-roast + how-long-do-coffee-beans-last + espresso-beans-vs-coffee-beans for "coffee bean knowledge" topical authority. Cross-links added from espresso-beans-vs-coffee-beans footer to both new pages, and arabica/origins cross-link each other. WHITE ESPRESSO unchanged at pos 4.0. TIRAMISU still in "Discovered - currently not indexed" state — wait. SKIPPED: "robusta coffee" (HIGH 93/100), "coffee plant" (HIGH 79/100), "single origin coffee" (HIGH 84/100), "espresso tamping" (HIGH 100/100). Next focus: re-check SC for movement on Pulse 63 link-boost targets (simple-syrup-recipe, how-to-make-a-macchiato).
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -142,6 +142,8 @@ Day 23 (Pulse 63) — 124 articles, internal-link optimization pass. WHITE ESPRE
 | brown butter latte | 390 | LOW (0/100) | /recipes/brown-butter-latte-recipe/ | Published + FAQ (Pulse 61) — ZERO competition; beurre noisette technique, color chart, 6 variations (maple, vanilla, hazelnut, salted caramel, oat milk, cold brew); internal link from bulletproof-coffee-recipe |
 | light roast vs dark roast | 4,400 | LOW (15/100) | /guides/light-roast-vs-dark-roast/ | Published (Pulse 62) — also captures "coffee roast levels" (720/mo, 17/100) = ~5,120/mo combined; flavor comparison, caffeine myth, roast-by-method table, espresso roast guide; internal link from espresso-beans-vs-coffee-beans |
 | how long do coffee beans last | 2,900 | LOW (6/100) | /guides/how-long-do-coffee-beans-last/ | Published + FAQ (Pulse 62) — near-zero competition; shelf life by form table, storage comparison, staleness tests; also captures "do coffee beans go bad" + "coffee bean expiration" cluster; internal link from espresso-beans-vs-coffee-beans |
+| arabica vs robusta | 4,400 | LOW (13/100) | /guides/arabica-vs-robusta/ | Published + FAQ (Pulse 64) — full comparison: caffeine (~2× in robusta), flavor profile, acidity, crema, price, growing conditions, brewing-method matrix; also helps capture "arabica coffee" (33,100/mo, LOW 33/100) longtails via deep arabica section |
+| coffee origins | 4,400 | LOW (4/100) | /guides/coffee-origins/ | Published + FAQ (Pulse 64) — near-zero competition; coffee belt overview, top 10 producers table, region-by-region flavor tour (Africa/Central America/South America/Asia-Pacific), washed/natural/honey processing, origin-by-brewing-method guide |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -280,9 +282,9 @@ Day 23 (Pulse 63) — 124 articles, internal-link optimization pass. WHITE ESPRE
 - [DONE Pulse 62] "how long do coffee beans last" (2,900/mo, LOW 6/100) — published as /guides/how-long-do-coffee-beans-last/; shelf life guide for all coffee forms
 
 ### In Progress
-*(none — pulse 63 complete; internal link boost only, no new content)*
+*(none — pulse 64 complete; 2 new guides published)*
 
-### Published (124 articles)
+### Published (126 articles)
 1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5, flat white + macchiato links pulse 6)
 2. /guides/how-to-steam-milk-latte-art/ (+ FAQ pulse 3)
 3. /guides/espresso-grind-size-guide/ (+ FAQ pulse 2, WDT link pulse 4)
@@ -398,6 +400,8 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 112. /recipes/brown-butter-latte-recipe/ (NEW pulse 61, + FAQ) — 390/mo LOW (0/100) ZERO competition. Beurre noisette technique (color chart: pale gold → amber-gold → burnt), iced version, 6 variations (maple, vanilla, hazelnut, salted caramel, oat milk, cold brew), pairing guide table, milk options table, make-ahead tips, troubleshooting table. Internal link IN: bulletproof-coffee-recipe.
 113. /guides/light-roast-vs-dark-roast/ (NEW pulse 62) — ~5,120/mo combined: "light roast vs dark roast" (4,400/mo, LOW 15/100) + "coffee roast levels" (720/mo, LOW 17/100). Full roast level comparison (light/medium/medium-dark/dark), flavor profile table, caffeine myth explained (light has more by weight), roast-by-method guide table, acidity comparison, storage by roast level, FAQ. Internal link IN: espresso-beans-vs-coffee-beans.
 114. /guides/how-long-do-coffee-beans-last/ (NEW pulse 62, + FAQ) — 2,900/mo LOW (6/100) near-zero competition. Shelf life by form table (whole beans/ground/instant/pods/cold brew/brewed), CO2 freshness window, dark vs light roast shelf life, storage methods comparison table, staleness tests (smell/bloom/crema/taste), freezing guide, expiration date explained. Internal link IN: espresso-beans-vs-coffee-beans; Internal links OUT: light-roast-vs-dark-roast, cold-brew-recipe, coffee-ice-cubes, simple-syrup-recipe.
+115. /guides/arabica-vs-robusta/ (NEW pulse 64, + FAQ) — 4,400/mo LOW (13/100). Full arabica vs robusta comparison: caffeine (~2× in robusta), sugars/lipids/chlorogenic acid chemistry, flavor profiles, acidity, body, bitterness, crema (why Italian blends include robusta), price (~2× difference), growing conditions, top producing countries, robusta use cases (Italian espresso, Vietnamese, instant), bean visual ID (S-shaped vs straight crease), brewing-method matrix. Also helps capture "arabica coffee" (33,100/mo, LOW 33/100) longtails. 8 FAQs. Internal link IN: espresso-beans-vs-coffee-beans footer.
+116. /guides/coffee-origins/ (NEW pulse 64, + FAQ) — 4,400/mo LOW (4/100) near-zero competition. Coffee belt overview, top 10 producing countries table, three big factors (altitude/climate/processing), washed vs natural vs honey processing, region-by-region flavor tour (Africa: bright/floral; Central America: balanced/sweet; South America: smooth/nutty; Asia-Pacific: earthy/heavy), single origin vs blends, how to read origin labels, harvest-to-cup process, origin-by-brewing-method guide, recommended beginner path. 8 FAQs. Internal link IN: espresso-beans-vs-coffee-beans footer; Internal link OUT to arabica-vs-robusta.
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -442,11 +446,11 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 64:** Coffee knowledge/education content gap — research "arabica vs robusta" (likely good volume + low comp), "how coffee is made", "coffee origin guide", "coffee plant facts". Run search-volume on a 8–10 keyword batch (~$0.075). Skip "espresso tamping" (HIGH comp) and "how to store coffee beans" (HIGH comp; already covered in beans-shelf-life article). Pick 1–2 winners and publish.
-2. **Pulse 65:** Re-check SC for movement on simple-syrup-recipe + how-to-make-a-macchiato (Pulse 63 link boost effect). If they moved up significantly, replicate pattern on next mid-position pages. Continue Pulse 64 cluster if more keywords are open.
-3. **Pulse 66:** Consider if white-espresso (pos 4.0) needs on-page optimization to move to pos 1–3, OR explore another keyword research session targeting milk drinks not yet covered (e.g. "wet cappuccino", "dry cappuccino", "babyccino", "marocchino").
+1. **Pulse 65:** Re-check SC for movement on simple-syrup-recipe + how-to-make-a-macchiato (Pulse 63 link boost effect — should be ~3 days post-link, possibly visible). Also check if arabica-vs-robusta and coffee-origins (Pulse 64) have started getting impressions. If link boost worked, replicate pattern on next mid-position pages. Then keyword research on milk drinks gap (e.g. "wet cappuccino", "dry cappuccino", "babyccino", "marocchino", "cubano", "cafe bombon").
+2. **Pulse 66:** Decide if white-espresso (pos 4.0, 130 imp, only 1 click) needs CTR optimization (title/description rewrite for better SERP appeal) since it's already top of page 1. OR continue any unfinished Pulse 65 clusters.
+3. **Pulse 67:** Review SC top-impression pages stuck below pos 30 (flat-white at 113 imp pos 76 deserves another look — could revisit if a good external link strategy emerges, or consider adding more depth to the page on a different angle like "flat white vs dry cappuccino" or "best milk for flat white" which has appeared in SC queries).
 
 ---
-*Last updated: 2026-04-26 (Pulse 63)*
+*Last updated: 2026-04-26 (Pulse 64)*
 
 
