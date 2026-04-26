@@ -136,4 +136,4 @@ The bottom line: buy fresh beans from a reputable specialty roaster, look for a 
 
 ---
 
-*Ready to start brewing? Our [getting started guide](/guides/getting-started/) covers everything you need to know as a beginner, including what equipment to buy and how to pull your first shot. Curious how espresso compares to your regular coffee maker? See [espresso vs. drip coffee](/guides/espresso-vs-drip-coffee/) for a full breakdown.*
+*Ready to start brewing? Our [getting started guide](/guides/getting-started/) covers everything you need to know as a beginner, including what equipment to buy and how to pull your first shot. Curious how espresso compares to your regular coffee maker? See [espresso vs. drip coffee](/guides/espresso-vs-drip-coffee/) for a full breakdown. Want to go deeper on roast levels? Our [light roast vs dark roast guide](/guides/light-roast-vs-dark-roast/) covers flavor differences, the caffeine myth, and which roast works best for each brewing method. Wondering how long your beans will stay fresh? See [how long coffee beans last](/guides/how-long-do-coffee-beans-last/).*
