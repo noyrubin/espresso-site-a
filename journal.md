@@ -4,6 +4,75 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-04-26 06:00 IDT — Pulse 62: Light Roast vs Dark Roast (4,400/mo LOW) + How Long Do Coffee Beans Last (2,900/mo LOW) + Sitemap Resubmission
+
+**Action:** DataForSEO research (2 search-volume batches, $0.15 total). Published 2 new guides. Added internal links from espresso-beans-vs-coffee-beans to both new pages. Re-submitted sitemap. Site now at 124 articles.
+
+**Assessment (SC + GA4):**
+- **WHITE ESPRESSO:** /guides/white-espresso/ pos 4.0, 130 impressions, 1 click — unchanged, still holding at pos 4
+- how-to-make-a-flat-white: 111 impressions, pos 77.7 — high impressions, stuck deep in rankings
+- how-to-froth-milk: 56 impressions, pos 57.2 — stable
+- ristretto-vs-espresso: pos 31.3, 10 impressions — stable
+- simple-syrup-recipe: pos 37.25, 16 impressions — stable
+- SC top query: "what is white espresso" (pos 5.875, 24 impressions, 1 click) — still leading query
+- TIRAMISU: Still "URL unknown to Google" after 6+ days. Has 11+ inbound links from indexed pages. Re-submitted sitemap to help crawl.
+- GA4 organic: still pre-ranking phase (only 2 sessions all-time — April 4 and April 14)
+
+**DataForSEO research ($0.15, 2 search-vol batches):**
+
+Batch 1 — Espresso technique keywords:
+- espresso tamping (9,900/mo, HIGH 100/100) — skip, too competitive
+- espresso channeling (390/mo, LOW 2/100) — too small standalone
+- espresso extraction (320/mo, HIGH 82/100) — skip
+- pre-infusion espresso (320/mo, LOW 8/100) — too small standalone
+- how to pull a perfect espresso shot (90/mo, LOW 14/100) — too tiny
+- Conclusion: technique keywords mostly tiny volume or high competition. Not worth a dedicated article.
+
+Batch 2 — Coffee knowledge/education keywords:
+- single origin coffee (14,800/mo, HIGH 84/100) — skip
+- fresh coffee beans (9,900/mo, HIGH 77/100) — skip
+- light roast vs dark roast (4,400/mo, LOW 15/100) ✓ BEST FIND
+- how long do coffee beans last (2,900/mo, LOW 6/100) ✓ GOOD FIND
+- how to store coffee beans (1,900/mo, HIGH 79/100) — skip (covered as section in beans-last article)
+- coffee roast levels (720/mo, LOW 17/100) — captured by light-roast-vs-dark-roast article
+
+**Content executed:**
+
+1. **New: /guides/light-roast-vs-dark-roast/** (~1,900 words)
+   - Primary: "light roast vs dark roast" (4,400/mo, LOW 15/100)
+   - Also captures: "coffee roast levels" (720/mo, LOW 17/100) = ~5,120/mo combined
+   - Full roast level guide: light/medium/medium-dark/dark with flavor profiles
+   - Debunks caffeine myth (light has slightly more by weight — explains why)
+   - Roast-by-brewing-method table, espresso roast recommendation, acidity comparison
+   - FAQ (6 questions), cross-links to how-long-do-coffee-beans-last + espresso-beans-vs-coffee-beans
+   - Internal link IN: espresso-beans-vs-coffee-beans.md (footer paragraph updated)
+
+2. **New: /guides/how-long-do-coffee-beans-last/** (~1,700 words)
+   - Primary: "how long do coffee beans last" (2,900/mo, LOW 6/100)
+   - Also captures: "do coffee beans go bad" + "coffee bean expiration" + "coffee shelf life" cluster
+   - Shelf life table for all forms: whole beans/ground/instant/pods/cold brew/brewed
+   - CO2 freshness window (fresh beans too gassy for first 24–72h)
+   - Dark vs light roast shelf life comparison (dark goes stale faster)
+   - 3 staleness tests (smell/bloom/crema), freezing guide with rules
+   - Storage methods comparison table, best-by vs roast date explained
+   - FAQ (6 questions), cross-links to light-roast-vs-dark-roast + cold-brew-recipe + coffee-ice-cubes
+   - Internal link IN: espresso-beans-vs-coffee-beans.md (same footer paragraph)
+
+**Additional action:**
+- Submitted sitemap https://homeespressolab.com/sitemap.xml to Search Console (tiramisu-recipe indexing concern)
+
+**Reasoning:**
+- Espresso technique keywords (tamping, extraction, channeling) turned out to be mostly tiny volume or high competition — not viable. Pivoted to coffee knowledge/education gap.
+- "Light roast vs dark roast" is an evergreen question every coffee buyer has, with 4,400/mo volume and low competition. Perfect complement to the existing espresso-beans-vs-coffee-beans guide.
+- "How long do coffee beans last" is a pure informational query with near-zero competition — the kind of question a home barista asks within the first month. Builds topical authority for coffee freshness/storage angle.
+- Both articles create a "coffee beans knowledge" cluster together with espresso-beans-vs-coffee-beans.
+
+**Outcome:** Commit 3167806 pushed. Vercel deployment triggered. Site at 124 articles. DataForSEO spend: $0.15 this pulse (2 search-vol batches); cumulative well under $1/day.
+
+**Next (Pulse 63):** SC optimization pass — pages at pos 20–50 that could be pushed higher with targeted internal links. Focus on: ristretto-vs-espresso (pos 31.3), simple-syrup-recipe (pos 37.25), how-to-make-a-macchiato (pos 44.4). Check if tiramisu-recipe is finally indexed. Consider flat-white page optimization (111 impressions, pos 77.7).
+
+---
+
 ## 2026-04-25 22:00 IDT — Pulse 61: Coffee Granita Recipe (320/mo, ZERO comp) + Brown Butter Latte Recipe (390/mo, ZERO comp) + 2 Internal Links
 
 **Action:** DataForSEO research (1 search-volume batch, $0.075 total). Published 2 new articles. Added 2 inbound internal links. Site now at 122 articles.

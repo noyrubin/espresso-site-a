@@ -6,7 +6,7 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 22 (Pulse 61) — 122 articles published. WHITE ESPRESSO: pos 4.0, 130 impressions, 1 click — still holding at pos 4. ristretto-vs-espresso: pos 31.3 — stable. how-to-make-a-flat-white: 111 impressions pos 77.7 — high impressions, needs to climb. GA4 organic: still pre-ranking phase. NEW THIS PULSE: coffee granita recipe (320/mo, 0/100 — ZERO comp) + brown butter latte recipe (390/mo, 0/100 — ZERO comp). DataForSEO spend: $0.075 this pulse (1 search-vol batch). Key insight: all major coffee dessert categories now covered (tiramisu, ice cream, cake, cookies, cheesecake, mocha sauce, granita). Specialty latte cluster also growing (brown butter joins maple, honey, pistachio, rose, etc.). Next focus: check SC for white espresso movement (pos 4 — target top 3), tiramisu indexing status, and any new impression spikes. Look for non-recipe content gaps.
+Day 23 (Pulse 62) — 124 articles published. WHITE ESPRESSO: pos 4.0, 130 impressions, 1 click — still stable at pos 4, no movement. how-to-make-a-flat-white: 111 impressions at pos 77.7 — high impressions, stuck deep. GA4 organic: still pre-ranking phase (only 2 sessions all-time). TIRAMISU RECIPE: Still "URL unknown to Google" after 6+ days — very concerning. Sitemap re-submitted this pulse. 11+ inbound links to tiramisu-recipe already exist so crawl discovery should not be the issue. NEW THIS PULSE: light roast vs dark roast (4,400/mo, LOW 15/100) + how long do coffee beans last (2,900/mo, LOW 6/100). DataForSEO spend: $0.15 this pulse (2 search-vol batches). Espresso technique keywords (tamping, extraction, etc.) turned out mostly tiny volume (<400/mo) or high competition — skip. Key insight: coffee knowledge/education gap found (roast levels, storage/freshness). Next focus: continue exploring coffee education gaps + check if tiramisu gets indexed, monitor flat-white impressions for position movement.
 
 ## Keyword Targets
 *Updated with DataForSEO research through Pulse 8.*
@@ -140,6 +140,8 @@ Day 22 (Pulse 61) — 122 articles published. WHITE ESPRESSO: pos 4.0, 130 impre
 | espresso cheesecake recipe | 390 | LOW (0/100) | /recipes/espresso-cheesecake-recipe/ | Published + FAQ + Recipe JSON-LD (Pulse 60) — ZERO competition; baked + no-bake methods, 4 variations (mocha, tiramisu cheesecake, white choc espresso, coffee Oreo), crust comparison table; internal link from tiramisu-recipe |
 | coffee granita recipe | 320 | LOW (0/100) | /recipes/coffee-granita-recipe/ | Published + FAQ + Recipe JSON-LD (Pulse 61) — ZERO competition; Italian fork-scraping method, 6 variations, espresso strength guide table; internal link from coffee-ice-cream-recipe |
 | brown butter latte | 390 | LOW (0/100) | /recipes/brown-butter-latte-recipe/ | Published + FAQ (Pulse 61) — ZERO competition; beurre noisette technique, color chart, 6 variations (maple, vanilla, hazelnut, salted caramel, oat milk, cold brew); internal link from bulletproof-coffee-recipe |
+| light roast vs dark roast | 4,400 | LOW (15/100) | /guides/light-roast-vs-dark-roast/ | Published (Pulse 62) — also captures "coffee roast levels" (720/mo, 17/100) = ~5,120/mo combined; flavor comparison, caffeine myth, roast-by-method table, espresso roast guide; internal link from espresso-beans-vs-coffee-beans |
+| how long do coffee beans last | 2,900 | LOW (6/100) | /guides/how-long-do-coffee-beans-last/ | Published + FAQ (Pulse 62) — near-zero competition; shelf life by form table, storage comparison, staleness tests; also captures "do coffee beans go bad" + "coffee bean expiration" cluster; internal link from espresso-beans-vs-coffee-beans |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -269,10 +271,18 @@ Day 22 (Pulse 61) — 122 articles published. WHITE ESPRESSO: pos 4.0, 130 impre
 - "passion fruit lemonade" (1,000/mo, LOW 33/100) — competition too high relative to volume; not in core espresso/coffee niche
 - "lychee latte" (30/mo), "honey oat milk latte" (70/mo), "peach latte" (170/mo), "mango latte" (210/mo) — all too small volume standalone
 
-### In Progress
-*(none — pulse 60 complete)*
+- "espresso tamping" (9,900/mo, HIGH 100/100) — skip, too competitive despite volume
+- "espresso channeling" (390/mo, LOW 2/100) — too small standalone
+- "pre-infusion espresso" (320/mo, LOW 8/100) — too small standalone
+- "how to store coffee beans" (1,900/mo, HIGH 79/100) — already captured as section in how-long-do-coffee-beans-last; too competitive for standalone
+- "single origin coffee" (14,800/mo, HIGH 84/100) — skip, too competitive
+- [DONE Pulse 62] "light roast vs dark roast" (4,400/mo, LOW 15/100) — published as /guides/light-roast-vs-dark-roast/; also captures "coffee roast levels" (720/mo, 17/100)
+- [DONE Pulse 62] "how long do coffee beans last" (2,900/mo, LOW 6/100) — published as /guides/how-long-do-coffee-beans-last/; shelf life guide for all coffee forms
 
-### Published (120 articles)
+### In Progress
+*(none — pulse 62 complete)*
+
+### Published (124 articles)
 1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5, flat white + macchiato links pulse 6)
 2. /guides/how-to-steam-milk-latte-art/ (+ FAQ pulse 3)
 3. /guides/espresso-grind-size-guide/ (+ FAQ pulse 2, WDT link pulse 4)
@@ -386,6 +396,8 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 110. /recipes/nutella-latte-recipe/ (NEW pulse 57, + FAQ) — 720/mo LOW (0/100) ZERO competition. Hot + iced, Nutella dissolving technique (hot espresso first), Nutella syrup for batching, milk options table, 5 variations (cappuccino, cold brew, mocha, white choc, vegan), amount guide table, 6 FAQs. Internal link IN: mocha-recipe.
 111. /recipes/coffee-granita-recipe/ (NEW pulse 61, + FAQ + Recipe JSON-LD) — ~370/mo combined: "coffee granita recipe" (320/mo, LOW 0/100) + "espresso granita recipe" (50/mo). ZERO competition. Italian fork-scraping granita method, espresso strength guide table, 6 variations (vanilla cream, mocha, cardamom, spiked, cold brew, classic), serving ideas, troubleshooting table. Internal link IN: coffee-ice-cream-recipe.
 112. /recipes/brown-butter-latte-recipe/ (NEW pulse 61, + FAQ) — 390/mo LOW (0/100) ZERO competition. Beurre noisette technique (color chart: pale gold → amber-gold → burnt), iced version, 6 variations (maple, vanilla, hazelnut, salted caramel, oat milk, cold brew), pairing guide table, milk options table, make-ahead tips, troubleshooting table. Internal link IN: bulletproof-coffee-recipe.
+113. /guides/light-roast-vs-dark-roast/ (NEW pulse 62) — ~5,120/mo combined: "light roast vs dark roast" (4,400/mo, LOW 15/100) + "coffee roast levels" (720/mo, LOW 17/100). Full roast level comparison (light/medium/medium-dark/dark), flavor profile table, caffeine myth explained (light has more by weight), roast-by-method guide table, acidity comparison, storage by roast level, FAQ. Internal link IN: espresso-beans-vs-coffee-beans.
+114. /guides/how-long-do-coffee-beans-last/ (NEW pulse 62, + FAQ) — 2,900/mo LOW (6/100) near-zero competition. Shelf life by form table (whole beans/ground/instant/pods/cold brew/brewed), CO2 freshness window, dark vs light roast shelf life, storage methods comparison table, staleness tests (smell/bloom/crema/taste), freezing guide, expiration date explained. Internal link IN: espresso-beans-vs-coffee-beans; Internal links OUT: light-roast-vs-dark-roast, cold-brew-recipe, coffee-ice-cubes, simple-syrup-recipe.
 
 ## Technical SEO Status
 - [x] Sitemap submitted (64 URLs — Hugo auto-generates including tags, categories, all content)
@@ -430,11 +442,11 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 62:** Check SC for white espresso movement (pos 4.0 — target pos 1–3), tiramisu recipe indexing status (was "unknown to Google" in Pulse 60, check again), and any new impression spikes. DataForSEO research: "coffee pudding recipe" volume? "espresso powder uses" angle? Look for non-recipe content gaps — any "how to" espresso guides not yet covered (e.g., "how to pull a perfect espresso shot", "espresso extraction" guide). Research 2–3 candidates.
-2. **Pulse 63:** SC optimization pass — pages at pos 20–40 that could be boosted with internal links or content expansion. Key targets: ristretto-vs-espresso (pos 31.3), simple-syrup-recipe (pos 37.25), how-to-make-a-macchiato (pos 44.4). One additional inbound link each from thematically adjacent pages could push them toward page 1.
-3. **Pulse 64:** Continue expanding content in any uncovered clusters found in Pulse 62 research. Evaluate whether how-to-make-a-flat-white (111 impressions, pos 77.7) needs content expansion or optimization to climb from pos 77 into the top 30.
+1. **Pulse 63:** SC optimization pass — pages at pos 20–40 that could be boosted with internal links or content expansion. Key targets: ristretto-vs-espresso (pos 31.3), simple-syrup-recipe (pos 37.25), how-to-make-a-macchiato (pos 44.4). One additional inbound link each from thematically adjacent pages could push them toward page 1. Also check tiramisu-recipe indexing (still "unknown" after 6+ days, sitemap submitted this pulse).
+2. **Pulse 64:** Coffee knowledge/education content gap — research "coffee origin guide", "how coffee is made", "arabica vs robusta" volume + competition. Also explore: "coffee grind size chart" (probably HIGH comp), "how much coffee per cup" (possible low comp). Evaluate how-to-make-a-flat-white (111 impressions, pos 77.7) optimization.
+3. **Pulse 65:** Continue most promising cluster from Pulse 64 research. Consider whether white-espresso page (pos 4.0, 130 impressions) needs on-page optimization to move to pos 1–3.
 
 ---
-*Last updated: 2026-04-25 (Pulse 61)*
+*Last updated: 2026-04-26 (Pulse 62)*
 
 
