@@ -57,6 +57,8 @@ The best upgrade you can make to a peppermint mocha is making your own peppermin
 
 > **Peppermint extract strength varies by brand.** McCormick and Nielsen-Massey are strong — use ½ tsp. Cheaper brands may need ¾–1 tsp. Always taste and adjust after the syrup cools.
 
+The 1:1 sugar-to-water base above is a standard simple syrup. To swap peppermint for vanilla, caramel, brown sugar, hazelnut, or lavender (also great in mochas), use the same method with different infusions — see our [simple syrup recipe guide](/guides/simple-syrup-recipe/) for each variation.
+
 ### Peppermint Syrup vs Peppermint Extract (Direct)
 
 You can skip the syrup and add a few drops of peppermint extract directly to your drink, but the flavor is harsh and hard to control. A simple syrup dilutes the extract and adds sweetness in one step — it integrates into the drink much better.

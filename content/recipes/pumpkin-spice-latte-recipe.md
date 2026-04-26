@@ -56,6 +56,8 @@ This syrup takes about 10 minutes and keeps in the fridge for 2 weeks. It's the 
 
 > **Tip:** Don't boil the syrup aggressively — it makes the spices bitter. A gentle simmer is all you need.
 
+The base method here (1:1 sugar + water + flavor infusion) works for any flavored coffee syrup. See our [simple syrup recipe guide](/guides/simple-syrup-recipe/) for vanilla, caramel, brown sugar, hazelnut, and lavender variations using the same technique.
+
 ---
 
 ## Classic Hot Pumpkin Spice Latte

@@ -52,6 +52,8 @@ Maple syrup grades tell you about color, flavor intensity, and taste. All are pu
 
 **Sweetness tip:** Dissolve the maple syrup in the hot espresso *before* adding milk. This integrates the flavor better than adding it at the end.
 
+**Want a maple-flavored simple syrup instead?** If you prefer a thinner, faster-pouring syrup that mixes uniformly into iced drinks, simmer ½ cup maple syrup with ¼ cup water for 2 minutes. This dilutes the maple slightly but produces a cleaner texture. The same dilution-and-infusion technique works for the syrups in our [simple syrup recipe guide](/guides/simple-syrup-recipe/).
+
 ## How to Make an Iced Maple Latte
 
 **Time:** 5 minutes

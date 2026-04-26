@@ -152,7 +152,7 @@ The word *macchiato* means "stained" in Italian — the espresso is "stained" wi
 | **Taste** | Balanced milk and espresso | Milky, layered | Almost straight espresso |
 | **For whom** | Espresso drinkers who want milk | Milk drinkers who want a little espresso | Espresso purists |
 
-A cappuccino is between an espresso macchiato (minimal milk) and a latte macchiato (mostly milk). If you want something stronger than a cappuccino, try an espresso macchiato. If you want something milder, go latte macchiato or just a latte.
+A cappuccino is between an espresso macchiato (minimal milk) and a latte macchiato (mostly milk). If you want something stronger than a cappuccino, try an espresso macchiato. If you want something milder, go latte macchiato or just a latte. For the full method on both styles, see our [how to make a macchiato guide](/guides/how-to-make-a-macchiato/).
 
 ---
 

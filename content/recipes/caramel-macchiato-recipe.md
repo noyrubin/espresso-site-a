@@ -35,7 +35,7 @@ For one 12 oz serving:
 - **Optional:** extra caramel on the bottom for a stronger caramel flavor
 
 **Store-bought vs homemade:**
-- Vanilla syrup: Monin, Torani, or DaVinci are all excellent. Or make your own: equal parts sugar and water simmered with a vanilla bean or a teaspoon of vanilla extract.
+- Vanilla syrup: Monin, Torani, or DaVinci are all excellent. Or make your own: equal parts sugar and water simmered with a vanilla bean or a teaspoon of vanilla extract — full method in our [simple syrup recipe guide](/guides/simple-syrup-recipe/), which also covers caramel and other coffee syrup variations.
 - Caramel sauce: Trader Joe's Fleur de Sel, Ghirardelli, or homemade. Avoid thin caramel syrups — you want sauce with body that holds as a drizzle.
 
 ## How to Make a Hot Caramel Macchiato

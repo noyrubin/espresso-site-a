@@ -102,7 +102,7 @@ A well-pulled double espresso has a balanced bittersweet flavor with notes that 
 
 **As a straight shot:** Drink a double espresso as-is, especially from a high-quality single-origin bean where you want to taste the coffee's character clearly. This is the purist approach.
 
-**As the base for milk drinks:** Most espresso drinks — lattes, cappuccinos, flat whites, macchiatos — use a double as the base. The double provides enough coffee flavor to remain present through the steamed milk.
+**As the base for milk drinks:** Most espresso drinks — lattes, cappuccinos, flat whites, macchiatos — use a double as the base. The double provides enough coffee flavor to remain present through the steamed milk. (For the macchiato specifically, see [how to make a macchiato](/guides/how-to-make-a-macchiato/) — both the traditional 1-shot espresso macchiato and the larger latte macchiato are covered.)
 
 **For larger drinks:** If you want more coffee flavor in a larger cup, a double is the starting point. You can also double the dose by pulling two doubles for a quad shot in a large format drink.
 

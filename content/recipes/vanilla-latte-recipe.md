@@ -56,6 +56,8 @@ Makes about ½ cup (8-10 servings). Keeps for up to 2 weeks in the fridge.
 
 **Sweetness note:** This makes a medium-sweet syrup. For less sweet, use 1 tablespoon per drink. For Starbucks-level sweetness, use 2-3 tablespoons.
 
+For more flavored syrup recipes (caramel, hazelnut, brown sugar, lavender), see our complete [simple syrup recipe guide](/guides/simple-syrup-recipe/) — same 1:1 base, different infusions.
+
 ## Hot Vanilla Latte Recipe
 
 **Step 1: Pull your espresso**
