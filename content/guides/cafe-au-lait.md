@@ -42,7 +42,7 @@ A café au lait is **strong brewed coffee (not espresso) mixed in roughly a 1:1 
 It's *not*:
 - A latte (that's espresso + a lot of steamed milk + microfoam, in a tall glass).
 - A cappuccino (espresso + steamed milk + thick foam in equal thirds).
-- Espresso with milk (that's a cortado, breve, or flat white depending on ratio).
+- Espresso with milk (that's a cortado, breve, or [flat white](/guides/how-to-make-a-flat-white/) depending on ratio).
 
 It *is*:
 - A breakfast drink. The bowl format isn't decorative — it's there so you can dunk bread, croissants, or pastries directly into the coffee.

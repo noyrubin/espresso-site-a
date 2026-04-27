@@ -188,6 +188,7 @@ A: You can. G7 by Trung Nguyen makes instant Vietnamese coffee packets that are 
 ## More Coffee Drinks to Try
 
 - [Condensed Milk Coffee Recipe](/recipes/condensed-milk-coffee-recipe/) — more ways to use condensed milk in coffee, including Cuban cortadito and Thai iced coffee styles
+- [Thai Iced Coffee Recipe (Oliang)](/recipes/thai-iced-coffee-recipe/) — the spiced, cardamom-forward Thai style with traditional coffee blend and condensed milk
 - [Café de Olla Recipe](/recipes/cafe-de-olla-recipe/) — traditional Mexican cinnamon-spiced coffee, another cultural brewing tradition worth exploring
 - [Dirty Chai Latte Recipe](/recipes/dirty-chai-latte-recipe/) — espresso meets spiced tea
 - [Cold Brew Recipe](/guides/cold-brew-recipe/) — easy concentrate method for iced coffee all week

@@ -122,7 +122,7 @@ A cortadito is a Cuban espresso drink where condensed milk is used instead of re
 
 ## Thai Iced Coffee Style
 
-Thai iced coffee (oliang) uses coffee brewed with cardamom, star anise, and sesame seeds — a blend sold as "Thai coffee mix." Condensed milk is added for sweetness and creaminess.
+[Thai iced coffee](/recipes/thai-iced-coffee-recipe/) (oliang) uses coffee brewed with cardamom, star anise, and sesame seeds — a blend sold as "Thai coffee mix." Condensed milk is added for sweetness and creaminess.
 
 **Home shortcut:**
 1. Brew strong espresso or dark drip coffee.

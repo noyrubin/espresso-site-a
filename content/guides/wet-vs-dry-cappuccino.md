@@ -47,7 +47,7 @@ If you've ever ordered a cappuccino and gotten something that felt too foamy or 
 
 ## What Is a Wet Cappuccino?
 
-A **wet cappuccino** uses the same single (or double) shot of espresso as a regular cappuccino, but the barista pours mostly steamed milk into the cup with only a small layer of microfoam on top. It drinks closer to a small latte or a flat white than to a traditional cappuccino.
+A **wet cappuccino** uses the same single (or double) shot of espresso as a regular cappuccino, but the barista pours mostly steamed milk into the cup with only a small layer of microfoam on top. It drinks closer to a small latte or a [flat white](/guides/how-to-make-a-flat-white/) than to a traditional cappuccino.
 
 People order wet cappuccinos when they want:
 - **More milky, smoother mouthfeel** — less air, more liquid

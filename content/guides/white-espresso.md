@@ -1,7 +1,7 @@
 ---
-title: "What Is White Espresso? The Complete Guide to White Coffee Shots"
+title: "What Is White Espresso? Higher Caffeine, Nutty Flavor Explained"
 date: 2026-04-15
-description: "White espresso is made from ultra-lightly roasted beans, giving a pale golden shot with nutty flavor and high caffeine. Learn what it is, how it tastes, and how to make it."
+description: "White espresso uses ultra-lightly roasted beans — producing pale golden shots with a nutty, sweet flavor and up to 50% more caffeine than regular espresso. Here's what it tastes like and how to make it."
 tags: ["white espresso", "white coffee", "espresso", "specialty coffee", "beginner"]
 categories: ["guides"]
 author: "Home Espresso Lab"
