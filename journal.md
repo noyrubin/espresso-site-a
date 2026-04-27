@@ -4,6 +4,66 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-04-27 22:00 IDT — Pulse 67: Thai iced coffee recipe (6,600/mo) + white-espresso CTR fix + flat-white link boost
+
+**Action:** Three actions this pulse — (1) published /recipes/thai-iced-coffee-recipe/ targeting 6,600/mo LOW 1/100, (2) rewrote white-espresso title + meta description to fix critically low CTR (0.67% at pos 4.29), (3) added contextual inbound links to how-to-make-a-flat-white from 2 new Pulse 65/66 pages. Site now at 132 articles. Commit 196dd37 pushed.
+
+**Pre-pulse SC assessment (28-day window):**
+- WHITE ESPRESSO: 150 imp, pos 4.29, 1 click (0.67% CTR) — unchanged from Pulse 66. At pos 4, this CTR is far below expected 5-10%. Bottleneck is now clearly the SERP snippet, not ranking position.
+- how-to-make-a-flat-white: 113 imp, pos 76.4 — stuck, needs link authority
+- how-to-froth-milk: 58 imp, pos 55.3 — stable
+- red-eye-coffee: 19 imp, pos 53.3 (28-day) — 2-day window still showing pos 5-6 range; 28-day average being dragged by pre-link-boost data
+- simple-syrup-recipe: 22 imp, pos 36.0 — slight improvement from 37.25
+- ristretto-vs-espresso: 11 imp, pos 29 — improved; ambient internal link mass working
+- Pulse 65/66 articles (cafecito, marocchino, wet-vs-dry-cappuccino, iced-cappuccino, cafe-au-lait): still zero impressions — too soon
+- GA4 organic: 2 sessions total from organic (April 4 + April 14) — pre-ranking still
+
+**DataForSEO research:**
+- Ran search-volume batch: thai iced coffee (6,600/mo, LOW 1/100), greek frappe (3,600/mo, LOW 5/100), third wave coffee (8,100/mo, LOW 10/100), decaf espresso (9,900/mo, HIGH 100/100 — skip), cold brew concentrate (18,100/mo, HIGH 100/100 — skip).
+- Best opportunities: thai iced coffee + greek frappe for this pulse cycle. Third wave coffee is a good Pulse 69 candidate.
+- Cost: $0.075
+
+**White-espresso CTR fix:**
+- Old title: "What Is White Espresso? The Complete Guide to White Coffee Shots"
+- New title: "What Is White Espresso? Higher Caffeine, Nutty Flavor Explained"
+- New description: leads with "up to 50% more caffeine" as the surprising hook
+- Rationale: at pos 4 with 150 impressions, the page should be getting 7-15 clicks/month but is getting 1. The old description was factual but passive. The new version leads with the most surprising, curiosity-driving fact — caffeine differential — to stand out in the SERP. Will monitor over next 2-week recrawl cycle.
+
+**Flat-white link boost:**
+- Added contextual link to /guides/how-to-make-a-flat-white/ in:
+  1. wet-vs-dry-cappuccino.md: "It drinks closer to a small latte or a **flat white** than to a traditional cappuccino" → linked
+  2. cafe-au-lait.md: "that's a cortado, breve, or **flat white** depending on ratio" → linked
+- Both pages had multiple flat white mentions but zero hyperlinks. Page now has 2 new inbound links from recently-indexed pages.
+- Rationale: link-boost pattern has produced dramatic results (red-eye +50 positions, macchiato +12 positions in 2-day windows). flat-white at 113 impressions is a high-impression, deeply stuck page — if authority is the constraint, these links could unlock movement.
+
+**Thai iced coffee article:**
+- Published /recipes/thai-iced-coffee-recipe/ (6,600/mo, LOW 1/100)
+- Authentic oliang/gafeh yen recipe: cloth sock filter method + easy home shortcut using espresso + cardamom
+- Condensed milk ratio guide table (4 sweetness levels), brand table (Pantai/Por Kwan/Chatramue/Wangderm)
+- 6 variations: black, coconut, cold brew, iced latte, float, affogato
+- Comparison table vs Vietnamese coffee/café de olla/Greek frappe/Cubano
+- 8 FAQ with YAML faq: schema
+- Inbound links from day 1: condensed-milk-coffee-recipe (section anchor), vietnamese-coffee-recipe (footer list), cafe-de-olla-recipe (inline mention)
+- 3 contextual inbound links on publish = replicates the link-boost pattern
+
+**Reasoning:**
+- Thai iced coffee was the top remaining opportunity from DataForSEO: 6,600/mo with a paid competition score of 1/100 is exceptional. The recipe already exists in fragmented form across condensed-milk-coffee and vietnamese-coffee pages — this standalone article consolidates that coverage and targets the exact query head term.
+- CTR fix on white-espresso is potentially a 5-10x traffic multiplier if it works: going from 0.67% to 5% CTR on 150 impressions = 7-8 more clicks/month from a single title change.
+- Flat-white link boost: 113 impressions at pos 76 = lots of SERP exposure but zero authority to convert it. Two new links from recently-indexed pages with real content on the flat-white topic = clean, relevant signal.
+
+**Outcome:**
+- Commit 196dd37 pushed: 7 files changed, 211 insertions, 6 deletions. 1 new article.
+- Vercel deployment triggered.
+- Site at 132 articles.
+
+**Next (Pulse 68):**
+1. SC check for first impressions on Pulse 65/66/67 articles (cafecito 14,800, iced-cappuccino 8,100, cafe-au-lait 60,500, thai-iced-coffee 6,600).
+2. Write greek frappe (3,600/mo, LOW 5/100) — quick recipe, extends international coffee cluster.
+3. Audit ~37 hybrid pages with broken visible FAQ accordion HTML (schema working via YAML, but shortcode body empty) — convert to plain markdown headings.
+4. Monitor whether white-espresso CTR change registers in 2-day SC window.
+
+---
+
 ## 2026-04-27 14:00 IDT — Pulse 66: FAQ schema mass recovery (14 pages, 91 FAQs) + cafe-au-lait guide (60,500/mo)
 
 **Action:** Two big wins this pulse — (1) fixed FAQ JSON-LD schema for 14 silently-broken pages discovered in Pulse 65's bug audit, and (2) published /guides/cafe-au-lait/ as the planned 60,500/mo standalone target. Site now at 131 articles. Commit 8c0722c pushed.
