@@ -8,6 +8,23 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "What is a marocchino?"
+    answer: "A marocchino is a small Italian espresso drink made with a single shot of espresso, a dusting of cocoa powder, and a small dollop of milk foam — traditionally served in a small clear glass. It originated in Alessandria, in the Piedmont region of northern Italy. Modern versions often include Nutella or melted chocolate at the bottom of the glass."
+  - question: "What's the difference between a marocchino and a mocha?"
+    answer: "A marocchino is small (~60–80 ml), espresso-forward, has no liquid milk (just a foam dollop), and uses cocoa powder. A mocha is much larger (240–360 ml), milky, and uses chocolate syrup or sauce. The marocchino is a sipper; the mocha is a full milk drink. They share the espresso + chocolate concept but are different drinks in size, ratio, and feel."
+  - question: "Does a marocchino have caffeine?"
+    answer: "Yes — about 60–80 mg, the same as a single espresso shot, since espresso is the only caffeine source. The cocoa powder adds a tiny amount more (~5–10 mg)."
+  - question: "Can I make a marocchino without an espresso machine?"
+    answer: "Yes. Use a moka pot, AeroPress, or strong instant espresso as a substitute. The key is a concentrated coffee strong enough to stand up to the cocoa. Avoid using regular drip or French press coffee — it's too dilute. For frothing milk without a steam wand, a handheld milk frother works fine."
+  - question: "Why is it called a marocchino?"
+    answer: "The drink is named after marocchino — a fine tanned leather (literally 'Moroccan leather') that was popular in northern Italian luxury goods in the early 20th century. The brown layered color of the espresso, cocoa, and foam was said to resemble the color of the leather. The drink originated in Alessandria, in the Piedmont region."
+  - question: "Is a marocchino sweet?"
+    answer: "It's lightly sweet at most. The traditional version with unsweetened cocoa powder is barely sweet — the cocoa adds chocolate flavor, not sugar. The modern Nutella version is noticeably sweeter (Nutella is ~55% sugar). If you want a sweet drink, ask for the Nutella version; if you want a more bitter, espresso-forward drink, ask for the cocoa-only version."
+  - question: "What's the difference between a marocchino and a bicerin?"
+    answer: "Both are Piedmontese, but a bicerin is a layered drink of espresso, hot chocolate, and cream in a tall glass — drunk through the layers without stirring. A marocchino is smaller and uses cocoa powder + foam, not hot chocolate + cream. Bicerin originated in Turin in the 18th century; the marocchino is younger and from Alessandria."
+  - question: "Can I drink a marocchino as an afternoon coffee?"
+    answer: "In Italy, traditionalists wouldn't — Italians generally avoid milk-containing coffee drinks after about 11am. But the rule is dropping among younger Italians, and outside of Italy nobody cares. The drink is small enough that it works as a mid-morning or after-lunch espresso replacement when you want a little chocolate too."
 ---
 
 A **marocchino** is a small Italian espresso drink made with espresso, a dusting of cocoa powder, and a topping of milk foam — usually served in a small glass cup so you can see the layered colors. It originated in the Piedmont region in northern Italy and is one of those drinks that almost no one outside of Italy has heard of, even though it's been on Italian café menus for nearly a century.
@@ -187,24 +204,31 @@ In Italy, marocchinos are a morning drink (like all milk-containing coffee drink
 
 ---
 
-{{< faq >}}
-  - question: "What is a marocchino?"
-    answer: "A marocchino is a small Italian espresso drink made with a single shot of espresso, a dusting of cocoa powder, and a small dollop of milk foam — traditionally served in a small clear glass. It originated in Alessandria, in the Piedmont region of northern Italy. Modern versions often include Nutella or melted chocolate at the bottom of the glass."
-  - question: "What's the difference between a marocchino and a mocha?"
-    answer: "A marocchino is small (~60–80 ml), espresso-forward, has no liquid milk (just a foam dollop), and uses cocoa powder. A mocha is much larger (240–360 ml), milky, and uses chocolate syrup or sauce. The marocchino is a sipper; the mocha is a full milk drink. They share the espresso + chocolate concept but are different drinks in size, ratio, and feel."
-  - question: "Does a marocchino have caffeine?"
-    answer: "Yes — about 60–80 mg, the same as a single espresso shot, since espresso is the only caffeine source. The cocoa powder adds a tiny amount more (~5–10 mg). For more on espresso caffeine, see our [espresso caffeine guide](/guides/espresso-caffeine/)."
-  - question: "Can I make a marocchino without an espresso machine?"
-    answer: "Yes. Use a moka pot, AeroPress, or strong instant espresso as a substitute. The key is a concentrated coffee strong enough to stand up to the cocoa. Avoid using regular drip or French press coffee — it's too dilute. For frothing milk without a steam wand, a handheld milk frother works fine."
-  - question: "Why is it called a marocchino?"
-    answer: "The drink is named after marocchino — a fine tanned leather (literally 'Moroccan leather') that was popular in northern Italian luxury goods in the early 20th century. The brown layered color of the espresso, cocoa, and foam was said to resemble the color of the leather. The drink originated in Alessandria, in the Piedmont region."
-  - question: "Is a marocchino sweet?"
-    answer: "It's lightly sweet at most. The traditional version with unsweetened cocoa powder is barely sweet — the cocoa adds chocolate flavor, not sugar. The modern Nutella version is noticeably sweeter (Nutella is ~55% sugar). If you want a sweet drink, ask for the Nutella version; if you want a more bitter, espresso-forward drink, ask for the cocoa-only version."
-  - question: "What's the difference between a marocchino and a bicerin?"
-    answer: "Both are Piedmontese, but a bicerin is a layered drink of espresso, hot chocolate, and cream in a tall glass — drunk through the layers without stirring. A marocchino is smaller and uses cocoa powder + foam, not hot chocolate + cream. Bicerin originated in Turin in the 18th century; the marocchino is younger and from Alessandria."
-  - question: "Can I drink a marocchino as an afternoon coffee?"
-    answer: "In Italy, traditionalists wouldn't — Italians generally avoid milk-containing coffee drinks after about 11am. But the rule is dropping among younger Italians, and outside of Italy nobody cares. The drink is small enough that it works as a mid-morning or after-lunch espresso replacement when you want a little chocolate too."
-{{< /faq >}}
+## Frequently Asked Questions
+
+### What is a marocchino?
+A marocchino is a small Italian espresso drink made with a single shot of espresso, a dusting of cocoa powder, and a small dollop of milk foam — traditionally served in a small clear glass. It originated in Alessandria, in the Piedmont region of northern Italy. Modern versions often include Nutella or melted chocolate at the bottom of the glass.
+
+### What's the difference between a marocchino and a mocha?
+A marocchino is small (~60–80 ml), espresso-forward, has no liquid milk (just a foam dollop), and uses cocoa powder. A mocha is much larger (240–360 ml), milky, and uses chocolate syrup or sauce. The marocchino is a sipper; the mocha is a full milk drink. They share the espresso + chocolate concept but are different drinks in size, ratio, and feel.
+
+### Does a marocchino have caffeine?
+Yes — about 60–80 mg, the same as a single espresso shot, since espresso is the only caffeine source. The cocoa powder adds a tiny amount more (~5–10 mg). For more on espresso caffeine, see our [espresso caffeine guide](/guides/espresso-caffeine/).
+
+### Can I make a marocchino without an espresso machine?
+Yes. Use a moka pot, AeroPress, or strong instant espresso as a substitute. The key is a concentrated coffee strong enough to stand up to the cocoa. Avoid using regular drip or French press coffee — it's too dilute. For frothing milk without a steam wand, a handheld milk frother works fine.
+
+### Why is it called a marocchino?
+The drink is named after marocchino — a fine tanned leather (literally "Moroccan leather") that was popular in northern Italian luxury goods in the early 20th century. The brown layered color of the espresso, cocoa, and foam was said to resemble the color of the leather. The drink originated in Alessandria, in the Piedmont region.
+
+### Is a marocchino sweet?
+It's lightly sweet at most. The traditional version with unsweetened cocoa powder is barely sweet — the cocoa adds chocolate flavor, not sugar. The modern Nutella version is noticeably sweeter (Nutella is ~55% sugar). If you want a sweet drink, ask for the Nutella version; if you want a more bitter, espresso-forward drink, ask for the cocoa-only version.
+
+### What's the difference between a marocchino and a bicerin?
+Both are Piedmontese, but a bicerin is a layered drink of espresso, hot chocolate, and cream in a tall glass — drunk through the layers without stirring. A marocchino is smaller and uses cocoa powder + foam, not hot chocolate + cream. Bicerin originated in Turin in the 18th century; the marocchino is younger and from Alessandria.
+
+### Can I drink a marocchino as an afternoon coffee?
+In Italy, traditionalists wouldn't — Italians generally avoid milk-containing coffee drinks after about 11am. But the rule is dropping among younger Italians, and outside of Italy nobody cares. The drink is small enough that it works as a mid-morning or after-lunch espresso replacement when you want a little chocolate too.
 
 ---
 

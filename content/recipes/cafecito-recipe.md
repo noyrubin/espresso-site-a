@@ -8,6 +8,23 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "What is cafecito made of?"
+    answer: "Cafecito is made of espresso (or strong moka pot brew) and demerara/raw cane sugar whipped together. The first drops of brewing coffee are whipped with sugar to make espumita — a tan sugar-coffee foam — and the rest of the espresso is poured on top."
+  - question: "Is cafecito the same as cafe cubano?"
+    answer: "Yes. Cafecito and café cubano are the same drink. Cafecito (Spanish for 'little coffee') is the everyday/affectionate name used in Miami, Tampa, and Cuban-American communities. Café cubano is the formal name used on menus. Both refer to a sweet espresso topped with espumita foam."
+  - question: "What kind of coffee do you use for cafecito?"
+    answer: "The most traditional brands are Café Bustelo, Café La Llave, and Café Pilon — all Spanish-American medium-dark roasts pre-ground for espresso/moka pot. Any medium-dark Italian-style espresso blend works, ideally one with at least 10-20% robusta for body and crema."
+  - question: "What is espumita?"
+    answer: "Espumita ('little foam') is the tan, glossy sugar foam that defines cafecito. It is made by whipping the first few drops of brewing espresso with raw cane sugar for 30-60 seconds until thick and pale tan. The rest of the espresso is poured on top, and the espumita floats."
+  - question: "How much sugar goes in cafecito?"
+    answer: "Traditionally 1 teaspoon of demerara or raw cane sugar per shot. Strong-Cuban style uses 1.5-2 teaspoons. Some Miami cafés use as much as 2 teaspoons per shot. The sugar is what creates the espumita — you cannot make cafecito without it."
+  - question: "Can you make cafecito without a moka pot?"
+    answer: "Yes. Use any espresso machine (Bustelo or any medium-dark espresso roast), or use an Aeropress with fine grind, or even a strong AeroPress concentrate. The key is a strong, hot, espresso-strength brew so the espumita can be whipped from the first drops."
+  - question: "What is the difference between a cafecito and a colada?"
+    answer: "A cafecito is a single small shot (~1.5 oz). A colada is a 3-4 oz shareable version, typically 3-4 espresso shots brewed and whipped together with espumita, served in a styrofoam cup with a stack of small plastic shot cups for sharing."
+  - question: "Is cafecito stronger than regular espresso?"
+    answer: "Caffeine-wise, cafecito is the same as regular espresso (about 60-80 mg per shot). It is flavor-stronger because Cuban-style coffee uses a darker roast and more sugar — but the caffeine content per shot is comparable. See our espresso caffeine guide for more."
 ---
 
 Cafecito — also called *café cubano* or simply Cuban coffee — is one of the most beloved espresso drinks in the Caribbean and Latin diaspora. It is a small, sweet shot of strong espresso topped with a glossy tan foam called *espumita*, made by whipping the first drops of brew with sugar. One sip and you understand why it powers Miami mornings, family dinners, and entire neighborhoods.
@@ -226,39 +243,31 @@ Cafecito is meant to be sweet — but how sweet varies by family, region, and ti
 
 **Aeropress alternative:** brew an Aeropress shot using fine grind and inverted method for ~30 seconds at 200°F. Use the first ½ oz of the press for espumita, the rest for the body of the cafecito.
 
-## FAQ
+## Frequently Asked Questions
 
-{{< faq question="What is cafecito made of?" >}}
+### What is cafecito made of?
 Cafecito is made of espresso (or strong moka pot brew) and demerara/raw cane sugar whipped together. The first drops of brewing coffee are whipped with sugar to make espumita — a tan sugar-coffee foam — and the rest of the espresso is poured on top.
-{{< /faq >}}
 
-{{< faq question="Is cafecito the same as cafe cubano?" >}}
+### Is cafecito the same as café cubano?
 Yes. Cafecito and café cubano are the same drink. Cafecito (Spanish for "little coffee") is the everyday/affectionate name used in Miami, Tampa, and Cuban-American communities. Café cubano is the formal name used on menus. Both refer to a sweet espresso topped with espumita foam.
-{{< /faq >}}
 
-{{< faq question="What kind of coffee do you use for cafecito?" >}}
-The most traditional brands are Café Bustelo, Café La Llave, and Café Pilon — all Spanish-American medium-dark roasts pre-ground for espresso/moka pot. Any medium-dark Italian-style espresso blend works, ideally one with at least 10-20% robusta for body and crema.
-{{< /faq >}}
+### What kind of coffee do you use for cafecito?
+The most traditional brands are Café Bustelo, Café La Llave, and Café Pilon — all Spanish-American medium-dark roasts pre-ground for espresso/moka pot. Any medium-dark Italian-style espresso blend works, ideally one with at least 10–20% robusta for body and crema.
 
-{{< faq question="What is espumita?" >}}
-Espumita ("little foam") is the tan, glossy sugar foam that defines cafecito. It is made by whipping the first few drops of brewing espresso with raw cane sugar for 30-60 seconds until thick and pale tan. The rest of the espresso is poured on top, and the espumita floats.
-{{< /faq >}}
+### What is espumita?
+Espumita ("little foam") is the tan, glossy sugar foam that defines cafecito. It is made by whipping the first few drops of brewing espresso with raw cane sugar for 30–60 seconds until thick and pale tan. The rest of the espresso is poured on top, and the espumita floats.
 
-{{< faq question="How much sugar goes in cafecito?" >}}
-Traditionally 1 teaspoon of demerara or raw cane sugar per shot. Strong-Cuban style uses 1.5-2 teaspoons. Some Miami cafés use as much as 2 teaspoons per shot. The sugar is what creates the espumita — you cannot make cafecito without it.
-{{< /faq >}}
+### How much sugar goes in cafecito?
+Traditionally 1 teaspoon of demerara or raw cane sugar per shot. Strong-Cuban style uses 1.5–2 teaspoons. Some Miami cafés use as much as 2 teaspoons per shot. The sugar is what creates the espumita — you cannot make cafecito without it.
 
-{{< faq question="Can you make cafecito without a moka pot?" >}}
+### Can you make cafecito without a moka pot?
 Yes. Use any espresso machine (Bustelo or any medium-dark espresso roast), or use an Aeropress with fine grind, or even a strong AeroPress concentrate. The key is a strong, hot, espresso-strength brew so the espumita can be whipped from the first drops.
-{{< /faq >}}
 
-{{< faq question="What is the difference between a cafecito and a colada?" >}}
-A cafecito is a single small shot (~1.5 oz). A colada is a 3-4 oz shareable version, typically 3-4 espresso shots brewed and whipped together with espumita, served in a styrofoam cup with a stack of small plastic shot cups for sharing.
-{{< /faq >}}
+### What is the difference between a cafecito and a colada?
+A cafecito is a single small shot (~1.5 oz). A colada is a 3–4 oz shareable version, typically 3–4 espresso shots brewed and whipped together with espumita, served in a styrofoam cup with a stack of small plastic shot cups for sharing.
 
-{{< faq question="Is cafecito stronger than regular espresso?" >}}
-Caffeine-wise, cafecito is the same as regular espresso (about 60-80 mg per shot). It is *flavor-stronger* because Cuban-style coffee uses a darker roast and more sugar — but the caffeine content per shot is comparable. See our [espresso caffeine guide](/guides/espresso-caffeine/) for more.
-{{< /faq >}}
+### Is cafecito stronger than regular espresso?
+Caffeine-wise, cafecito is the same as regular espresso (about 60–80 mg per shot). It is *flavor-stronger* because Cuban-style coffee uses a darker roast and more sugar — but the caffeine content per shot is comparable. See our [espresso caffeine guide](/guides/espresso-caffeine/) for more.
 
 ## Related Reading
 

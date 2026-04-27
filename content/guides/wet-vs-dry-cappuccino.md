@@ -8,6 +8,23 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "What's the difference between a wet and dry cappuccino?"
+    answer: "Both start with the same shot of espresso. A wet cappuccino has more steamed milk and a thin layer of foam (closer to a small latte). A dry cappuccino has minimal liquid milk and a thick mound of foam on top (closer to the traditional Italian cappuccino). The total cup volume is similar — only the milk-to-foam ratio changes."
+  - question: "Is a wet cappuccino the same as a latte?"
+    answer: "Not quite, but it's close. A wet cappuccino is served in a smaller cup (5–6 oz) with one shot of espresso and slightly more foam than a latte. A latte is typically larger (8–12 oz) with two shots of espresso, more steamed milk, and only a thin foam cap. A wet cappuccino is closer to a small flat white than to a latte."
+  - question: "Is a bone dry cappuccino just espresso with foam on top?"
+    answer: "Essentially, yes. A bone dry cappuccino is a shot of espresso topped with thick stiff foam and almost no liquid steamed milk. The barista will often spoon the foam directly onto the shot rather than pouring. It's foamier than a regular dry cappuccino and is the most foam-forward cappuccino variation you can order."
+  - question: "Why are Italian cappuccinos drier than American ones?"
+    answer: "Traditional Italian cappuccinos are made with very stretched, foamy milk and are designed to be drunk in 3–4 sips. American specialty cafés have shifted toward wetter, milkier cappuccinos because most American customers prefer a smoother, latte-like texture. If you order a plain cappuccino in Italy, you'll usually get something closer to a dry cappuccino by American standards."
+  - question: "Can I make a wet or dry cappuccino without a steam wand?"
+    answer: "Yes. Use a milk frother, French press, or jar method to texture the milk. For a wetter cappuccino, froth less so you have mostly hot liquid milk with just a small foam layer. For a drier cappuccino, froth more vigorously to create as much foam as possible. The drink won't have the silky microfoam of a steam-wanded cappuccino, but the wet/dry distinction still works."
+  - question: "Does wet vs dry change how much caffeine is in a cappuccino?"
+    answer: "No. Both styles use the same single (or double) espresso shot, so caffeine is identical. A wet cappuccino has slightly more total liquid (more steamed milk), which can dilute the perceived strength but doesn't change the caffeine content."
+  - question: "Is a flat white the same as a wet cappuccino?"
+    answer: "Almost. A flat white is typically a double shot in a 5–6 oz cup with a thin layer of microfoam — very similar to a wet cappuccino, but with more espresso. A wet cappuccino is usually a single shot. Side by side they look nearly identical; the flat white tastes stronger because of the second shot."
+  - question: "Which is better, wet or dry cappuccino?"
+    answer: "Neither is objectively better — it's a texture preference. If you like creamy, smooth milk drinks, order wet. If you like strong espresso flavor up front and an airy foam texture, order dry. Try both back-to-back at the same café (using the same espresso) to see which texture you actually prefer."
 ---
 
 A traditional cappuccino is roughly equal parts espresso, steamed milk, and milk foam. **Wet** and **dry** are the two common variations — same drink, different milk-to-foam balance. A wet cappuccino has more steamed milk and less foam (closer to a small latte). A dry cappuccino is mostly foam over the espresso with barely any liquid milk.
@@ -194,24 +211,31 @@ For more on milk steaming technique, see our [how to steam milk for latte art](/
 
 ---
 
-{{< faq >}}
-  - question: "What's the difference between a wet and dry cappuccino?"
-    answer: "Both start with the same shot of espresso. A wet cappuccino has more steamed milk and a thin layer of foam (closer to a small latte). A dry cappuccino has minimal liquid milk and a thick mound of foam on top (closer to the traditional Italian cappuccino). The total cup volume is similar — only the milk-to-foam ratio changes."
-  - question: "Is a wet cappuccino the same as a latte?"
-    answer: "Not quite, but it's close. A wet cappuccino is served in a smaller cup (5–6 oz) with one shot of espresso and slightly more foam than a latte. A latte is typically larger (8–12 oz) with two shots of espresso, more steamed milk, and only a thin foam cap. A wet cappuccino is closer to a small flat white than to a latte."
-  - question: "Is a bone dry cappuccino just espresso with foam on top?"
-    answer: "Essentially, yes. A bone dry cappuccino is a shot of espresso topped with thick stiff foam and almost no liquid steamed milk. The barista will often spoon the foam directly onto the shot rather than pouring. It's foamier than a regular dry cappuccino and is the most foam-forward cappuccino variation you can order."
-  - question: "Why are Italian cappuccinos drier than American ones?"
-    answer: "Traditional Italian cappuccinos are made with very stretched, foamy milk and are designed to be drunk in 3–4 sips. American specialty cafés have shifted toward wetter, milkier cappuccinos because most American customers prefer a smoother, latte-like texture. If you order a plain cappuccino in Italy, you'll usually get something closer to a dry cappuccino by American standards."
-  - question: "Can I make a wet or dry cappuccino without a steam wand?"
-    answer: "Yes. Use a milk frother, French press, or jar method to texture the milk. For a wetter cappuccino, froth less so you have mostly hot liquid milk with just a small foam layer. For a drier cappuccino, froth more vigorously to create as much foam as possible. The drink won't have the silky microfoam of a steam-wanded cappuccino, but the wet/dry distinction still works."
-  - question: "Does wet vs dry change how much caffeine is in a cappuccino?"
-    answer: "No. Both styles use the same single (or double) espresso shot, so caffeine is identical. A wet cappuccino has slightly more total liquid (more steamed milk), which can dilute the perceived strength but doesn't change the caffeine content. See our guide on [espresso caffeine](/guides/espresso-caffeine/) for shot-specific numbers."
-  - question: "Is a flat white the same as a wet cappuccino?"
-    answer: "Almost. A flat white is typically a double shot in a 5–6 oz cup with a thin layer of microfoam — very similar to a wet cappuccino, but with more espresso. A wet cappuccino is usually a single shot. Side by side they look nearly identical; the flat white tastes stronger because of the second shot. See [flat white vs latte](/guides/flat-white-vs-latte/) for more."
-  - question: "Which is better, wet or dry cappuccino?"
-    answer: "Neither is objectively better — it's a texture preference. If you like creamy, smooth milk drinks, order wet. If you like strong espresso flavor up front and an airy foam texture, order dry. Try both back-to-back at the same café (using the same espresso) to see which texture you actually prefer."
-{{< /faq >}}
+## Frequently Asked Questions
+
+### What's the difference between a wet and dry cappuccino?
+Both start with the same shot of espresso. A wet cappuccino has more steamed milk and a thin layer of foam (closer to a small latte). A dry cappuccino has minimal liquid milk and a thick mound of foam on top (closer to the traditional Italian cappuccino). The total cup volume is similar — only the milk-to-foam ratio changes.
+
+### Is a wet cappuccino the same as a latte?
+Not quite, but it's close. A wet cappuccino is served in a smaller cup (5–6 oz) with one shot of espresso and slightly more foam than a latte. A latte is typically larger (8–12 oz) with two shots of espresso, more steamed milk, and only a thin foam cap. A wet cappuccino is closer to a small flat white than to a latte.
+
+### Is a bone dry cappuccino just espresso with foam on top?
+Essentially, yes. A bone dry cappuccino is a shot of espresso topped with thick stiff foam and almost no liquid steamed milk. The barista will often spoon the foam directly onto the shot rather than pouring. It's foamier than a regular dry cappuccino and is the most foam-forward cappuccino variation you can order.
+
+### Why are Italian cappuccinos drier than American ones?
+Traditional Italian cappuccinos are made with very stretched, foamy milk and are designed to be drunk in 3–4 sips. American specialty cafés have shifted toward wetter, milkier cappuccinos because most American customers prefer a smoother, latte-like texture. If you order a plain cappuccino in Italy, you'll usually get something closer to a dry cappuccino by American standards.
+
+### Can I make a wet or dry cappuccino without a steam wand?
+Yes. Use a milk frother, French press, or jar method to texture the milk. For a wetter cappuccino, froth less so you have mostly hot liquid milk with just a small foam layer. For a drier cappuccino, froth more vigorously to create as much foam as possible. The drink won't have the silky microfoam of a steam-wanded cappuccino, but the wet/dry distinction still works.
+
+### Does wet vs dry change how much caffeine is in a cappuccino?
+No. Both styles use the same single (or double) espresso shot, so caffeine is identical. A wet cappuccino has slightly more total liquid (more steamed milk), which can dilute the perceived strength but doesn't change the caffeine content. See our guide on [espresso caffeine](/guides/espresso-caffeine/) for shot-specific numbers.
+
+### Is a flat white the same as a wet cappuccino?
+Almost. A flat white is typically a double shot in a 5–6 oz cup with a thin layer of microfoam — very similar to a wet cappuccino, but with more espresso. A wet cappuccino is usually a single shot. Side by side they look nearly identical; the flat white tastes stronger because of the second shot. See [flat white vs latte](/guides/flat-white-vs-latte/) for more.
+
+### Which is better, wet or dry cappuccino?
+Neither is objectively better — it's a texture preference. If you like creamy, smooth milk drinks, order wet. If you like strong espresso flavor up front and an airy foam texture, order dry. Try both back-to-back at the same café (using the same espresso) to see which texture you actually prefer.
 
 ---
 
