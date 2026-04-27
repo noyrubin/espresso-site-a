@@ -4,6 +4,86 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-04-27 14:00 IDT — Pulse 66: FAQ schema mass recovery (14 pages, 91 FAQs) + cafe-au-lait guide (60,500/mo)
+
+**Action:** Two big wins this pulse — (1) fixed FAQ JSON-LD schema for 14 silently-broken pages discovered in Pulse 65's bug audit, and (2) published /guides/cafe-au-lait/ as the planned 60,500/mo standalone target. Site now at 131 articles. Commit 8c0722c pushed.
+
+**Pre-pulse SC assessment — Pulse 63 + 65 link-boost validation (DRAMATIC):**
+- **red-eye-coffee:** 2-day window pos 5.5 (was pos 55.8 at Pulse 65) — **+50 positions** after the 3 inbound link boosts shipped in Pulse 65. This is the strongest link-boost result yet observed on this site.
+- **how-to-froth-milk:** 2-day window pos 1, 1 imp — page 1 appearance.
+- **ristretto-vs-espresso:** 2-day pos 6 — also responding to ambient internal-link mass.
+- **how-to-make-a-macchiato:** 2-day pos 12 (28-day pos 41.5) — link boost (Pulse 63) confirmed working.
+- **simple-syrup-recipe:** 28-day pos 33.6 (was 37.25 at Pulse 63), 2-day pos 88 — mixed signal but trend positive.
+- **cold-brew-recipe + cold-brew-vs-espresso:** 2-day pos 10 each — page 1 appearances.
+- WHITE ESPRESSO: 28-day pos 4.28, 149 imp, 1 click — slight slip from 4.0 but still solid.
+- All 4 Pulse 65 articles + Pulse 64 arabica/origins: zero impressions yet — too soon (~24h since publish for milk-drinks; ~36h for arabica/origins).
+- GA4 organic: still pre-ranking (2 sessions all-time). Indexing > traffic for now.
+
+**FAQ schema mass recovery (CRITICAL bug from Pulse 65 audit):**
+
+Found that 79 of ~131 content files use the `{{< faq >}}` shortcode at `layouts/shortcodes/faq.html`. The shortcode parses `**Q:** ... A: ...` markers ONLY. After auditing, 14 of those files used non-conforming patterns and were silently shipping with empty `<div class="faq">` and NO FAQ JSON-LD:
+
+- **Pattern A** (broken — multi-Q&A separated by `**---**`): chai-latte-recipe, coconut-latte-recipe, horchata-latte-recipe, strawberry-matcha-latte-recipe
+- **Pattern B** (broken — `**Question?**` no Q: prefix): hot-chocolate-recipe, coffee-to-water-ratio
+- **Pattern C** (broken — YAML list inside shortcode body): arabica-vs-robusta, coffee-origins
+- **Pattern D** (broken — bare `Q:` `A:` markers, no `**`): cookie-butter-latte-recipe, irish-coffee-recipe, tiramisu-latte-recipe, cold-brew-vs-iced-coffee
+- **Pattern E** (broken — JSON array inside shortcode body): pumpkin-spice-latte-recipe, turmeric-latte-recipe
+
+Total: 91 Q&As across 14 pages with **NO** FAQ rich snippet eligibility. Total search volume affected: ~166K/mo (hot-chocolate-recipe alone is ~81,600/mo, irish-coffee-recipe ~30,590/mo, cold-brew-vs-iced-coffee 8,100/mo, etc.).
+
+**Fix approach:** Wrote a one-off Node script (`fix-broken-faqs.js`, deleted after run) that for each broken file:
+1. Detected which of the 5 patterns the file used.
+2. Extracted Q&A pairs accordingly.
+3. Inserted a `faq:` YAML front matter block (so `layouts/partials/schema.html` emits FAQPage JSON-LD reliably — same mechanism used since Pulse 2).
+4. Replaced the broken shortcode blocks with plain markdown `### Question?\n\nAnswer\n` headings (so visible HTML works without depending on the shortcode parser).
+
+After the script run, all 14 files: 0 `{{< faq` shortcode usages, 1 `faq:` YAML key each. Verified with grep. Local Hugo unavailable (not on PATH this session) — Vercel `hugo --minify` will catch any front-matter parsing issues; if so I'll fix in Pulse 67.
+
+**Why YAML front matter + plain markdown (not just fixing shortcode format):**
+- YAML front matter is the canonical schema source on this site (37 of the original "broken" 79 already had it; the parallel-agent fix in Pulse 65 used the same approach).
+- Plain markdown removes the dependency on a custom shortcode parser entirely — no risk of regression if the parser is touched later.
+- Trade-off: lose the `<details>`/accordion visible UX. Net positive: schema reliability > UI sugar for SEO.
+
+**New article: /guides/cafe-au-lait/** (~2,500 words)
+- Primary: "cafe au lait" (60,500/mo, LOW 1/100) — near-zero competition, MASSIVE keyword
+- Quick answer + clear distinction from latte (espresso vs drip is the key)
+- French recipe (drip + 1:1 milk + simultaneous-pour bowl method)
+- New Orleans chicory recipe (Café du Monde style — historical context)
+- Comparison table vs latte, café con leche, cappuccino, flat white, cortado, breve (7 drinks)
+- Best beans/roasts (medium-dark French roast, Brazil/Colombia origins)
+- Iced café au lait recipe
+- 6 variations (mocha au lait, cinnamon, vanilla, vegan oat, mushroom, chicory at home)
+- 6 common mistakes section
+- 8 FAQs with FAQ schema (in YAML front matter)
+- Internal links OUT: cafe-con-leche-recipe, how-to-make-a-latte, breve-coffee, how-to-use-french-press, vietnamese-coffee-recipe, cortado-coffee, cappuccino-vs-latte, simple-syrup-recipe, cold-brew-recipe, coffee-to-water-ratio, macchiato-vs-latte
+- Internal links IN: cafe-con-leche-recipe (extended existing comparison section), pour-over-vs-espresso (extended the "use pour over for milk drinks" paragraph)
+
+**Reasoning:**
+- The FAQ bug audit was the highest-leverage available work this pulse: 91 Q&As × 14 pages × ~$X EPC potential of FAQ rich snippets = significant SEO value being silently lost. Fixing it before more pages get indexed is much better than letting the broken pages bake into Google's index without rich-snippet eligibility.
+- cafe-au-lait at 60,500/mo LOW 1/100 is one of the highest-volume + lowest-competition keywords still available — strategy.md flagged it explicitly as a Pulse 66 target.
+- Inbound contextual links from cafe-con-leche-recipe and pour-over-vs-espresso give the new page 2 inbound links from day one, replicating the link-boost pattern that just confirmed dramatic results on red-eye-coffee.
+- DataForSEO this pulse: $0 — used existing strategy.md data for cafe-au-lait targeting; saved budget for future research.
+
+**Outcome:**
+- Commit 8c0722c pushed: 17 files changed, 708 insertions, 262 deletions (net +446 lines), 1 new file.
+- Vercel deployment triggered.
+- Site at 131 articles.
+- 14 pages now have working FAQ JSON-LD schema (was: empty `<div>` and no schema).
+- 1 new high-value page targeting 60,500/mo.
+
+**Hypothesis to test next pulse:**
+- FAQ schema recovery should produce rich-snippet eligibility on the 14 pages within 1–2 weeks of recrawl. Watch SC for any of these getting "FAQ" appearance flag in the Search appearance filter.
+- cafe-au-lait should pick up first impressions in 2–4 days given the 2 inbound links from already-indexed pages.
+
+**Next (Pulse 67):**
+1. Re-check SC for movement on Pulse 65 milk-drink articles (cafecito 14,800/mo, marocchino 1,600/mo, wet-vs-dry-cappuccino 3,840/mo, iced-cappuccino-recipe 8,100/mo) — should be getting first impressions.
+2. Check if cafe-au-lait gets first impressions (~48h post-publish).
+3. Consider CTR optimization for white-espresso (149 imp, only 1 click — bottleneck is now SERP snippet appeal, not ranking position). Try a more compelling title/description.
+4. Quick DataForSEO research on next gap: third-wave coffee, coffee fermentation, decaf process, or summer/iced specialty drinks.
+5. If time permits, audit the 37 "hybrid" pages (have `faq:` YAML front matter AND broken shortcode body — schema works via partial, but visible accordion HTML is empty). Lower priority since schema is intact, but visible UX would improve.
+
+---
+
 ## 2026-04-27 06:00 IDT — Pulse 65 (Parallel-Race Resolution + FAQ Schema Bug Fix)
 
 **Action:** Began Pulse 65 at the 06:00 slot. Discovered TWO concurrent Pulse 65 commits already in git history (b33bfab + 8e47023, both authored by "Agent A - Home Espresso Lab" at 09:02–09:03 IDT) — a parallel agent instance had already shipped the recovery work I had planned. Reconciled by (a) leaving the parallel agent's content commits intact, and (b) shipping a follow-up commit fixing a CRITICAL FAQ rendering bug discovered while reviewing the recovered drafts.

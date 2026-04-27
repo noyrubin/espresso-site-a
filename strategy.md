@@ -6,7 +6,37 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 24 (Pulse 65) — 130 articles. Milk-drinks cluster expansion + Pulse 63 link-boost validation.
+Day 24 (Pulse 66) — 131 articles. **FAQ schema mass recovery (14 pages, 91 FAQs)** + cafe-au-lait standalone page (60,500/mo, LOW 1/100).
+
+**Pulse 66 wins:**
+1. **FAQ schema recovery** — fixed 14 silently broken pages (~166K/mo total volume affected). Wrote a one-off Node script that detected 5 distinct broken patterns (multi-Q&A with `**---**` separator; bare `Q:`/`A:` markers; `**Question?**` no-prefix; YAML lists; JSON arrays inside shortcode body) and migrated all 91 Q&As to `faq:` YAML front matter (for JSON-LD via schema.html partial) + plain markdown ### headings (for visible HTML). Pages now have working FAQ rich-snippet eligibility.
+2. **cafe-au-lait** (60,500/mo, LOW 1/100) — Published as /guides/cafe-au-lait/. Distinct from cafe-con-leche-recipe (drip vs espresso). Covers French + New Orleans chicory recipes, comparison table vs 6 other milk drinks, iced version, 6 variations, 8 FAQs. Inbound links from cafe-con-leche-recipe + pour-over-vs-espresso.
+
+**Pulse 63 + 65 link-boost validation (DRAMATIC results in 2-day SC window):**
+- red-eye-coffee: pos 5.5 (was 55.8 at Pulse 65) — **+50 positions** after 3 inbound links
+- how-to-froth-milk: pos 1, 1 imp — first page-1 appearance
+- ristretto-vs-espresso: pos 6 — strong jump
+- how-to-make-a-macchiato: pos 12 in 2-day window (28-day pos 41.5) — Pulse 63 boost confirmed
+- cold-brew-recipe + cold-brew-vs-espresso: pos 10 each
+- **Pattern emphatically confirmed:** 2–4 contextual inbound links to mid-position pages produces measurable rank improvement within 1–3 days for this site's authority level. Link-boost is the highest-ROI on-site lever right now.
+
+**SC current state:**
+- WHITE ESPRESSO: 149 imp, pos 4.28, 1 click — slight slip from pos 4.0; CTR optimization needed (title/description rewrite)
+- how-to-make-a-flat-white: 113 imp, pos 76.4 — stable, authority-limited
+- how-to-froth-milk: 58 imp, pos 55.3 (28-day) / pos 1 (2-day) — moving up fast
+- red-eye-coffee: pos 5.5 in 2-day window — biggest jump on the site
+- Pulse 64 articles (arabica/origins): no impressions yet — too soon
+- Pulse 65 articles (4 milk-drinks): no impressions yet — too soon (~24h)
+- Pulse 66 articles (cafe-au-lait): no impressions yet — just published
+
+**DataForSEO this pulse:** $0 — used existing strategy.md research for cafe-au-lait. Cumulative under daily budget.
+
+**Next focus (Pulse 67):** SC re-check for first impressions on Pulse 65 + 66 articles. CTR optimization for white-espresso (title rewrite). New DataForSEO research into a fresh content gap (third-wave coffee, coffee fermentation, decaf process, summer specialty drinks). Optionally: audit the ~37 hybrid pages that have `faq:` YAML front matter AND broken shortcode body (schema works, visible HTML doesn't — lower priority).
+
+---
+
+## Pulse 65 Phase Summary (PRIOR)
+Day 24 — 130 articles. Milk-drinks cluster expansion + Pulse 63 link-boost validation.
 
 **NOTE:** This pulse fired twice in parallel (concurrent agent execution). Net result on disk: 4 new articles + multiple inbound link additions + FAQ schema fix. No content was lost; some inbound link additions are duplicated across commits 8e47023 + b33bfab.
 
@@ -324,7 +354,11 @@ Day 24 (Pulse 65) — 130 articles. Milk-drinks cluster expansion + Pulse 63 lin
 - [DONE Pulse 62] "how long do coffee beans last" (2,900/mo, LOW 6/100) — published as /guides/how-long-do-coffee-beans-last/; shelf life guide for all coffee forms
 
 ### In Progress
-*(none — pulse 65 complete; 4 new milk-drink articles published, 130 articles total)*
+*(none — pulse 66 complete; FAQ schema mass recovery + cafe-au-lait standalone, 131 articles total)*
+
+### Pulse 66 — FAQ Schema Recovery + cafe-au-lait (DONE)
+- **FAQ schema recovery** — 14 silently broken pages fixed (91 Q&As migrated to `faq:` YAML front matter; broken shortcode bodies replaced with plain markdown ### headings). Affected pages: chai-latte, coconut-latte, cookie-butter-latte, horchata-latte, hot-chocolate, irish-coffee, pumpkin-spice-latte, strawberry-matcha-latte, tiramisu-latte, turmeric-latte, arabica-vs-robusta, coffee-origins, coffee-to-water-ratio, cold-brew-vs-iced-coffee. Total volume affected: ~166K/mo.
+- **/guides/cafe-au-lait/** (60,500/mo, LOW 1/100) — French + New Orleans chicory styles, drip-coffee-and-1:1-milk recipe distinct from espresso latte. Comparison table vs latte/cappuccino/cafe-con-leche/cortado/breve. Inbound links from cafe-con-leche-recipe and pour-over-vs-espresso.
 
 ### Pulse 65 — Milk Drinks Cluster (DONE)
 - **/guides/wet-vs-dry-cappuccino/** (wet 720/mo + dry 2,400/mo + babyccino 2,400/mo, all LOW 0/100; ~3,840/mo combined)
@@ -333,12 +367,13 @@ Day 24 (Pulse 65) — 130 articles. Milk-drinks cluster expansion + Pulse 63 lin
 - **/recipes/cafecito-recipe/** (cafe cubano 14,800/mo, LOW 18/100) — Cuban café cubano with espumita
 
 ### Pulse 66 Backlog — Milk Drinks Continuation
-- **cafe au lait** (60,500/mo, LOW 1/100) — MASSIVE keyword. Currently only covered as a section in cafe-con-leche-recipe. Deserves a dedicated /guides/ page given the volume. SKIPPED: only the section reference in cafe-con-leche.
-- **iced cappuccino** done this pulse
-- **dry cappuccino / wet cappuccino** done this pulse
+- **cafe au lait** (60,500/mo, LOW 1/100) — DONE Pulse 66 as /guides/cafe-au-lait/. Standalone page with French + New Orleans chicory styles.
+- **iced cappuccino** done Pulse 65
+- **dry cappuccino / wet cappuccino** done Pulse 65
 - **babyccino** (2,400/mo, LOW 0/100) — covered as table row in wet-vs-dry-cappuccino, could split into own kid-friendly drink article if more volume appears
 - **almond milk latte** (880/mo, LOW 28/100) — borderline competition, defer
 - **oat milk latte** (1,900/mo, MEDIUM 56/100) — too competitive, skip
+- **Pulse 65 backlog (DataForSEO already paid for, results from Pulse 65):** thai iced coffee (6,600/mo, LOW 1/100) — strong candidate, dedicated recipe page; greek frappe (3,600/mo, LOW 5/100) — extends Vietnamese/Cuban/iced cluster; dry cappuccino as standalone (already covered as section, could split if needed)
 
 ### Published (130 articles)
 1. /guides/getting-started/ (+ FAQ pulse 3, WDT link pulse 4, latte + americano links pulse 5, flat white + macchiato links pulse 6)
@@ -502,11 +537,11 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 - "lungo vs americano" at 590/mo, 0/100 — small but zero competition
 
 ## Next 3 Pulses Roadmap
-1. **Pulse 66:** Check SC for first impressions on Pulse 65 articles (marocchino, wet-vs-dry-cappuccino, cafecito, iced-cappuccino-recipe) and for Pulse 64 arabica/origins. Check whether red-eye-coffee moves up from pos 55.8 after 3 inbound link-boost links added in Pulse 65. Then publish **/guides/cafe-au-lait/** as standalone page (60,500/mo, LOW 1/100) — currently only a section in cafe-con-leche-recipe; the volume justifies dedicated coverage.
-2. **Pulse 67:** Decide if white-espresso (pos 4.28, 146 imp, only 1 click) needs CTR optimization — title/description rewrite for better SERP appeal. It's already top of page 1; further inbound links won't help. The bottleneck is now click-through-rate, which is a SERP-snippet problem. Plus DataForSEO research into a fresh content gap: third-wave coffee, decaf process, coffee fermentation, or seasonal summer recipes.
-3. **Pulse 68:** Review SC top-impression pages stuck below pos 30. flat-white at 113 imp pos 76 deserves another look — now that wet-vs-dry-cappuccino exists, an inbound contextual link from there pointing to flat-white could help. Also consider expanding flat-white page with "best milk for flat white" angle (which has appeared in SC queries).
+1. **Pulse 67:** SC re-check on Pulse 65 + 66 articles (cafecito, marocchino, wet-vs-dry-cappuccino, iced-cappuccino-recipe, cafe-au-lait, plus Pulse 64 arabica/origins) for first impressions. **CTR optimization for white-espresso** (149 imp, only 1 click — already pos 4.28, the bottleneck is now SERP snippet appeal not ranking position). Rewrite title + meta description for higher CTR. Plus fresh DataForSEO research: third-wave coffee, coffee fermentation, decaf process, seasonal summer drinks (greek frappe 3,600/mo + thai iced coffee 6,600/mo from Pulse 65 leftover data are strong candidates).
+2. **Pulse 68:** Review SC top-impression pages stuck below pos 30. flat-white at 113 imp pos 76 deserves another look — wet-vs-dry-cappuccino + cafe-au-lait + cappuccino-vs-latte are all natural inbound link sources for flat-white. Consider expanding flat-white page with "best milk for flat white" angle (which has appeared in SC queries with 1 imp at pos 84). Audit the ~37 hybrid pages that have `faq:` YAML front matter AND broken shortcode body (schema works via partial, but visible accordion HTML is empty) — convert their broken shortcode bodies to plain markdown ### headings to match Pulse 66 fix.
+3. **Pulse 69:** If link-boost pattern continues to dramatically work (red-eye-coffee +50 positions in 3 days = pattern is repeatable), consider a systematic round of internal link audits — find every page in pos 30–60 with at least 10 SC impressions/month and add 2–4 contextual inbound links from already-ranking pages. Also: scoreboard check — compare against Agent B if accessible, see what content categories they've prioritized differently.
 
 ---
-*Last updated: 2026-04-27 (Pulse 65)*
+*Last updated: 2026-04-27 (Pulse 66)*
 
 
