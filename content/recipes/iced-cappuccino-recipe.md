@@ -8,6 +8,23 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "What's the difference between an iced cappuccino and an iced latte?"
+    answer: "An iced cappuccino has a meaningful cold foam cap on top — about a third of the drink should be foam, just like a hot cappuccino. An iced latte is mostly cold milk and espresso with only a thin foam layer (often none). The iced cappuccino has more foam-forward texture and a more visible foam dome. Both use similar amounts of espresso."
+  - question: "Can I make iced cappuccino without a milk frother?"
+    answer: "Yes. Shake cold milk in a sealed jar for 30 seconds — you'll get a decent cold foam. A French press also works: pump cold milk 30–40 times. The shaken iced cappuccino method (everything shaken with ice in a cocktail shaker) skips the separate frothing step entirely."
+  - question: "Is an iced cappuccino strong?"
+    answer: "An iced cappuccino made with 2 shots of espresso has the same caffeine as a hot cappuccino with 2 shots — about 130–150 mg. The drink tastes less intense because cold mutes flavor and ice dilutes, but the caffeine is identical. Many cafés default to a single shot for an iced cappuccino, so ask for a double if you want the strength to match a hot version."
+  - question: "Why does my iced cappuccino foam disappear?"
+    answer: "Two reasons: (1) the foam was made with hot milk and cooled — hot foam doesn't hold up cold. Cold-froth the milk from the start. (2) The milk was low-fat or non-dairy and lacks the protein/fat to hold air. Whole milk holds the longest cold foam. Barista-style oat milk is the best dairy-free option."
+  - question: "What's a cappuccino freddo?"
+    answer: "Cappuccino freddo is the Italian iced cappuccino — but typically without ice. Pre-chilled espresso, cold-frothed milk, and cocoa dust, served in a small glass. It's stronger and more concentrated than the American iced cappuccino, which adds ice and uses bigger glasses. Both are valid; the Italian version is more espresso-forward."
+  - question: "Can I use cold brew instead of espresso for an iced cappuccino?"
+    answer: "Yes — the result is smoother and naturally sweeter. Use 1 oz of cold brew concentrate per shot of espresso called for, or 3 oz of regular cold brew. The drink will lose some of the sharper espresso flavor, but the cold foam cappuccino character holds up. Some people prefer this version for the cleaner taste."
+  - question: "Is iced cappuccino sweet?"
+    answer: "By default, no — a traditional iced cappuccino is unsweetened, just like a hot cappuccino. Most café versions add simple syrup or vanilla syrup unless you specify otherwise. If you're making it at home, taste before adding any sweetener — the cold foam itself adds a creamy roundness that some people find sweet enough."
+  - question: "What kind of milk is best for iced cappuccino?"
+    answer: "Whole milk is best — the fat content gives the cold foam structure and the longest hold. 2% works but the foam fades faster. Skim is too thin for a proper cold foam. Among non-dairy options, barista-style oat milk is the best foamer; soy works decently; almond and coconut struggle to hold cold foam."
 ---
 
 An **iced cappuccino** is a cold version of the classic cappuccino — espresso, cold milk, and cold milk foam, served over ice. Done well, it tastes like a refreshed cappuccino: the same espresso forward flavor, but with a cool creamy mouthfeel and a foam cap that sits on top of the ice instead of melting into the drink.
@@ -238,24 +255,31 @@ If you're trying to figure out which iced drink you actually want:
 
 ---
 
-{{< faq >}}
-  - question: "What's the difference between an iced cappuccino and an iced latte?"
-    answer: "An iced cappuccino has a meaningful cold foam cap on top — about a third of the drink should be foam, just like a hot cappuccino. An iced latte is mostly cold milk and espresso with only a thin foam layer (often none). The iced cappuccino has more foam-forward texture and a more visible foam dome. Both use similar amounts of espresso."
-  - question: "Can I make iced cappuccino without a milk frother?"
-    answer: "Yes. Shake cold milk in a sealed jar for 30 seconds — you'll get a decent cold foam. A French press also works: pump cold milk 30–40 times. The shaken iced cappuccino method (everything shaken with ice in a cocktail shaker) skips the separate frothing step entirely. See our [how to froth milk](/guides/how-to-froth-milk/) guide for all the techniques."
-  - question: "Is an iced cappuccino strong?"
-    answer: "An iced cappuccino made with 2 shots of espresso has the same caffeine as a hot cappuccino with 2 shots — about 130–150 mg. The drink tastes less intense because cold mutes flavor and ice dilutes, but the caffeine is identical. Many cafés default to a single shot for an iced cappuccino, so ask for a double if you want the strength to match a hot version."
-  - question: "Why does my iced cappuccino foam disappear?"
-    answer: "Two reasons: (1) the foam was made with hot milk and cooled — hot foam doesn't hold up cold. Cold-froth the milk from the start. (2) The milk was low-fat or non-dairy and lacks the protein/fat to hold air. Whole milk holds the longest cold foam. Barista-style oat milk is the best dairy-free option."
-  - question: "What's a cappuccino freddo?"
-    answer: "Cappuccino freddo is the Italian iced cappuccino — but typically without ice. Pre-chilled espresso, cold-frothed milk, and cocoa dust, served in a small glass. It's stronger and more concentrated than the American iced cappuccino, which adds ice and uses bigger glasses. Both are valid; the Italian version is more espresso-forward."
-  - question: "Can I use cold brew instead of espresso for an iced cappuccino?"
-    answer: "Yes — the result is smoother and naturally sweeter. Use 1 oz of cold brew concentrate per shot of espresso called for, or 3 oz of regular cold brew. The drink will lose some of the sharper espresso flavor, but the cold foam cappuccino character holds up. Some people prefer this version for the cleaner taste."
-  - question: "Is iced cappuccino sweet?"
-    answer: "By default, no — a traditional iced cappuccino is unsweetened, just like a hot cappuccino. Most café versions add simple syrup or vanilla syrup unless you specify otherwise. If you're making it at home, taste before adding any sweetener — the cold foam itself adds a creamy roundness that some people find sweet enough."
-  - question: "What kind of milk is best for iced cappuccino?"
-    answer: "Whole milk is best — the fat content gives the cold foam structure and the longest hold. 2% works but the foam fades faster. Skim is too thin for a proper cold foam. Among non-dairy options, barista-style oat milk is the best foamer; soy works decently; almond and coconut struggle to hold cold foam. See [how to froth milk](/guides/how-to-froth-milk/) for milk-specific tips."
-{{< /faq >}}
+## Frequently Asked Questions
+
+### What's the difference between an iced cappuccino and an iced latte?
+An iced cappuccino has a meaningful cold foam cap on top — about a third of the drink should be foam, just like a hot cappuccino. An iced latte is mostly cold milk and espresso with only a thin foam layer (often none). The iced cappuccino has more foam-forward texture and a more visible foam dome. Both use similar amounts of espresso.
+
+### Can I make iced cappuccino without a milk frother?
+Yes. Shake cold milk in a sealed jar for 30 seconds — you'll get a decent cold foam. A French press also works: pump cold milk 30–40 times. The shaken iced cappuccino method (everything shaken with ice in a cocktail shaker) skips the separate frothing step entirely. See our [how to froth milk](/guides/how-to-froth-milk/) guide for all the techniques.
+
+### Is an iced cappuccino strong?
+An iced cappuccino made with 2 shots of espresso has the same caffeine as a hot cappuccino with 2 shots — about 130–150 mg. The drink tastes less intense because cold mutes flavor and ice dilutes, but the caffeine is identical. Many cafés default to a single shot for an iced cappuccino, so ask for a double if you want the strength to match a hot version.
+
+### Why does my iced cappuccino foam disappear?
+Two reasons: (1) the foam was made with hot milk and cooled — hot foam doesn't hold up cold. Cold-froth the milk from the start. (2) The milk was low-fat or non-dairy and lacks the protein/fat to hold air. Whole milk holds the longest cold foam. Barista-style oat milk is the best dairy-free option.
+
+### What's a cappuccino freddo?
+Cappuccino freddo is the Italian iced cappuccino — but typically without ice. Pre-chilled espresso, cold-frothed milk, and cocoa dust, served in a small glass. It's stronger and more concentrated than the American iced cappuccino, which adds ice and uses bigger glasses. Both are valid; the Italian version is more espresso-forward.
+
+### Can I use cold brew instead of espresso for an iced cappuccino?
+Yes — the result is smoother and naturally sweeter. Use 1 oz of cold brew concentrate per shot of espresso called for, or 3 oz of regular cold brew. The drink will lose some of the sharper espresso flavor, but the cold foam cappuccino character holds up. Some people prefer this version for the cleaner taste.
+
+### Is iced cappuccino sweet?
+By default, no — a traditional iced cappuccino is unsweetened, just like a hot cappuccino. Most café versions add simple syrup or vanilla syrup unless you specify otherwise. If you're making it at home, taste before adding any sweetener — the cold foam itself adds a creamy roundness that some people find sweet enough.
+
+### What kind of milk is best for iced cappuccino?
+Whole milk is best — the fat content gives the cold foam structure and the longest hold. 2% works but the foam fades faster. Skim is too thin for a proper cold foam. Among non-dairy options, barista-style oat milk is the best foamer; soy works decently; almond and coconut struggle to hold cold foam. See [how to froth milk](/guides/how-to-froth-milk/) for milk-specific tips.
 
 ---
 
