@@ -8,6 +8,19 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "Does a strawberry matcha latte have caffeine?"
+    answer: "Yes — matcha naturally contains caffeine. A standard 1 tsp of matcha has roughly 35–70mg of caffeine, depending on grade and origin. That's similar to about half a cup of coffee. The strawberry layer is caffeine-free, so the total caffeine is all from the matcha."
+  - question: "Can I make the strawberry sauce ahead of time?"
+    answer: "Yes — the strawberry sauce keeps refrigerated for 4–5 days in a sealed jar. Make a larger batch (double or triple the recipe) so it's ready to use throughout the week. Stir before using if it separates."
+  - question: "What matcha grade should I use?"
+    answer: "Ceremonial grade gives the cleanest, sweetest flavor with the least bitterness. Premium culinary grade works well too. Avoid basic culinary grade (cooking matcha) — it's too bitter for drinks unless you use less and add more sweetener to compensate."
+  - question: "Is a strawberry matcha latte healthy?"
+    answer: "It depends on how you make it. Made with real strawberries, unsweetened matcha, and plain milk — it's a nutritious drink with antioxidants from matcha and vitamin C from strawberries. Coffeeshop versions often contain a lot of added sugar. Making it at home gives you full control over sweetness."
+  - question: "Can I use strawberry powder instead of fresh strawberries?"
+    answer: "Yes — freeze-dried strawberry powder (blended from freeze-dried strawberries) gives an intense, concentrated strawberry flavor with no added sugar. Use ½–1 tsp dissolved in a small amount of water or milk. Flavor is slightly more intense and less fresh-tasting than real strawberry sauce, but very convenient."
+  - question: "What's the best milk for strawberry matcha latte?"
+    answer: "Oat milk is the most popular choice — it's naturally creamy, mild, and slightly sweet, which complements both the strawberry and matcha. Whole dairy milk gives the richest result. Almond or macadamia milk works well if you want a lighter drink."
 ---
 
 The strawberry matcha latte is one of the most visually striking drinks you can make at home — vivid green matcha, pink-red strawberry, and white milk layered in a glass. It's also genuinely delicious: the grassy, slightly bitter matcha pairs with sweet-tart strawberry in a way that sounds odd and tastes great.
@@ -200,41 +213,29 @@ Replace milk with sparkling water or coconut sparkling water. Combine the matcha
 
 ## Frequently Asked Questions
 
-{{< faq >}}
-**Does a strawberry matcha latte have caffeine?**
+### Does a strawberry matcha latte have caffeine?
 
 Yes — matcha naturally contains caffeine. A standard 1 tsp of matcha has roughly 35–70mg of caffeine, depending on grade and origin. That's similar to about half a cup of coffee. The strawberry layer is caffeine-free, so the total caffeine is all from the matcha.
 
-**---**
-
-**Can I make the strawberry sauce ahead of time?**
+### Can I make the strawberry sauce ahead of time?
 
 Yes — the strawberry sauce keeps refrigerated for 4–5 days in a sealed jar. Make a larger batch (double or triple the recipe) so it's ready to use throughout the week. Stir before using if it separates.
 
-**---**
-
-**What matcha grade should I use?**
+### What matcha grade should I use?
 
 Ceremonial grade gives the cleanest, sweetest flavor with the least bitterness. Premium culinary grade works well too. Avoid basic culinary grade (cooking matcha) — it's too bitter for drinks unless you use less and add more sweetener to compensate.
 
-**---**
-
-**Is a strawberry matcha latte healthy?**
+### Is a strawberry matcha latte healthy?
 
 It depends on how you make it. Made with real strawberries, unsweetened matcha, and plain milk — it's a nutritious drink with antioxidants from matcha and vitamin C from strawberries. Coffeeshop versions often contain a lot of added sugar. Making it at home gives you full control over sweetness.
 
-**---**
-
-**Can I use strawberry powder instead of fresh strawberries?**
+### Can I use strawberry powder instead of fresh strawberries?
 
 Yes — freeze-dried strawberry powder (blended from freeze-dried strawberries) gives an intense, concentrated strawberry flavor with no added sugar. Use ½–1 tsp dissolved in a small amount of water or milk. Flavor is slightly more intense and less fresh-tasting than real strawberry sauce, but very convenient.
 
-**---**
-
-**What's the best milk for strawberry matcha latte?**
+### What's the best milk for strawberry matcha latte?
 
 Oat milk is the most popular choice — it's naturally creamy, mild, and slightly sweet, which complements both the strawberry and matcha. Whole dairy milk gives the richest result. Almond or macadamia milk works well if you want a lighter drink.
-{{< /faq >}}
 
 ---
 

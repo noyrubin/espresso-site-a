@@ -33,7 +33,7 @@ It originated in Spain and became central to Cuban coffee culture, where it is t
 | Texture | Rich, bold | Lighter, milder |
 | Serving cup | Wide cup or glass | Wide bowl (France) |
 
-**The key difference:** Café con leche uses espresso for a bolder, richer base. Café au lait uses brewed coffee, making it mellower and lighter. Both are excellent — it comes down to what equipment you have.
+**The key difference:** Café con leche uses espresso for a bolder, richer base. Café au lait uses brewed coffee, making it mellower and lighter. Both are excellent — it comes down to what equipment you have. For the full French and New Orleans-style café au lait recipe, see our [café au lait guide](/guides/cafe-au-lait/).
 
 ## Café Con Leche Recipe
 

@@ -8,6 +8,19 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "Can you froth coconut milk?"
+    answer: "Yes — barista-edition carton coconut milk froths well using a steam wand or electric milk frother. Full-fat canned coconut milk also froths, but tends to produce larger, less stable bubbles. Avoid light canned coconut milk and coconut creamer for frothing — they're too thin."
+  - question: "Does a coconut latte taste like coconut?"
+    answer: "Mildly, yes. The coconut flavor is present but subtle — it doesn't taste like a tropical cocktail. Most people describe it as \"slightly nutty and creamy\" rather than strongly coconut-flavored, especially when combined with espresso."
+  - question: "Is coconut milk good in espresso?"
+    answer: "Yes. Coconut milk's moderate fat content means it doesn't thin out espresso the way water-based milks sometimes do. It blends smoothly and adds a slight richness that works especially well with medium-dark and dark espresso roasts."
+  - question: "How do I keep coconut milk from separating in coffee?"
+    answer: "Use a barista-edition carton product (specifically formulated for hot beverages) and don't overheat — keep temperature under 155°F. If using canned coconut milk, shake vigorously, thin with a little water (1 tbsp per cup), and heat gently. Canned coconut milk will never produce the same microfoam as barista carton versions."
+  - question: "Is a coconut latte healthy?"
+    answer: "Compared to a dairy latte, coconut milk lattes are lower in protein but higher in medium-chain triglycerides (MCTs). A 10 oz coconut latte is roughly 80–130 calories (vs 120–200 for whole milk), depending on the coconut milk brand and whether you add sweetener."
+  - question: "Can I use coconut water instead of coconut milk?"
+    answer: "Not for a latte — coconut water is too thin and doesn't contain enough fat to create any creamy texture. It also has a distinct grassy flavor that doesn't work well with espresso. Stick to coconut milk (carton or canned)."
 ---
 
 A coconut latte is one of the best dairy-free espresso drinks you can make at home. It's rich, subtly tropical, and naturally slightly sweet — without any of the bitterness that sometimes comes from plain oat or almond milk. If you've ever had a Starbucks coconut milk latte and thought "I could make this better," you're right.
@@ -141,35 +154,29 @@ Stir 1 tbsp brown sugar into the espresso while hot (it dissolves fully). The br
 
 ## Frequently Asked Questions
 
-{{< faq >}}
-**Can you froth coconut milk?**
+### Can you froth coconut milk?
+
 Yes — barista-edition carton coconut milk froths well using a steam wand or electric milk frother. Full-fat canned coconut milk also froths, but tends to produce larger, less stable bubbles. Avoid light canned coconut milk and coconut creamer for frothing — they're too thin.
-{{< /faq >}}
 
-{{< faq >}}
-**Does a coconut latte taste like coconut?**
+### Does a coconut latte taste like coconut?
+
 Mildly, yes. The coconut flavor is present but subtle — it doesn't taste like a tropical cocktail. Most people describe it as "slightly nutty and creamy" rather than strongly coconut-flavored, especially when combined with espresso.
-{{< /faq >}}
 
-{{< faq >}}
-**Is coconut milk good in espresso?**
+### Is coconut milk good in espresso?
+
 Yes. Coconut milk's moderate fat content means it doesn't thin out espresso the way water-based milks sometimes do. It blends smoothly and adds a slight richness that works especially well with medium-dark and dark espresso roasts.
-{{< /faq >}}
 
-{{< faq >}}
-**How do I keep coconut milk from separating in coffee?**
+### How do I keep coconut milk from separating in coffee?
+
 Use a barista-edition carton product (specifically formulated for hot beverages) and don't overheat — keep temperature under 155°F. If using canned coconut milk, shake vigorously, thin with a little water (1 tbsp per cup), and heat gently. Canned coconut milk will never produce the same microfoam as barista carton versions.
-{{< /faq >}}
 
-{{< faq >}}
-**Is a coconut latte healthy?**
+### Is a coconut latte healthy?
+
 Compared to a dairy latte, coconut milk lattes are lower in protein but higher in medium-chain triglycerides (MCTs). A 10 oz coconut latte is roughly 80–130 calories (vs 120–200 for whole milk), depending on the coconut milk brand and whether you add sweetener.
-{{< /faq >}}
 
-{{< faq >}}
-**Can I use coconut water instead of coconut milk?**
+### Can I use coconut water instead of coconut milk?
+
 Not for a latte — coconut water is too thin and doesn't contain enough fat to create any creamy texture. It also has a distinct grassy flavor that doesn't work well with espresso. Stick to coconut milk (carton or canned).
-{{< /faq >}}
 
 ---
 

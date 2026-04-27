@@ -8,6 +8,21 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "Do you sip Irish coffee through the cream or mix it in?"
+    answer: "Sip through the cream — never stir. The contrast of cold cream meeting hot, whiskey-spiked coffee is the whole point of the drink. Each sip pulls coffee up through the cream layer, creating a different flavor ratio as you drink."
+  - question: "Can I use whipped cream from a can instead of floating fresh cream?"
+    answer: "You can, but it's not traditional and doesn't float the same way. Canned whipped cream sits on top initially but dissolves within minutes. Fresh cream lightly whipped with a spoon stays separated and cold for the entire drink."
+  - question: "What's the best glass for Irish coffee?"
+    answer: "A stemmed Irish coffee glass (heatproof, 240–300 ml) is traditional. The stem lets you hold the glass without burning your hand. A heatproof mug works fine. Avoid regular wine glasses — they're not designed for hot liquid."
+  - question: "How much whiskey goes in an Irish coffee?"
+    answer: "The classic is 45 ml (1.5 oz / one standard US shot). You can go up to 60 ml (2 oz) for a stronger drink. Below 30 ml and you won't taste the whiskey through the coffee and cream."
+  - question: "Why does my cream always sink?"
+    answer: "Three common causes: (1) You poured too fast — use the back-of-spoon technique. (2) The coffee isn't sweet enough — the sugar is what gives coffee enough density to support the cream. (3) The cream is too thick — whip it just until slightly aerated, not stiff peaks."
+  - question: "Can I make Irish coffee with decaf?"
+    answer: "Absolutely. Decaf works identically in the recipe — same flavor, same cream float. Great option for an evening drink when you don't want a caffeine hit."
+  - question: "What's the difference between Irish coffee and a White Russian?"
+    answer: "Irish coffee uses hot coffee with floating cream; a White Russian is a cold cocktail made with vodka, coffee liqueur (Kahlúa), and cream or milk over ice. Irish coffee has a whiskey-forward flavor and the cream is separate; a White Russian is blended and served cold."
 ---
 
 Irish coffee is one of the greatest coffee cocktails ever invented — a perfect marriage of hot coffee, Irish whiskey, brown sugar, and a luxurious layer of lightly whipped cream floating on top. Made correctly, every sip passes through the cold cream into the warm, spirit-spiked coffee beneath.
@@ -189,28 +204,33 @@ Brown sugar is traditional but not your only option:
 
 ## Frequently Asked Questions
 
-{{< faq >}}
-Q: Do you sip Irish coffee through the cream or mix it in?
-A: Sip through the cream — never stir. The contrast of cold cream meeting hot, whiskey-spiked coffee is the whole point of the drink. Each sip pulls coffee up through the cream layer, creating a different flavor ratio as you drink.
+### Do you sip Irish coffee through the cream or mix it in?
 
-Q: Can I use whipped cream from a can instead of floating fresh cream?
-A: You can, but it's not traditional and doesn't float the same way. Canned whipped cream sits on top initially but dissolves within minutes. Fresh cream lightly whipped with a spoon stays separated and cold for the entire drink.
+Sip through the cream — never stir. The contrast of cold cream meeting hot, whiskey-spiked coffee is the whole point of the drink. Each sip pulls coffee up through the cream layer, creating a different flavor ratio as you drink.
 
-Q: What's the best glass for Irish coffee?
-A: A stemmed Irish coffee glass (heatproof, 240–300 ml) is traditional. The stem lets you hold the glass without burning your hand. A heatproof mug works fine. Avoid regular wine glasses — they're not designed for hot liquid.
+### Can I use whipped cream from a can instead of floating fresh cream?
 
-Q: How much whiskey goes in an Irish coffee?
-A: The classic is 45 ml (1.5 oz / one standard US shot). You can go up to 60 ml (2 oz) for a stronger drink. Below 30 ml and you won't taste the whiskey through the coffee and cream.
+You can, but it's not traditional and doesn't float the same way. Canned whipped cream sits on top initially but dissolves within minutes. Fresh cream lightly whipped with a spoon stays separated and cold for the entire drink.
 
-Q: Why does my cream always sink?
-A: Three common causes: (1) You poured too fast — use the back-of-spoon technique. (2) The coffee isn't sweet enough — the sugar is what gives coffee enough density to support the cream. (3) The cream is too thick — whip it just until slightly aerated, not stiff peaks.
+### What's the best glass for Irish coffee?
 
-Q: Can I make Irish coffee with decaf?
-A: Absolutely. Decaf works identically in the recipe — same flavor, same cream float. Great option for an evening drink when you don't want a caffeine hit.
+A stemmed Irish coffee glass (heatproof, 240–300 ml) is traditional. The stem lets you hold the glass without burning your hand. A heatproof mug works fine. Avoid regular wine glasses — they're not designed for hot liquid.
 
-Q: What's the difference between Irish coffee and a White Russian?
-A: Irish coffee uses hot coffee with floating cream; a White Russian is a cold cocktail made with vodka, coffee liqueur (Kahlúa), and cream or milk over ice. Irish coffee has a whiskey-forward flavor and the cream is separate; a White Russian is blended and served cold.
-{{< /faq >}}
+### How much whiskey goes in an Irish coffee?
+
+The classic is 45 ml (1.5 oz / one standard US shot). You can go up to 60 ml (2 oz) for a stronger drink. Below 30 ml and you won't taste the whiskey through the coffee and cream.
+
+### Why does my cream always sink?
+
+Three common causes: (1) You poured too fast — use the back-of-spoon technique. (2) The coffee isn't sweet enough — the sugar is what gives coffee enough density to support the cream. (3) The cream is too thick — whip it just until slightly aerated, not stiff peaks.
+
+### Can I make Irish coffee with decaf?
+
+Absolutely. Decaf works identically in the recipe — same flavor, same cream float. Great option for an evening drink when you don't want a caffeine hit.
+
+### What's the difference between Irish coffee and a White Russian?
+
+Irish coffee uses hot coffee with floating cream; a White Russian is a cold cocktail made with vodka, coffee liqueur (Kahlúa), and cream or milk over ice. Irish coffee has a whiskey-forward flavor and the cream is separate; a White Russian is blended and served cold.
 
 ---
 

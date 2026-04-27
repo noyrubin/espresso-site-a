@@ -8,6 +8,19 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "What does a cookie butter latte taste like?"
+    answer: "It tastes like a caramel latte that's been spiked with warm baking spices — cinnamon, ginger, nutmeg — with a brown sugar sweetness. It's less sharp than caramel and more complex. If you've ever eaten a Biscoff cookie, imagine that flavor dissolved into a creamy latte. It's immediately familiar but somehow surprising."
+  - question: "Where can I buy Lotus Biscoff spread?"
+    answer: "Most major grocery stores carry it (Walmart, Target, Trader Joe's, Whole Foods). It's usually in the peanut butter aisle. You can also buy it on Amazon. The \"creamy\" variety works best in lattes; the \"crunchy\" version won't dissolve as smoothly but can be used for the syrup version."
+  - question: "Is Biscoff latte the same as cookie butter latte?"
+    answer: "Yes — Biscoff is the most popular brand of cookie butter, made by Lotus Bakeries. \"Cookie butter latte\" and \"Biscoff latte\" refer to the same drink. Trader Joe's sells a generic speculoos cookie butter that works equally well."
+  - question: "Can I make this without an espresso machine?"
+    answer: "Yes. A Moka pot or AeroPress brewed extra-strong works well. Even very strong drip coffee can work in a pinch, though the flavor is milder. The key is a concentrated coffee base so it doesn't get lost in the milk and Biscoff sweetness."
+  - question: "How many calories is a cookie butter latte?"
+    answer: "A homemade cookie butter latte with whole milk is roughly 250–320 calories, depending on milk and how much Biscoff you use (about 90 calories per tablespoon). Iced with oat milk is slightly less — around 200–270 calories. Café versions run higher due to larger sizes."
+  - question: "Is Biscoff vegan?"
+    answer: "Yes — Lotus Biscoff spread (both creamy and crunchy) is certified vegan. No dairy, eggs, or animal products. Combine with plant-based milk for a fully vegan cookie butter latte."
 ---
 
 A cookie butter latte tastes like drinking a warm, spiced speculoos cookie — and somehow it works even better as a coffee drink than it sounds. Biscoff spread (the same stuff you get on airplanes) melts into steamed milk with espresso for a latte that's caramel-sweet with cinnamon, ginger, and a hint of brown sugar. It's one of the easiest specialty lattes you can make at home, and it rivals anything you'd pay $7 for at a café.
@@ -121,22 +134,27 @@ Use just 4 oz of steamed oat milk to make a smaller, more intense version. The c
 
 ## Frequently Asked Questions
 
-{{< faq >}}
-Q: What does a cookie butter latte taste like?
-A: It tastes like a caramel latte that's been spiked with warm baking spices — cinnamon, ginger, nutmeg — with a brown sugar sweetness. It's less sharp than caramel and more complex. If you've ever eaten a Biscoff cookie, imagine that flavor dissolved into a creamy latte. It's immediately familiar but somehow surprising.
+### What does a cookie butter latte taste like?
 
-Q: Where can I buy Lotus Biscoff spread?
-A: Most major grocery stores carry it (Walmart, Target, Trader Joe's, Whole Foods). It's usually in the peanut butter aisle. You can also buy it on Amazon. The "creamy" variety works best in lattes; the "crunchy" version won't dissolve as smoothly but can be used for the syrup version.
+It tastes like a caramel latte that's been spiked with warm baking spices — cinnamon, ginger, nutmeg — with a brown sugar sweetness. It's less sharp than caramel and more complex. If you've ever eaten a Biscoff cookie, imagine that flavor dissolved into a creamy latte. It's immediately familiar but somehow surprising.
 
-Q: Is Biscoff latte the same as cookie butter latte?
-A: Yes — Biscoff is the most popular brand of cookie butter, made by Lotus Bakeries. "Cookie butter latte" and "Biscoff latte" refer to the same drink. Trader Joe's sells a generic speculoos cookie butter that works equally well.
+### Where can I buy Lotus Biscoff spread?
 
-Q: Can I make this without an espresso machine?
-A: Yes. A Moka pot or AeroPress brewed extra-strong works well. Even very strong drip coffee can work in a pinch, though the flavor is milder. The key is a concentrated coffee base so it doesn't get lost in the milk and Biscoff sweetness.
+Most major grocery stores carry it (Walmart, Target, Trader Joe's, Whole Foods). It's usually in the peanut butter aisle. You can also buy it on Amazon. The "creamy" variety works best in lattes; the "crunchy" version won't dissolve as smoothly but can be used for the syrup version.
 
-Q: How many calories is a cookie butter latte?
-A: A homemade cookie butter latte with whole milk is roughly 250–320 calories, depending on milk and how much Biscoff you use (about 90 calories per tablespoon). Iced with oat milk is slightly less — around 200–270 calories. Café versions run higher due to larger sizes.
+### Is Biscoff latte the same as cookie butter latte?
 
-Q: Is Biscoff vegan?
-A: Yes — Lotus Biscoff spread (both creamy and crunchy) is certified vegan. No dairy, eggs, or animal products. Combine with plant-based milk for a fully vegan cookie butter latte.
-{{< /faq >}}
+Yes — Biscoff is the most popular brand of cookie butter, made by Lotus Bakeries. "Cookie butter latte" and "Biscoff latte" refer to the same drink. Trader Joe's sells a generic speculoos cookie butter that works equally well.
+
+### Can I make this without an espresso machine?
+
+Yes. A Moka pot or AeroPress brewed extra-strong works well. Even very strong drip coffee can work in a pinch, though the flavor is milder. The key is a concentrated coffee base so it doesn't get lost in the milk and Biscoff sweetness.
+
+### How many calories is a cookie butter latte?
+
+A homemade cookie butter latte with whole milk is roughly 250–320 calories, depending on milk and how much Biscoff you use (about 90 calories per tablespoon). Iced with oat milk is slightly less — around 200–270 calories. Café versions run higher due to larger sizes.
+
+### Is Biscoff vegan?
+
+Yes — Lotus Biscoff spread (both creamy and crunchy) is certified vegan. No dairy, eggs, or animal products. Combine with plant-based milk for a fully vegan cookie butter latte.
+

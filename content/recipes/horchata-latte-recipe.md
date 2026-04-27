@@ -8,6 +8,19 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "What does a horchata latte taste like?"
+    answer: "A horchata latte tastes like a cinnamon latte made with rice milk — sweet, warmly spiced, and slightly nutty from the rice. The espresso adds bitterness and depth that balances the sweetness of the horchata. If you love cinnamon lattes or chai lattes, you'll love horchata lattes."
+  - question: "Is horchata vegan?"
+    answer: "Traditional Mexican horchata (made from rice, cinnamon, water, and sugar) is completely vegan. The latte version is vegan when made with homemade horchata and no dairy additions. Store-bought horchata varieties vary — some contain dairy, so check the label."
+  - question: "Can I make horchata without soaking overnight?"
+    answer: "Yes, but the result is thinner and less creamy. A minimum 4-hour soak at room temperature gives acceptable results. For a quick version: use rice milk from the store and add cinnamon, vanilla, and sugar. It's not the same as fresh horchata but works well as a latte base."
+  - question: "How long does homemade horchata last?"
+    answer: "Homemade horchata keeps in the refrigerator for up to 5 days in a sealed container. The rice starch settles to the bottom — shake or stir before using. Don't freeze it; the texture breaks down and becomes grainy after thawing."
+  - question: "What's the best espresso to use in a horchata latte?"
+    answer: "Any espresso works, but medium to dark roasts pair best with the cinnamon sweetness. Single-origin espressos with natural fruit notes (Ethiopian, Yemeni) can be surprisingly good — the fruit-cinnamon combination works like mulled wine. For a reliable, crowd-pleasing result, use a classic Italian-style espresso blend."
+  - question: "Can I steam horchata like milk?"
+    answer: "Yes. Steam horchata the same way you'd steam oat milk — keep the steam wand near the surface and aim for 150°F. It won't create the same microfoam as dairy milk but will develop a pleasant, slightly textured froth. Avoid overheating above 160°F as the sugars can scorch."
 ---
 
 A horchata latte combines one of Mexico's most beloved drinks — sweet, cinnamon-scented rice milk — with espresso. The result is creamy, warmly spiced, and genuinely unlike any other latte. If you've ever had horchata from a taqueria and wished you could drink it for breakfast, this is your recipe.
@@ -157,32 +170,27 @@ For iced horchata lattes: light or medium roast works better since acidity is pl
 
 ## Frequently Asked Questions
 
-{{< faq >}}
-**What does a horchata latte taste like?**
+### What does a horchata latte taste like?
+
 A horchata latte tastes like a cinnamon latte made with rice milk — sweet, warmly spiced, and slightly nutty from the rice. The espresso adds bitterness and depth that balances the sweetness of the horchata. If you love cinnamon lattes or chai lattes, you'll love horchata lattes.
-{{< /faq >}}
 
-{{< faq >}}
-**Is horchata vegan?**
+### Is horchata vegan?
+
 Traditional Mexican horchata (made from rice, cinnamon, water, and sugar) is completely vegan. The latte version is vegan when made with homemade horchata and no dairy additions. Store-bought horchata varieties vary — some contain dairy, so check the label.
-{{< /faq >}}
 
-{{< faq >}}
-**Can I make horchata without soaking overnight?**
+### Can I make horchata without soaking overnight?
+
 Yes, but the result is thinner and less creamy. A minimum 4-hour soak at room temperature gives acceptable results. For a quick version: use rice milk from the store and add cinnamon, vanilla, and sugar. It's not the same as fresh horchata but works well as a latte base.
-{{< /faq >}}
 
-{{< faq >}}
-**How long does homemade horchata last?**
+### How long does homemade horchata last?
+
 Homemade horchata keeps in the refrigerator for up to 5 days in a sealed container. The rice starch settles to the bottom — shake or stir before using. Don't freeze it; the texture breaks down and becomes grainy after thawing.
-{{< /faq >}}
 
-{{< faq >}}
-**What's the best espresso to use in a horchata latte?**
+### What's the best espresso to use in a horchata latte?
+
 Any espresso works, but medium to dark roasts pair best with the cinnamon sweetness. Single-origin espressos with natural fruit notes (Ethiopian, Yemeni) can be surprisingly good — the fruit-cinnamon combination works like mulled wine. For a reliable, crowd-pleasing result, use a classic Italian-style espresso blend.
-{{< /faq >}}
 
-{{< faq >}}
-**Can I steam horchata like milk?**
+### Can I steam horchata like milk?
+
 Yes. Steam horchata the same way you'd steam oat milk — keep the steam wand near the surface and aim for 150°F. It won't create the same microfoam as dairy milk but will develop a pleasant, slightly textured froth. Avoid overheating above 160°F as the sugars can scorch.
-{{< /faq >}}
+

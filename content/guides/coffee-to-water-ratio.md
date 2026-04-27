@@ -8,6 +8,21 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "What is the golden ratio for coffee?"
+    answer: "The Specialty Coffee Association's \"Golden Cup\" standard is 1:18 (55g coffee per liter of water) for filter drip coffee. For espresso, the specialty coffee industry standard is 1:2 (18g in, 36g out). For French press and pour over, 1:15–1:17 produces consistently good results."
+  - question: "How much coffee do I use for 12 oz of water?"
+    answer: "For most brewing methods: 20–25g of coffee for 360ml (12 oz) of water — a 1:15 to 1:18 ratio. For espresso: this question doesn't quite apply, since espresso uses 18g of coffee to produce 36g of liquid, not 360ml."
+  - question: "How much coffee per cup?"
+    answer: "It depends on cup size and brewing method. For a standard 6 oz coffee cup using drip or pour over: 10–13g of coffee. For a 12 oz mug: 20–25g. For espresso drinks (latte, cappuccino): 18–20g of coffee per double shot, regardless of final drink size."
+  - question: "Is 1:15 or 1:17 better for pour over?"
+    answer: "1:15 produces a richer, fuller-bodied cup. 1:17 produces a cleaner, lighter cup with more clarity. Neither is objectively better — it depends on your beans and preference. Light roast single-origin coffees often shine at 1:16–1:17; medium-dark blends often taste better at 1:14–1:15."
+  - question: "Why does my French press coffee taste weak even at 1:15?"
+    answer: "Either your grind is too coarse (grounds aren't extracting properly) or your water temperature is too low. French press needs water at 195–200°F (just off boil). Let boiled water sit for 30 seconds before pouring. Also check brew time — 4 minutes is standard; less than 3 minutes will under-extract."
+  - question: "Does the ratio change for cold brew?"
+    answer: "Yes — cold brew uses a much stronger ratio (1:4 to 1:8) because cold water extracts less efficiently than hot water, and the result is typically diluted before drinking. A 1:4 concentrate diluted 1:1 with water gives you an effective final ratio of about 1:8, similar to regular coffee strength."
+  - question: "What ratio should I use for iced coffee?"
+    answer: "Brew at a stronger ratio than normal (1:13 to 1:14 for pour over or drip) to compensate for ice dilution. If you're making flash-chilled coffee (pouring hot coffee directly over ice), use twice the normal coffee dose and target an ice weight equal to half the water weight."
 ---
 
 Getting your coffee to water ratio right is the single biggest lever you have for improving how your coffee tastes at home. Too little coffee and it's watery and flat. Too much and it's bitter and harsh. The ratio is different for every brewing method — here's exactly what to use for each one.
@@ -185,40 +200,33 @@ These ranges reflect variation in bean density and grind size — which is exact
 
 ## Frequently Asked Questions
 
-{{< faq >}}
-**What is the golden ratio for coffee?**
+### What is the golden ratio for coffee?
+
 The Specialty Coffee Association's "Golden Cup" standard is 1:18 (55g coffee per liter of water) for filter drip coffee. For espresso, the specialty coffee industry standard is 1:2 (18g in, 36g out). For French press and pour over, 1:15–1:17 produces consistently good results.
-{{< /faq >}}
 
-{{< faq >}}
-**How much coffee do I use for 12 oz of water?**
+### How much coffee do I use for 12 oz of water?
+
 For most brewing methods: 20–25g of coffee for 360ml (12 oz) of water — a 1:15 to 1:18 ratio. For espresso: this question doesn't quite apply, since espresso uses 18g of coffee to produce 36g of liquid, not 360ml.
-{{< /faq >}}
 
-{{< faq >}}
-**How much coffee per cup?**
+### How much coffee per cup?
+
 It depends on cup size and brewing method. For a standard 6 oz coffee cup using drip or pour over: 10–13g of coffee. For a 12 oz mug: 20–25g. For espresso drinks (latte, cappuccino): 18–20g of coffee per double shot, regardless of final drink size.
-{{< /faq >}}
 
-{{< faq >}}
-**Is 1:15 or 1:17 better for pour over?**
+### Is 1:15 or 1:17 better for pour over?
+
 1:15 produces a richer, fuller-bodied cup. 1:17 produces a cleaner, lighter cup with more clarity. Neither is objectively better — it depends on your beans and preference. Light roast single-origin coffees often shine at 1:16–1:17; medium-dark blends often taste better at 1:14–1:15.
-{{< /faq >}}
 
-{{< faq >}}
-**Why does my French press coffee taste weak even at 1:15?**
+### Why does my French press coffee taste weak even at 1:15?
+
 Either your grind is too coarse (grounds aren't extracting properly) or your water temperature is too low. French press needs water at 195–200°F (just off boil). Let boiled water sit for 30 seconds before pouring. Also check brew time — 4 minutes is standard; less than 3 minutes will under-extract.
-{{< /faq >}}
 
-{{< faq >}}
-**Does the ratio change for cold brew?**
+### Does the ratio change for cold brew?
+
 Yes — cold brew uses a much stronger ratio (1:4 to 1:8) because cold water extracts less efficiently than hot water, and the result is typically diluted before drinking. A 1:4 concentrate diluted 1:1 with water gives you an effective final ratio of about 1:8, similar to regular coffee strength.
-{{< /faq >}}
 
-{{< faq >}}
-**What ratio should I use for iced coffee?**
+### What ratio should I use for iced coffee?
+
 Brew at a stronger ratio than normal (1:13 to 1:14 for pour over or drip) to compensate for ice dilution. If you're making flash-chilled coffee (pouring hot coffee directly over ice), use twice the normal coffee dose and target an ice weight equal to half the water weight.
-{{< /faq >}}
 
 ---
 

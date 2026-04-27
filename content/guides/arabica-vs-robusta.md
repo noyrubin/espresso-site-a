@@ -8,6 +8,23 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "Is arabica better than robusta?"
+    answer: "Arabica is generally considered better-tasting — sweeter, more complex, less bitter, and with brighter acidity. Robusta is harsher, more bitter, and earthier. However, robusta has about double the caffeine and produces thicker espresso crema, so it's deliberately included in many traditional Italian espresso blends. Most specialty coffee is 100% arabica."
+  - question: "Does robusta have more caffeine than arabica?"
+    answer: "Yes. Robusta contains roughly 2.2–2.7% caffeine by weight, compared to about 1.2–1.5% in arabica — roughly double. A pure robusta espresso shot can hit 120–160 mg of caffeine, versus 60–80 mg for pure arabica."
+  - question: "Why do Italian espresso blends include robusta?"
+    answer: "Robusta produces thicker, darker, longer-lasting crema and a heavier body — qualities prized in traditional Italian espresso. Most classic Italian blends (Lavazza Crema e Gusto, Illy Forte, Kimbo, etc.) include 10–30% robusta for crema, body, and a bolder flavor. The trade-off is some loss of sweetness and aromatic complexity."
+  - question: "Is 100% arabica always better quality?"
+    answer: "Almost always for flavor, but '100% arabica' on a label doesn't guarantee a great coffee. Cheap commodity arabica is still cheap commodity coffee — just better than commodity robusta. The label tells you the species, not the quality. Look for roast date, origin, and roaster reputation for actual quality signals."
+  - question: "Can I tell arabica and robusta apart by looking at the beans?"
+    answer: "Often yes. Arabica beans are oval, slightly larger, and have a curved S-shaped center crease. Robusta beans are rounder, smaller, with a straighter center crease. The cup itself usually gives it away though — robusta tastes harsher, more bitter, and rubbery, with very low acidity."
+  - question: "Why is arabica more expensive?"
+    answer: "Arabica is harder to grow (needs high altitude, narrower temperature range, more rainfall, more labor), more disease-prone (especially to coffee leaf rust), and yields less per hectare. Specialty buyers also pay premium prices for high-scoring arabica lots. Green arabica typically trades at roughly 2× the price of green robusta."
+  - question: "Does decaf coffee come from arabica or robusta?"
+    answer: "Both. Most premium decaf is arabica (better flavor justifies the decaffeination cost). Cheaper decaf, especially in instant form, may use robusta or a blend. The decaffeination process itself doesn't discriminate by species."
+  - question: "What does robusta taste like compared to arabica?"
+    answer: "Robusta is earthy, woody, nutty (often described as peanut-like), with rubbery or burnt-cereal notes and heavy bitterness. Arabica is sweeter, with bright acidity (citrus, berry, stone fruit), and aromatic complexity (floral, chocolate, caramel). Side by side, the difference is dramatic — most people find pure robusta unpleasant on its own."
 ---
 
 Almost all the coffee in the world comes from two species: **Coffea arabica** and **Coffea canephora** (commonly called robusta). They look similar in the cup but differ in almost every meaningful way — caffeine, flavor, acidity, growing conditions, and price. Understanding the difference helps you read bag labels, choose better espresso blends, and know what you're actually paying for.
@@ -221,24 +238,37 @@ For **maximum caffeine, cheapest cup, or authentic Vietnamese coffee**, robusta 
 
 The label doesn't always tell you what you're getting. Specialty roasters are usually transparent. Mass-market brands often aren't. If a coffee tastes flat, harsh, rubbery, or unusually bitter — robusta content is a likely reason.
 
-{{< faq >}}
-  - question: "Is arabica better than robusta?"
-    answer: "Arabica is generally considered better-tasting — sweeter, more complex, less bitter, and with brighter acidity. Robusta is harsher, more bitter, and earthier. However, robusta has about double the caffeine and produces thicker espresso crema, so it's deliberately included in many traditional Italian espresso blends. Most specialty coffee is 100% arabica."
-  - question: "Does robusta have more caffeine than arabica?"
-    answer: "Yes. Robusta contains roughly 2.2–2.7% caffeine by weight, compared to about 1.2–1.5% in arabica — roughly double. A pure robusta espresso shot can hit 120–160 mg of caffeine, versus 60–80 mg for pure arabica."
-  - question: "Why do Italian espresso blends include robusta?"
-    answer: "Robusta produces thicker, darker, longer-lasting crema and a heavier body — qualities prized in traditional Italian espresso. Most classic Italian blends (Lavazza Crema e Gusto, Illy Forte, Kimbo, etc.) include 10–30% robusta for crema, body, and a bolder flavor. The trade-off is some loss of sweetness and aromatic complexity."
-  - question: "Is 100% arabica always better quality?"
-    answer: "Almost always for flavor, but '100% arabica' on a label doesn't guarantee a great coffee. Cheap commodity arabica is still cheap commodity coffee — just better than commodity robusta. The label tells you the species, not the quality. Look for roast date, origin, and roaster reputation for actual quality signals."
-  - question: "Can I tell arabica and robusta apart by looking at the beans?"
-    answer: "Often yes. Arabica beans are oval, slightly larger, and have a curved S-shaped center crease. Robusta beans are rounder, smaller, with a straighter center crease. The cup itself usually gives it away though — robusta tastes harsher, more bitter, and rubbery, with very low acidity."
-  - question: "Why is arabica more expensive?"
-    answer: "Arabica is harder to grow (needs high altitude, narrower temperature range, more rainfall, more labor), more disease-prone (especially to coffee leaf rust), and yields less per hectare. Specialty buyers also pay premium prices for high-scoring arabica lots. Green arabica typically trades at roughly 2× the price of green robusta."
-  - question: "Does decaf coffee come from arabica or robusta?"
-    answer: "Both. Most premium decaf is arabica (better flavor justifies the decaffeination cost). Cheaper decaf, especially in instant form, may use robusta or a blend. The decaffeination process itself doesn't discriminate by species."
-  - question: "What does robusta taste like compared to arabica?"
-    answer: "Robusta is earthy, woody, nutty (often described as peanut-like), with rubbery or burnt-cereal notes and heavy bitterness. Arabica is sweeter, with bright acidity (citrus, berry, stone fruit), and aromatic complexity (floral, chocolate, caramel). Side by side, the difference is dramatic — most people find pure robusta unpleasant on its own."
-{{< /faq >}}
+### Is arabica better than robusta?
+
+Arabica is generally considered better-tasting — sweeter, more complex, less bitter, and with brighter acidity. Robusta is harsher, more bitter, and earthier. However, robusta has about double the caffeine and produces thicker espresso crema, so it's deliberately included in many traditional Italian espresso blends. Most specialty coffee is 100% arabica.
+
+### Does robusta have more caffeine than arabica?
+
+Yes. Robusta contains roughly 2.2–2.7% caffeine by weight, compared to about 1.2–1.5% in arabica — roughly double. A pure robusta espresso shot can hit 120–160 mg of caffeine, versus 60–80 mg for pure arabica.
+
+### Why do Italian espresso blends include robusta?
+
+Robusta produces thicker, darker, longer-lasting crema and a heavier body — qualities prized in traditional Italian espresso. Most classic Italian blends (Lavazza Crema e Gusto, Illy Forte, Kimbo, etc.) include 10–30% robusta for crema, body, and a bolder flavor. The trade-off is some loss of sweetness and aromatic complexity.
+
+### Is 100% arabica always better quality?
+
+Almost always for flavor, but '100% arabica' on a label doesn't guarantee a great coffee. Cheap commodity arabica is still cheap commodity coffee — just better than commodity robusta. The label tells you the species, not the quality. Look for roast date, origin, and roaster reputation for actual quality signals.
+
+### Can I tell arabica and robusta apart by looking at the beans?
+
+Often yes. Arabica beans are oval, slightly larger, and have a curved S-shaped center crease. Robusta beans are rounder, smaller, with a straighter center crease. The cup itself usually gives it away though — robusta tastes harsher, more bitter, and rubbery, with very low acidity.
+
+### Why is arabica more expensive?
+
+Arabica is harder to grow (needs high altitude, narrower temperature range, more rainfall, more labor), more disease-prone (especially to coffee leaf rust), and yields less per hectare. Specialty buyers also pay premium prices for high-scoring arabica lots. Green arabica typically trades at roughly 2× the price of green robusta.
+
+### Does decaf coffee come from arabica or robusta?
+
+Both. Most premium decaf is arabica (better flavor justifies the decaffeination cost). Cheaper decaf, especially in instant form, may use robusta or a blend. The decaffeination process itself doesn't discriminate by species.
+
+### What does robusta taste like compared to arabica?
+
+Robusta is earthy, woody, nutty (often described as peanut-like), with rubbery or burnt-cereal notes and heavy bitterness. Arabica is sweeter, with bright acidity (citrus, berry, stone fruit), and aromatic complexity (floral, chocolate, caramel). Side by side, the difference is dramatic — most people find pure robusta unpleasant on its own.
 
 ---
 

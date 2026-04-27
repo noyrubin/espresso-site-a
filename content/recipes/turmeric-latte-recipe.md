@@ -8,6 +8,17 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "What is the difference between a turmeric latte and golden milk?"
+    answer: "They are the same drink. 'Golden milk' is the traditional name from South Asian Ayurvedic medicine (haldi doodh in Hindi). 'Turmeric latte' is the modern café name for the same recipe: warm milk blended with turmeric, cinnamon, ginger, and black pepper. Both names appear in menus depending on the café's branding."
+  - question: "Does a turmeric latte taste like coffee?"
+    answer: "No — a traditional turmeric latte has no coffee at all. It tastes earthy, warm, slightly bitter, and gently sweet. If you add espresso (a 'dirty golden latte'), you get the combination of coffee bitterness with turmeric's earthiness, which is a different drink with its own appeal."
+  - question: "Can I make a turmeric latte without the paste?"
+    answer: "Yes. Mix your spices directly — ½ teaspoon turmeric, ¼ teaspoon cinnamon, a pinch each of ginger and black pepper — with a tablespoon of hot water to form a quick slurry, then top with frothed hot milk. It's slightly less smooth than the paste method but works fine for occasional use."
+  - question: "Is a turmeric latte good hot or iced?"
+    answer: "Both versions are genuinely good. The hot version is more warming and aromatic — ideal in cold weather. The iced version is lighter, slightly more refreshing, and the turmeric flavor comes through more cleanly. Many people who find hot golden milk too heavy enjoy the iced version year-round."
+  - question: "Why does my turmeric latte taste bitter?"
+    answer: "Three main causes: too much turmeric (over 1 teaspoon per cup), insufficient sweetener, or overheated milk. Start with ½ teaspoon turmeric, add 1–2 teaspoons of honey or maple syrup, and keep the milk temperature below 70°C. If it still tastes bitter, try a higher-quality turmeric — older turmeric develops harsher flavors."
 ---
 
 The turmeric latte — also called a golden milk latte or golden latte — is one of the few genuinely delicious drinks that sits at the intersection of coffee culture and wellness. When it's made well, it tastes warming, slightly earthy, gently sweet, and complex in a way that a plain latte isn't.
@@ -198,30 +209,25 @@ Turmeric has a naturally bitter-earthy flavor. Light sweetening (1–2 teaspoons
 
 ## Frequently Asked Questions
 
-{{< faq >}}
-[
-  {
-    "question": "What is the difference between a turmeric latte and golden milk?",
-    "answer": "They are the same drink. 'Golden milk' is the traditional name from South Asian Ayurvedic medicine (haldi doodh in Hindi). 'Turmeric latte' is the modern café name for the same recipe: warm milk blended with turmeric, cinnamon, ginger, and black pepper. Both names appear in menus depending on the café's branding."
-  },
-  {
-    "question": "Does a turmeric latte taste like coffee?",
-    "answer": "No — a traditional turmeric latte has no coffee at all. It tastes earthy, warm, slightly bitter, and gently sweet. If you add espresso (a 'dirty golden latte'), you get the combination of coffee bitterness with turmeric's earthiness, which is a different drink with its own appeal."
-  },
-  {
-    "question": "Can I make a turmeric latte without the paste?",
-    "answer": "Yes. Mix your spices directly — ½ teaspoon turmeric, ¼ teaspoon cinnamon, a pinch each of ginger and black pepper — with a tablespoon of hot water to form a quick slurry, then top with frothed hot milk. It's slightly less smooth than the paste method but works fine for occasional use."
-  },
-  {
-    "question": "Is a turmeric latte good hot or iced?",
-    "answer": "Both versions are genuinely good. The hot version is more warming and aromatic — ideal in cold weather. The iced version is lighter, slightly more refreshing, and the turmeric flavor comes through more cleanly. Many people who find hot golden milk too heavy enjoy the iced version year-round."
-  },
-  {
-    "question": "Why does my turmeric latte taste bitter?",
-    "answer": "Three main causes: too much turmeric (over 1 teaspoon per cup), insufficient sweetener, or overheated milk. Start with ½ teaspoon turmeric, add 1–2 teaspoons of honey or maple syrup, and keep the milk temperature below 70°C. If it still tastes bitter, try a higher-quality turmeric — older turmeric develops harsher flavors."
-  }
-]
-{{< /faq >}}
+### What is the difference between a turmeric latte and golden milk?
+
+They are the same drink. 'Golden milk' is the traditional name from South Asian Ayurvedic medicine (haldi doodh in Hindi). 'Turmeric latte' is the modern café name for the same recipe: warm milk blended with turmeric, cinnamon, ginger, and black pepper. Both names appear in menus depending on the café's branding.
+
+### Does a turmeric latte taste like coffee?
+
+No — a traditional turmeric latte has no coffee at all. It tastes earthy, warm, slightly bitter, and gently sweet. If you add espresso (a 'dirty golden latte'), you get the combination of coffee bitterness with turmeric's earthiness, which is a different drink with its own appeal.
+
+### Can I make a turmeric latte without the paste?
+
+Yes. Mix your spices directly — ½ teaspoon turmeric, ¼ teaspoon cinnamon, a pinch each of ginger and black pepper — with a tablespoon of hot water to form a quick slurry, then top with frothed hot milk. It's slightly less smooth than the paste method but works fine for occasional use.
+
+### Is a turmeric latte good hot or iced?
+
+Both versions are genuinely good. The hot version is more warming and aromatic — ideal in cold weather. The iced version is lighter, slightly more refreshing, and the turmeric flavor comes through more cleanly. Many people who find hot golden milk too heavy enjoy the iced version year-round.
+
+### Why does my turmeric latte taste bitter?
+
+Three main causes: too much turmeric (over 1 teaspoon per cup), insufficient sweetener, or overheated milk. Start with ½ teaspoon turmeric, add 1–2 teaspoons of honey or maple syrup, and keep the milk temperature below 70°C. If it still tastes bitter, try a higher-quality turmeric — older turmeric develops harsher flavors.
 
 ---
 

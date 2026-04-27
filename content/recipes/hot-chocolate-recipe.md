@@ -8,6 +8,21 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "What's the best chocolate for hot chocolate?"
+    answer: "Use 60–70% dark chocolate for a balanced, not-too-bitter result. Higher than 70% requires more sweetener. For hot cocoa, Dutch-process cocoa gives a smoother, more mellow flavor while natural cocoa is more intensely chocolatey. Avoid baking chocolate — it's very bitter and formulated differently."
+  - question: "Can I make hot chocolate without milk?"
+    answer: "Yes. Use any plant-based milk — oat milk (barista blend) is the best dairy-free option for richness and creaminess. Coconut milk gives a very rich, slightly tropical result. Almond milk works but produces a thinner drink. You can also use water in a pinch, though the result will be thinner and less creamy."
+  - question: "What temperature should hot chocolate be?"
+    answer: "Aim for 150–160°F (65–70°C) — hot enough to drink comfortably but not scalding. If you go above 170°F the milk starts to taste slightly cooked. For reference, café-standard espresso drinks are usually served at 150–165°F."
+  - question: "Hot chocolate recipe with cocoa powder vs. real chocolate — which is better?"
+    answer: "Real chocolate gives a silkier, richer result because it contains cocoa butter in addition to cocoa solids. Cocoa powder is faster and easier to control for sweetness. For everyday drinking, cocoa powder is great. For a special occasion or when you want maximum richness, use real chopped chocolate."
+  - question: "How do I make hot chocolate thicker?"
+    answer: "Use whole milk instead of lower-fat varieties. Increase the chocolate-to-milk ratio — try 2 oz chocolate per 1 cup milk. You can also whisk in 1 tsp cornstarch (dissolved in cold milk first) for a thicker, almost pudding-like texture. This is the technique used in traditional Mexican champurrado."
+  - question: "Can I add espresso to hot chocolate?"
+    answer: "Absolutely — this creates a mocha. Add 1–2 shots of espresso to your prepared hot chocolate. A single shot adds subtle coffee depth without making it coffee-forward. Two shots creates a mocha with stronger espresso presence. See our full [mocha recipe](/recipes/mocha-recipe/) for the espresso-first version."
+  - question: "What are the best toppings for hot chocolate?"
+    answer: "[Homemade whipped cream](/guides/how-to-make-whipped-cream/) is classic — it takes 5 minutes and tastes far better than canned. For next-level hot chocolate: chocolate shavings (use a vegetable peeler on a chocolate bar), a pinch of flaky sea salt, or a cinnamon stick for Mexican style. A layer of [cold foam](/guides/how-to-make-cold-foam/) instead of whipped cream gives a lighter, café-style presentation."
 ---
 
 Making great hot chocolate at home is easier than most people think — and it's dramatically better than any powder from a packet. Whether you call it hot chocolate or hot cocoa, the secret is using real chocolate and the right milk-to-chocolate ratio.
@@ -225,37 +240,31 @@ Use oat milk (barista blend) or coconut milk for the richest result. Use dairy-f
 
 ## Frequently Asked Questions
 
-{{< faq >}}
-**What's the best chocolate for hot chocolate?**
+### What's the best chocolate for hot chocolate?
+
 Use 60–70% dark chocolate for a balanced, not-too-bitter result. Higher than 70% requires more sweetener. For hot cocoa, Dutch-process cocoa gives a smoother, more mellow flavor while natural cocoa is more intensely chocolatey. Avoid baking chocolate — it's very bitter and formulated differently.
-{{< /faq >}}
 
-{{< faq >}}
-**Can I make hot chocolate without milk?**
+### Can I make hot chocolate without milk?
+
 Yes. Use any plant-based milk — oat milk (barista blend) is the best dairy-free option for richness and creaminess. Coconut milk gives a very rich, slightly tropical result. Almond milk works but produces a thinner drink. You can also use water in a pinch, though the result will be thinner and less creamy.
-{{< /faq >}}
 
-{{< faq >}}
-**What temperature should hot chocolate be?**
+### What temperature should hot chocolate be?
+
 Aim for 150–160°F (65–70°C) — hot enough to drink comfortably but not scalding. If you go above 170°F the milk starts to taste slightly cooked. For reference, café-standard espresso drinks are usually served at 150–165°F.
-{{< /faq >}}
 
-{{< faq >}}
-**Hot chocolate recipe with cocoa powder vs. real chocolate — which is better?**
+### Hot chocolate recipe with cocoa powder vs. real chocolate — which is better?
+
 Real chocolate gives a silkier, richer result because it contains cocoa butter in addition to cocoa solids. Cocoa powder is faster and easier to control for sweetness. For everyday drinking, cocoa powder is great. For a special occasion or when you want maximum richness, use real chopped chocolate.
-{{< /faq >}}
 
-{{< faq >}}
-**How do I make hot chocolate thicker?**
+### How do I make hot chocolate thicker?
+
 Use whole milk instead of lower-fat varieties. Increase the chocolate-to-milk ratio — try 2 oz chocolate per 1 cup milk. You can also whisk in 1 tsp cornstarch (dissolved in cold milk first) for a thicker, almost pudding-like texture. This is the technique used in traditional Mexican champurrado.
-{{< /faq >}}
 
-{{< faq >}}
-**Can I add espresso to hot chocolate?**
+### Can I add espresso to hot chocolate?
+
 Absolutely — this creates a mocha. Add 1–2 shots of espresso to your prepared hot chocolate. A single shot adds subtle coffee depth without making it coffee-forward. Two shots creates a mocha with stronger espresso presence. See our full [mocha recipe](/recipes/mocha-recipe/) for the espresso-first version.
-{{< /faq >}}
 
-{{< faq >}}
-**What are the best toppings for hot chocolate?**
+### What are the best toppings for hot chocolate?
+
 [Homemade whipped cream](/guides/how-to-make-whipped-cream/) is classic — it takes 5 minutes and tastes far better than canned. For next-level hot chocolate: chocolate shavings (use a vegetable peeler on a chocolate bar), a pinch of flaky sea salt, or a cinnamon stick for Mexican style. A layer of [cold foam](/guides/how-to-make-cold-foam/) instead of whipped cream gives a lighter, café-style presentation.
-{{< /faq >}}
+

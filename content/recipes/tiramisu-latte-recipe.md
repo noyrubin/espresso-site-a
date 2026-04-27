@@ -8,6 +8,21 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "What does a tiramisu latte taste like?"
+    answer: "It tastes like a very good latte with a rich, creamy finish and a slight cocoa note. The mascarpone cream gives it a different texture from a regular latte — silkier, richer, with a faint cheese-cream sweetness that recalls tiramisu without being dessert-heavy. Coffee flavor is still dominant; it just has more dimension."
+  - question: "Can I use cream cheese instead of mascarpone?"
+    answer: "Technically yes, but the result will taste tangier and less rich. Mascarpone is 60–75% fat while cream cheese is typically 33% fat — the fat content is what gives tiramisu its characteristic mouthfeel. If you can't find mascarpone, add a tablespoon of heavy cream to cream cheese and mix well to approximate the texture."
+  - question: "Does a tiramisu latte have alcohol?"
+    answer: "No — it's caffeine only. Actual tiramisu often includes Marsala wine or rum, but the latte version has none. It's purely espresso + mascarpone + milk. If you want an adult version, a splash of Marsala wine or coffee liqueur (like Kahlúa) in the espresso layer works beautifully."
+  - question: "Where can I buy tiramisu latte at a coffee shop?"
+    answer: "This drink isn't yet widely standardized at major chains like Starbucks (though seasonal menus occasionally feature tiramisu-inspired drinks). Specialty coffee shops and Italian-style cafés sometimes offer it. It's easy enough to make at home that it's rarely worth waiting for a coffee shop version."
+  - question: "How do I store leftover mascarpone cream?"
+    answer: "Store the mascarpone cream in an airtight container in the refrigerator for up to 3 days. It may firm up — bring it to room temperature and stir before using. Don't freeze it (the texture breaks when thawed)."
+  - question: "Can I make a tiramisu latte without an espresso machine?"
+    answer: "Yes. Use any of these alternatives: Moka pot (strong, concentrated), Aeropress brewed at a 1:8 ratio, or French press brewed strong with 2 tablespoons of coffee per 120 ml water. Even very strong drip coffee works, though the flavor is less intense than true espresso. The mascarpone cream and cocoa are what make this drink special — the method of brewing matters less than the strength."
+  - question: "Is mascarpone always available at grocery stores?"
+    answer: "In most well-stocked grocery stores, yes — look in the specialty cheese section near ricotta, not with regular cream cheese. Trader Joe's, Whole Foods, and most European-style markets carry it year-round. In a pinch, equal parts cream cheese + heavy cream whipped together gets you 80% of the way there."
 ---
 
 A tiramisu latte takes everything people love about Italy's most famous dessert — espresso, mascarpone, cocoa — and turns it into a drinkable café experience. The result is rich, slightly sweet, and deeply coffee-forward, with none of the complexity of making actual tiramisu.
@@ -177,28 +192,33 @@ Mix 120g mascarpone + 120 ml heavy cream + 2 tbsp powdered sugar + 1 tsp vanilla
 
 ## Frequently Asked Questions
 
-{{< faq >}}
-Q: What does a tiramisu latte taste like?
-A: It tastes like a very good latte with a rich, creamy finish and a slight cocoa note. The mascarpone cream gives it a different texture from a regular latte — silkier, richer, with a faint cheese-cream sweetness that recalls tiramisu without being dessert-heavy. Coffee flavor is still dominant; it just has more dimension.
+### What does a tiramisu latte taste like?
 
-Q: Can I use cream cheese instead of mascarpone?
-A: Technically yes, but the result will taste tangier and less rich. Mascarpone is 60–75% fat while cream cheese is typically 33% fat — the fat content is what gives tiramisu its characteristic mouthfeel. If you can't find mascarpone, add a tablespoon of heavy cream to cream cheese and mix well to approximate the texture.
+It tastes like a very good latte with a rich, creamy finish and a slight cocoa note. The mascarpone cream gives it a different texture from a regular latte — silkier, richer, with a faint cheese-cream sweetness that recalls tiramisu without being dessert-heavy. Coffee flavor is still dominant; it just has more dimension.
 
-Q: Does a tiramisu latte have alcohol?
-A: No — it's caffeine only. Actual tiramisu often includes Marsala wine or rum, but the latte version has none. It's purely espresso + mascarpone + milk. If you want an adult version, a splash of Marsala wine or coffee liqueur (like Kahlúa) in the espresso layer works beautifully.
+### Can I use cream cheese instead of mascarpone?
 
-Q: Where can I buy tiramisu latte at a coffee shop?
-A: This drink isn't yet widely standardized at major chains like Starbucks (though seasonal menus occasionally feature tiramisu-inspired drinks). Specialty coffee shops and Italian-style cafés sometimes offer it. It's easy enough to make at home that it's rarely worth waiting for a coffee shop version.
+Technically yes, but the result will taste tangier and less rich. Mascarpone is 60–75% fat while cream cheese is typically 33% fat — the fat content is what gives tiramisu its characteristic mouthfeel. If you can't find mascarpone, add a tablespoon of heavy cream to cream cheese and mix well to approximate the texture.
 
-Q: How do I store leftover mascarpone cream?
-A: Store the mascarpone cream in an airtight container in the refrigerator for up to 3 days. It may firm up — bring it to room temperature and stir before using. Don't freeze it (the texture breaks when thawed).
+### Does a tiramisu latte have alcohol?
 
-Q: Can I make a tiramisu latte without an espresso machine?
-A: Yes. Use any of these alternatives: Moka pot (strong, concentrated), Aeropress brewed at a 1:8 ratio, or French press brewed strong with 2 tablespoons of coffee per 120 ml water. Even very strong drip coffee works, though the flavor is less intense than true espresso. The mascarpone cream and cocoa are what make this drink special — the method of brewing matters less than the strength.
+No — it's caffeine only. Actual tiramisu often includes Marsala wine or rum, but the latte version has none. It's purely espresso + mascarpone + milk. If you want an adult version, a splash of Marsala wine or coffee liqueur (like Kahlúa) in the espresso layer works beautifully.
 
-Q: Is mascarpone always available at grocery stores?
-A: In most well-stocked grocery stores, yes — look in the specialty cheese section near ricotta, not with regular cream cheese. Trader Joe's, Whole Foods, and most European-style markets carry it year-round. In a pinch, equal parts cream cheese + heavy cream whipped together gets you 80% of the way there.
-{{< /faq >}}
+### Where can I buy tiramisu latte at a coffee shop?
+
+This drink isn't yet widely standardized at major chains like Starbucks (though seasonal menus occasionally feature tiramisu-inspired drinks). Specialty coffee shops and Italian-style cafés sometimes offer it. It's easy enough to make at home that it's rarely worth waiting for a coffee shop version.
+
+### How do I store leftover mascarpone cream?
+
+Store the mascarpone cream in an airtight container in the refrigerator for up to 3 days. It may firm up — bring it to room temperature and stir before using. Don't freeze it (the texture breaks when thawed).
+
+### Can I make a tiramisu latte without an espresso machine?
+
+Yes. Use any of these alternatives: Moka pot (strong, concentrated), Aeropress brewed at a 1:8 ratio, or French press brewed strong with 2 tablespoons of coffee per 120 ml water. Even very strong drip coffee works, though the flavor is less intense than true espresso. The mascarpone cream and cocoa are what make this drink special — the method of brewing matters less than the strength.
+
+### Is mascarpone always available at grocery stores?
+
+In most well-stocked grocery stores, yes — look in the specialty cheese section near ricotta, not with regular cream cheese. Trader Joe's, Whole Foods, and most European-style markets carry it year-round. In a pinch, equal parts cream cheese + heavy cream whipped together gets you 80% of the way there.
 
 ---
 

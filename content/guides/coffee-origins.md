@@ -8,6 +8,23 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "What is the coffee belt?"
+    answer: "The coffee belt is the band around the equator (roughly between the Tropics of Cancer and Capricorn) where most of the world's coffee is grown. About 70 countries within this zone produce coffee, with conditions of warm temperatures, consistent rainfall, high altitudes, and tropical climate that coffee plants need to thrive."
+  - question: "Which country produces the best coffee?"
+    answer: "There's no single best — it depends on the flavor you want. Ethiopia is widely considered the most complex and floral, Colombia the most balanced and beginner-friendly, Kenya the brightest, Sumatra the earthiest. For specialty coffee, top producers include Ethiopia, Colombia, Guatemala, Costa Rica, Kenya, and Honduras."
+  - question: "What does single origin coffee mean?"
+    answer: "Single origin coffee comes from one geographic source — a single country, region, farm, or cooperative. It contrasts with blends, which combine beans from multiple origins. Single origins showcase the distinctive flavor of one place, while blends balance flavors from multiple sources for consistency or complexity."
+  - question: "Why does coffee from Ethiopia taste different from Brazilian coffee?"
+    answer: "Ethiopia is the birthplace of arabica and grows hundreds of unique heirloom varieties at high altitude with washed and natural processing — producing bright, floral, fruity coffee. Brazil grows mostly bourbon-derived varieties at lower altitude with mostly natural processing on flatter terrain — producing nutty, chocolatey, smooth coffee. Variety, altitude, soil, climate, and processing all differ."
+  - question: "What's the difference between washed and natural coffee?"
+    answer: "Washed (wet) processing pulps cherries and ferments off the fruit before drying, producing cleaner, brighter, more acidic coffee. Natural (dry) processing dries whole cherries with the fruit intact, infusing the bean with sweetness and producing fruitier, heavier-bodied coffee. Honey processing leaves some mucilage on the bean during drying — a middle ground."
+  - question: "How does altitude affect coffee flavor?"
+    answer: "Higher altitudes mean cooler temperatures and slower bean development, producing denser beans with more complex sugars and acids. Premium specialty arabica usually comes from 1,200m+. Lower-altitude coffee tends to be milder and less complex. Labels like 'SHB' (Strictly Hard Bean) or 'SHG' (Strictly High Grown) indicate dense, high-altitude beans."
+  - question: "Is single origin always better than a blend?"
+    answer: "Not necessarily. Single origins showcase one place's character — best for highlighting unique flavor. Blends combine complementary beans for balance, body, or consistency — often better for espresso (where complexity and crema matter) and milk drinks (where origin nuance gets muted by milk anyway). For pour over and filter coffee, single origin usually shows off the bean better."
+  - question: "Where did coffee originate?"
+    answer: "Arabica coffee originated in the highlands of Ethiopia, where Coffea arabica grew wild for thousands of years before cultivation. Coffee drinking spread first to Yemen (the port of Mocha gave its name to the chocolate-coffee drink) and then through the Ottoman Empire, Europe, and eventually to colonial plantations across the tropics."
 ---
 
 The "origin" on a coffee bag — Ethiopia, Colombia, Sumatra, Brazil — isn't just geography. It's a flavor preview. Where coffee is grown shapes almost everything you taste in the cup: the brightness of the acidity, the sweetness, the body, even the aftertaste.
@@ -210,24 +227,37 @@ A coffee's origin sets your flavor expectations: African coffees bring brightnes
 
 The best way to learn is to try one country at a time, ideally as filter coffee where origin character speaks loudest. Once you know which regions you like, you can shop bags faster — and you'll start to see why two beans labeled "100% arabica" can taste like completely different drinks.
 
-{{< faq >}}
-  - question: "What is the coffee belt?"
-    answer: "The coffee belt is the band around the equator (roughly between the Tropics of Cancer and Capricorn) where most of the world's coffee is grown. About 70 countries within this zone produce coffee, with conditions of warm temperatures, consistent rainfall, high altitudes, and tropical climate that coffee plants need to thrive."
-  - question: "Which country produces the best coffee?"
-    answer: "There's no single best — it depends on the flavor you want. Ethiopia is widely considered the most complex and floral, Colombia the most balanced and beginner-friendly, Kenya the brightest, Sumatra the earthiest. For specialty coffee, top producers include Ethiopia, Colombia, Guatemala, Costa Rica, Kenya, and Honduras."
-  - question: "What does single origin coffee mean?"
-    answer: "Single origin coffee comes from one geographic source — a single country, region, farm, or cooperative. It contrasts with blends, which combine beans from multiple origins. Single origins showcase the distinctive flavor of one place, while blends balance flavors from multiple sources for consistency or complexity."
-  - question: "Why does coffee from Ethiopia taste different from Brazilian coffee?"
-    answer: "Ethiopia is the birthplace of arabica and grows hundreds of unique heirloom varieties at high altitude with washed and natural processing — producing bright, floral, fruity coffee. Brazil grows mostly bourbon-derived varieties at lower altitude with mostly natural processing on flatter terrain — producing nutty, chocolatey, smooth coffee. Variety, altitude, soil, climate, and processing all differ."
-  - question: "What's the difference between washed and natural coffee?"
-    answer: "Washed (wet) processing pulps cherries and ferments off the fruit before drying, producing cleaner, brighter, more acidic coffee. Natural (dry) processing dries whole cherries with the fruit intact, infusing the bean with sweetness and producing fruitier, heavier-bodied coffee. Honey processing leaves some mucilage on the bean during drying — a middle ground."
-  - question: "How does altitude affect coffee flavor?"
-    answer: "Higher altitudes mean cooler temperatures and slower bean development, producing denser beans with more complex sugars and acids. Premium specialty arabica usually comes from 1,200m+. Lower-altitude coffee tends to be milder and less complex. Labels like 'SHB' (Strictly Hard Bean) or 'SHG' (Strictly High Grown) indicate dense, high-altitude beans."
-  - question: "Is single origin always better than a blend?"
-    answer: "Not necessarily. Single origins showcase one place's character — best for highlighting unique flavor. Blends combine complementary beans for balance, body, or consistency — often better for espresso (where complexity and crema matter) and milk drinks (where origin nuance gets muted by milk anyway). For pour over and filter coffee, single origin usually shows off the bean better."
-  - question: "Where did coffee originate?"
-    answer: "Arabica coffee originated in the highlands of Ethiopia, where Coffea arabica grew wild for thousands of years before cultivation. Coffee drinking spread first to Yemen (the port of Mocha gave its name to the chocolate-coffee drink) and then through the Ottoman Empire, Europe, and eventually to colonial plantations across the tropics."
-{{< /faq >}}
+### What is the coffee belt?
+
+The coffee belt is the band around the equator (roughly between the Tropics of Cancer and Capricorn) where most of the world's coffee is grown. About 70 countries within this zone produce coffee, with conditions of warm temperatures, consistent rainfall, high altitudes, and tropical climate that coffee plants need to thrive.
+
+### Which country produces the best coffee?
+
+There's no single best — it depends on the flavor you want. Ethiopia is widely considered the most complex and floral, Colombia the most balanced and beginner-friendly, Kenya the brightest, Sumatra the earthiest. For specialty coffee, top producers include Ethiopia, Colombia, Guatemala, Costa Rica, Kenya, and Honduras.
+
+### What does single origin coffee mean?
+
+Single origin coffee comes from one geographic source — a single country, region, farm, or cooperative. It contrasts with blends, which combine beans from multiple origins. Single origins showcase the distinctive flavor of one place, while blends balance flavors from multiple sources for consistency or complexity.
+
+### Why does coffee from Ethiopia taste different from Brazilian coffee?
+
+Ethiopia is the birthplace of arabica and grows hundreds of unique heirloom varieties at high altitude with washed and natural processing — producing bright, floral, fruity coffee. Brazil grows mostly bourbon-derived varieties at lower altitude with mostly natural processing on flatter terrain — producing nutty, chocolatey, smooth coffee. Variety, altitude, soil, climate, and processing all differ.
+
+### What's the difference between washed and natural coffee?
+
+Washed (wet) processing pulps cherries and ferments off the fruit before drying, producing cleaner, brighter, more acidic coffee. Natural (dry) processing dries whole cherries with the fruit intact, infusing the bean with sweetness and producing fruitier, heavier-bodied coffee. Honey processing leaves some mucilage on the bean during drying — a middle ground.
+
+### How does altitude affect coffee flavor?
+
+Higher altitudes mean cooler temperatures and slower bean development, producing denser beans with more complex sugars and acids. Premium specialty arabica usually comes from 1,200m+. Lower-altitude coffee tends to be milder and less complex. Labels like 'SHB' (Strictly Hard Bean) or 'SHG' (Strictly High Grown) indicate dense, high-altitude beans.
+
+### Is single origin always better than a blend?
+
+Not necessarily. Single origins showcase one place's character — best for highlighting unique flavor. Blends combine complementary beans for balance, body, or consistency — often better for espresso (where complexity and crema matter) and milk drinks (where origin nuance gets muted by milk anyway). For pour over and filter coffee, single origin usually shows off the bean better.
+
+### Where did coffee originate?
+
+Arabica coffee originated in the highlands of Ethiopia, where Coffea arabica grew wild for thousands of years before cultivation. Coffee drinking spread first to Yemen (the port of Mocha gave its name to the chocolate-coffee drink) and then through the Ottoman Empire, Europe, and eventually to colonial plantations across the tropics.
 
 ---
 

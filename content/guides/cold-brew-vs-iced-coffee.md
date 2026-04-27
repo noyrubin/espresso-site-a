@@ -8,6 +8,21 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "Is cold brew stronger than iced coffee?"
+    answer: "Cold brew concentrate is much stronger than iced coffee, but when diluted to a ready-to-drink ratio, the caffeine difference is smaller — roughly 20–30% more than iced coffee. It also tastes \"stronger\" in the sense of being bolder and less acidic, even at the same caffeine level."
+  - question: "Can you make cold brew with any coffee?"
+    answer: "Yes — any medium or dark roast works well. Light roasts can work but tend to taste sour or thin in cold water. Medium roasts with chocolatey or nutty notes (Colombian, Brazilian, Sumatra) are especially good for cold brew."
+  - question: "Why does cold brew last so long?"
+    answer: "Cold brew never oxidizes the way hot coffee does. The cold-water extraction and refrigeration together preserve the coffee's compounds without the rapid staling that happens when hot coffee cools. A sealed jar of cold brew concentrate keeps up to 2 weeks in the fridge."
+  - question: "Is iced coffee just hot coffee with ice?"
+    answer: "Essentially yes — but done well, it's hot coffee brewed double-strength so the ice doesn't dilute it too much. Poorly made iced coffee (leftover morning coffee poured over ice) tastes weak and stale. Good iced coffee is brewed fresh and flash-chilled."
+  - question: "Which is better for people sensitive to caffeine?"
+    answer: "Iced coffee, since it typically has less caffeine than cold brew at equivalent serving sizes. You can also control cold brew caffeine by diluting more aggressively (2:1 water-to-concentrate instead of 1:1)."
+  - question: "Does cold brew have to be served cold?"
+    answer: "Technically no — cold brew concentrate can be heated to make a warm drink. Some people do this in winter. But heating destroys some of the smooth, low-acid qualities that make cold brew special. Most people prefer it cold."
+  - question: "Can I use cold brew in lattes?"
+    answer: "Yes — cold brew makes excellent lattes. Use it as the coffee base instead of espresso, combined with oat milk or your preferred milk over ice. The flavor profile is smoother and less intense than espresso but works beautifully with milk."
 ---
 
 Cold brew and iced coffee look identical in a glass. But pour a sip of each and the difference is immediate — cold brew is smooth, low-acid, almost chocolatey; iced coffee is brighter, more acidic, and tastes like hot coffee that's been chilled. They're made completely differently, and knowing which is which changes how you make (and enjoy) your coffee at home.
@@ -170,25 +185,31 @@ Quick reference for the full cold coffee family:
 
 ## Frequently Asked Questions
 
-{{< faq >}}
-Q: Is cold brew stronger than iced coffee?
-A: Cold brew concentrate is much stronger than iced coffee, but when diluted to a ready-to-drink ratio, the caffeine difference is smaller — roughly 20–30% more than iced coffee. It also tastes "stronger" in the sense of being bolder and less acidic, even at the same caffeine level.
+### Is cold brew stronger than iced coffee?
 
-Q: Can you make cold brew with any coffee?
-A: Yes — any medium or dark roast works well. Light roasts can work but tend to taste sour or thin in cold water. Medium roasts with chocolatey or nutty notes (Colombian, Brazilian, Sumatra) are especially good for cold brew.
+Cold brew concentrate is much stronger than iced coffee, but when diluted to a ready-to-drink ratio, the caffeine difference is smaller — roughly 20–30% more than iced coffee. It also tastes "stronger" in the sense of being bolder and less acidic, even at the same caffeine level.
 
-Q: Why does cold brew last so long?
-A: Cold brew never oxidizes the way hot coffee does. The cold-water extraction and refrigeration together preserve the coffee's compounds without the rapid staling that happens when hot coffee cools. A sealed jar of cold brew concentrate keeps up to 2 weeks in the fridge.
+### Can you make cold brew with any coffee?
 
-Q: Is iced coffee just hot coffee with ice?
-A: Essentially yes — but done well, it's hot coffee brewed double-strength so the ice doesn't dilute it too much. Poorly made iced coffee (leftover morning coffee poured over ice) tastes weak and stale. Good iced coffee is brewed fresh and flash-chilled.
+Yes — any medium or dark roast works well. Light roasts can work but tend to taste sour or thin in cold water. Medium roasts with chocolatey or nutty notes (Colombian, Brazilian, Sumatra) are especially good for cold brew.
 
-Q: Which is better for people sensitive to caffeine?
-A: Iced coffee, since it typically has less caffeine than cold brew at equivalent serving sizes. You can also control cold brew caffeine by diluting more aggressively (2:1 water-to-concentrate instead of 1:1).
+### Why does cold brew last so long?
 
-Q: Does cold brew have to be served cold?
-A: Technically no — cold brew concentrate can be heated to make a warm drink. Some people do this in winter. But heating destroys some of the smooth, low-acid qualities that make cold brew special. Most people prefer it cold.
+Cold brew never oxidizes the way hot coffee does. The cold-water extraction and refrigeration together preserve the coffee's compounds without the rapid staling that happens when hot coffee cools. A sealed jar of cold brew concentrate keeps up to 2 weeks in the fridge.
 
-Q: Can I use cold brew in lattes?
-A: Yes — cold brew makes excellent lattes. Use it as the coffee base instead of espresso, combined with oat milk or your preferred milk over ice. The flavor profile is smoother and less intense than espresso but works beautifully with milk.
-{{< /faq >}}
+### Is iced coffee just hot coffee with ice?
+
+Essentially yes — but done well, it's hot coffee brewed double-strength so the ice doesn't dilute it too much. Poorly made iced coffee (leftover morning coffee poured over ice) tastes weak and stale. Good iced coffee is brewed fresh and flash-chilled.
+
+### Which is better for people sensitive to caffeine?
+
+Iced coffee, since it typically has less caffeine than cold brew at equivalent serving sizes. You can also control cold brew caffeine by diluting more aggressively (2:1 water-to-concentrate instead of 1:1).
+
+### Does cold brew have to be served cold?
+
+Technically no — cold brew concentrate can be heated to make a warm drink. Some people do this in winter. But heating destroys some of the smooth, low-acid qualities that make cold brew special. Most people prefer it cold.
+
+### Can I use cold brew in lattes?
+
+Yes — cold brew makes excellent lattes. Use it as the coffee base instead of espresso, combined with oat milk or your preferred milk over ice. The flavor profile is smoother and less intense than espresso but works beautifully with milk.
+

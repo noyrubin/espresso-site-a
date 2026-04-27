@@ -8,6 +8,17 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "Can I make a pumpkin spice latte without an espresso machine?"
+    answer: "Yes. Use strongly brewed coffee (about 60–90ml of double-strength drip coffee or French press), a moka pot, or even instant espresso powder dissolved in hot water. The pumpkin spice syrup works with any strong coffee base — the espresso machine just gives you the best texture and richest flavor."
+  - question: "How long does homemade pumpkin spice syrup last?"
+    answer: "Refrigerated in a sealed jar, the syrup lasts up to 2 weeks. If you see any mold or notice an off smell, discard it. The sugar and the refrigerator temperature preserve it well, but the pumpkin puree means it won't last as long as a simple syrup without puree."
+  - question: "What's the difference between pumpkin spice and pumpkin flavor?"
+    answer: "Pumpkin spice is a spice blend — cinnamon, nutmeg, ginger, cloves, and allspice — with no pumpkin in it. The pumpkin flavor comes from actual pumpkin puree. Many commercial pumpkin spice lattes contain artificial pumpkin flavoring rather than real puree. Our recipe uses both: real pumpkin puree in the syrup AND the warm spice blend."
+  - question: "Can I make the pumpkin spice latte vegan?"
+    answer: "Yes. Use oat milk, almond milk, or coconut milk instead of dairy. Barista-grade oat milk gives the best steaming results. Skip the whipped cream topping, or use a coconut cream-based whipped topping. The pumpkin spice syrup itself is already vegan."
+  - question: "How does a homemade PSL compare to Starbucks?"
+    answer: "Homemade is generally better: less sugar, no artificial flavoring, fresher espresso, and adjustable sweetness and spice levels. The Starbucks PSL uses a flavored sauce that mimics pumpkin spice but contains very little actual pumpkin. Our recipe uses real pumpkin puree, which gives a slightly earthier, more authentic flavor."
 ---
 
 The pumpkin spice latte has become one of the most iconic seasonal coffee drinks in the world — but the store-bought version is mostly artificial flavor, very little actual pumpkin, and enough sugar to make your teeth ache. The homemade version is genuinely better: real pumpkin puree, warm autumn spices, fresh espresso, and steamed milk that you control down to the last detail.
@@ -180,30 +191,25 @@ The strong spice flavors need a strong coffee foundation. Two shots of properly 
 
 ## Frequently Asked Questions
 
-{{< faq >}}
-[
-  {
-    "question": "Can I make a pumpkin spice latte without an espresso machine?",
-    "answer": "Yes. Use strongly brewed coffee (about 60–90ml of double-strength drip coffee or French press), a moka pot, or even instant espresso powder dissolved in hot water. The pumpkin spice syrup works with any strong coffee base — the espresso machine just gives you the best texture and richest flavor."
-  },
-  {
-    "question": "How long does homemade pumpkin spice syrup last?",
-    "answer": "Refrigerated in a sealed jar, the syrup lasts up to 2 weeks. If you see any mold or notice an off smell, discard it. The sugar and the refrigerator temperature preserve it well, but the pumpkin puree means it won't last as long as a simple syrup without puree."
-  },
-  {
-    "question": "What's the difference between pumpkin spice and pumpkin flavor?",
-    "answer": "Pumpkin spice is a spice blend — cinnamon, nutmeg, ginger, cloves, and allspice — with no pumpkin in it. The pumpkin flavor comes from actual pumpkin puree. Many commercial pumpkin spice lattes contain artificial pumpkin flavoring rather than real puree. Our recipe uses both: real pumpkin puree in the syrup AND the warm spice blend."
-  },
-  {
-    "question": "Can I make the pumpkin spice latte vegan?",
-    "answer": "Yes. Use oat milk, almond milk, or coconut milk instead of dairy. Barista-grade oat milk gives the best steaming results. Skip the whipped cream topping, or use a coconut cream-based whipped topping. The pumpkin spice syrup itself is already vegan."
-  },
-  {
-    "question": "How does a homemade PSL compare to Starbucks?",
-    "answer": "Homemade is generally better: less sugar, no artificial flavoring, fresher espresso, and adjustable sweetness and spice levels. The Starbucks PSL uses a flavored sauce that mimics pumpkin spice but contains very little actual pumpkin. Our recipe uses real pumpkin puree, which gives a slightly earthier, more authentic flavor."
-  }
-]
-{{< /faq >}}
+### Can I make a pumpkin spice latte without an espresso machine?
+
+Yes. Use strongly brewed coffee (about 60–90ml of double-strength drip coffee or French press), a moka pot, or even instant espresso powder dissolved in hot water. The pumpkin spice syrup works with any strong coffee base — the espresso machine just gives you the best texture and richest flavor.
+
+### How long does homemade pumpkin spice syrup last?
+
+Refrigerated in a sealed jar, the syrup lasts up to 2 weeks. If you see any mold or notice an off smell, discard it. The sugar and the refrigerator temperature preserve it well, but the pumpkin puree means it won't last as long as a simple syrup without puree.
+
+### What's the difference between pumpkin spice and pumpkin flavor?
+
+Pumpkin spice is a spice blend — cinnamon, nutmeg, ginger, cloves, and allspice — with no pumpkin in it. The pumpkin flavor comes from actual pumpkin puree. Many commercial pumpkin spice lattes contain artificial pumpkin flavoring rather than real puree. Our recipe uses both: real pumpkin puree in the syrup AND the warm spice blend.
+
+### Can I make the pumpkin spice latte vegan?
+
+Yes. Use oat milk, almond milk, or coconut milk instead of dairy. Barista-grade oat milk gives the best steaming results. Skip the whipped cream topping, or use a coconut cream-based whipped topping. The pumpkin spice syrup itself is already vegan.
+
+### How does a homemade PSL compare to Starbucks?
+
+Homemade is generally better: less sugar, no artificial flavoring, fresher espresso, and adjustable sweetness and spice levels. The Starbucks PSL uses a flavored sauce that mimics pumpkin spice but contains very little actual pumpkin. Our recipe uses real pumpkin puree, which gives a slightly earthier, more authentic flavor.
 
 ---
 

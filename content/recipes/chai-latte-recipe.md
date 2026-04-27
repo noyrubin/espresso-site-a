@@ -8,6 +8,19 @@ author: "Home Espresso Lab"
 showToc: true
 TocOpen: false
 draft: false
+faq:
+  - question: "What's the difference between chai latte and dirty chai?"
+    answer: "A dirty chai latte adds a shot (or two) of espresso to the chai latte. The espresso adds bitterness, coffee flavor, and extra caffeine. The spices and milk remain the same. It's a great option if you love chai but want a coffee kick too."
+  - question: "Can I make chai latte without a tea bag?"
+    answer: "Yes — loose leaf black tea gives better flavor than bags. Use 1–2 tsp loose Assam or Darjeeling per cup of water. If you don't have either, a strong grocery-store orange pekoe or breakfast blend works fine."
+  - question: "How much caffeine is in a chai latte?"
+    answer: "A chai latte (using real black tea) contains roughly 40–80mg of caffeine per serving, depending on tea strength and steeping time. That's about half a standard coffee. A dirty chai adds 60–70mg from the espresso shot, bringing the total to 100–150mg."
+  - question: "What's the best milk for chai latte?"
+    answer: "Whole milk gives the creamiest, most classic result. For dairy-free, barista oat milk (Oatly, Minor Figures) is the best all-round choice — it froths well and has a mild, slightly sweet flavor that lets the spices shine."
+  - question: "How do I make a chai latte less sweet?"
+    answer: "Use your own concentrate — coffeeshop chai syrups are heavily sweetened. Reduce or skip sweetener, or use unsweetened almond milk which adds less sugar. Taste as you go and stop short of what feels \"right\" — a little less sweetness lets the spice complexity come through better."
+  - question: "Can I use chai tea bags instead of loose spices?"
+    answer: "Yes — steep 2 spiced chai tea bags in hot water for 4–5 minutes, then add steamed milk and sweetener. You lose some depth and freshness, but it's a fast, practical option. Brands like Tazo, Stash, or Rishi make good chai tea bags."
 ---
 
 A great chai latte starts with one thing: **real spices**. The kind that smell like cardamom and cinnamon when you open the jar, not a dusty powder that's been sitting in a syrup bottle for months.
@@ -206,41 +219,29 @@ Making the masala chai-style version at home (equal parts water and milk simmere
 
 ## Frequently Asked Questions
 
-{{< faq >}}
-**What's the difference between chai latte and dirty chai?**
+### What's the difference between chai latte and dirty chai?
 
 A dirty chai latte adds a shot (or two) of espresso to the chai latte. The espresso adds bitterness, coffee flavor, and extra caffeine. The spices and milk remain the same. It's a great option if you love chai but want a coffee kick too.
 
-**---**
-
-**Can I make chai latte without a tea bag?**
+### Can I make chai latte without a tea bag?
 
 Yes — loose leaf black tea gives better flavor than bags. Use 1–2 tsp loose Assam or Darjeeling per cup of water. If you don't have either, a strong grocery-store orange pekoe or breakfast blend works fine.
 
-**---**
-
-**How much caffeine is in a chai latte?**
+### How much caffeine is in a chai latte?
 
 A chai latte (using real black tea) contains roughly 40–80mg of caffeine per serving, depending on tea strength and steeping time. That's about half a standard coffee. A dirty chai adds 60–70mg from the espresso shot, bringing the total to 100–150mg.
 
-**---**
-
-**What's the best milk for chai latte?**
+### What's the best milk for chai latte?
 
 Whole milk gives the creamiest, most classic result. For dairy-free, barista oat milk (Oatly, Minor Figures) is the best all-round choice — it froths well and has a mild, slightly sweet flavor that lets the spices shine.
 
-**---**
-
-**How do I make a chai latte less sweet?**
+### How do I make a chai latte less sweet?
 
 Use your own concentrate — coffeeshop chai syrups are heavily sweetened. Reduce or skip sweetener, or use unsweetened almond milk which adds less sugar. Taste as you go and stop short of what feels "right" — a little less sweetness lets the spice complexity come through better.
 
-**---**
-
-**Can I use chai tea bags instead of loose spices?**
+### Can I use chai tea bags instead of loose spices?
 
 Yes — steep 2 spiced chai tea bags in hot water for 4–5 minutes, then add steamed milk and sweetener. You lose some depth and freshness, but it's a fast, practical option. Brands like Tazo, Stash, or Rishi make good chai tea bags.
-{{< /faq >}}
 
 ---
 

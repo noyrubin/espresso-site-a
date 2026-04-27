@@ -182,7 +182,7 @@ Not really — and here's why:
 
 Lattes, cappuccinos, and macchiatos are built around espresso's intensity. A 2oz espresso shot is strong enough to hold its own against 6–8oz of steamed milk. A pour over or French press coffee at standard strength would disappear into the milk.
 
-You *can* brew pour over or French press extra-strong and use it in a "café au lait" style (coffee + milk), but it's a different drink. The flavor, texture, and crema aren't there.
+You *can* brew pour over or French press extra-strong and use it in a [café au lait](/guides/cafe-au-lait/) style (coffee + milk in a 1:1 ratio), but it's a different drink. The flavor, texture, and crema aren't there.
 
 If you want milk drinks without an espresso machine, cold brew concentrate ([cold brew vs espresso comparison here](/guides/cold-brew-vs-espresso/)) is a better substitute than pour over or French press.
 
