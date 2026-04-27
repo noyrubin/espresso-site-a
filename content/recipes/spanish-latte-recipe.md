@@ -34,6 +34,9 @@ The condensed milk replaces both sugar and part of the milk's role. It sits at t
 ### Spanish Latte vs Café Bombón
 Café bombón is the original Spanish version: equal parts espresso and condensed milk in a small glass, served layered. It's much smaller (about 3–4 oz), richer, and more of a dessert drink. A Spanish latte is larger and includes steamed milk, making it closer to a full latte.
 
+### Spanish Latte vs Cuban Cafecito
+Both use sweetened espresso, but the technique is different. A cafecito uses *granulated sugar* whipped with the first drops of espresso to create the signature **espumita** foam — no condensed milk. A Spanish latte uses *condensed milk* as both the sweetener and creamer, with steamed milk on top. For the full Cuban version with espumita, see our [cafecito recipe](/recipes/cafecito-recipe/).
+
 ## Hot Spanish Latte Recipe
 
 **Makes:** 1 drink (about 8–10 oz)
