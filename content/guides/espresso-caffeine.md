@@ -183,3 +183,4 @@ If you're dialing in your espresso, these guides cover the technical side:
 - [Espresso Grind Size: How to Dial In](/guides/espresso-grind-size-guide/)
 - [Espresso Beans vs Coffee Beans: What's the Difference?](/guides/espresso-beans-vs-coffee-beans/)
 - [Espresso vs Drip Coffee: Full Comparison](/guides/espresso-vs-drip-coffee/)
+- [Red Eye Coffee: The Drip-Plus-Espresso Caffeine Hack](/guides/red-eye-coffee/) — drip coffee with an espresso shot added; the highest-caffeine common café drink

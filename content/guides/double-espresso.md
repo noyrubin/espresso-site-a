@@ -210,3 +210,4 @@ Use 18–21g of freshly ground coffee in a double portafilter basket. Tamp evenl
 - [Ristretto vs Espresso](/guides/ristretto-vs-espresso/) — the short, concentrated cousin of the double
 - [Lungo Coffee Guide](/guides/lungo-coffee/) — the longer extraction on the other end of the spectrum
 - [Espresso Grind Size Guide](/guides/espresso-grind-size-guide/) — dialing in your grind for the perfect double
+- [Red Eye Coffee](/guides/red-eye-coffee/) — when a double espresso isn't enough, add it to drip coffee for the strongest common café drink

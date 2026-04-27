@@ -118,7 +118,7 @@ A cortadito is a Cuban espresso drink where condensed milk is used instead of re
 2. Stir in condensed milk immediately.
 3. The result should be dark, sweet, and thick — almost syrupy.
 
-**Variation — espumita method:** Whisk 1 tablespoon condensed milk with a few drops of the first espresso to drip until it forms a thick pale foam (espumita). Pull the rest of the espresso, then spoon the foam on top. This is the traditional Cuban technique for a creamy top.
+**Variation — espumita method:** Whisk 1 tablespoon condensed milk with a few drops of the first espresso to drip until it forms a thick pale foam (espumita). Pull the rest of the espresso, then spoon the foam on top. This is the traditional Cuban technique for a creamy top. For the full Cuban version using granulated sugar instead of condensed milk, see our [cafecito recipe (café cubano)](/recipes/cafecito-recipe/).
 
 ## Thai Iced Coffee Style
 

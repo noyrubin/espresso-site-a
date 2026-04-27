@@ -123,7 +123,7 @@ For a deeper dive into milk steaming technique, see our [guide to steaming milk 
 
 **Temperature matters.** Milk above 165°F tastes flat and slightly sweet in an unpleasant way. If your cappuccino tastes dull or overly sweet, try stopping at a lower temperature.
 
-**Try a dry vs. wet cappuccino.** A "dry" cappuccino has more foam and less steamed milk — lighter and more intensely espresso-forward. A "wet" cappuccino has less foam and more steamed milk — closer to a small latte. Most café cappuccinos sit somewhere in the middle.
+**Try a dry vs. wet cappuccino.** A "dry" cappuccino has more foam and less steamed milk — lighter and more intensely espresso-forward. A "wet" cappuccino has less foam and more steamed milk — closer to a small latte. Most café cappuccinos sit somewhere in the middle. For ratios, ordering tips, and how to steam milk differently for each, see our full [wet vs dry cappuccino guide](/guides/wet-vs-dry-cappuccino/).
 
 **Texture over latte art.** Unlike a latte, cappuccino isn't typically poured with detailed latte art because the thick foam layer obscures finer patterns. Focus on getting the foam texture right rather than the pour pattern.
 
@@ -157,4 +157,4 @@ A cappuccino done well — thick creamy foam, strong espresso, perfect temperatu
 
 ---
 
-*Looking to level up further? Check out our guide on [espresso ratios](/guides/espresso-ratio-guide/) to understand extraction better, or our [getting started guide](/guides/getting-started/) if you're newer to home espresso. Curious how the cappuccino compares to similar milk drinks? See our full [cappuccino vs latte comparison](/guides/cappuccino-vs-latte/), our [flat white vs latte comparison](/guides/flat-white-vs-latte/), or learn to make an [espresso macchiato](/guides/how-to-make-a-macchiato/).*
+*Looking to level up further? Check out our guide on [espresso ratios](/guides/espresso-ratio-guide/) to understand extraction better, or our [getting started guide](/guides/getting-started/) if you're newer to home espresso. Curious how the cappuccino compares to similar milk drinks? See our full [cappuccino vs latte comparison](/guides/cappuccino-vs-latte/), our [flat white vs latte comparison](/guides/flat-white-vs-latte/), or learn to make an [espresso macchiato](/guides/how-to-make-a-macchiato/). For the cold version with cold-frothed milk and a foam cap, see our [iced cappuccino recipe](/recipes/iced-cappuccino-recipe/).*

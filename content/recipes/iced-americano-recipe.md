@@ -147,3 +147,5 @@ Nespresso pods can pull concentrated shots (a "lungo" or "espresso" setting). Ru
 ---
 
 *An iced americano is the most straightforward espresso drink — almost nothing to it. But the ratio matters, the water quality matters, and the espresso quality matters most of all. Get those three right and it's hard to beat for clean, low-calorie cold coffee.*
+
+*Want milk in the picture? See our [iced latte](/recipes/iced-latte-recipe/) for milk-forward, or our [iced cappuccino recipe](/recipes/iced-cappuccino-recipe/) for the foam-topped cold version.*

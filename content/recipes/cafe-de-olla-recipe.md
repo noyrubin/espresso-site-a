@@ -136,6 +136,8 @@ Cold café de olla is a revelation in summer — cold-brewed with piloncillo and
 
 **Condensed milk version:** Skip the piloncillo, brew unsweetened, and add 2 tablespoons sweetened condensed milk per cup. Creamier than the traditional version, similar to Vietnamese iced coffee in style.
 
+**Cuban-style sugar foam:** For an espumita finish (Cuban-style whipped sugar foam on top), see our [cafecito recipe (café cubano)](/recipes/cafecito-recipe/) — a related Latin sweetened-espresso tradition that uses whipped sugar instead of piloncillo simmer.
+
 ## Frequently Asked Questions
 
 {{< faq >}}

@@ -220,4 +220,4 @@ A: You need real microfoam — silky and glossy, not fluffy. This requires a ste
 
 ---
 
-Ready to use your frothed milk? Try it in a [classic cappuccino](/guides/how-to-make-cappuccino/), a [flat white](/guides/how-to-make-a-flat-white/), or a [cortado](/guides/cortado-coffee/).
+Ready to use your frothed milk? Try it in a [classic cappuccino](/guides/how-to-make-cappuccino/), a [flat white](/guides/how-to-make-a-flat-white/), or a [cortado](/guides/cortado-coffee/). For foam-forward variations of the cappuccino, see our [wet vs dry cappuccino guide](/guides/wet-vs-dry-cappuccino/) — same milk, different texturing technique. For cold drinks, our [iced cappuccino recipe](/recipes/iced-cappuccino-recipe/) covers cold-frothing for a foam-topped iced drink.

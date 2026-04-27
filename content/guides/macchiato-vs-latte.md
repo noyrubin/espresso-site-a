@@ -185,3 +185,7 @@ A: A latte macchiato is the reverse of a macchiato. In a macchiato, you add milk
 A: If both drinks use the same number of espresso shots, the caffeine content is identical — typically 63–75mg per shot. A double-shot macchiato and a double-shot latte both contain ~126–150mg of caffeine. The difference is dilution, not caffeine. See our [espresso caffeine guide](/guides/espresso-caffeine/) for full data.
 
 {{< /faq >}}
+
+---
+
+*If you like the foam-vs-milk dimension of these comparisons, see our [wet vs dry cappuccino](/guides/wet-vs-dry-cappuccino/) guide for the same trade-off applied to a single drink — same espresso shot, different milk-to-foam ratio.*

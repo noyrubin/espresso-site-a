@@ -96,7 +96,7 @@ The French version is often served in a wide ceramic bowl for dunking bread at b
 ## 5 Variations
 
 ### 1. Cuban Cortadito
-A sweeter, stronger variation: pull 2 shots espresso directly onto 1 teaspoon sugar and stir vigorously until a light foam (espumita) forms. Then add 2 oz hot milk on top. The sugar emulsifies the espresso oils creating a creamy layer. Richer and more intense than standard café con leche.
+A sweeter, stronger variation: pull 2 shots espresso directly onto 1 teaspoon sugar and stir vigorously until a light foam (espumita) forms. Then add 2 oz hot milk on top. The sugar emulsifies the espresso oils creating a creamy layer. Richer and more intense than standard café con leche. For the full Cuban espumita-only version (without milk), see our dedicated [cafecito recipe (café cubano)](/recipes/cafecito-recipe/).
 
 ### 2. Iced Café Con Leche
 Pull a double espresso and let it cool slightly (or pull directly over a cube of ice). Fill a tall glass with ice, add 4 oz cold whole milk, then pour the espresso over the top. Stir gently. Optionally: use sweetened condensed milk instead of regular milk and sugar for extra richness.

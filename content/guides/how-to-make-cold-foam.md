@@ -273,7 +273,7 @@ A: Cold foam is best used immediately — it starts to deflate within 5–10 min
 
 **Q: What drinks can I put cold foam on?**
 
-A: Cold foam is most popular on cold brew and iced americanos, where the foam floats on top and you sip through it. It also works on iced lattes, iced teas, and iced matcha lattes. It's not suitable for hot drinks — use regular steamed microfoam for those.
+A: Cold foam is most popular on cold brew and iced americanos, where the foam floats on top and you sip through it. It also works on iced lattes, iced teas, iced matcha lattes, and iced cappuccinos — see our [iced cappuccino recipe](/recipes/iced-cappuccino-recipe/) for the foam-on-top cold version of the classic. It's not suitable for hot drinks — use regular steamed microfoam for those.
 
 **Q: Is cold foam the same as whipped cream?**
 

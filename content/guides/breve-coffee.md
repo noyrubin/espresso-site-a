@@ -145,4 +145,4 @@ If you're ordering at a café, you can typically ask for a "breve latte," "latte
 
 Breve coffee occupies a unique spot in the espresso world — it's more indulgent than any standard milk drink but less overwhelming than a straight cream beverage. Once you try a well-made breve, you'll understand why it has such a devoted following. The key is starting with great espresso and letting the quality of the half-and-half do the rest.
 
-For more espresso drinks to explore, see our [how to make a latte guide](/guides/how-to-make-a-latte/) or [cortado vs macchiato comparison](/guides/cortado-vs-macchiato/).
+For more espresso drinks to explore, see our [how to make a latte guide](/guides/how-to-make-a-latte/) or [cortado vs macchiato comparison](/guides/cortado-vs-macchiato/). If you're curious about other lesser-known Italian espresso drinks, the [marocchino](/guides/marocchino/) — espresso, cocoa, and a small foam dollop in a glass — is worth a look.

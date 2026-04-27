@@ -67,7 +67,7 @@ The milk is fully integrated, not layered. Good latte milk has microfoam worked 
 This is the biggest difference. A cappuccino is ~1:1 espresso to milk. A latte is ~1:4. That's four times more milk in a latte.
 
 ### 2. Foam
-Cappuccinos have thick, spoonable foam that makes up roughly a third of the drink. Lattes have a thin layer of microfoam — the milk is steamed uniformly so foam is woven throughout, not sitting on top as a separate layer.
+Cappuccinos have thick, spoonable foam that makes up roughly a third of the drink. Lattes have a thin layer of microfoam — the milk is steamed uniformly so foam is woven throughout, not sitting on top as a separate layer. Cappuccino foam volume itself varies by style — see our [wet vs dry cappuccino guide](/guides/wet-vs-dry-cappuccino/) for the specific ratios that change a "wet" cappuccino into something close to a small latte.
 
 ### 3. Size
 Standard cappuccino: 5–6 oz. Standard latte: 10–12 oz (16 oz at most coffee shops). If you order a "large cappuccino," you're getting a latte by ratio.
@@ -265,3 +265,4 @@ A: Cappuccino, because it has much less milk. A 6 oz cappuccino with whole milk 
 - [Flat White vs Latte](/guides/flat-white-vs-latte/) — size and foam breakdown
 - [Macchiato vs Latte](/guides/macchiato-vs-latte/) — the layering question answered
 - [How to Steam Milk for Latte Art](/guides/how-to-steam-milk-latte-art/) — milk texturing fundamentals
+- [Wet vs Dry Cappuccino](/guides/wet-vs-dry-cappuccino/) — foam-to-milk variations of the classic cappuccino

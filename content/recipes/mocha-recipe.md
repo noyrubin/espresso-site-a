@@ -36,6 +36,8 @@ The name comes from Mocha, a port city in Yemen that was historically a major co
 
 A mocha has roughly equal billing between coffee and chocolate. If the chocolate drowns the espresso, it's basically hot chocolate with a caffeine kick.
 
+For the smaller, drier Italian cousin of the mocha — espresso, a dusting of cocoa powder, and a small dollop of milk foam in a 3 oz glass — see our [marocchino guide](/guides/marocchino/).
+
 ## What You Need
 
 **Equipment:**
@@ -357,3 +359,4 @@ If you enjoy chocolate espresso drinks, these are worth trying next:
 - [Vanilla Latte Recipe](/recipes/vanilla-latte-recipe/) — smooth, classic latte with a vanilla twist
 - [Dirty Chai Latte Recipe](/recipes/dirty-chai-latte-recipe/) — spiced chai with an espresso kick
 - [Lavender Latte Recipe](/recipes/lavender-latte-recipe/) — floral and smooth, a coffee shop favorite
+- [Marocchino Guide](/guides/marocchino/) — the small Italian espresso, cocoa, and milk foam drink (mocha's smaller, more espresso-forward Italian cousin)

@@ -241,3 +241,4 @@ A: A cortado is 4oz with a 1:1 espresso-to-milk ratio. A flat white is 5-6oz wit
 - [How to Make a Flat White](/guides/how-to-make-a-flat-white/) — slightly larger than a cortado, with a different milk technique
 - [How to Steam Milk for Latte Art](/guides/how-to-steam-milk-latte-art/) — master the microfoam technique that makes a cortado great
 - [Espresso Ratio Guide](/guides/espresso-ratio-guide/) — understand the ratios behind all espresso drinks
+- [Marocchino](/guides/marocchino/) — another small Italian espresso drink with cocoa and milk foam
