@@ -172,7 +172,7 @@ Pour a double espresso (with cardamom) over a scoop of vanilla ice cream in a sm
 | Thai iced coffee (oliang) | Thailand | Spiced Thai blend | Earthy, cardamom, sweet | Condensed + evaporated |
 | Vietnamese iced coffee | Vietnam | Robusta blend | Bold, bitter, caramel | Condensed |
 | [Café de olla](/recipes/cafe-de-olla-recipe/) | Mexico | Cinnamon + piloncillo brewed drip | Spiced, molasses-sweet | None traditional |
-| Greek frappé | Greece | Instant Nescafé foam | Frothy, slightly bitter | Evaporated (optional) |
+| [Greek frappé](/recipes/greek-frappe-recipe/) | Greece | Instant Nescafé foam | Frothy, slightly bitter | Evaporated (optional) |
 | Cubano / cafecito | Cuba | Espresso + espumita | Intense, caramel foam | Condensed (as variation) |
 
 ---

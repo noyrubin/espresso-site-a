@@ -192,7 +192,7 @@ A: No — condensed milk is too thick and sweet to run through a drip machine or
 
 ---
 
-*For the Spanish and Cuban café con leche style (equal parts espresso and scalded whole milk), see our [café con leche recipe](/recipes/cafe-con-leche-recipe/) — a closely related drink that showcases condensed milk in the Cuban cortadito variation.*
+*For the Spanish and Cuban café con leche style (equal parts espresso and scalded whole milk), see our [café con leche recipe](/recipes/cafe-con-leche-recipe/) — a closely related drink that showcases condensed milk in the Cuban cortadito variation. For a no-condensed-milk international iced coffee, the foamy [Greek frappé](/recipes/greek-frappe-recipe/) uses instant coffee + sugar instead — different texture entirely, but the same warm-weather slow-sip ritual.*
 
 <script type="application/ld+json">
 {

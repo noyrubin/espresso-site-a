@@ -239,4 +239,4 @@ A: Maple syrup, honey, or agave all work well — they dissolve quickly in blend
 | White Chocolate | 3 tbsp white chocolate sauce | Very sweet — reduce syrup |
 | Raspberry | 2 tbsp raspberry sauce + vanilla | Double Blend |
 
-For more coffee drink inspiration, explore our [iced latte recipe](/recipes/iced-latte-recipe/), [cold brew recipe](/guides/cold-brew-recipe/), and [how to make cold foam](/guides/how-to-make-cold-foam/) for topping ideas.
+For more coffee drink inspiration, explore our [iced latte recipe](/recipes/iced-latte-recipe/), [cold brew recipe](/guides/cold-brew-recipe/), and [how to make cold foam](/guides/how-to-make-cold-foam/) for topping ideas. If you're after a thinner, foamy iced coffee instead of a thick blended drink, try the [Greek frappé](/recipes/greek-frappe-recipe/) — the original "frappé" before the Frappuccino took the name.
