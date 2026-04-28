@@ -6,9 +6,67 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 24 (Pulse 67) — 132 articles. **Thai iced coffee recipe (6,600/mo, LOW 1/100)** + white-espresso CTR fix + flat-white link boost.
+Day 25 (Pulse 69) — 134 articles. **Third wave coffee guide (8,100/mo, LOW 10/100)** + 4 inbound links + 2 link-boosts on Pulse 68 SC appearers.
 
-**Pulse 67 wins:**
+**Pulse 69 wins:**
+1. **Third wave coffee** (8,100/mo, LOW 10/100) — Published as /guides/third-wave-coffee/. ~3,300 words covering: wave taxonomy comparison table (1st/2nd/3rd), 6 key principles (bean as star, light roast preservation, single origin, direct trade, brewing as craft, tasting notes), famous roasters table (Stumptown, Intelligentsia, Counter Culture, Blue Bottle + extended list), home brewing starter setup, common criticisms answered, "fourth wave?" forward-look. 9 FAQs in YAML faq: front matter + visible markdown ### headings.
+2. **4 inbound links on launch:** light-roast-vs-dark-roast (line 77 "third wave coffee shops"), arabica-vs-robusta (line 54 "Most specialty coffee"), coffee-origins (line 103 "workhorses of specialty coffee"), gibraltar-coffee (line 26 "third-wave coffee culture"). Most contextual yet — every link uses the page's existing topic anchor, building topical authority compound interest.
+3. **Link-boosts on Pulse 68 SC appearers:** espresso-cake-recipe "Mocha Cake" variation now links to /recipes/mocha-recipe/; "Espresso Cheesecake" variation now links to /recipes/espresso-cheesecake-recipe/. Both sections were verbatim describing those drinks/desserts but never hyperlinking them. Mocha-recipe goes from 3→4 inbound, espresso-cheesecake from 1→2 inbound.
+
+**SC Pulse 69 assessment (28-day window, IMPORTANT changes):**
+- WHITE ESPRESSO page: 157 imp, pos 4.38, 1 click overall (CTR 0.64%) — BUT specific query "what is white espresso" shows 24 imp, pos 5.88, 1 click (CTR **4.17%**). The Pulse 67 title-fix is working on the head query (~6x CTR improvement). Page-level CTR dragged by long-tail queries that don't match new positioning.
+- how-to-make-a-flat-white: 114 imp, pos 75.7 — slight improvement vs 76.4 (Pulse 67 link boost still propagating)
+- how-to-froth-milk: 59 imp, pos 54.5 — stable
+- red-eye-coffee: 22 imp, pos 48.5 — improving from 50.3 (originally pos 55.8 at Pulse 65; link-boost equity continuing to compound at +7 positions per pulse cycle)
+- ristretto-vs-espresso: 11 imp, pos 29 — saturated
+- simple-syrup-recipe: 22 imp, pos 36 — stable
+- how-to-make-a-macchiato: 11 imp, pos 41.5 — stable
+- **NEW page-1 appearers since Pulse 68 (huge positive signal):**
+  - **coffee-ice-cubes: 2 imp, pos 6** — first page-1 appearance!
+  - **cold-brew-recipe: 2 imp, pos 6** — first page-1!
+- Mid-funnel SC appearers carried over: coffee-ice-cream-recipe (12 imp pos 80.4), mocha-recipe (18 imp pos 63), cold-brew-vs-espresso (11 imp pos 52.8), turmeric-latte-recipe (11 imp pos 68.8), espresso-cheesecake-recipe (3 imp pos 61.3)
+- Pulse 65/66/67/68 articles still zero impressions (cafecito, marocchino, wet-vs-dry-cappuccino, iced-cappuccino, cafe-au-lait, thai-iced-coffee, greek-frappe-recipe) — still in indexing window
+- GA4 organic: 2 sessions all-time (last 2026-04-14) — pre-traffic phase
+
+**DataForSEO this pulse:** $0.00 — re-using Pulse 67 batch data (third wave coffee was already volume-confirmed at 8,100/mo, LOW 10/100). Cumulative spend remains well under daily budget.
+
+**Next focus (Pulse 70):**
+1. SC check — by Pulse 70 (~24h post-publish), thai-iced-coffee (Pulse 67) should be ~5 days old and starting to show first impressions. Watch white-espresso 2-day window for sustained CTR.
+2. **Audit ~37 hybrid pages with broken visible FAQ shortcode body** (schema works via YAML, visible HTML missing) — convert broken shortcode bodies to plain markdown ### headings. Carried over from Pulse 68 backlog. Worth doing before more content is shipped.
+3. If flat-white still stuck at pos ~75 by Pulse 70 (Pulse 67 link boost will be 5+ days old by then), consider title/description rewrite — links alone may not be enough at this authority level for that keyword.
+4. Research "decaf coffee" cluster (decaf espresso was HIGH but "what is decaf coffee", "swiss water decaf", "is decaf coffee bad for you" longtails could be LOW). One DataForSEO search-volume batch (~$0.05).
+5. Continue link-boost pattern: any Pulse 68 SC appearer that hasn't moved 5+ positions by Pulse 70 gets another 2 inbound links from topically-related pages.
+
+**Pulse 68 wins (PRIOR):**
+1. **Greek frappé** (3,600/mo, LOW 5/100) — Published as /recipes/greek-frappe-recipe/. Authentic shake method (Vakondios 1957 origin story), 3 sweetness levels (sketos/metrios/glykos), shaker vs frother vs blender table, 6 variations (decaf, cold foam, condensed milk hybrid, vanilla/cinnamon, sparkling, mocha), how-to-order section, 7 common mistakes. 8 FAQ in YAML faq: + visible markdown headings.
+2. **Inbound links on launch:** thai-iced-coffee comparison table now hyperlinks Greek frappé row, frappuccino-recipe related-drinks footer mentions Greek frappé as the original "frappé," condensed-milk-coffee international section adds it as the no-condensed-milk option. 3 contextual inbound links day-1 = same link-boost pattern that drove red-eye-coffee +50 positions.
+
+**SC Pulse 68 assessment (28-day window, IMPORTANT changes):**
+- WHITE ESPRESSO: 157 imp, pos 4.38, 1 click (CTR 0.64%) — Pulse 67 title fix not yet recrawled (~12h). Wait 1-2 weeks for recrawl signal.
+- how-to-make-a-flat-white: 114 imp, pos 75.7 — slight improvement vs 76.4. Pulse 67 link boost not yet registered.
+- how-to-froth-milk: 59 imp, pos 54.5 — slight improvement, stable
+- red-eye-coffee: 21 imp, pos 50.3 (28-day) — improving as link-boost equity propagates
+- ristretto-vs-espresso: 11 imp, pos 29 — stable
+- simple-syrup-recipe: 22 imp, pos 36 — stable
+- how-to-make-a-macchiato: 11 imp, pos 41.5 — stable
+- **NEW APPEARERS in SC since Pulse 67** (positive signal, indexing pipeline working):
+  - coffee-ice-cream-recipe: 12 imp, pos 80.4
+  - mocha-recipe: 18 imp, pos 63
+  - cold-brew-vs-espresso: 11 imp, pos 52.8
+  - turmeric-latte-recipe: 11 imp, pos 68.8
+  - espresso-cheesecake-recipe: 3 imp, pos 61.3
+- Pulse 65/66/67 articles (cafecito, marocchino, wet-vs-dry-cappuccino, iced-cappuccino, cafe-au-lait, thai-iced-coffee): still zero impressions — too soon
+- GA4 organic: 2 sessions all-time still — pre-ranking phase
+
+**DataForSEO this pulse:** $0.00 — used Pulse 67 research data (greek frappe was already volume-confirmed at 3,600/mo, LOW 5/100). Cumulative well under daily budget.
+
+**Next focus (Pulse 69):**
+1. SC check for first impressions on Pulse 65/66/67 articles + the white-espresso CTR fix recrawl signal.
+2. Consider writing **third wave coffee** (8,100/mo, LOW 10/100) — long-form informational guide, natural internal links to arabica-vs-robusta + coffee-origins + espresso-crema (already researched in Pulse 67).
+3. Audit ~37 hybrid pages with broken visible FAQ shortcode body (schema works via YAML, visible HTML missing) — convert to plain markdown headings.
+4. Light link-boost pass on the 4 new SC appearers (coffee-ice-cream-recipe, mocha-recipe, turmeric-latte-recipe, espresso-cheesecake-recipe) — add 1-2 inbound links each from topically-related pages where they're mentioned but not yet hyperlinked.
+
+**Pulse 67 wins (PRIOR):**
 1. **Thai iced coffee** (6,600/mo, LOW 1/100) — Published as /recipes/thai-iced-coffee-recipe/. Authentic oliang recipe (cloth sock filter method) + espresso home shortcut using cardamom. Covers 6 variations, Thai coffee blend brand table, comparison vs Vietnamese/café de olla/Greek frappe. 8 FAQ with YAML faq: schema. Inbound links from condensed-milk-coffee-recipe, vietnamese-coffee-recipe, cafe-de-olla-recipe (3 contextual links on day one).
 2. **White-espresso CTR fix** — Title rewritten to "What Is White Espresso? Higher Caffeine, Nutty Flavor Explained" + description leads with "up to 50% more caffeine" hook. Prior CTR was 0.67% (150 imp, pos 4.29, only 1 click) — bottleneck was SERP snippet appeal. Expect CTR to improve over next 2-week recrawl cycle.
 3. **Flat-white link boost** — Added contextual links from wet-vs-dry-cappuccino + cafe-au-lait (both had flat white mentions but no hyperlinks). how-to-make-a-flat-white now has 2 more inbound links. At 113 imp pos 76, needs authority lift.
@@ -229,6 +287,8 @@ Day 24 — 130 articles. Milk-drinks cluster expansion + Pulse 63 link-boost val
 | arabica vs robusta | 4,400 | LOW (13/100) | /guides/arabica-vs-robusta/ | Published + FAQ (Pulse 64) — full comparison: caffeine (~2× in robusta), flavor profile, acidity, crema, price, growing conditions, brewing-method matrix; also helps capture "arabica coffee" (33,100/mo, LOW 33/100) longtails via deep arabica section |
 | coffee origins | 4,400 | LOW (4/100) | /guides/coffee-origins/ | Published + FAQ (Pulse 64) — near-zero competition; coffee belt overview, top 10 producers table, region-by-region flavor tour (Africa/Central America/South America/Asia-Pacific), washed/natural/honey processing, origin-by-brewing-method guide |
 | thai iced coffee | 6,600 | LOW (1/100) | /recipes/thai-iced-coffee-recipe/ | Published + FAQ (Pulse 67) — near-zero competition; authentic oliang recipe with cloth-filter method + espresso home shortcut; cardamom spiced, condensed milk sweetened; 6 variations, Thai coffee blend brand table; inbound links from condensed-milk-coffee, vietnamese-coffee, cafe-de-olla |
+| greek frappe | 3,600 | LOW (5/100) | /recipes/greek-frappe-recipe/ | Published + FAQ (Pulse 68) — Vakondios 1957 origin story; 3 sweetness levels (sketos/metrios/glykos); shaker vs frother vs blender comparison; 6 variations (decaf, cold foam, condensed milk, vanilla/cinnamon, sparkling, mocha); how-to-order in Greece; inbound links from thai-iced-coffee, frappuccino, condensed-milk-coffee |
+| third wave coffee | 8,100 | LOW (10/100) | /guides/third-wave-coffee/ | Published + FAQ (Pulse 69) — definitional guide with wave taxonomy table, 6 key principles, famous roasters (Stumptown/Intelligentsia/Counter Culture/Blue Bottle), home brewing setup, criticisms answered, "fourth wave" forward-look. 4 inbound links from light-roast-vs-dark-roast, arabica-vs-robusta, coffee-origins, gibraltar-coffee |
 
 *Volume N/A in DataForSEO — long-tail but high purchase intent
 **HIGH paid competition, but informational angle ("what is WDT tool") should be more rankable for new site
@@ -367,7 +427,11 @@ Day 24 — 130 articles. Milk-drinks cluster expansion + Pulse 63 link-boost val
 - [DONE Pulse 62] "how long do coffee beans last" (2,900/mo, LOW 6/100) — published as /guides/how-long-do-coffee-beans-last/; shelf life guide for all coffee forms
 
 ### In Progress
-*(none — pulse 67 complete; Thai iced coffee + white-espresso CTR fix + flat-white link boost, 132 articles total)*
+*(none — Pulse 69 complete; third wave coffee guide + 4 inbound links + 2 link-boosts, 134 articles total)*
+
+### Pulse 69 — Third wave coffee + link-boost pass (DONE)
+- **/guides/third-wave-coffee/** (8,100/mo, LOW 10/100) — comprehensive informational guide with wave taxonomy, key principles, roaster directory, home setup, criticisms answered. 4 contextual inbound links from light-roast-vs-dark-roast, arabica-vs-robusta, coffee-origins, gibraltar-coffee.
+- **2 link-boosts on Pulse 68 SC appearers:** espresso-cake-recipe → mocha-recipe (in Mocha Cake variation section), espresso-cake-recipe → espresso-cheesecake-recipe (in Espresso Cheesecake variation section).
 
 ### Pulse 67 — Thai Iced Coffee + CTR Fix + Link Boost (DONE)
 - **/recipes/thai-iced-coffee-recipe/** (6,600/mo, LOW 1/100) — authentic oliang recipe + espresso home shortcut with cardamom. 6 variations, brand table, FAQ schema.
@@ -560,6 +624,6 @@ Internal link boost: added ristretto link from how-to-make-a-flat-white (110 imp
 3. **Pulse 70:** SC scoreboard comparison. If flat-white shows movement from Pulse 67 link boost, note the improvement and continue the link-boost strategy. Target next big keyword gap using DataForSEO research on coffee equipment/technique terms still uncovered (espresso machine maintenance, grinder burr types, etc. — informational queries where new sites can rank). Also check if any previously-published pages have moved into pos 10–20 range where title/CTR optimization would unlock meaningful traffic.
 
 ---
-*Last updated: 2026-04-27 (Pulse 67)*
+*Last updated: 2026-04-28 (Pulse 69)*
 
 

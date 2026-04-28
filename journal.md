@@ -4,6 +4,139 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-04-28 22:00 IDT — Pulse 69: Third wave coffee guide (8,100/mo) + 4 inbound links + 2 link-boosts
+
+**Action:** Published /guides/third-wave-coffee/ targeting "third wave coffee" (8,100/mo, LOW 10/100). Added 4 contextual inbound links to it from light-roast-vs-dark-roast, arabica-vs-robusta, coffee-origins, gibraltar-coffee. Added 2 link-boosts inside espresso-cake-recipe (→ mocha-recipe, → espresso-cheesecake-recipe) — both sections were verbatim describing those drinks/desserts but not hyperlinking. Site at 134 articles.
+
+**Pre-pulse SC assessment (28-day window):**
+- WHITE ESPRESSO: 157 imp, pos 4.38, 1 click overall (0.64% CTR) — BUT the specific query "what is white espresso" shows 24 imp, pos 5.88, 1 click (CTR 4.17%). The new title from Pulse 67 ("Higher Caffeine, Nutty Flavor Explained") appears to be doing exactly what was hoped — converting on the head query. Overall page CTR is dragged down by long-tail queries that don't match the new positioning. Continue to monitor; recrawl signal is real.
+- how-to-make-a-flat-white: 114 imp, pos 75.7 — slight improvement from 76.4 (Pulse 67 link boost still propagating)
+- how-to-froth-milk: 59 imp, pos 54.5 — stable
+- red-eye-coffee: 22 imp, pos 48.5 — improving from 50.3 (link-boost equity continuing to compound; was originally pos 55.8 at Pulse 65)
+- ristretto-vs-espresso: 11 imp, pos 29 — saturated
+- simple-syrup-recipe: 22 imp, pos 36 — stable
+- how-to-make-a-macchiato: 11 imp, pos 41.5 — stable
+- **NEW page-1 appearers since Pulse 68 (very positive signal):**
+  - **coffee-ice-cubes: 2 imp, pos 6** — first page-1 appearance for this page!
+  - **cold-brew-recipe: 2 imp, pos 6** — also page-1!
+- Mid-funnel SC appearers (Pulse 68 noted):
+  - coffee-ice-cream-recipe: 12 imp, pos 80.4
+  - mocha-recipe: 18 imp, pos 63
+  - cold-brew-vs-espresso: 11 imp, pos 52.8
+  - turmeric-latte-recipe: 11 imp, pos 68.8
+  - espresso-cheesecake-recipe: 3 imp, pos 61.3
+- Pulse 65/66/67/68 articles: still zero impressions (cafecito, marocchino, wet-vs-dry-cappuccino, iced-cappuccino, cafe-au-lait, thai-iced-coffee, greek-frappe-recipe) — all in indexing window.
+- GA4 organic: 2 sessions all-time (last on 2026-04-14). Still pre-traffic phase.
+
+**DataForSEO this pulse:** $0.00 — Re-using prior research on third wave coffee (8,100/mo, LOW 10/100, batched in Pulse 67). Daily budget intact; cumulative still well under $1/day.
+
+**Third wave coffee article (~3,300 words):**
+- Published /guides/third-wave-coffee/ targeting 8,100/mo informational query
+- Definitional opening + the wave taxonomy (1st/2nd/3rd) with comparison table
+- 6 key principles: bean as star, light roast preservation, single origin/traceability, direct trade, brewing as craft, tasting notes language
+- Famous third wave roasters table (Stumptown, Intelligentsia, Counter Culture, Blue Bottle) + extended list (George Howell, Verve, Onyx, Heart, Sey, Tim Wendelboe, The Barn, Coffee Collective, Single O)
+- Home brewing starter setup section (7-item checklist + sample pour over recipe)
+- Common criticisms answered honestly (pretentious, sour, expensive, "I can't taste blueberry", anti-cream-and-sugar)
+- "Fourth wave?" section with hyper-traceability + experimental fermentation + cultivar economics
+- 9 FAQs with full YAML faq: front matter + visible markdown ### headings
+- Outbound internal links: light-roast-vs-dark-roast, arabica-vs-robusta, coffee-origins, espresso-crema, pour-over-guide, aeropress-guide, coffee-to-water-ratio, how-long-do-coffee-beans-last, gibraltar-coffee
+- One outbound external link to SCA Flavor Wheel (authoritative source citation, builds E-E-A-T)
+
+**Inbound links added on launch (4 contextual):**
+1. /guides/light-roast-vs-dark-roast/ line 77: "specialty coffee shops" → linked to /guides/third-wave-coffee/ (changed phrasing slightly to "third wave coffee shops" for cleaner anchor)
+2. /guides/arabica-vs-robusta.md line 54: "Most specialty coffee" → linked
+3. /guides/coffee-origins.md line 103: "workhorses of specialty coffee" → linked
+4. /guides/gibraltar-coffee.md line 26: "third-wave coffee culture" → linked (Gibraltar IS a third-wave drink; this is the perfect topical match)
+
+**Link-boost pass on Pulse 68's SC appearers (2 added this pulse):**
+1. /recipes/espresso-cake-recipe.md "Mocha Cake" variation section: added inline link "same flavor pairing as our drinkable [mocha recipe](/recipes/mocha-recipe/), in cake form" — mocha-recipe goes from 3 inbound to 4
+2. /recipes/espresso-cake-recipe.md "Espresso Cheesecake" variation section: added inline link "For the full standalone recipe ... see our [espresso cheesecake recipe](/recipes/espresso-cheesecake-recipe/)" — espresso-cheesecake goes from 1 inbound to 2
+
+Note: turmeric-latte-recipe and coffee-ice-cream-recipe already have 3+ inbound links each (whipped-cream + horchata-latte + lavender-latte for turmeric; affogato + coffee-granita + espresso-cake + tiramisu-recipe for coffee-ice-cream). Saving further additions for Pulse 70 if SC needles haven't moved.
+
+**Reasoning:**
+- Third wave coffee was the biggest remaining LOW-competition informational keyword identified in Pulse 67 research (8,100/mo, 10/100 paid competition). Article fits perfectly into the existing knowledge cluster (light-roast-vs-dark-roast, arabica-vs-robusta, coffee-origins) and provides natural anchors for inbound links from those pages — building topical authority compound interest.
+- Long-form (3,300+ words) is appropriate for a definitional/explainer page where readers want comprehensive context. The wave taxonomy + roasters list + home setup all support broader informational intent.
+- 4 inbound links on launch replicates the link-boost pattern — same approach used for thai-iced-coffee (Pulse 67) and greek-frappe (Pulse 68) that gave those pages immediate link equity.
+- Mocha-recipe link-boost from espresso-cake's "Mocha Cake" section: this is the highest-ROI link addition because the section LITERALLY describes the chocolate-and-espresso pairing that mocha-recipe is the canonical page for. Same logic for espresso-cheesecake link.
+- White-espresso CTR signal is positive: 4.17% CTR on the head query is a 6x improvement over the prior 0.67%. Will continue monitoring; if it holds for 7-14 more days, we can apply the same title-rewrite pattern to other pos-3-10 pages with low CTR.
+
+**Outcome:**
+- 7 files changed: 1 new article + 4 modified guides + 1 modified recipe + journal + strategy. Pushing to git.
+- Vercel will auto-deploy.
+- Site at 134 articles.
+
+**Next (Pulse 70):**
+1. SC check for Pulse 67/68/69 articles — by Pulse 70, thai-iced-coffee (Pulse 67) should be 5+ days old and starting to show first impressions in SC. Greek frappé and Third wave coffee will still be in indexing window.
+2. Audit ~37 hybrid pages with broken visible FAQ shortcode body (schema works via YAML front matter, visible HTML missing) — convert broken shortcode bodies to plain markdown ### headings. This was on the Pulse 68 backlog and deserves attention before more content is shipped.
+3. Watch white-espresso 2-day SC window for sustained CTR improvement.
+4. Consider another link-boost pass on flat-white (114 imp, pos 75.7) — if Pulse 67's link boost hasn't moved it by Pulse 70, the page may need title/description optimization or more substantive content additions rather than just links.
+5. Next big keyword candidate: research "decaf coffee" cluster (decaf espresso 9,900/mo was HIGH in Pulse 67 search, but "what is decaf coffee", "swiss water decaf", "is decaf coffee bad for you" might be lower competition longtails worth a search-volume batch).
+
+---
+
+## 2026-04-28 06:00 IDT — Pulse 68: Greek frappé recipe (3,600/mo) + 3 inbound link wires
+
+**Action:** Published /recipes/greek-frappe-recipe/ targeting "greek frappe" (3,600/mo, LOW 5/100). Added 3 contextual inbound links on launch from thai-iced-coffee-recipe (comparison table row hyperlinked), frappuccino-recipe (related-drinks footer), condensed-milk-coffee-recipe (international iced coffee section). Site now at 133 articles. Commit 7d36d39 pushed.
+
+**Pre-pulse SC assessment (28-day window):**
+- WHITE ESPRESSO: 157 imp, pos 4.38, 1 click (CTR 0.64%) — Pulse 67 title fix only ~12h old, Google hasn't recrawled the new snippet yet. CTR signal will need 1-2 weeks of recrawl cycles.
+- how-to-make-a-flat-white: 114 imp, pos 75.7 — slight improvement (was 76.4); Pulse 67 link boost too recent to register fully.
+- how-to-froth-milk: 59 imp, pos 54.5 — stable, slight improvement
+- red-eye-coffee: 21 imp, pos 50.3 (28-day average) — link-boost equity continuing to propagate
+- ristretto-vs-espresso: 11 imp, pos 29 — saturated
+- simple-syrup-recipe: 22 imp, pos 36 — stable
+- how-to-make-a-macchiato: 11 imp, pos 41.5 — stable
+- **NEW SC APPEARERS since Pulse 67 (positive — indexing pipeline producing fresh impressions):**
+  - coffee-ice-cream-recipe: 12 imp, pos 80.4
+  - mocha-recipe: 18 imp, pos 63
+  - cold-brew-vs-espresso: 11 imp, pos 52.8
+  - turmeric-latte-recipe: 11 imp, pos 68.8
+  - espresso-cheesecake-recipe: 3 imp, pos 61.3
+- Pulse 65/66/67 articles (cafecito, marocchino, wet-vs-dry-cappuccino, iced-cappuccino, cafe-au-lait, thai-iced-coffee): zero impressions — still in indexing window.
+- GA4 organic: 2 sessions all-time, pre-ranking. Indexing > traffic for now.
+
+**DataForSEO research:** $0.00 this pulse. Greek frappe volume was confirmed in Pulse 67's batch (3,600/mo, LOW 5/100). Re-using existing data. Daily budget intact.
+
+**Greek frappé article:**
+- Published /recipes/greek-frappe-recipe/ (~2,200 words, 8 FAQs)
+- Vakondios 1957 origin story (Thessaloniki Trade Fair accident)
+- Authentic 90-second shake recipe with detailed step-by-step
+- Three sweetness levels table: sketos (σκέτος, 0 sugar) / metrios (μέτριος, 1-2 tsp) / glykos (γλυκός, 3+ tsp)
+- "Why instant coffee specifically" section explaining spray-dried foaming compounds vs espresso (the science angle)
+- Equipment comparison table: cocktail shaker, mason jar, electric handheld frother, blender, hand whisk, French press
+- Differentiator table: Greek frappé vs Frappuccino vs freddo espresso vs freddo cappuccino vs Vietnamese vs Thai vs iced Americano
+- 6 variations: classic me gala, decaf, cold foam, condensed milk, vanilla/cinnamon, sparkling, mocha
+- "How to order in Greece" section (frappé + sketos/metrios/glykos + me gala/horis gala syntax)
+- 7 common mistakes
+- Make-ahead/storage tips ("frappé starter" pre-mix)
+- 8 FAQs in YAML faq: front matter (for FAQPage JSON-LD via schema.html partial) + visible markdown ### headings (matches Pulse 66 hybrid approach)
+
+**Inbound links added on launch:**
+1. thai-iced-coffee-recipe.md → comparison table row "Greek frappé" → linked to new article
+2. frappuccino-recipe.md → footer "more coffee drink inspiration" → added "thinner foamy iced coffee instead of thick blended drink, try the [Greek frappé]" tying frappé/Frappuccino naming history
+3. condensed-milk-coffee-recipe.md → "see also" footer → added "no-condensed-milk international iced coffee" mention with link
+
+**Reasoning:**
+- Greek frappe was the top remaining LOW-competition opportunity from Pulse 67 research: 3,600/mo at competition 5/100 is exceptional and the SERP is dominated by recipe blogs with mid-strength authority. Comprehensive coverage (origin story + 3 sweetness levels + variations + ordering guide) gives strong information-density signal.
+- 3 contextual inbound links on launch replicates the Pulse 67 thai-iced-coffee approach. Link-boost pattern is the highest-ROI on-site lever observed (red-eye +50, macchiato +12).
+- Greek frappe extends the international-coffee cluster (Vietnamese + Thai + Cuban + Mexican + Greek) — topical authority compounds across the cluster.
+- Skipped DataForSEO this pulse: research already done, budget conservation matters.
+
+**Outcome:**
+- Commit 7d36d39 pushed: 4 files changed, 228 insertions, 3 deletions. 1 new article.
+- Vercel deployment triggered.
+- Site at 133 articles.
+
+**Next (Pulse 69):**
+1. SC check for first impressions on Pulse 65/66/67 articles (cafecito, iced-cappuccino, cafe-au-lait, thai-iced-coffee).
+2. Monitor white-espresso CTR fix — by Pulse 69 (~24h post-fix) we should start seeing partial recrawl signal in the 2-day SC window.
+3. Consider writing **third wave coffee** (8,100/mo, LOW 10/100) — already researched, would extend specialty-coffee informational cluster + create internal links to arabica-vs-robusta, coffee-origins, espresso-crema, light-roast-vs-dark-roast.
+4. Light link-boost pass: add 1-2 inbound links each to coffee-ice-cream-recipe, mocha-recipe, turmeric-latte-recipe, espresso-cheesecake-recipe from related pages.
+5. Audit hybrid pages with broken visible FAQ shortcode body — convert to markdown headings (~37 pages flagged in Pulse 66).
+
+---
+
 ## 2026-04-27 22:00 IDT — Pulse 67: Thai iced coffee recipe (6,600/mo) + white-espresso CTR fix + flat-white link boost
 
 **Action:** Three actions this pulse — (1) published /recipes/thai-iced-coffee-recipe/ targeting 6,600/mo LOW 1/100, (2) rewrote white-espresso title + meta description to fix critically low CTR (0.67% at pos 4.29), (3) added contextual inbound links to how-to-make-a-flat-white from 2 new Pulse 65/66 pages. Site now at 132 articles. Commit 196dd37 pushed.

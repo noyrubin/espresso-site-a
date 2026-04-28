@@ -23,7 +23,7 @@ faq:
     answer: "Yes, significantly. A gibraltar uses a double shot in about 4 oz total volume (roughly 50% espresso), while a latte uses the same double shot in 10–12 oz total volume. The espresso-to-milk ratio is much higher in a gibraltar, making it noticeably more concentrated and intense."
 ---
 
-If you've visited a specialty coffee bar in San Francisco, Portland, or New York in the past decade, you've likely seen a small glass of strong, layered coffee with a thin cap of steamed milk. That's a gibraltar — one of the most beloved insider drinks in third-wave coffee culture, and one that's been quietly spreading from barista culture to café menus worldwide. Here's everything you need to know about what it is, where it came from, and how to make one at home.
+If you've visited a specialty coffee bar in San Francisco, Portland, or New York in the past decade, you've likely seen a small glass of strong, layered coffee with a thin cap of steamed milk. That's a gibraltar — one of the most beloved insider drinks in [third-wave coffee](/guides/third-wave-coffee/) culture, and one that's been quietly spreading from barista culture to café menus worldwide. Here's everything you need to know about what it is, where it came from, and how to make one at home.
 
 ## What Is a Gibraltar Coffee?
 

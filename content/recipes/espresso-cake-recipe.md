@@ -110,7 +110,7 @@ Let cakes cool in pans on a wire rack for 15 minutes. Then invert onto the rack 
 ## Variations
 
 ### Mocha Cake (Chocolate + Espresso)
-Add ¼ cup (30g) unsweetened Dutch-process cocoa powder to the batter, replacing the same amount of flour. The result is a dark, dense mocha cake that bridges chocolate and espresso. Use chocolate ganache instead of buttercream for an even more intense version.
+Add ¼ cup (30g) unsweetened Dutch-process cocoa powder to the batter, replacing the same amount of flour. The result is a dark, dense mocha cake that bridges chocolate and espresso — same flavor pairing as our drinkable [mocha recipe](/recipes/mocha-recipe/), in cake form. Use chocolate ganache instead of buttercream for an even more intense version.
 
 ### Espresso Brownies
 Use this recipe's espresso integration technique, but shift to a brownie format:
@@ -127,7 +127,7 @@ Make the cake layers as written. Poke holes all over with a skewer. Soak with a 
 Soak the cake layers with espresso (2 shots + 2 tbsp sugar, cooled). Frost with mascarpone cream instead of buttercream (see our [tiramisu recipe](/recipes/tiramisu-recipe/) for the mascarpone technique). Dust with cocoa. This is essentially tiramisu in layer cake form.
 
 ### Espresso Cheesecake
-For an espresso cheesecake: mix 2 tbsp espresso powder and 1 shot cooled espresso into a standard cheesecake filling (600g cream cheese, ¾ cup sugar, 3 eggs, ½ cup sour cream). Use crushed chocolate cookies for the crust. Bake in a water bath at 325°F for 60–70 minutes. Chill overnight.
+For an espresso cheesecake: mix 2 tbsp espresso powder and 1 shot cooled espresso into a standard cheesecake filling (600g cream cheese, ¾ cup sugar, 3 eggs, ½ cup sour cream). Use crushed chocolate cookies for the crust. Bake in a water bath at 325°F for 60–70 minutes. Chill overnight. For the full standalone recipe (with both baked and no-bake methods, plus 4 variations), see our [espresso cheesecake recipe](/recipes/espresso-cheesecake-recipe/).
 
 ## Troubleshooting
 

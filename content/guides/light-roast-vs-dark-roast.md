@@ -74,7 +74,7 @@ The oily surface visible on dark-roasted beans is called "sweating" — oils mig
 - **Common uses:** Pour over, Chemex, AeroPress, filter coffee
 - **Best bean origins:** Ethiopia, Kenya, Colombia, Panama
 
-Light roasts are favored by specialty coffee shops for single-origin pour overs because they preserve the most terroir. Brewing them with espresso is unusual (though possible) because the high pressure extraction can amplify the brightness into harshness.
+Light roasts are favored by [third wave coffee](/guides/third-wave-coffee/) shops for single-origin pour overs because they preserve the most terroir. Brewing them with espresso is unusual (though possible) because the high pressure extraction can amplify the brightness into harshness.
 
 ### Medium Roast
 - **Also called:** City roast, regular roast, American roast

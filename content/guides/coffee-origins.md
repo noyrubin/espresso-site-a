@@ -100,7 +100,7 @@ Africa is the birthplace of coffee — *Coffea arabica* originated in the Ethiop
 If you like brightness and complexity, start with East Africa.
 
 ### Central America — Balanced, Sweet, Chocolatey
-Central American coffees are the workhorses of specialty coffee — **clean, sweet, balanced, and reliable**, with chocolate and nut notes that translate well into espresso and milk drinks.
+Central American coffees are the workhorses of [specialty coffee](/guides/third-wave-coffee/) — **clean, sweet, balanced, and reliable**, with chocolate and nut notes that translate well into espresso and milk drinks.
 
 - **Guatemala** (Antigua, Huehuetenango, Atitlán) — chocolatey, spicy, full-bodied with citrusy acidity.
 - **Costa Rica** (Tarrazú, Naranjo) — clean, bright, often honey-processed for added sweetness.

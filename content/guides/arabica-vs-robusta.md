@@ -51,7 +51,7 @@ This guide compares arabica and robusta side by side, then explains when each on
 | Price (green) | Roughly 2× robusta | Lower |
 | Common uses | Specialty coffee, single origins, light/medium roasts | Instant, blends, Italian-style espresso, budget brands |
 
-The short version: **arabica tastes better; robusta is cheaper, stronger in caffeine, and produces more crema.** Most specialty coffee is 100% arabica. Most supermarket and instant coffee contains some robusta.
+The short version: **arabica tastes better; robusta is cheaper, stronger in caffeine, and produces more crema.** Most [specialty coffee](/guides/third-wave-coffee/) is 100% arabica. Most supermarket and instant coffee contains some robusta.
 
 ---
 
