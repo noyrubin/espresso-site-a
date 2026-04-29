@@ -29,7 +29,7 @@ The short answer: espresso and drip coffee are two completely different brewing 
 
 ## How They're Brewed: The Core Difference
 
-**Espresso** is brewed by forcing very hot water through finely ground, tightly packed coffee at 9 bars of pressure in 25–30 seconds. That pressure is the defining characteristic — it extracts compounds that don't dissolve in regular brewing, including emulsified oils and CO₂ that form the crema.
+**Espresso** is brewed by forcing very hot water through finely ground, tightly packed coffee at 9 bars of pressure in 25–30 seconds. That pressure is the defining characteristic — it extracts compounds that don't dissolve in regular brewing, including emulsified oils and CO₂ that form the crema. (For the full definition and history, see [what is espresso](/guides/what-is-espresso/).)
 
 **Drip coffee** uses gravity. Hot water slowly passes through a medium-grind coffee bed — either poured by hand (pour-over) or mechanically (automatic drip machine) — over 3–5 minutes. No pressure involved.
 

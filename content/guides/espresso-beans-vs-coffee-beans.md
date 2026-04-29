@@ -29,7 +29,7 @@ There is no botanical difference between espresso beans and coffee beans.
 
 Every coffee bean in every bag — whether labeled espresso, filter, pour over, or single origin — comes from the same plant species: *Coffea arabica* or *Coffea robusta*. The beans themselves are identical in their raw form.
 
-"Espresso beans" is a label applied by roasters to beans they've **roasted and profiled specifically for use in espresso machines**. It signals a roasting approach and flavor target, not a different type of bean.
+"Espresso beans" is a label applied by roasters to beans they've **roasted and profiled specifically for use in espresso machines**. It signals a roasting approach and flavor target, not a different type of bean. (Quick refresher: [what is espresso](/guides/what-is-espresso/) covers the brewing method that defines the category.)
 
 You can make espresso with any coffee beans. You can brew "espresso beans" as a pour over or French press. The label is a recommendation, not a rule.
 

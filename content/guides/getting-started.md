@@ -23,7 +23,7 @@ Brewing espresso at home sounds intimidating, but it does not have to be. With t
 
 ## What Is Espresso, Exactly?
 
-Espresso is not a type of bean or a roast level. It is a **brewing method** that forces hot water through finely ground coffee at high pressure (typically 9 bars). The result is a concentrated, full-bodied shot of coffee with a layer of golden crema on top.
+Espresso is not a type of bean or a roast level. It is a **brewing method** that forces hot water through finely ground coffee at high pressure (typically 9 bars). The result is a concentrated, full-bodied shot of coffee with a layer of golden crema on top. For the full breakdown of [what espresso is](/guides/what-is-espresso/) — including how it differs from drip coffee, the caffeine math, and what makes a shot a "real" espresso — see our dedicated guide.
 
 A standard espresso shot is about 25-30 ml (roughly 1 oz) extracted in 25-30 seconds. The high-pressure extraction pulls oils, sugars, and dissolved solids from the coffee in ways that drip brewing cannot replicate.
 

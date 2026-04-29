@@ -66,7 +66,7 @@ American-style ice cream has more air (higher "overrun") and more cream, so it m
 
 **What to avoid:** Low-fat "frozen yogurt" or "gelato-style" products with lots of stabilizers and artificial vanilla. They melt unevenly and taste thin.
 
-**Best choices:** Häagen-Dazs vanilla bean ice cream, Talenti Sicilian Pistachio gelato (for a pistachio affogato), any artisanal gelato from an Italian gelateria.
+**Best choices:** Häagen-Dazs vanilla bean ice cream, Talenti Sicilian Pistachio gelato (for a pistachio affogato), any artisanal gelato from an Italian gelateria. For the ultimate at-home version, scoop our homemade [coffee ice cream](/recipes/coffee-ice-cream-recipe/) — espresso under espresso is the boldest version of the drink.
 
 ---
 

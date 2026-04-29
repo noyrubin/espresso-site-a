@@ -70,7 +70,7 @@ If your goal is maximizing total caffeine intake, a large drip coffee or cold br
 
 Yes and no — it depends how you define "stronger."
 
-**Espresso is stronger by concentration** (caffeine per ounce). One ounce of espresso has 60–75mg of caffeine. One ounce of drip coffee has roughly 10–15mg. Espresso is about 5–6× more concentrated.
+**Espresso is stronger by concentration** (caffeine per ounce). One ounce of espresso has 60–75mg of caffeine. One ounce of drip coffee has roughly 10–15mg. Espresso is about 5–6× more concentrated. (For why espresso is so concentrated — pressure, ratio, and time — see [what is espresso](/guides/what-is-espresso/).)
 
 **Drip coffee can deliver more total caffeine per serving** because you drink a much larger volume. A 12 oz drip coffee (120–160mg) contains more total caffeine than a single or double espresso shot.
 

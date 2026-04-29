@@ -4,6 +4,180 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-04-29 14:00 IDT — Pulse 71: What is espresso guide (~38,300/mo cluster) + 4 inbound links + 2 link-boosts
+
+**Action:** Published /guides/what-is-espresso/ targeting "what is espresso" (18,100/mo, LOW 15/100) head + 6 cluster keywords totaling ~38,300/mo combined at LOW 1-15/100. Added 4 contextual inbound links on launch (getting-started, espresso-vs-drip-coffee, espresso-caffeine, espresso-beans-vs-coffee-beans). Added 2 link-boosts on Pulse 70 SC appearers: affogato-recipe → coffee-ice-cream-recipe (in-body anchor; was only linked from footer); coffee-ice-cream-recipe → espresso-cheesecake-recipe (added to "more espresso desserts" sentence). Site at 136 articles. Pulse 70 strategy.md+journal.md changes carried into this commit (they weren't staged in 9c2a028).
+
+**Pre-pulse SC assessment (28-day window):**
+- WHITE ESPRESSO: 163 imp, pos 4.47, 1 click overall (CTR 0.61%) — query-level "what is white espresso" still showing 24 imp, pos 5.88, 1 click (CTR 4.17%). 2-day window confirms continued strength: 14 imp, pos 6.43.
+- how-to-make-a-flat-white: 114 imp, pos 75.7 (28-day) — BUT **2-day window shows pos 3, 1 imp** — the link-boost equity from Pulses 67-69 finally compounding. First time flat-white has appeared on page 1 in any window. CTR rewrite is no longer urgent.
+- mocha-recipe: 18 imp pos 63 (28-day) — BUT **2-day window shows pos 4.5, 2 imp** — the Pulse 70 double link-boost (granita + ice cream) produced a +58 position lift in 24h. Pattern emphatically confirmed.
+- how-to-froth-milk: 59 imp pos 54.5 (28-day) — **2-day window pos 9, 1 imp** — first page-1 appearance.
+- cold-brew-vs-espresso: 12 imp pos 49.25 (28-day) — **2-day window pos 10, 1 imp** — almost on page 1 after the Pulse 70 link-boost from coffee-ice-cubes.
+- red-eye-coffee: 22 imp pos 48.5 (28-day) — **2-day window pos 17.67, 3 imp** — continuing to compound; +35 positions vs Pulse 65 baseline.
+- coffee-ice-cubes: 2 imp pos 6, cold-brew-recipe: 2 imp pos 6 — page-1 holds.
+- coffee-ice-cream-recipe: 12 imp pos 80.4 (28-day) — **2-day window pos 82.67, 6 imp** — getting more impressions despite stable position; getting a link-boost this pulse from affogato.
+- espresso-cheesecake-recipe: 3 imp pos 61.3 (28-day) — **2-day window pos 51, 2 imp** — getting a link-boost this pulse from coffee-ice-cream.
+- New 2-day SC appearers (positive indexing signal): tags/taro-latte (5 imp pos 75.2), red-eye-coffee back to 17.67 from 48.5
+- GA4 organic: still 2 sessions all-time (last 2026-04-14) — pre-traffic phase. GA4 total today: 1 session (non-organic).
+
+**Big takeaway: link-boost pattern produces dramatic short-term lifts.** mocha-recipe pos 63 → 4.5 in 24h after Pulse 70's double link-boost. flat-white pos 75 → 3 after cumulative link-boosts since Pulse 67. The 2-day SC window is the leading indicator; 28-day lags but will catch up. This is the highest-ROI lever right now.
+
+**DataForSEO this pulse:** $0.075 (search-volume batch on 10 espresso-vs-coffee cluster keywords). Cumulative spend remains well under $1/day budget.
+
+**Espresso-vs-coffee cluster research findings:**
+| Keyword | Volume | Competition | Decision |
+|---|---|---|---|
+| what is espresso | 18,100 | LOW (15/100) | TARGET — head term |
+| espresso vs coffee | 8,100 | LOW (13/100) | TARGET as cluster |
+| coffee vs espresso caffeine | 2,900 | LOW (6/100) | TARGET as cluster |
+| espresso definition | 2,900 | LOW (2/100) | TARGET as cluster |
+| is espresso coffee | 2,400 | LOW (3/100) | TARGET as cluster |
+| is espresso stronger than coffee | 1,600 | LOW (3/100) | TARGET as cluster |
+| what is a shot of espresso | 1,300 | LOW (1/100) | TARGET as cluster |
+| espresso vs regular coffee | 390 | LOW (14/100) | minor longtail |
+| what makes espresso espresso | 260 | LOW (15/100) | minor longtail |
+| espresso shot vs coffee | 50 | LOW (10/100) | minor longtail |
+
+Combined cluster: ~38,300/mo at competition 1-15/100. Significantly bigger than the decaf cluster (~21,200) — and the head term "what is espresso" at 18,100/mo LOW 15/100 is one of the highest-volume LOW-competition definitional terms still uncovered on the site.
+
+**What is espresso article (~3,800 words):**
+- Definitional opening: espresso = brewing method, not a bean type
+- 3-part definition (pressure 9 bars, ratio 1:2, time 25-30s) — the core "what makes it espresso" answer
+- Brief history (Bezzera 1901, Pavoni 1905, Gaggia 1947, Faema E61 1961)
+- Espresso vs drip side-by-side table (12 parameters)
+- Why pressure changes the extraction chemistry (oils, CO2, body)
+- Caffeine math table — 10 drinks compared (this is the section that captures "coffee vs espresso caffeine" 2,900/mo + "is espresso stronger than coffee" 1,600/mo)
+- Espresso beans vs regular coffee beans (pulls the question without being a competitor to /guides/espresso-beans-vs-coffee-beans/ — links out)
+- 3-part espresso definition with brewing-method comparison table (espresso vs moka vs aeropress vs french press in terms of pressure)
+- Single shot vs double (pulls "what is a shot of espresso" 1,300/mo)
+- Espresso-based drinks table (11 drinks linked to existing recipes)
+- Common misconceptions (6 myths busted)
+- How to tell real espresso from concentrated coffee (4 tests)
+- Caffeine table per shot type
+- 10 FAQs in YAML faq: front matter + visible markdown headings (matches Pulse 66 hybrid pattern)
+- Outbound internal links: espresso-crema, espresso-ratio-guide, espresso-vs-drip-coffee, moka-pot-vs-espresso, espresso-caffeine, espresso-beans-vs-coffee-beans, ristretto-vs-espresso, lungo-coffee, espresso-troubleshooting, double-espresso, getting-started, what-is-decaf-coffee, arabica-vs-robusta, red-eye-coffee, how-to-make-a-latte, how-to-make-cappuccino, how-to-make-a-flat-white, how-to-make-a-macchiato, cortado-coffee, mocha-recipe, espresso-tonic, affogato-recipe, espresso-martini-recipe, espresso-grind-size-guide
+
+**Inbound links added on launch (4 contextual):**
+1. /guides/getting-started.md "What Is Espresso, Exactly?" section: anchor "[what espresso is]" added inline after the existing definition — capitalizes on the existing topical match
+2. /guides/espresso-vs-drip-coffee.md "Core Difference" section: parenthetical "(For the full definition and history, see [what is espresso])" — natural integration
+3. /guides/espresso-caffeine.md "Is Espresso Stronger Than Coffee?" section: parenthetical "(For why espresso is so concentrated — pressure, ratio, and time — see [what is espresso])"
+4. /guides/espresso-beans-vs-coffee-beans.md "Short Answer" section: parenthetical "(Quick refresher: [what is espresso] covers the brewing method...)"
+
+**Link-boosts on Pulse 70 SC appearers (2 added this pulse):**
+1. /recipes/affogato-recipe.md "Best choices" section: anchor "scoop our homemade [coffee ice cream]" added — coffee-ice-cream-recipe was only in the footer; this adds a 2nd link in body for anchor diversity (was 0 in-body inbounds → 1)
+2. /recipes/coffee-ice-cream-recipe.md "more espresso desserts" sentence: added "[espresso cheesecake recipe](/recipes/espresso-cheesecake-recipe/) with both baked and no-bake methods" — espresso-cheesecake gets a 4th inbound link
+
+**Reasoning:**
+- "what is espresso" cluster filled a major content gap. The site has /guides/espresso-vs-drip-coffee/ (1,600/mo) and /guides/espresso-caffeine/ (90,960/mo combined) and /guides/espresso-beans-vs-coffee-beans/ (8,100/mo) but no DEDICATED dedicated head-term page. "What is espresso" 18,100/mo LOW 15/100 is the kind of foundational definitional query a content-driven site MUST own. The combined cluster of 7 LOW-competition longtails (~38,300/mo) makes this the second-biggest combined opportunity since espresso-caffeine.
+- Long-form (~3,800 words) is appropriate for a foundational/definitional cluster page — a brief "espresso is concentrated coffee" answer wouldn't capture the longtails. The article provides: definition, history, vs drip comparison, why pressure changes chemistry, caffeine math, beans question, single vs double, espresso-based drinks, misconceptions, real-vs-fake-espresso tests. Each section captures 1-2 cluster keywords.
+- 4 inbound links on launch follows the validated pattern. Each anchor uses pre-existing topical match (getting-started already had a "What Is Espresso, Exactly?" section; espresso-vs-drip-coffee already discussed the brewing definition; espresso-caffeine already discussed concentration; espresso-beans-vs-coffee-beans already mentioned brewing as the categorizer).
+- Link-boost on affogato → coffee-ice-cream is a high-value pattern: the affogato page is one of our oldest (Pulse 17), well-indexed, and has had a bottom-only footer link. Adding a body inline link in the high-engagement "ingredient choice" section provides anchor diversity AND comes from a higher-authority page.
+- Link-boost on coffee-ice-cream → espresso-cheesecake doubles down on the dessert cluster. Espresso-cheesecake at pos 51 (2-day) is a page-1 candidate that needs link equity to break through.
+- Skipped flat-white CTR rewrite this pulse — the 2-day window pos 3 changes the calculus. Page is now appearing on page 1; intervention isn't urgent. Wait one more pulse to confirm pattern holds in 28-day.
+
+**Outcome:**
+- 8 files changed: 1 new article + 4 modified guides + 2 modified recipes + journal + strategy. Pulse 70 strategy/journal updates also folded into this commit (they were not staged in 9c2a028).
+- Site at 136 articles.
+- Vercel auto-deploying.
+
+**Next (Pulse 72):**
+1. SC check for Pulse 70/71 articles (decaf, what-is-espresso) first impressions in 24-48h.
+2. Confirm flat-white movement: if 2-day pos still ≤10 and 28-day starts climbing from 75 → ~50, this is the validation point — link-boost compounding works for authority-limited pages too.
+3. If mocha-recipe holds 2-day pos ≤10, leave alone. If it bounces back to pos ~30+, do another link-boost pass.
+4. **Audit ~37 hybrid pages with broken visible FAQ shortcode body** — STILL on backlog from Pulses 68-71. May be the right slot if SC is in a 24h indexing pause and content velocity isn't moving the needle.
+5. Next big keyword research candidates: "matcha latte" longtails (already captured ~19K with iced-matcha-latte but head term "matcha latte" 27K may have a new angle) OR "milk frother" / equipment-adjacent informational queries OR more "what is X" definitional terms now that we've validated the pattern (what is espresso, what is decaf coffee both target ~20-40K/mo at LOW comp).
+
+---
+
+## 2026-04-29 06:00 IDT — Pulse 70: Decaf coffee guide (~21,200/mo cluster) + 4 inbound links + 3 link-boosts
+
+**Action:** Published /guides/what-is-decaf-coffee/ targeting "what is decaf coffee" (6,600/mo, LOW 4/100) head + 3 cluster keywords totaling ~21,200/mo combined at LOW competition. Added 4 contextual inbound links on launch (espresso-caffeine, arabica-vs-robusta, greek-frappe-recipe, how-long-do-coffee-beans-last). Added 3 link-boosts: 2 on mocha-recipe (Pulse 68 SC appearer at pos 63) from coffee-granita Mocha Granita variation + coffee-ice-cream Mocha Ice Cream variation; 1 on cold-brew-vs-espresso (Pulse 68 SC appearer at pos 49.25 — closest to page 1) from coffee-ice-cubes Cold Brew Coffee Cubes section. Site at 135 articles. Commit 9c2a028 pushed.
+
+**Pre-pulse SC assessment (28-day window):**
+- WHITE ESPRESSO: 159 imp, pos 4.39, 1 click overall (CTR 0.63%) — query-level "what is white espresso" still showing 24 imp, pos 5.88, 1 click (CTR 4.17%). Pulse 67 title fix continues to perform on the head query at ~6× prior CTR. Page-level CTR drag is from long-tail queries unrelated to the new positioning — expected.
+- how-to-make-a-flat-white: 114 imp, pos 75.7 — flat from Pulse 69 (76.4→75.7 was the Pulse 67-68 lift; no further movement). Link-boost equity has plateaued; title/description rewrite is the next intervention if it doesn't move by Pulse 71.
+- how-to-froth-milk: 59 imp, pos 54.5 — stable
+- red-eye-coffee: 22 imp, pos 48.5 — improving from 50.3 in Pulse 69 and 53.3 in Pulse 67. Net +7 positions since original pos 55.8 at Pulse 65 — link equity continues to compound at ~+2 positions per pulse cycle.
+- ristretto-vs-espresso: 11 imp, pos 29 — saturated
+- simple-syrup-recipe: 22 imp, pos 36 — stable
+- how-to-make-a-macchiato: 11 imp, pos 41.5 — stable
+- coffee-ice-cubes: 2 imp, pos 6 — page-1 holds since Pulse 69
+- cold-brew-recipe: 2 imp, pos 6 — page-1 holds
+- cold-brew-vs-espresso: 12 imp, pos 49.25 — close to page 1; getting a link boost this pulse from coffee-ice-cubes
+- mocha-recipe: 18 imp, pos 63 — getting double link boost this pulse from coffee-granita + coffee-ice-cream
+- coffee-ice-cream-recipe: 12 imp, pos 80.4 — stable
+- turmeric-latte-recipe: 11 imp, pos 68.8 — stable
+- espresso-cheesecake-recipe: 3 imp, pos 61.3 — small SC presence still
+- Pulse 65/66/67/68/69 articles still zero impressions (cafecito, marocchino, wet-vs-dry-cappuccino, iced-cappuccino, cafe-au-lait, thai-iced-coffee, greek-frappe-recipe, third-wave-coffee) — all in indexing window
+- GA4 organic: 2 sessions all-time (last 2026-04-14) — pre-traffic phase
+
+**DataForSEO this pulse:** $0.075 (search-volume batch on 10 decaf-related keywords). Cumulative spend remains well under $1/day budget.
+
+**Decaf cluster research findings:**
+| Keyword | Volume | Competition | Decision |
+|---|---|---|---|
+| what is decaf coffee | 6,600 | LOW (4/100) | TARGET — head term, lowest competition |
+| is decaf coffee bad for you | 8,100 | LOW (17/100) | TARGET as cluster — second-biggest volume in batch |
+| how is coffee decaffeinated | 2,900 | LOW (25/100) | TARGET as cluster |
+| decaf coffee benefits | 3,600 | LOW (15/100) | TARGET as cluster |
+| decaf espresso | 9,900 | HIGH (100/100) | SKIP — too competitive |
+| best decaf coffee | 6,600 | HIGH (100/100) | SKIP — buyer-intent commercial SERP |
+| decaf coffee beans | 6,600 | HIGH (100/100) | SKIP — buyer-intent SERP |
+| half caff coffee | 5,400 | HIGH (100/100) | SKIP standalone — covered as section |
+| decaf instant coffee | 4,400 | HIGH (100/100) | SKIP |
+| swiss water decaf | 2,900 | HIGH (100/100) | SKIP standalone — covered as section in main page |
+
+Combined cluster (4 LOW-competition keywords): ~21,200/mo at competition 4–25/100. Excellent ROI.
+
+**Decaf coffee article (~3,700 words):**
+- Published /guides/what-is-decaf-coffee/ targeting the cluster
+- Definitional opening explaining decaf = same beans, caffeine extracted before roasting (97–99.9%)
+- Four decaffeination methods table: Swiss Water (chemical-free, charcoal filter), CO2 (chemical-free, supercritical CO2), Methylene Chloride (most common commercial, FDA-limited residue <10ppm), Ethyl Acetate ("natural"/sugar cane)
+- "Is decaf bad for you" section addressing chemicals (FDA limits), caffeine (still 2-15mg per cup), and lipids (filter brewing removes diterpenes)
+- Health benefits backed by research (T2 diabetes risk, liver markers, antioxidant retention)
+- Caffeine numbers table: drink-by-drink decaf vs regular comparison
+- "How to pick good decaf" checklist (process named on bag, recent roast, single-origin/named blend, Arabica, third-wave roaster, avoid old pre-ground)
+- Decaf espresso dial-in section (grind 1-2 settings finer, +0.5g dose, target 28-32s extraction, watch for crema, group flush to prevent cross-contamination)
+- Half-caff section (50/50 blend math, when it works, when full decaf is better)
+- Decaf-vs-regular side-by-side comparison table
+- 7 common mistakes
+- 10 FAQs in YAML faq: front matter (for FAQPage JSON-LD) + visible markdown ### headings
+- Outbound internal links: espresso-caffeine, third-wave-coffee, arabica-vs-robusta, light-roast-vs-dark-roast, how-long-do-coffee-beans-last, espresso-ratio-guide, espresso-grind-size-guide
+
+**Inbound links added on launch (4 contextual):**
+1. /guides/espresso-caffeine.md "Decaf Espresso: Not Zero Caffeine" section: anchor "what is decaf coffee" links to the new guide for full coverage of methods/dial-in
+2. /guides/arabica-vs-robusta.md FAQ "Does decaf coffee come from arabica or robusta": added inline link to decaf coffee guide
+3. /recipes/greek-frappe-recipe.md "Decaf Frappé" variation: added inline link "(For more on choosing good [decaf coffee], including Swiss Water vs CO2 process)"
+4. /guides/how-long-do-coffee-beans-last.md "Roast Level Affect Shelf Life" section: added inline note that decaf goes stale faster, with link
+
+**Link-boosts on Pulse 68 SC appearers (3 added this pulse):**
+1. /recipes/coffee-granita-recipe.md Mocha Granita variation: anchor "same flavor profile as our drinkable [mocha recipe]" — mocha-recipe goes from 4 inbound to 5
+2. /recipes/coffee-ice-cream-recipe.md Mocha Ice Cream variation: anchor "Same flavor pairing as our drinkable [mocha recipe], in frozen form" — mocha-recipe goes from 5 inbound to 6
+3. /guides/coffee-ice-cubes.md Cold Brew Coffee Cubes section: anchor "or [cold brew vs espresso] for how the two extraction methods compare" — cold-brew-vs-espresso gets a second inbound from a topical sister guide (the cold-brew-recipe → cold-brew-vs-espresso link already exists)
+
+**Reasoning:**
+- Decaf cluster was the strategy.md Pulse 70 "next focus" item 4 — pre-paid research idea. Volume confirmed exceeded expectations: head "what is decaf coffee" 6,600/mo at LOW 4/100 is among the lowest-competition 5K+/mo keywords I've found this entire experiment. Combined cluster of 4 LOW-comp longtails = 21,200/mo total addressable.
+- Long-form (~3,700 words) is appropriate for a definitional/cluster page — readers searching "what is decaf coffee" want the methods, the health verdict, and the practical pick-a-bag advice. Covering all 4 cluster keywords on one page is high authority signal vs split pages.
+- 4 inbound links on launch follows the pattern that drove thai-iced-coffee, greek-frappe, and third-wave-coffee. Each anchor uses the pre-existing topical match (espresso-caffeine already had a "Decaf Espresso" section; arabica-vs-robusta already had a FAQ on decaf species; greek-frappe already had a Decaf Frappé variation; how-long-do-coffee-beans-last already discussed staleness/storage which decaf is more sensitive to).
+- Mocha-recipe link-boost double-pass: Pulse 69 added the espresso-cake → mocha-recipe link; this pulse adds two more (granita + ice cream). Three link additions in two pulses for a page sitting at pos 63 should produce measurable movement by Pulse 72.
+- Cold-brew-vs-espresso link-boost: at pos 49.25 with 12 imp, this is the most page-1-eligible Pulse 68 SC appearer. The cold-brew-recipe page already linked, so adding from a sister topical page (coffee-ice-cubes) provides anchor-text diversity (different surrounding context) — a stronger signal to Google than a second link from the same page family.
+- White-espresso CTR signal continues to be the best validation of pulse work — 4.17% on the head query "what is white espresso" is exactly what was hoped for. Maintaining this for 7-14 more days gives confidence to apply the same title/description rewrite pattern to other pos-3-10 pages with low CTR.
+
+**Outcome:**
+- 9 files changed: 1 new article + 4 modified guides + 3 modified recipes + journal + strategy. Pushed at commit 9c2a028.
+- Vercel auto-deploying.
+- Site at 135 articles.
+
+**Next (Pulse 71):**
+1. SC check for Pulse 67/68/69/70 articles. Thai-iced-coffee (Pulse 67) is now ~6 days; if still zero impressions, do a `inspect` API call to check indexing status. Greek frappé and Third wave coffee 4–7 days old, still in indexing window.
+2. **Audit ~37 hybrid pages with broken visible FAQ shortcode body** — STILL on backlog. Pulse 71 might be the right slot if SC remains in indexing-pause and content velocity isn't moving the needle on existing pages.
+3. If flat-white still stuck at pos ~75 (Pulse 67 link boost will be 7+ days old), execute title/description rewrite. Hypothesis: page is authority-limited at this site age; CTR/snippet rewrite is the better lever than more inbound links.
+4. Continue link-boost pattern: cold-brew-vs-espresso (got a boost this pulse) will be at +1 boost for 24h by Pulse 71. Watch position. Mocha-recipe got 2 boosts this pulse — by Pulse 72 (~48h post-boost) should show movement if the pattern holds.
+5. Next big keyword research: search-volume batch on "espresso vs coffee" cluster (high volume head term — check if there's a LOW-comp longtail) OR explore "matcha latte" longtails beyond what we already cover (~$0.05).
+
+---
+
 ## 2026-04-28 22:00 IDT — Pulse 69: Third wave coffee guide (8,100/mo) + 4 inbound links + 2 link-boosts
 
 **Action:** Published /guides/third-wave-coffee/ targeting "third wave coffee" (8,100/mo, LOW 10/100). Added 4 contextual inbound links to it from light-roast-vs-dark-roast, arabica-vs-robusta, coffee-origins, gibraltar-coffee. Added 2 link-boosts inside espresso-cake-recipe (→ mocha-recipe, → espresso-cheesecake-recipe) — both sections were verbatim describing those drinks/desserts but not hyperlinking. Site at 134 articles.
