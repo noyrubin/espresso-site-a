@@ -139,7 +139,7 @@ If you want a blended, milkshake-style "frappé" — that's actually a Frappucci
 The default order in Greece. After topping the glass with cold water, pour 2 tablespoons of evaporated milk down the side. Whole milk also works but evaporated has the traditional café flavor.
 
 ### Decaf Frappé
-Use 2 teaspoons of decaf instant coffee. Foam quality is identical — perfect for an afternoon or evening drink. Surprisingly hard to find in Greek cafés but trivial at home.
+Use 2 teaspoons of decaf instant coffee. Foam quality is identical — perfect for an afternoon or evening drink. Surprisingly hard to find in Greek cafés but trivial at home. (For more on choosing good [decaf coffee](/guides/what-is-decaf-coffee/), including Swiss Water vs CO2 process, see our full decaf guide.)
 
 ### Frappé with Cold Foam
 Replace the milk with 2 tablespoons of [cold foam](/guides/how-to-make-cold-foam/). Pour the cold foam on top of the existing foam for a double-foam frappé — Instagram-friendly and delicious.

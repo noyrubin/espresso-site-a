@@ -264,7 +264,7 @@ Arabica is harder to grow (needs high altitude, narrower temperature range, more
 
 ### Does decaf coffee come from arabica or robusta?
 
-Both. Most premium decaf is arabica (better flavor justifies the decaffeination cost). Cheaper decaf, especially in instant form, may use robusta or a blend. The decaffeination process itself doesn't discriminate by species.
+Both. Most premium decaf is arabica (better flavor justifies the decaffeination cost). Cheaper decaf, especially in instant form, may use robusta or a blend. The decaffeination process itself doesn't discriminate by species. For a deep dive into how coffee is decaffeinated, see our [decaf coffee guide](/guides/what-is-decaf-coffee/).
 
 ### What does robusta taste like compared to arabica?
 

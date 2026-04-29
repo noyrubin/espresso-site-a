@@ -162,7 +162,7 @@ Pregnant women are generally advised to limit caffeine to 200mg/day or less.
 
 Decaffeinated espresso still contains a small amount of caffeine — typically **2–7mg per shot**. Decaffeination removes 97–99.9% of caffeine, not all of it.
 
-If you're sensitive to caffeine or avoiding it for medical reasons, decaf espresso is substantially lower but not caffeine-free.
+If you're sensitive to caffeine or avoiding it for medical reasons, decaf espresso is substantially lower but not caffeine-free. For more on the four decaffeination methods, espresso dial-in tips for decaf beans, and how to pick a quality decaf, see our full guide on [what is decaf coffee](/guides/what-is-decaf-coffee/).
 
 ## Quick Reference: Espresso Caffeine Facts
 

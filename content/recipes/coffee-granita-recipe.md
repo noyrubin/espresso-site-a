@@ -92,7 +92,7 @@ The base recipe as written. Pure espresso with minimal sweetener. The most tradi
 Add 1 teaspoon vanilla extract to the base recipe. Top with a generous dollop of lightly sweetened whipped cream and a dusting of cinnamon.
 
 ### 3. Mocha Granita
-Add 1–2 tablespoons of unsweetened cocoa powder (sifted) to the hot espresso-sugar mixture. Whisk until dissolved before cooling. Intense chocolate-espresso flavor.
+Add 1–2 tablespoons of unsweetened cocoa powder (sifted) to the hot espresso-sugar mixture. Whisk until dissolved before cooling. Intense chocolate-espresso flavor — the same flavor profile as our drinkable [mocha recipe](/recipes/mocha-recipe/), in granita form.
 
 ### 4. Espresso Cardamom Granita
 Add ¼ teaspoon ground cardamom and ½ teaspoon rose water to the hot mixture. A Middle Eastern-inspired variation with floral, spiced notes.

@@ -105,7 +105,7 @@ The flavor of your ice cream lives or dies by espresso strength. Here's how to c
 ## Variations
 
 ### Mocha Ice Cream
-Make either base, then add ¼ cup unsweetened cocoa powder to the dairy/cream before heating (no-churn: add to condensed milk). The cocoa dissolves into the fat, adding chocolate depth that plays off the espresso bitterness. For chunks, fold in ½ cup chocolate chips at the last moment of churning (or before freezing, no-churn).
+Make either base, then add ¼ cup unsweetened cocoa powder to the dairy/cream before heating (no-churn: add to condensed milk). The cocoa dissolves into the fat, adding chocolate depth that plays off the espresso bitterness. For chunks, fold in ½ cup chocolate chips at the last moment of churning (or before freezing, no-churn). Same flavor pairing as our drinkable [mocha recipe](/recipes/mocha-recipe/), in frozen form.
 
 ### Affogato at Home
 Scoop 2 balls of this coffee ice cream into a chilled espresso cup. Pull a fresh ristretto shot and pour it directly over the ice cream at the table. The hot-cold contrast is the whole point — serve immediately. See our [affogato recipe](/recipes/affogato-recipe/) for more variations.

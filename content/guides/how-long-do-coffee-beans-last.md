@@ -162,7 +162,7 @@ Yes. **Dark roast goes stale faster than light roast.**
 
 Dark-roasted beans are more porous and have more surface oils than light-roasted beans. The oily surface oxidizes relatively quickly — you'll notice dark roast beans developing a rancid quality faster than light roast.
 
-If you're buying dark roast, try to use it within 2–3 weeks of opening. Light roast beans have a slight shelf-life edge. For a full comparison of roast levels, see [Light Roast vs Dark Roast](/guides/light-roast-vs-dark-roast/).
+If you're buying dark roast, try to use it within 2–3 weeks of opening. Light roast beans have a slight shelf-life edge. For a full comparison of roast levels, see [Light Roast vs Dark Roast](/guides/light-roast-vs-dark-roast/). [Decaf coffee](/guides/what-is-decaf-coffee/) goes stale even faster than regular coffee — the decaffeination process slightly weakens the bean's cell structure, so use decaf within 2–4 weeks of roast.
 
 ---
 

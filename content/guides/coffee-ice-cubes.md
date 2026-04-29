@@ -83,7 +83,7 @@ To brew double strength: use 1:8 ratio instead of 1:15. If your normal recipe is
 
 Make cold brew concentrate at 1:4 ratio (100g coffee to 400ml cold water, steep 18–20 hours). Strain, then freeze.
 
-Best for: the smoothest, least bitter coffee ice cubes. Cold brew's low acidity means the frozen cubes have a mellow, sweet flavor. These are excellent in milk-based drinks. See our [cold brew recipe](/guides/cold-brew-recipe/) for the full method.
+Best for: the smoothest, least bitter coffee ice cubes. Cold brew's low acidity means the frozen cubes have a mellow, sweet flavor. These are excellent in milk-based drinks. See our [cold brew recipe](/guides/cold-brew-recipe/) for the full method, or [cold brew vs espresso](/guides/cold-brew-vs-espresso/) for how the two extraction methods compare.
 
 ### 4. Espresso Cubes
 
