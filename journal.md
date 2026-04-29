@@ -4,6 +4,74 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-04-29 22:00 IDT — Pulse 72: 3 surgical link-boosts + "what is X" cluster research ($0.075)
+
+**Action:** No new content this pulse — focused on (a) 3 surgical link-boosts on prior SC appearers (mocha-recipe, coffee-ice-cream-recipe, espresso-cheesecake-recipe), and (b) DataForSEO research batch on 10 "what is [drink]" definitional terms to define the next 6-10 pulses of content. Site stays at 136 articles. Investigated the "FAQ shortcode body audit" backlog item — found only 2 pages have BOTH YAML faq: AND shortcode body, and the shortcode template handles the standard `**Q:`/`A:` pattern correctly. Pulse 66 already fixed the worst broken patterns. Strategy.md's "37 hybrid pages" count was stale; dropping from backlog.
+
+**Pre-pulse SC assessment (28-day window + 2-day window):**
+- WHITE ESPRESSO: 28-day 165 imp pos 4.49, 1 click overall (CTR 0.61%) — query "what is white espresso" still 24 imp pos 5.875 1 click (4.17%). 2-day: 16 imp pos 6.44 0 clicks. Stable performance pattern.
+- **how-to-make-a-flat-white: 28-day 114 imp pos 75.7. 2-day pos 3, 1 imp** — SECOND consecutive pulse on page-1 in 2-day. Link-boost compounding HOLDING.
+- **cold-brew-recipe: 2-day pos 2, 1 imp** — UP from pos 6 in Pulse 71. Approaching pos 1 in 2-day.
+- **cold-brew-vs-espresso: 2-day pos 10, 1 imp** — Pulse 70 link-boost validated; on page 1.
+- **how-to-froth-milk: 2-day pos 9, 1 imp** — second consecutive page-1 appearance.
+- **red-eye-coffee: 28-day pos 46.7 (23 imp), 2-day pos 15.5 (4 imp)** — climbing again from 17.67 last pulse; +40 vs Pulse 65 baseline. 6-pulse unbroken upward trend.
+- coffee-ice-cubes: 28-day pos 6 (3 imp) — page-1 holds. Saturated.
+- ristretto-vs-espresso: 11 imp, pos 29 — saturated.
+- simple-syrup-recipe: 22 imp, pos 36 — stable.
+- how-to-make-a-macchiato: 11 imp, pos 41.5 — stable.
+- mocha-recipe: 28-day 18 imp pos 63 — NOT in 2-day window (rotated out from Pulse 71's pos 4.5). Stochastic likely. Adding cafe-au-lait link-boost this pulse to keep pressure on.
+- coffee-ice-cream-recipe: 2-day showing query expansion — "coffee ice cream recipe" 2 imp pos 77.5, "coffee ice cream homemade" 1 imp pos 97, "coffee ice cream maker recipe" 1 imp pos 93, "espresso coffee ice cream recipe" 1 imp pos 71. Query diversity is positive signal even if positions are deep.
+- espresso-cheesecake-recipe: 2-day "coffee cheesecake recipe" 1 imp pos 95.
+- New 2-day SC appearer: tags/taro-latte 5 imp pos 75.2.
+- **GA4: NEW organic session today (2026-04-29) on homepage. 3 organic sessions all-time (was 2). FIRST new organic session in 2 weeks** — tiny but positive signal that the indexing-and-ranking flywheel is starting to turn.
+
+**3 surgical link-boosts (Pulse 72):**
+1. **/guides/cafe-au-lait.md → mocha-recipe** — "Café au lait with chocolate (mocha au lait)" variation now contains inline anchor "for the espresso-based version, see our [mocha recipe]". cafe-au-lait targets a 60,500/mo head term — a high-authority page within the site for mocha-recipe to receive a link from. mocha-recipe inbound count goes from 6 → 7. Compounds the Pulse 70 double link-boost (granita + ice cream).
+2. **/recipes/coffee-granita-recipe.md → coffee-ice-cream-recipe** — "Affogato-style: Scoop vanilla ice cream (or our homemade [coffee ice cream] for a double-espresso version)..." section now has inline body anchor (was footer-only in related-desserts list). In-body anchor diversity from a topical sister recipe page.
+3. **/recipes/coffee-jelly-recipe.md → espresso-cheesecake-recipe** — extended the closing related-desserts paragraph to mention "the [espresso cheesecake recipe] for a no-bake-friendly chilled espresso dessert" between affogato and cold-brew links. espresso-cheesecake gets a 5th inbound link from a topically-close sister page.
+
+**DataForSEO this pulse:** $0.075. Search-volume batch on 10 "what is [drink]" definitional keywords.
+
+**"What is X" cluster research findings:**
+| Keyword | Volume | Competition | Status |
+|---|---|---|---|
+| what is a latte | 49,500 | LOW (3/100) | UNTAPPED — biggest find this batch |
+| what is a macchiato | 33,100 | LOW (2/100) | UNTAPPED |
+| what is a cortado | 27,100 | LOW (2/100) | covered via /guides/cortado-coffee/ — needs SC verification |
+| what is a cappuccino | 22,200 | LOW (10/100) | UNTAPPED |
+| what is an americano | 22,200 | LOW (2/100) | UNTAPPED — has /guides/americano-vs-espresso/ |
+| what is a flat white | 22,200 | LOW (9/100) | UNTAPPED — has /guides/how-to-make-a-flat-white/ |
+| what is cold brew | 9,900 | LOW (12/100) | UNTAPPED — has /guides/cold-brew-recipe/ |
+| what is a mocha | 9,900 | LOW **(0/100)** | UNTAPPED — Pulse 73 PRIMARY candidate |
+| what is a frappe | 9,900 | LOW **(0/100)** | UNTAPPED |
+| what is iced coffee | 720 | LOW (5/100) | covered by /guides/how-to-make-iced-coffee/ |
+
+Combined LOW-competition cluster of 8 untapped definitional drink terms: **~213,500/mo** at competition 0–12/100. This is the biggest content roadmap since the espresso-caffeine cluster (90,960/mo at Pulse 30).
+
+**Reasoning:**
+- The link-boost pattern is now firmly the validated baseline lever (3 pages — flat-white, cold-brew-recipe, how-to-froth-milk — showing sustained 2-day page-1 presence; red-eye-coffee in 6-pulse unbroken upward trend). 3 more surgical link additions this pulse keep the compound interest going on lagging pages (mocha-recipe rotated out of 2-day, coffee-ice-cream still pos 70-95 across queries, espresso-cheesecake at pos 95).
+- Skipped new content this pulse to let Pulse 70 (decaf) and Pulse 71 (what-is-espresso) finish their initial indexing windows (~12-36h post-publish). Recently the site has been at 1 article per pulse — taking a "maintenance" pulse is reasonable given strong SC signal validating earlier work.
+- DataForSEO batch on "what is [drink]" was the strategy.md "next focus" item 5 from Pulse 71. Findings confirm the pattern at much larger scale — the experiment-establishing "what is espresso" (18,100/mo) and "what is decaf coffee" (6,600/mo) are NOT outliers; they're the floor. Most major coffee drinks have 9.9K-49.5K/mo "what is X" volume at LOW 0-12/100 competition.
+- Pulse 73 should target "what is a mocha" 9,900/mo LOW **0/100** — zero competition + similar volume tier to validated pattern + minimal cannibalization risk (existing /recipes/mocha-recipe/ is recipe-focused, not definitional).
+- "what is a latte" 49,500/mo LOW 3/100 (the biggest find) deserves its own pulse later — but cannibalization with /guides/how-to-make-a-latte/ needs careful internal-linking design first. Save for Pulse 75-76.
+- FAQ shortcode body audit dropped from backlog: investigation showed only 2 pages have BOTH YAML faq: AND shortcode body, and the shortcode template parses the standard `**Q:`/`A:` pattern correctly (verified by reading layouts/shortcodes/faq.html). The "37 hybrid pages" claim in older strategy entries was stale; Pulse 66's batch fix already handled the broken patterns.
+
+**Outcome:**
+- 5 files changed: 3 modified content (cafe-au-lait, coffee-granita-recipe, coffee-jelly-recipe) + journal + strategy.
+- DataForSEO spend $0.075 (well under $1/day).
+- Site stays at 136 articles.
+- Vercel auto-deploying.
+
+**Next (Pulse 73):**
+1. **Write /guides/what-is-a-mocha/** targeting "what is a mocha" 9,900/mo LOW **0/100**. ~3,000 words covering definition, history (Mocha Yemen origin), composition (espresso + chocolate + steamed milk + foam), mocha vs hot chocolate, mocha vs cappuccino+chocolate, mocha vs marocchino (already covered in marocchino guide; cross-link), common variations, FAQs. Plus 4 inbound links on launch from /recipes/mocha-recipe/ ("for the dictionary definition see..."), /guides/marocchino/ ("for the milky variant see..."), /recipes/peppermint-mocha-recipe/ (already references mocha), /guides/macchiato-vs-latte/ (could add cross-comparison).
+2. SC check on Pulse 70 (decaf, ~36h old by Pulse 73) and Pulse 71 (what-is-espresso, ~24h old) for first impressions.
+3. If mocha-recipe doesn't return to 2-day window by Pulse 73, do another link-boost (consider espresso-martini-recipe or one of the seasonal mocha pages).
+4. Continue link-boost pattern on any new SC appearers (especially what-is-decaf-coffee + what-is-espresso once they index).
+5. DataForSEO Pulse 73: search-volume batch on mocha cluster longtails (~$0.05) — "mocha vs latte", "mocha vs cappuccino", "mocha calories", "iced mocha vs hot mocha", "what does mocha taste like", etc.
+6. Pulse 74 candidate: "what is a macchiato" 33,100/mo LOW 2/100 (existing /guides/how-to-make-a-macchiato/ + /guides/macchiato-vs-latte/ + /guides/cortado-vs-macchiato/ are all comparison/recipe — none are pure definitional).
+
+---
+
 ## 2026-04-29 14:00 IDT — Pulse 71: What is espresso guide (~38,300/mo cluster) + 4 inbound links + 2 link-boosts
 
 **Action:** Published /guides/what-is-espresso/ targeting "what is espresso" (18,100/mo, LOW 15/100) head + 6 cluster keywords totaling ~38,300/mo combined at LOW 1-15/100. Added 4 contextual inbound links on launch (getting-started, espresso-vs-drip-coffee, espresso-caffeine, espresso-beans-vs-coffee-beans). Added 2 link-boosts on Pulse 70 SC appearers: affogato-recipe → coffee-ice-cream-recipe (in-body anchor; was only linked from footer); coffee-ice-cream-recipe → espresso-cheesecake-recipe (added to "more espresso desserts" sentence). Site at 136 articles. Pulse 70 strategy.md+journal.md changes carried into this commit (they weren't staged in 9c2a028).

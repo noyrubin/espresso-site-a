@@ -173,7 +173,7 @@ For cold brew base recipes, see our [cold brew recipe](/guides/cold-brew-recipe/
 ## Variations
 
 ### Café au lait with chocolate (mocha au lait)
-Add 1 tablespoon of cocoa powder mixed with 1 teaspoon of hot water to make a paste, then combine with the coffee before adding milk. The result is closer to a French *café mocha*.
+Add 1 tablespoon of cocoa powder mixed with 1 teaspoon of hot water to make a paste, then combine with the coffee before adding milk. The result is closer to a French *café mocha* — for the espresso-based version, see our [mocha recipe](/recipes/mocha-recipe/).
 
 ### Café au lait with cinnamon
 Add a generous pinch of cinnamon to the coffee grounds before brewing, or sprinkle on top after pouring. Common in Mexican-influenced versions.

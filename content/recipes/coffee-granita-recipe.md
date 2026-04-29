@@ -122,7 +122,7 @@ For a smoother, less intense version, substitute cold brew concentrate (1 cup co
 
 **Dessert parfait:** Layer granita with mascarpone cream or whipped cream in a tall glass for a tiramisu-inspired parfait. See our [tiramisu recipe](/recipes/tiramisu-recipe/) for the mascarpone technique.
 
-**Affogato-style:** Scoop vanilla ice cream into a glass, then spoon coffee granita over the top — the icy crystals melt and create an espresso sauce.
+**Affogato-style:** Scoop vanilla ice cream (or our homemade [coffee ice cream](/recipes/coffee-ice-cream-recipe/) for a double-espresso version) into a glass, then spoon coffee granita over the top — the icy crystals melt and create an espresso sauce.
 
 **Coffee granita float:** Drop a small scoop into a glass of sparkling water or cream soda for a granita fizz.
 

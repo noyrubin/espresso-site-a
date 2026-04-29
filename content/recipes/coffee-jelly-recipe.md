@@ -153,4 +153,4 @@ A: Boba pearls are made from tapioca starch and have a chewy, slightly elastic t
 
 ---
 
-*Also try our [affogato recipe](/recipes/affogato-recipe/) for another espresso dessert, or the [cold brew guide](/guides/cold-brew-recipe/) if you want a smooth, low-acid coffee base for your jelly.*
+*Also try our [affogato recipe](/recipes/affogato-recipe/) for another espresso dessert, the [espresso cheesecake recipe](/recipes/espresso-cheesecake-recipe/) for a no-bake-friendly chilled espresso dessert, or the [cold brew guide](/guides/cold-brew-recipe/) if you want a smooth, low-acid coffee base for your jelly.*
