@@ -6,7 +6,60 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 27 (Pulse 74) — **138 articles**. Published /guides/what-is-a-macchiato/ targeting "what is a macchiato" 33,100/mo LOW 2/100 + ~92K/mo combined cluster (macchiato vs latte 27,100 LOW 3/100, espresso macchiato 12,100 LOW 0/100, latte macchiato 8,100 LOW 2/100, iced macchiato 5,400 LOW 1/100, macchiato vs cortado 3,600 LOW 1/100, macchiato meaning 2,400 LOW 1/100, what does macchiato mean 1,000 LOW 1/100, macchiato calories 320 LOW 0/100). ~4,676 words. 4 inbound links on launch (how-to-make-a-macchiato, macchiato-vs-latte, cortado-vs-macchiato, caramel-macchiato-recipe). DataForSEO $0.075 this pulse (10-keyword macchiato cluster batch). **2-day SC validation: red-eye-coffee pos 9.5, cold-brew-vs-espresso pos 10, flat-white pos 10, simple-syrup pos 21, white-espresso pos 5.9** — 4 pages on or near 2-day page 1. Site at 138 articles.
+Day 27 (Pulse 75) — **139 articles**. Published /guides/what-is-a-frappe/ targeting "what is a frappe" 9,900/mo LOW **0/100** + ~32K/mo combined cluster (what is a frappuccino 9,900 LOW 2/100, greek frappe 3,600 LOW 5/100, how to make a frappe 2,900 LOW 10/100, is frappe coffee 2,400 LOW 0/100, frappe vs frappuccino 1,300 LOW 0/100, frappe coffee 1,300 LOW 22/100, frappuccino calories 720 LOW 0/100, frappe calories 390 LOW 0/100, french frappe 20 LOW 0/100). ~3,500 words. 4 inbound links on launch (greek-frappe-recipe, frappuccino-recipe, condensed-milk-coffee-recipe, thai-iced-coffee-recipe). Plus 1 link-boost on simple-syrup-recipe (from coffee-soda-recipe — natural ingredient mention upgraded to inline link). DataForSEO $0.075 this pulse (10-keyword frappé cluster batch).
+
+**Pulse 75 SC update (28-day window):**
+- WHITE ESPRESSO: 168 imp pos 4.51, 1 click overall (CTR 0.60%) — "what is white espresso" still 24 imp pos 5.875, 1 click 4.17%. Stable.
+- **red-eye-coffee: 28-day pos 45.2 (24 imp)** — IMPROVED from 46.7 last pulse. 8-pulse unbroken upward trend continues. The 2-day page-1 equity is starting to propagate to the 28-day average. 5.2 positions away from the <40 milestone.
+- how-to-make-a-flat-white: 115 imp pos 75.2 (was 75.7) — slight improvement.
+- how-to-froth-milk: 59 imp pos 54.5 — stable.
+- coffee-ice-cubes: 3 imp pos 6 — page-1 holds.
+- cold-brew-recipe: 2 imp pos 6 — page-1 holds.
+- cold-brew-vs-espresso: 12 imp pos 49.25 — stable.
+- ristretto-vs-espresso: 11 imp pos 29 — stable.
+- simple-syrup-recipe: 23 imp pos 35.4 — improved slightly (was 36).
+- how-to-make-a-macchiato: 11 imp pos 41.5 — stable.
+- mocha-recipe: 18 imp pos 63 — stable.
+- coffee-ice-cream-recipe: 12 imp pos 80.4 — stable.
+- espresso-cheesecake-recipe: 3 imp pos 61.3 — stable.
+- turmeric-latte-recipe: 11 imp pos 68.8 — stable.
+
+**Pulse 75 SC update (2-day window — leading indicators):**
+- **red-eye-coffee: 2-day pos 9.67 (3 imp)** — page-1 holds for THIRD consecutive pulse. Three back-to-back page-1 2-day appearances.
+- **cold-brew-vs-espresso: 2-day pos 10 (1 imp)** — page-1 holds for THIRD consecutive pulse.
+- **how-to-make-a-flat-white: 2-day pos 10 (1 imp)** — page-1 holds for second consecutive pulse since rotation back.
+- coffee-ice-cubes: 2-day pos 6 (1 imp) — page-1 holds. Saturated.
+- white-espresso: 2-day pos 6.5 (10 imp) — strong stable.
+- simple-syrup-recipe: 2-day pos 21 (1 imp) — repeat for THIRD consecutive pulse. Adding link-boost this pulse.
+- tags/espresso-cookies: 2-day pos 5 (1 imp), tags/gibraltar-coffee: 2-day pos 8 (1 imp) — tag pages on page 1 again.
+- 2-day query: "what can white espresso do" 1 imp pos 3 — repeat from last pulse.
+- what-is-a-macchiato (Pulse 74, ~24h post-publish): URL inspect = "URL is unknown to Google" — still in initial indexing window. Normal at this age.
+- GA4 organic: 4 organic sessions all-time, latest 2026-04-29. Held flat.
+
+**Pulse 75 wins:**
+1. **What is a frappe** (9,900/mo head, LOW **0/100**; ~32K/mo cluster) — Published as /guides/what-is-a-frappe/. The unique angle: "frappé" describes THREE DIFFERENT DRINKS (Greek frappé 1957 instant-coffee shake; Starbucks Frappuccino 1992 Boston-invented blender drink acquired by Starbucks 1994; older French café frappé 19th-century broad iced-coffee category). Same 3-drinks-share-the-name pattern that worked for what-is-a-macchiato (also 3 drinks). ~3,500 words covering: definitional opening + 3-row origin/method/texture comparison table; etymology (frapper = to strike in French, frappé = past participle "iced/struck", late-19th-c. café usage); brief history of all three; detailed sections on each (Greek with Vakondios 1957 invention story, Frappuccino with Howell/Coffee Connection 1992 + Starbucks 1994 acquisition, French as broader category); frappé vs frappuccino comparison table (the most-asked question); 9-row "frappé vs other iced coffees" comparison table linked to existing pages (iced coffee, cold brew, iced latte, freddo espresso, freddo cappuccino, Vietnamese iced coffee, Thai iced coffee, café con leche cubano); caffeine/calories/sugar 12-row breakdown across all three frappé families; 15+ variations across the 3 frappé types; 6 misconceptions ("frappé means blended", "Starbucks invented the Frappuccino", "all frappés have a lot of sugar", "Greek frappés are made with espresso", "frappé = milkshake", "frappé is just iced coffee with foam"); how-to-order section for Greek café, Starbucks, French/Quebecois café; 12 FAQs in YAML faq: front matter + visible ### markdown headings (matches established hybrid pattern).
+2. **4 inbound links on launch:** /recipes/greek-frappe-recipe/ (line 34, intro paragraph extended with "(For the broader definitional context...)"); /recipes/frappuccino-recipe/ (line 15, intro paragraph extended with Howell/Coffee Connection 1992 invention story link); /recipes/condensed-milk-coffee-recipe/ (line 195, footer paragraph extended with frappé family link); /recipes/thai-iced-coffee-recipe/ (line 175, comparison table footer note added). Every anchor uses pre-existing topic match — natural integration.
+3. **1 link-boost on simple-syrup-recipe (Pulse 75 SC appearer at pos 21 in 2-day for 3 consecutive pulses):** /recipes/coffee-soda-recipe/ now links the existing "simple syrup (optional)" ingredient line to /guides/simple-syrup-recipe/, with a parenthetical mentioning vanilla/hazelnut/cinnamon flavored variations. Coffee-soda is the strongest topical sister recipe (cold sweetened drink, multiple unlinked simple syrup mentions in body); the inline-anchor approach matches successful link-boost pattern.
+
+**Critical insight from this pulse:** Two compound signals validate the strategy:
+1. **red-eye-coffee 28-day position dropped 46.7 → 45.2 in one pulse cycle.** The 2-day page-1 equity IS now propagating into the 28-day rolling average. The original Pulse 65 baseline was pos 55.8; at pos 45.2 the page is now +10.6 net positions ahead, with the trajectory continuing. The <40 milestone (still ~5.2 positions away) should hit by Pulse 78-80.
+2. **simple-syrup-recipe 2-day pos 21 for THREE consecutive pulses.** This pattern matched red-eye-coffee's pre-page-1 phase (Pulses 67-72 showed similar consistent 2-day positions in the 15-25 range before breaking through). Adding 1 link-boost this pulse follows the exact same playbook that produced red-eye's breakthrough.
+
+The frappé decision: with /recipes/greek-frappe-recipe/ at 28-day pos 41 historically and /recipes/frappuccino-recipe/ also indexed but recipe-focused, the new /guides/what-is-a-frappe/ has TWO advantages: (1) it covers the Greek vs French vs Frappuccino distinction explicitly, which neither existing page does, and (2) it adds 4 cross-links to/from related pages, which should boost ALL of them via internal-link equity rather than competing.
+
+**DataForSEO this pulse:** $0.075 (10 frappé-cluster keywords). Cumulative spend remains well under daily budget.
+
+**Next focus (Pulse 76):**
+1. SC check — by Pulse 76 (~24h post-publish), what-is-a-frappe should be 0-1 day old. Pulse 74 what-is-a-macchiato will be ~24h old; Pulse 73 what-is-a-mocha will be ~48h old; Pulse 71 what-is-espresso will be ~5 days old; Pulse 70 decaf-coffee will be ~6 days old. Watch for first impressions on those Pulse 70/71/73 articles in 2-day window — Pulse 70 decaf-coffee is now overdue.
+2. **Pulse 76 candidate: write /guides/what-is-an-americano/ targeting "what is an americano" 22,200/mo LOW 2/100.** Larger volume than what-is-a-frappe; existing /guides/americano-vs-espresso/ + /guides/lungo-vs-americano/ + /guides/long-black-coffee/ + /guides/americano-vs-long-black/ are all comparison-focused — none is purely definitional. Cross-linking from those existing pages to a new definitional page should boost all.
+3. Alternative Pulse 76: /guides/what-is-a-cappuccino/ 22,200/mo LOW 10/100 — same volume but slightly higher comp; existing /guides/how-to-make-cappuccino/ + /guides/wet-vs-dry-cappuccino/ + /guides/cappuccino-vs-latte/ + /recipes/iced-cappuccino-recipe/ create more cannibalization risk.
+4. DataForSEO Pulse 76: ~$0.05 batch on americano cluster longtails — "americano definition", "what is in an americano", "americano vs coffee", "americano caffeine", "is americano just espresso and water".
+5. **Critical milestone watch: red-eye-coffee 28-day position.** Currently 45.2. If it drops below 40 by Pulse 77-78, that's the definitive validation of compound link-boost equity. Note the metric every pulse.
+6. **Critical milestone watch: simple-syrup-recipe 2-day position post-link-boost.** Currently pos 21. The Pulse 75 link-boost (from coffee-soda-recipe) parallels the pattern that pushed red-eye-coffee from pos 21+ range to page 1. Expect to see movement within 2-3 pulses if the pattern holds.
+7. Watch what-is-a-macchiato 2-day SC for first appearance ~48-72h post-publish (Pulse 76-77 timing). The 33,100/mo head is the largest "what is X" target hit in the experiment.
+8. If decaf-coffee (Pulse 70, ~6 days old by Pulse 76) is still zero impressions, run an inspect API check; that's longer than typical for indexed Hugo pages with 4 inbound links on launch.
+
+**Pulse 74 wins (PRIOR):**
 
 **Pulse 74 wins:**
 1. **What is a macchiato** (33,100/mo head, LOW 2/100; ~92K/mo cluster) — Published as /guides/what-is-a-macchiato/. The unique angle: "macchiato" describes THREE DIFFERENT DRINKS (espresso macchiato, latte macchiato, caramel macchiato) and most searchers don't know the distinction. ~4,676 words covering: definitional opening + 3-row size/espresso/milk/sweetness comparison table, etymology (macchiare = to stain in Italian — the Italian verb root), why three drinks share the name, full history (espresso macchiato early 20th c. Italy → latte macchiato Italy/Austria → Starbucks caramel macchiato March 1996), detailed sections on each of the three macchiatos (ingredients, ratio, cup size, taste, how to order), 8-row "macchiato vs other espresso drinks" comparison table (espresso, espresso macchiato, cortado, cappuccino, flat white, caffè latte, latte macchiato, caramel macchiato — each linking out to existing comparison pages), caffeine/calories/sugar table across the three macchiatos (Tall/Grande/Venti caramel sizes), 5 variations (iced, corto/lungo, caffè latte macchiato, seasonal Starbucks, white macchiato, decaf), 6 common misconceptions ("macchiato means caramel", "all macchiatos are sweet", "small caramel coffee drink", "espresso macchiato vs macchiato are different drinks", "kids' drink", "just a flavored latte"), 12 FAQs in YAML faq: front matter + visible ### markdown headings (matches established hybrid pattern).
@@ -75,11 +128,11 @@ The macchiato decision: with /guides/how-to-make-a-macchiato/ at 28-day pos 41.5
 
 | Pulse | Article | Volume | Comp | Status |
 |---|---|---|---|---|
-| 70 | /guides/what-is-decaf-coffee/ | 6,600 | LOW 4/100 | Published. 5 days post-publish. |
-| 71 | /guides/what-is-espresso/ | 18,100 | LOW 15/100 | Published. 4 days post-publish. |
-| 73 | /guides/what-is-a-mocha/ | 9,900 | LOW 0/100 | Published. ~24h post-publish. |
-| **74** | **/guides/what-is-a-macchiato/** | **33,100** | **LOW 2/100** | **Published this pulse. ~92K/mo cluster.** |
-| 75 (planned) | /guides/what-is-a-frappe/ | 9,900 | LOW 0/100 | Planned. |
+| 70 | /guides/what-is-decaf-coffee/ | 6,600 | LOW 4/100 | Published. 6 days post-publish. |
+| 71 | /guides/what-is-espresso/ | 18,100 | LOW 15/100 | Published. 5 days post-publish. |
+| 73 | /guides/what-is-a-mocha/ | 9,900 | LOW 0/100 | Published. ~48h post-publish. |
+| 74 | /guides/what-is-a-macchiato/ | 33,100 | LOW 2/100 | Published. ~24h post-publish. ~92K/mo cluster. |
+| **75** | **/guides/what-is-a-frappe/** | **9,900** | **LOW 0/100** | **Published this pulse. ~32K/mo cluster.** |
 | 76 (planned) | /guides/what-is-an-americano/ | 22,200 | LOW 2/100 | Planned. |
 | 77+ (planned) | /guides/what-is-a-cappuccino/ | 22,200 | LOW 10/100 | Planned. |
 | 78+ (planned) | /guides/what-is-a-flat-white/ | 22,200 | LOW 9/100 | Planned. |

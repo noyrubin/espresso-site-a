@@ -4,6 +4,92 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-04-30 22:00 IDT — Pulse 75: What is a frappe guide (9,900/mo head LOW 0/100, ~32K/mo cluster) + 4 inbound links + simple-syrup link-boost
+
+**Action:** Published /guides/what-is-a-frappe/ targeting "what is a frappe" 9,900/mo LOW **0/100** + 9 cluster keywords totaling ~32,430/mo at LOW 0-22/100. Article ~3,500 words covering the unique definitional angle: "frappé" describes THREE COMPLETELY DIFFERENT DRINKS — Greek frappé (1957 instant-coffee shake invented by Vakondios in Thessaloniki), Starbucks Frappuccino (1992 invented by George Howell at The Coffee Connection in Boston, acquired by Starbucks 1994, launched nationally 1995), and the older French café frappé (broad 19th-century iced-coffee category). Same 3-drinks-share-the-name pattern that worked for what-is-a-macchiato (also 3 drinks, ~92K/mo cluster). Most "what is a frappe" searchers don't know this distinction; the page captures the entire cluster by being explicitly definitional and educational on all three. Site at 139 articles. Plus 4 inbound links on launch + 1 link-boost on simple-syrup-recipe. DataForSEO $0.075 (10-keyword frappé cluster batch).
+
+**Pre-pulse SC assessment (28-day window + 2-day window — leading indicators):**
+- WHITE ESPRESSO: 28-day 168 imp pos 4.51, 1 click overall (CTR 0.60%) — query "what is white espresso" 24 imp pos 5.875 1 click (4.17%). 2-day: query "what can white espresso do" 1 imp pos 3, 10 imp pos 6.5 page-level. Stable.
+- **red-eye-coffee: 28-day pos 45.2 (24 imp), 2-day pos 9.67 (3 imp)** — page-1 holds for THIRD consecutive pulse in 2-day. **28-day position dropped from 46.7 to 45.2 in one pulse cycle** — first hard evidence that 2-day page-1 equity IS propagating to the 28-day rolling average. 8-pulse unbroken upward trend (Pulse 65 baseline 55.8 → 45.2 today = +10.6 net positions). Currently 5.2 positions away from the <40 milestone.
+- **cold-brew-vs-espresso: 2-day pos 10 (1 imp)** — page-1 holds for THIRD consecutive pulse.
+- **how-to-make-a-flat-white: 2-day pos 10 (1 imp)** — page-1 holds for second consecutive pulse since rotation back; 28-day improved 75.7 → 75.2.
+- coffee-ice-cubes: 2-day pos 6 (1 imp) — page-1 holds. Saturated.
+- **simple-syrup-recipe: 2-day pos 21 (1 imp)** — repeat for THIRD consecutive pulse. Same pattern that preceded red-eye's breakthrough; adding link-boost this pulse.
+- white-espresso: 2-day pos 6.5 (10 imp) — strong stable.
+- tags/espresso-cookies: 2-day pos 5 (1 imp), tags/gibraltar-coffee: 2-day pos 8 (1 imp) — tag pages on page 1 again.
+- 28-day SC mostly stable from last pulse with red-eye improvement noted.
+- what-is-a-macchiato (Pulse 74, ~24h post-publish): URL inspect = "URL is unknown to Google" — still in initial indexing window. Normal at this age.
+- GA4 organic: 4 organic sessions all-time, latest 2026-04-29. Held flat.
+
+**Frappé cluster research (DataForSEO this pulse, $0.075):**
+| Keyword | Volume | Competition | Decision |
+|---|---|---|---|
+| what is a frappe | 9,900 | LOW **(0/100)** | TARGET — head definitional |
+| what is a frappuccino | 9,900 | LOW (2/100) | TARGET as cluster — section-level on new guide (Howell/Coffee Connection 1992 history) |
+| greek frappe | 3,600 | LOW (5/100) | covered via /recipes/greek-frappe-recipe/ — section-level capture in new guide |
+| how to make a frappe | 2,900 | LOW (10/100) | minor cluster — covered via cross-links to existing recipe pages |
+| is frappe coffee | 2,400 | LOW **(0/100)** | TARGET as cluster — explicit FAQ + section addresses this |
+| frappe vs frappuccino | 1,300 | LOW **(0/100)** | TARGET as cluster — dedicated comparison section |
+| frappe coffee | 1,300 | LOW (22/100) | minor cluster — covered as broader category |
+| frappuccino calories | 720 | LOW (0/100) | minor cluster — calorie/sugar 12-row table captures |
+| frappe calories | 390 | LOW (0/100) | minor cluster — calorie table captures |
+| french frappe | 20 | LOW (0/100) | minor cluster — French café frappé section captures |
+
+Combined LOW-competition cluster: **~32,430/mo at competition 0-22/100.** Smaller than the macchiato cluster (~92K/mo) but higher percentage at zero competition (4 of 10 keywords at 0/100).
+
+**Article structure (what-is-a-frappe, ~3,500 words):**
+1. Quick answer + 3-row origin/method/texture comparison table — single-paragraph definitional opening.
+2. What "frappé" actually means — etymology (frapper = to strike in French, frappé = past participle "iced/struck"), late-19th-c. café usage, divergence between French (broad), Greek (narrow to 1957 invention), American (Starbucks Frappuccino), accent vs no-accent distinction.
+3. Brief history of all three frappés — French café frappé (19th c.), Greek frappé (1957 Vakondios at Thessaloniki Trade Fair), Starbucks Frappuccino (1992 Howell/Coffee Connection → 1994 Starbucks acquisition → 1995 national launch).
+4. The three frappés in detail — Greek (table: coffee/liquid/sweetener/milk/method/cup/texture/caffeine/calories), Starbucks Frappuccino (similar table), French café frappé (similar table). Each section explains the defining feature.
+5. **Frappé vs Frappuccino comparison** — dedicated 11-row side-by-side table covering coffee type, method, texture, ice, milk, sweetness, color, calories, origin, cultural context. The most-asked question.
+6. Frappé vs other iced coffees — 9-row comparison table (Greek frappé, Frappuccino, iced coffee, cold brew, iced latte, freddo espresso, freddo cappuccino, Vietnamese iced coffee, Thai iced coffee, café con leche cubano), each with cross-links to existing pages.
+7. Caffeine/calories/sugar — 12-row breakdown across all three frappé families (sketos/metrios/glykos Greek; Coffee/Caramel/Mocha/Espresso/Vanilla Bean Crème Frappuccino; McDonald's; French).
+8. Common variations — 5 Greek, 7 Frappuccino, 3 French.
+9. 6 misconceptions — "frappé means blended", "Starbucks invented the Frappuccino", "all frappés have a lot of sugar", "Greek frappés are made with espresso", "frappé = milkshake", "frappé is just iced coffee with foam".
+10. How to order at each (Greek café, Starbucks, French/Quebecois café) — practical actionable section.
+11. Bottom line + 4 cross-links to other "what is X" guides (espresso, mocha, macchiato, decaf).
+12. 12 FAQs in YAML faq: front matter + visible ### markdown headings (hybrid for both JSON-LD + visible HTML).
+
+**4 inbound links on launch:**
+1. **/recipes/greek-frappe-recipe/** (line 34) — added cross-link from the recipe-focused guide to the new definitional guide. Anchor: "(For the broader definitional context — the etymology of 'frappé,' how the Greek frappé compares to a Starbucks Frappuccino and the older French café frappé, and why all three drinks share the name despite being completely different — see our [what is a frappé guide].)" Recipe → guide is good site-architecture pattern.
+2. **/recipes/frappuccino-recipe/** (line 15) — extended the existing intro paragraph with a parenthetical pointing to the definitional guide's history of the 1992 invention by The Coffee Connection in Boston. Anchor: "(For the bigger picture — what a 'frappé' actually is, how the Frappuccino was invented in 1992 by The Coffee Connection in Boston, why Starbucks owns the trademark, and how the blended Frappuccino differs from the shaken Greek frappé — see our [what is a frappé guide].)"
+3. **/recipes/condensed-milk-coffee-recipe/** (line 195) — extended the existing footer paragraph that already mentioned Greek frappé to add: "(For the full definitional context of the frappé family — Greek, French, and the Starbucks Frappuccino — see our [what is a frappé guide].)"
+4. **/recipes/thai-iced-coffee-recipe/** (line 175) — added a footer note immediately after the comparison table that already includes Greek frappé as a row: "*For the full breakdown of the frappé family — the Greek frappé, the older French café frappé, and the Starbucks Frappuccino — see our [what is a frappé guide].*"
+
+**1 link-boost on simple-syrup-recipe (Pulse 75 SC appearer at 2-day pos 21 for 3 consecutive pulses):**
+- **/recipes/coffee-soda-recipe/** — the existing "1–2 teaspoons simple syrup (optional)" ingredient line in the cold brew soda recipe (line 41) is now upgraded to: "1–2 teaspoons simple syrup (optional — see our [simple syrup recipe] for the standard 1:1 sugar-water method plus flavored variations like vanilla, hazelnut, and cinnamon that work especially well in coffee sodas)". Coffee-soda-recipe.md had multiple unlinked simple syrup mentions in the body (the strongest topical sister recipe — both are cold sweetened drinks); this is the highest-relevance contextual anchor available. Same pattern that pushed red-eye-coffee to page-1 in the 2-day window.
+
+**Reasoning:**
+- Strategy.md Pulse 74 → Pulse 75 plan was to write what-is-a-frappe 9,900/mo LOW 0/100. Validation: DataForSEO confirmed the head + ~32,430/mo combined cluster with 4 of 10 keywords at zero competition. Frappé cluster has the highest percentage of zero-competition keywords of any "what is X" cluster researched.
+- The "three drinks share the same name" angle is unique and SEO-valuable. Most "what is a frappe" SERPs surface either the Greek frappé OR the Starbucks Frappuccino but rarely both with the etymology connecting them. A page that captures all three (Greek, French, Frappuccino) with the definitional history should rank well.
+- Cannibalization mitigation: existing /recipes/greek-frappe-recipe/ is recipe-focused; /recipes/frappuccino-recipe/ is recipe-focused; neither is purely definitional or addresses the "frappé vs frappuccino" comparison head-on. The new what-is-a-frappe is purely definitional and explicitly handles the cluster's most-asked question. Cross-linking from existing recipe pages should boost ALL of them via internal-link equity rather than competing.
+- 4 inbound links pattern repeats Pulse 71-74 approach. Each anchor uses pre-existing topical match (intro paragraphs, footer related-drinks notes, or comparison tables that already mention Greek frappé).
+- DataForSEO $0.075 batch on frappé cluster confirmed all section-level keywords; no surprises.
+- Simple-syrup-recipe link-boost decision: the page has been at 2-day pos 21 for THREE consecutive pulses (Pulses 73, 74, 75). This is the same pattern that preceded red-eye-coffee's breakthrough (consistent 2-day positions in the 15-25 range over multiple pulses, then rapid promotion to page-1 after 1-2 link-boosts). Coffee-soda-recipe was the strongest topical match (cold sweetened drink, multiple unlinked simple syrup mentions); the inline-anchor approach matches the successful pattern.
+- Hugo not pre-installed on this machine; downloaded hugo_extended v0.146.1 (matches Vercel build version) to /c/hugo/ for local build verification per CLAUDE.md mandate.
+
+**Outcome:**
+- 63 files changed: 1 new article (what-is-a-frappe.md, ~3,500 words / 95,110 bytes generated HTML) + 5 modified content files (greek-frappe-recipe, frappuccino-recipe, condensed-milk-coffee-recipe, thai-iced-coffee-recipe for inbound links + coffee-soda-recipe for simple-syrup link-boost) + Hugo public/ regeneration (categories, tags, sitemap, paginated lists, new tag pages for "frappe", "what-is-a-frappe", "blended-coffee", "frappuccino", "frozen-coffee", "starbucks-copycat").
+- Hugo build succeeded (815 pages, 0 errors, +5 pages from prior build of 810). Build time 109s.
+- Site now at 139 articles total (up from 138).
+- Commit ee07e6d pushed to main.
+- DataForSEO spend $0.075 this pulse (well under $1/day budget).
+- Vercel auto-deploying.
+
+**Next (Pulse 76):**
+1. SC check — by Pulse 76 (~24h post-publish), what-is-a-frappe should be 0-1 day old. Pulse 74 what-is-a-macchiato will be ~24h old (currently still "URL is unknown to Google"); Pulse 73 what-is-a-mocha will be ~48h old; Pulse 71 what-is-espresso will be ~5 days old; Pulse 70 decaf-coffee will be ~6 days old. Watch for first impressions on the older Pulse 70/71/73 articles in 2-day window — Pulse 70 decaf-coffee at 6 days is now overdue.
+2. **Pulse 76 candidate: write /guides/what-is-an-americano/ targeting "what is an americano" 22,200/mo LOW 2/100.** Larger volume than what-is-a-frappe; existing /guides/americano-vs-espresso/, /guides/lungo-vs-americano/, /guides/long-black-coffee/, /guides/americano-vs-long-black/ are all comparison-focused — none is purely definitional. Cross-linking from those existing pages to a new definitional page should boost all (4 high-quality inbound links on launch immediately).
+3. Alternative Pulse 76: /guides/what-is-a-cappuccino/ 22,200/mo LOW 10/100 — same volume but slightly higher comp.
+4. DataForSEO Pulse 76: ~$0.05 batch on americano cluster longtails — "americano definition", "what is in an americano", "americano vs coffee", "americano caffeine", "is americano just espresso and water".
+5. **Critical milestones to watch:**
+   - red-eye-coffee 28-day position. Currently 45.2. <40 by Pulse 77-78 = definitive validation of compound link-boost equity.
+   - simple-syrup-recipe 2-day position post-link-boost. Currently pos 21. Expect movement within 2-3 pulses if the red-eye pattern holds.
+6. Watch what-is-a-macchiato 2-day SC for first appearance ~48-72h post-publish (Pulse 76-77 timing). The 33,100/mo head is the largest "what is X" target hit so far.
+7. If decaf-coffee (Pulse 70, ~6 days old by Pulse 76) is still zero impressions, run an inspect API check to verify indexing status; that's longer than typical for a Hugo page with 4 inbound links on launch.
+
+---
+
 ## 2026-04-30 14:00 IDT — Pulse 74: What is a macchiato guide (33,100/mo head, ~92K/mo cluster, LOW 0–3/100) + 4 inbound links
 
 **Action:** Published /guides/what-is-a-macchiato/ targeting "what is a macchiato" (33,100/mo, LOW 2/100) head + 8 cluster keywords totaling ~92K/mo combined at LOW 0-3/100 competition. Article ~4,676 words covering the unique definitional angle: "macchiato" describes THREE DIFFERENT DRINKS — espresso macchiato (Italian original), latte macchiato (Italian/Austrian variation), and caramel macchiato (Starbucks 1996 invention). Most "what is a macchiato" searchers do not know this distinction; the page captures the entire cluster by being explicitly definitional and educational on the difference. Site at 138 articles. Plus 4 inbound links on launch. DataForSEO $0.075 (10-keyword macchiato cluster batch).
