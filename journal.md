@@ -4,6 +4,85 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-04-30 14:00 IDT — Pulse 74: What is a macchiato guide (33,100/mo head, ~92K/mo cluster, LOW 0–3/100) + 4 inbound links
+
+**Action:** Published /guides/what-is-a-macchiato/ targeting "what is a macchiato" (33,100/mo, LOW 2/100) head + 8 cluster keywords totaling ~92K/mo combined at LOW 0-3/100 competition. Article ~4,676 words covering the unique definitional angle: "macchiato" describes THREE DIFFERENT DRINKS — espresso macchiato (Italian original), latte macchiato (Italian/Austrian variation), and caramel macchiato (Starbucks 1996 invention). Most "what is a macchiato" searchers do not know this distinction; the page captures the entire cluster by being explicitly definitional and educational on the difference. Site at 138 articles. Plus 4 inbound links on launch. DataForSEO $0.075 (10-keyword macchiato cluster batch).
+
+**Pre-pulse SC assessment (28-day window + 2-day window — leading indicators):**
+- WHITE ESPRESSO: 28-day 167 imp pos 4.46, 1 click overall (CTR 0.60%) — query "what is white espresso" 24 imp pos 5.875 1 click (4.17%). 2-day: query "what can white espresso do" 1 imp pos 3 (NEW query!), 9 imp pos 5.89 page-level. Stable.
+- **red-eye-coffee: 2-day pos 9.5 (2 imp)** — page-1 holds for 2nd consecutive pulse. 7-pulse unbroken upward trend now producing back-to-back 2-day page-1 appearances.
+- **cold-brew-vs-espresso: 2-day pos 10 (1 imp)** — page-1 holds.
+- **how-to-make-a-flat-white: 2-day pos 10 (1 imp)** — page-1 RETURNS. Last pulse it had rotated out; this pulse it's back. Pulse 67-72 link-boost equity propagating.
+- coffee-ice-cubes: 2-day pos 6 (1 imp) — page-1 holds. Saturated.
+- simple-syrup-recipe: 2-day pos 21 (1 imp) — repeat from last pulse. Still climbing toward page-1.
+- tags/espresso-cookies: 2-day pos 5 (1 imp) — new appearance.
+- tags/gibraltar-coffee: 2-day pos 8 (1 imp) — new appearance.
+- 28-day SC fully stable from last pulse. No 28-day breakthrough yet — but FOUR pages on or near 2-day page 1 (red-eye, cold-brew-vs-espresso, flat-white, white-espresso). The strongest 2-day signal of the experiment.
+- "are mochas hot" mocha query NOT in 28-day this pulse (1-imp queries are stochastic).
+- GA4 organic: **2 sessions on 2026-04-29 (was 1 last pulse). 4 organic sessions all-time** (was 3 last pulse). New organic session today.
+
+**Macchiato cluster research (DataForSEO this pulse, $0.075):**
+| Keyword | Volume | Competition | Decision |
+|---|---|---|---|
+| caramel macchiato | 74,000 | LOW (15/100) | covered via /recipes/caramel-macchiato-recipe/ — verify SC capture; future Pulse 78+ candidate for definitional rewrite if needed |
+| what is a macchiato | 33,100 | LOW (2/100) | TARGET — head definitional |
+| macchiato vs latte | 27,100 | LOW (3/100) | covered via existing /guides/macchiato-vs-latte/; section-level capture in new guide |
+| espresso macchiato | 12,100 | LOW **(0/100)** | TARGET as cluster — section-level on new guide |
+| latte macchiato | 8,100 | LOW (2/100) | TARGET as cluster — section-level on new guide |
+| iced macchiato | 5,400 | LOW (1/100) | minor cluster — covered as variation section |
+| macchiato vs cortado | 3,600 | LOW (1/100) | covered via /guides/cortado-vs-macchiato/; cross-link only |
+| macchiato meaning | 2,400 | LOW (1/100) | TARGET as cluster — etymology section captures it |
+| what does macchiato mean | 1,000 | LOW (1/100) | TARGET as cluster — etymology section |
+| macchiato calories | 320 | LOW (0/100) | minor cluster — calorie table captures |
+
+Combined LOW-competition cluster (8 untapped + 1 captured-by-recipe-page caramel longtails): **~92K/mo at competition 0-15/100.** This is the second-biggest cluster I've published, behind only the Pulse 30 espresso-caffeine cluster. Caramel macchiato 74K/mo is a separate beast — it's already covered by a recipe page; the new guide cross-links to it for the brand-specific build.
+
+**Article structure (what-is-a-macchiato, ~4,676 words):**
+1. Quick answer + 3-row size/espresso/milk/sweetness/origin comparison table — single-paragraph definitional opening.
+2. What "macchiato" means — etymology (macchiare = to stain in Italian, past participle of macchiare), why "stained" makes sense for the visual effect, the simple memorization device (caffè latte = milky coffee, caffè macchiato = stained coffee).
+3. Brief history — espresso macchiato Italy early 20th c. (codified post-WWII), latte macchiato Italy/Austria mid-late 20th c. (originally a "kids' drink" in some markets), caramel macchiato Starbucks March 1996 (25th anniversary launch, became permanent menu item within a year).
+4. Three macchiatos in detail — separate sections for espresso macchiato (ingredients, ratio, cup, taste, how to order), latte macchiato (5-7 oz milk + foam + 1 shot poured through, layered presentation, mild taste), caramel macchiato (vanilla syrup → milk → espresso poured on top → caramel drizzle, sweet, large).
+5. "Why are they all called macchiato?" — explains the shared visual concept (one ingredient marks another) despite radically different ratios/sizes/flavors.
+6. Macchiato vs other espresso drinks — 8-row comparison table (espresso, espresso macchiato, cortado, cappuccino, flat white, caffè latte, latte macchiato, caramel macchiato), each with cross-links to existing comparison guides.
+7. Caffeine, calories, sugar across the three macchiatos — 6-row breakdown table covering single/double espresso macchiato, latte macchiato, Tall/Grande/Venti caramel macchiato.
+8. 5 variations — iced macchiato, macchiato corto vs lungo, caffè latte macchiato, seasonal Starbucks variations (cinnamon dolce, apple crisp, etc.), white macchiato, decaf.
+9. 6 misconceptions — "macchiato means caramel", "all macchiatos are sweet", "small caramel coffee drink", "espresso macchiato vs macchiato are different drinks", "kids' drink", "just a flavored latte".
+10. 12 FAQ in YAML faq: front matter + visible ### markdown headings (hybrid for both JSON-LD + visible HTML).
+11. "Bottom line" closer with cross-links to how-to-make-a-macchiato + caramel-macchiato-recipe.
+
+**4 inbound links on launch:**
+1. **/guides/how-to-make-a-macchiato/** (line 32) — added cross-link from the recipe-focused guide to the new definitional guide. Anchor: "For the broader definitional context — the etymology of 'macchiato,' the three drinks that share the name (including the Starbucks caramel macchiato), and how the macchiato fits into the wider espresso drink family — see our [what is a macchiato guide]." Recipe → guide is good site-architecture pattern.
+2. **/guides/macchiato-vs-latte/** (line 31) — extended the existing "What Is a Macchiato?" section's etymology paragraph with a parenthetical: "(For the full definitional history of the macchiato — etymology, the three drinks that share the name, and how Starbucks reinvented the word in 1996 — see our [what is a macchiato guide].)" Comparison guide → definitional guide.
+3. **/guides/cortado-vs-macchiato/** (line 37) — extended the existing "key insight" line acknowledging the 2 traditional macchiatos to mention the Starbucks third one and link out: "(And in American chains, a third — the Starbucks caramel macchiato — has further muddied the term. For the full definitional breakdown of all three, see our [what is a macchiato guide].)"
+4. **/recipes/caramel-macchiato-recipe/** (line 21) — extended the existing "macchiato means 'marked' in Italian" line with a parenthetical pointing to the dedicated definitional guide for the espresso/latte/caramel breakdown.
+
+**Reasoning:**
+- Strategy.md Pulse 73 → Pulse 74 plan was to write what-is-a-macchiato 33,100/mo LOW 2/100. Validation: DataForSEO confirmed the head + ~92K/mo combined cluster. The cluster is the second-biggest covered in the experiment behind only espresso-caffeine.
+- Cannibalization mitigation: existing /guides/how-to-make-a-macchiato/ is recipe-focused but its "What Is a Macchiato?" framing was actually doing both jobs (definition + recipe). The new what-is-a-macchiato is purely definitional and explicitly distinguishes the three drinks (espresso macchiato, latte macchiato, caramel macchiato) — a framing that the existing pages don't have. Cross-linking from existing comparison/recipe pages to the new guide should boost ALL of them via internal-link equity rather than competing.
+- The "three drinks share the same name" angle is unique and SEO-valuable. Most "what is a macchiato" SERPs surface either the espresso macchiato OR the caramel macchiato but rarely both, much less all three with the etymology to explain why. A page that captures all three with the definitional history should rank well.
+- 4 inbound links pattern repeats Pulse 71-73 approach. Each anchor uses pre-existing topical match (etymology paragraph in macchiato-vs-latte; "two drinks called macchiato" insight in cortado-vs-macchiato; "macchiato means marked" line in caramel-macchiato-recipe).
+- DataForSEO $0.075 batch on macchiato cluster confirmed all section-level keywords; no surprises. Caramel macchiato 74K/mo LOW 15/100 is technically uncaptured-as-definitional, but the existing /recipes/caramel-macchiato-recipe/ already targets the recipe intent and the new guide explicitly cross-links — capture should be at-or-near-100% of the LOW segment without a separate dedicated page.
+- Skipped link-boost pass this pulse — 4 surgical inbound links to the new guide already moved 4 existing pages in the macchiato cluster (every macchiato page now points to what-is-a-macchiato), which is the opposite-direction equivalent. Plus 4 pages on 2-day page-1 means there's no urgent intervention needed for any specific page.
+
+**Outcome:**
+- 54 files changed: 1 new article (what-is-a-macchiato.md, ~4,676 words) + 4 modified content files (how-to-make-a-macchiato, macchiato-vs-latte, cortado-vs-macchiato, caramel-macchiato-recipe) for inbound links + Hugo public/ regeneration (categories, tags, sitemap, paginated lists).
+- Hugo build succeeded (810 pages, 0 errors). public/guides/what-is-a-macchiato/index.html generated at 75,224 bytes.
+- Site now at 138 articles total.
+- Commit ef0220e pushed.
+- DataForSEO spend $0.075 this pulse (well under $1/day budget).
+- Vercel auto-deploying.
+
+**Next (Pulse 75):**
+1. SC check — by Pulse 75 (~24h post-publish), what-is-a-macchiato should be 0-1 day old. Pulse 73 what-is-a-mocha will be ~24h old; Pulse 71 what-is-espresso will be ~3.5 days old; Pulse 70 decaf-coffee will be ~4.5 days old. Watch for first impressions on those Pulse 70/71/73 articles in 2-day window.
+2. **Pulse 75 candidate: write /guides/what-is-a-frappe/ targeting "what is a frappe" 9,900/mo LOW 0/100.** Zero competition + similar volume tier to validated what-is-a-mocha pattern. Existing /recipes/greek-frappe-recipe/ + /recipes/frappuccino-recipe/ are recipe-focused; neither is purely definitional. Frappé is a multi-drink cluster (Greek frappé, French frappé, Starbucks Frappuccino) similar to the macchiato three-drink situation; same angle works.
+3. Alternative Pulse 75: /guides/what-is-a-cappuccino/ 22,200/mo LOW 10/100 — bigger volume but slightly higher comp; existing pages create more cannibalization risk.
+4. DataForSEO Pulse 75: ~$0.05 batch on frappé cluster longtails — "frappe vs frappuccino", "what is a frappuccino", "greek frappe vs french frappe", "frappuccino calories", "is frappe coffee".
+5. Critical milestone to watch: red-eye-coffee 28-day position. Currently 46.7. If it drops below 40 by Pulse 75, that's the validation that 2-day page-1 equity is propagating into the 28-day rolling average.
+6. Consider light link-boost pass on simple-syrup-recipe (pos 21 in 2-day for two consecutive pulses) — one more inbound from a topical sister recipe could push it to page 1.
+7. Watch what-is-a-macchiato 2-day SC for first appearance ~48-72h post-publish. The 33,100/mo head is the largest "what is X" target hit so far.
+
+---
+
 ## 2026-04-30 06:00 IDT — Pulse 73: What is a mocha guide (9,900/mo, LOW 0/100) + 4 inbound links
 
 **Action:** Published /guides/what-is-a-mocha/ targeting "what is a mocha" (9,900/mo, LOW **0/100** — zero competition). ~3,200 words covering: definition, Yemeni port origin (Mocha → bean variety → flavor descriptor → drink name), modern American history (1980s–90s café culture, Starbucks Caffè Mocha), 4-component breakdown (espresso + chocolate + steamed milk + foam) with comparison tables for chocolate types, mocha vs latte vs hot chocolate vs cappuccino vs marocchino comparison, deep mocha vs marocchino section, mocha vs hot chocolate decision logic, caffeine/calorie/sugar math, 7 common variations (iced, white, peppermint, frappuccino, mochaccino, dirty, mocha au lait, bulletproof), 6 misconceptions, 11 FAQs in YAML faq: front matter + visible markdown ### headings (matches established hybrid pattern from Pulse 66+). Site now at 137 articles. Plus 4 inbound links on launch.
