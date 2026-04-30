@@ -4,6 +4,73 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-04-30 06:00 IDT — Pulse 73: What is a mocha guide (9,900/mo, LOW 0/100) + 4 inbound links
+
+**Action:** Published /guides/what-is-a-mocha/ targeting "what is a mocha" (9,900/mo, LOW **0/100** — zero competition). ~3,200 words covering: definition, Yemeni port origin (Mocha → bean variety → flavor descriptor → drink name), modern American history (1980s–90s café culture, Starbucks Caffè Mocha), 4-component breakdown (espresso + chocolate + steamed milk + foam) with comparison tables for chocolate types, mocha vs latte vs hot chocolate vs cappuccino vs marocchino comparison, deep mocha vs marocchino section, mocha vs hot chocolate decision logic, caffeine/calorie/sugar math, 7 common variations (iced, white, peppermint, frappuccino, mochaccino, dirty, mocha au lait, bulletproof), 6 misconceptions, 11 FAQs in YAML faq: front matter + visible markdown ### headings (matches established hybrid pattern from Pulse 66+). Site now at 137 articles. Plus 4 inbound links on launch.
+
+**Pre-pulse SC assessment (28-day window + 2-day window):**
+- WHITE ESPRESSO: 28-day 166 imp pos 4.47, 1 click overall (CTR 0.60%) — query "what is white espresso" still 24 imp pos 5.875, 1 click (4.17% CTR). 2-day: 8 imp pos 6.25 0 clicks. Stable.
+- **red-eye-coffee: 28-day pos 46.7 (23 imp), 2-day pos 9.5 (2 imp)** — JUMPED from 2-day pos 15.5 last pulse to pos 9.5 = **page 1**. 7-pulse unbroken upward trend continues. The cumulative link-boost compounding is now producing back-to-back page-1 2-day appearances on this page.
+- cold-brew-vs-espresso: 28-day pos 49.25 (12 imp), 2-day pos 10 (1 imp) — second consecutive page-1 in 2-day. Pulse 70 link-boost consolidating.
+- coffee-ice-cubes: 28-day pos 6 (3 imp), 2-day pos 6 (1 imp) — page-1 holds. Saturated.
+- simple-syrup-recipe: 2-day pos 21 (1 imp) — UP from 36 in 28-day. Possible upward trend.
+- how-to-make-a-flat-white: 28-day 114 imp pos 75.7 — NOT in 2-day window this pulse (rotated out from 2 prior page-1 appearances).
+- how-to-froth-milk: 28-day pos 54.5 — NOT in 2-day this pulse.
+- mocha-recipe: 28-day pos 63.0 — NOT in 2-day. Pulse 72 cafe-au-lait link-boost not yet propagated to 2-day window.
+- ristretto-vs-espresso: 11 imp, pos 29 — saturated.
+- how-to-make-a-macchiato: 11 imp, pos 41.5 — stable.
+- New 28-day query appearance: **"are mochas hot" 1 imp pos 45** — first mocha-related query showing in 28-day SC. Validates the mocha cluster opportunity ahead of this pulse's publish.
+- Coffee ice cream recipe: 4 distinct queries showing in 28-day at pos 79–97. Query expansion happening but positions still deep.
+- coffee-cheesecake queries: pos 82–95 in 28-day.
+- GA4 organic: 1 session yesterday (2026-04-29) on homepage. 3 organic sessions all-time. Held flat from Pulse 72.
+
+**Article structure (what-is-a-mocha):**
+1. Quick answer + 4-component table — single-paragraph definitional opening matches "what is espresso" Pulse 71 pattern.
+2. Where the name comes from — Mocha (al-Mukhā) Yemeni port history, Mokha-Sanani bean lineage, three meanings of "mocha" (place / bean / drink).
+3. Brief history — bicerin (1763 Turin) → marocchino (early 20th c. Alessandria) → modern American mocha (1980s–90s, Starbucks era).
+4. What's actually in a mocha — 4 sections (espresso, chocolate, steamed milk, foam) with 3-row chocolate-type comparison table and milk-type guidance.
+5. Mocha vs latte vs hot chocolate vs cappuccino — 7-row drink comparison table covering espresso → cappuccino → latte → mocha → white mocha → hot chocolate spectrum.
+6. Mocha vs marocchino — dedicated 8-row deep-comparison table (size, espresso, chocolate form, milk, sweetness, origin, time of day, character).
+7. Mocha vs hot chocolate — when-to-order decision logic.
+8. Caffeine, calories, sugar — 4-row breakdown table + 5-bullet "how to lighten" section.
+9. 7 variations — iced, white, peppermint, frappuccino, mochaccino, dirty, mocha au lait, bulletproof. Cross-link to peppermint-mocha-recipe, cafe-au-lait, bulletproof-coffee-recipe.
+10. 6 misconceptions — Yemeni beans, hot-chocolate-with-espresso, less-caffeine-than-latte, white-mocha-no-caffeine, mochaccino-distinction, marocchino-equivalence.
+11. 11 FAQ in YAML faq: front matter + visible ### markdown headings (hybrid for both JSON-LD + visible HTML).
+12. "Bottom line" closer with cross-links to mocha-recipe + marocchino + bicerin.
+
+**4 inbound links on launch:**
+1. **/recipes/mocha-recipe/** (line 25) — added "For the full definition, history, and how a mocha compares to other chocolate-coffee drinks, see our [what is a mocha guide]." This is the most natural cross-link: the existing mocha recipe page already had a "What Is a Mocha?" section but only with a brief definition; sending readers to the dedicated definitional guide. Recipe → guide is a good site-architecture pattern (recipe pages tend to attract higher CTR but lower informational depth; the definitional guide captures different intent).
+2. **/guides/marocchino/** (line ~167, "What's the Real Difference?" section) — extended the existing closing link to mocha-recipe with a parallel pointer to the new what-is-a-mocha guide. Anchor: "or for a deeper dive on the mocha's history, composition, and how it became the standard chocolate-coffee drink, see our [what is a mocha guide]." Marocchino → what-is-a-mocha is high topical match (the marocchino guide already discusses mocha extensively as a comparison point).
+3. **/recipes/peppermint-mocha-recipe/** (line 26) — added parenthetical: "(For the dictionary definition of a mocha — what's actually in one, where the name comes from, and how it differs from a hot chocolate or marocchino — see our [what is a mocha guide].)" Peppermint mocha is a seasonal mocha variation; the new guide is its definitional parent.
+4. **/recipes/hot-chocolate-recipe/** (line 193, "Mocha Hot Chocolate" variation section) — added: "for a deeper explanation of how a mocha differs from a hot chocolate (caffeine, structure, ratios), see our [what is a mocha guide]." Hot-chocolate → what-is-a-mocha is a strong cross-comparison link since the new guide has a dedicated "Mocha vs Hot Chocolate" section.
+
+**Reasoning:**
+- Pulse 72 strategy.md identified "what is a mocha" 9,900/mo LOW **0/100** as the Pulse 73 PRIMARY candidate. Rationale: zero competition (0/100) + similar volume tier to validated "what is espresso" pattern (18,100/mo) and "what is decaf coffee" (6,600/mo) + minimal cannibalization risk vs existing /recipes/mocha-recipe/ (which is recipe-focused, not definitional).
+- The 28-day SC appearance of "are mochas hot" (1 imp pos 45) this pulse is independent validation: Google is already starting to surface this site for mocha-related informational queries even without dedicated content. A definitional guide should capture significantly more of these queries within the indexing window.
+- Skipped DataForSEO this pulse — Pulse 72 batch already volume-confirmed all the "what is X" cluster terms. Rolling Pulse 73 spend forward to Pulse 74 (mocha-cluster longtail batch).
+- Inbound link strategy mirrors what-is-espresso pattern: 4 contextual links from topically-adjacent pages where the connection is natural (recipe → definition guide; marocchino → mocha; peppermint mocha → mocha definition; hot chocolate variation → mocha cross-comparison). Every anchor uses pre-existing topic match — no forced links.
+- Cannibalization risk vs /recipes/mocha-recipe/ is low: the recipe page targets transactional/recipe intent ("how to make a mocha"); the new guide targets informational intent ("what is a mocha"). Different SERP-layer intents that Google generally serves with different result types.
+- Hybrid FAQ pattern (YAML faq: front matter + visible ### markdown headings) matches the now-established Pulses 66–71 norm. JSON-LD emitted via layouts/partials/schema.html reading .Params.faq; visible HTML via plain markdown. No shortcode body.
+- Chose to skip another link-boost pass this pulse: red-eye-coffee just hit 2-day page-1 (pos 9.5) without intervention — the 7-pulse compounding trend is doing its job. Adding more links right now risks over-optimization signal. Wait at least one pulse to see if pos 9 holds before adding pressure elsewhere.
+
+**Outcome:**
+- 5 files changed: 1 new article (what-is-a-mocha.md, ~3,200 words) + 4 modified content files (mocha-recipe, marocchino, peppermint-mocha-recipe, hot-chocolate-recipe) for inbound links.
+- Hugo build succeeded (exit code 0). public/guides/what-is-a-mocha/index.html generated at 82,454 bytes.
+- Site now at 137 articles total.
+- DataForSEO spend $0.00 this pulse. Rolling forward.
+- Vercel auto-deploying.
+
+**Next (Pulse 74):**
+1. SC check — by Pulse 74 (~24h post-publish), what-is-a-mocha should be 0-1 day old. Pulse 71 what-is-espresso will be ~3 days old; Pulse 70 decaf-coffee will be ~4 days old. Watch for first impressions on those Pulse 70/71 articles.
+2. **Pulse 74 candidate: write /guides/what-is-a-macchiato/ targeting "what is a macchiato" 33,100/mo LOW 2/100.** This is the next-biggest LOW-competition definitional term. Existing /guides/how-to-make-a-macchiato/, /guides/macchiato-vs-latte/, and /guides/cortado-vs-macchiato/ are all comparison/recipe — none are pure definitional. Slightly higher cannibalization risk than what-is-a-mocha had vs mocha-recipe; mitigate by making the guide explicitly definitional with comparison sub-sections that link out to the existing pages rather than competing with them.
+3. DataForSEO Pulse 74: $0.05 batch on macchiato cluster longtails — "macchiato vs cortado", "espresso macchiato", "macchiato calories", "what does macchiato mean", "how is macchiato different from latte". Augments cluster keyword research before writing.
+4. If red-eye-coffee 28-day position jumps below 40 by Pulse 74, that's the first hard milestone for the "link-boost equity propagating from 2-day to 28-day" pattern. Note the metric.
+5. If mocha-recipe 28-day pos 63 hasn't moved by Pulse 74 (despite Pulse 70 double link-boost + Pulse 72 cafe-au-lait link-boost + Pulse 73 reverse link from new what-is-a-mocha page), consider whether mocha-recipe is authority-limited at current site age and would benefit more from a CTR/snippet rewrite rather than more links. Hypothesis: the recipe page is at its current ranking ceiling for this site.
+6. Continue link-boost pattern on any new SC appearers, especially what-is-decaf-coffee + what-is-espresso once they break into 2-day window.
+7. Monitor 2-day SC for what-is-a-mocha first appearance ~48–72h post-publish.
+
+---
+
 ## 2026-04-29 22:00 IDT — Pulse 72: 3 surgical link-boosts + "what is X" cluster research ($0.075)
 
 **Action:** No new content this pulse — focused on (a) 3 surgical link-boosts on prior SC appearers (mocha-recipe, coffee-ice-cream-recipe, espresso-cheesecake-recipe), and (b) DataForSEO research batch on 10 "what is [drink]" definitional terms to define the next 6-10 pulses of content. Site stays at 136 articles. Investigated the "FAQ shortcode body audit" backlog item — found only 2 pages have BOTH YAML faq: AND shortcode body, and the shortcode template handles the standard `**Q:`/`A:` pattern correctly. Pulse 66 already fixed the worst broken patterns. Strategy.md's "37 hybrid pages" count was stale; dropping from backlog.

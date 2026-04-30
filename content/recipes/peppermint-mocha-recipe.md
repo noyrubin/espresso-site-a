@@ -23,7 +23,7 @@ A peppermint mocha is an espresso-based drink that combines:
 - Peppermint syrup
 - (Optional) whipped cream and chocolate shavings on top
 
-It's a [mocha](/recipes/mocha-recipe/) at its core, with peppermint syrup swapped in for plain sweetener. The combination of bitter espresso, rich chocolate, and cool mint is what makes it so distinctive — each sip has three distinct flavor layers.
+It's a [mocha](/recipes/mocha-recipe/) at its core, with peppermint syrup swapped in for plain sweetener. (For the dictionary definition of a mocha — what's actually in one, where the name comes from, and how it differs from a hot chocolate or marocchino — see our [what is a mocha guide](/guides/what-is-a-mocha/).) The combination of bitter espresso, rich chocolate, and cool mint is what makes it so distinctive — each sip has three distinct flavor layers.
 
 ### Peppermint Mocha vs Regular Mocha
 

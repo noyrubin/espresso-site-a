@@ -164,7 +164,7 @@ This trips up almost everyone, especially since some American cafés will hand y
 
 The marocchino is a **strong, short, espresso-forward** drink with chocolate as a complement. The mocha is a **milk-forward, sweet** drink where the espresso is one ingredient among several. They're not the same drink in different sizes — they're philosophically different.
 
-For the chocolate-forward milk drink, see our [mocha recipe](/recipes/mocha-recipe/). For other small espresso drinks, see [macchiato vs latte](/guides/macchiato-vs-latte/).
+For the chocolate-forward milk drink, see our [mocha recipe](/recipes/mocha-recipe/) — or for a deeper dive on the mocha's history, composition, and how it became the standard chocolate-coffee drink, see our [what is a mocha guide](/guides/what-is-a-mocha/). For other small espresso drinks, see [macchiato vs latte](/guides/macchiato-vs-latte/).
 
 ---
 

@@ -22,7 +22,7 @@ A mocha (short for *caffè mocha* or *mochaccino*) is an espresso-based drink th
 - Steamed milk
 - (Optional) milk foam or whipped cream on top
 
-It sits between a latte and a [hot chocolate](/recipes/hot-chocolate-recipe/) on the flavor spectrum. The espresso is very present, the chocolate adds depth and sweetness, and the milk smooths everything together.
+It sits between a latte and a [hot chocolate](/recipes/hot-chocolate-recipe/) on the flavor spectrum. The espresso is very present, the chocolate adds depth and sweetness, and the milk smooths everything together. For the full definition, history, and how a mocha compares to other chocolate-coffee drinks, see our [what is a mocha guide](/guides/what-is-a-mocha/).
 
 The name comes from Mocha, a port city in Yemen that was historically a major coffee trading hub. The chocolate association came later — the drink became popular in American cafés in the 1990s and the name stuck.
 

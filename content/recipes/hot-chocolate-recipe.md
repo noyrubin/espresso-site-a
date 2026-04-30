@@ -190,7 +190,7 @@ Prepare classic recipe. Add ¼ tsp peppermint extract (not mint — peppermint i
 Prepare classic recipe. Add ½ tsp cinnamon, ¼ tsp cardamom, pinch of nutmeg, and optional pinch of cayenne. This is essentially Mexican hot chocolate without the traditional piloncillo.
 
 ### Mocha Hot Chocolate
-Pour a freshly pulled espresso shot over your hot chocolate and stir gently. The ratio of 1 shot to 12 oz hot chocolate keeps the chocolate dominant while adding a coffee depth. See our full [mocha recipe](/recipes/mocha-recipe/) if you prefer the espresso-forward version.
+Pour a freshly pulled espresso shot over your hot chocolate and stir gently. The ratio of 1 shot to 12 oz hot chocolate keeps the chocolate dominant while adding a coffee depth. For the espresso-forward version, see our full [mocha recipe](/recipes/mocha-recipe/) — or for a deeper explanation of how a mocha differs from a hot chocolate (caffeine, structure, ratios), see our [what is a mocha guide](/guides/what-is-a-mocha/).
 
 ### Orange Hot Chocolate
 Prepare classic recipe with dark chocolate (70%+). Stir in ½ tsp orange zest or 2–3 drops food-grade orange essential oil. Top with whipped cream and a strip of orange peel.
