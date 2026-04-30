@@ -175,6 +175,8 @@ Pour a double espresso (with cardamom) over a scoop of vanilla ice cream in a sm
 | [Greek frappé](/recipes/greek-frappe-recipe/) | Greece | Instant Nescafé foam | Frothy, slightly bitter | Evaporated (optional) |
 | Cubano / cafecito | Cuba | Espresso + espumita | Intense, caramel foam | Condensed (as variation) |
 
+*For the full breakdown of the frappé family — the Greek frappé, the older French café frappé, and the Starbucks Frappuccino — see our [what is a frappé guide](/guides/what-is-a-frappe/).*
+
 ---
 
 ## Frequently Asked Questions

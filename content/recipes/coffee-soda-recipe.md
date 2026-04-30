@@ -38,7 +38,7 @@ This is the most approachable version — cold brew is already cold and doesn't 
 ### Ingredients
 - 3 oz cold brew concentrate (or 5 oz regular-strength cold brew)
 - 8–9 oz sparkling water (club soda, Pellegrino, or Topo Chico)
-- 1–2 teaspoons simple syrup (optional)
+- 1–2 teaspoons simple syrup (optional — see our [simple syrup recipe](/guides/simple-syrup-recipe/) for the standard 1:1 sugar-water method plus flavored variations like vanilla, hazelnut, and cinnamon that work especially well in coffee sodas)
 - Ice
 
 ### Instructions

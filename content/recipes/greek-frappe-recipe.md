@@ -31,7 +31,7 @@ The Greek frappé is one of the strangest and most beloved coffee drinks in the 
 
 If your only experience with instant coffee is a sad mug of brown water at a hotel breakfast bar, a properly made frappé will surprise you. It has thick, café-quality foam, a clean and slightly bitter coffee flavor, and the most refreshing iced-coffee texture of any drink we know. It also takes about 90 seconds to make.
 
-This guide covers the authentic shake-or-whisk method, the three traditional sweetness levels, milk options, and how to order at a Greek café.
+This guide covers the authentic shake-or-whisk method, the three traditional sweetness levels, milk options, and how to order at a Greek café. (For the broader definitional context — the etymology of "frappé," how the Greek frappé compares to a Starbucks Frappuccino and the older French café frappé, and why all three drinks share the name despite being completely different — see our [what is a frappé guide](/guides/what-is-a-frappe/).)
 
 ## The 90-Second Greek Frappé
 

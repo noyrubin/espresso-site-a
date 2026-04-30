@@ -12,7 +12,7 @@ draft: false
 
 A Starbucks Frappuccino costs $6–8 and often has more sugar than a can of soda. A homemade version takes 3 minutes, costs under $2, and you control exactly what goes in it — including how strong the coffee is and how sweet you want it.
 
-This guide covers the classic coffee frappuccino, every popular variation, and the technique that makes the difference between a watery blend and a thick, restaurant-quality result.
+This guide covers the classic coffee frappuccino, every popular variation, and the technique that makes the difference between a watery blend and a thick, restaurant-quality result. (For the bigger picture — what a "frappé" actually is, how the Frappuccino was invented in 1992 by The Coffee Connection in Boston, why Starbucks owns the trademark, and how the blended Frappuccino differs from the shaken Greek frappé — see our [what is a frappé guide](/guides/what-is-a-frappe/).)
 
 ## The Base Frappuccino Recipe
 
