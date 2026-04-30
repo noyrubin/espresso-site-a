@@ -29,7 +29,7 @@ faq:
 
 In the original Italian tradition, an **espresso macchiato** is espresso stained with milk. In the more modern interpretation, a **latte macchiato** is milk stained with espresso. They look different, taste different, and are assembled differently. Both are easy to make at home once you understand the logic.
 
-This guide covers both.
+This guide covers both. For the broader definitional context — the etymology of "macchiato," the three drinks that share the name (including the Starbucks caramel macchiato), and how the macchiato fits into the wider espresso drink family — see our [what is a macchiato guide](/guides/what-is-a-macchiato/).
 
 ## Espresso Macchiato
 

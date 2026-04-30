@@ -34,7 +34,7 @@ Here's a precise breakdown.
 | **Foam** | Thin microfoam, no dry foam | Small dollop of foam | Layered foam on top |
 | **Origin** | Spain | Italy | Italy/Austria |
 
-The key insight: there are actually two drinks called "macchiato" — espresso macchiato and latte macchiato — and they're very different from each other.
+The key insight: there are actually two drinks called "macchiato" — espresso macchiato and latte macchiato — and they're very different from each other. (And in American chains, a third — the Starbucks caramel macchiato — has further muddied the term. For the full definitional breakdown of all three, see our [what is a macchiato guide](/guides/what-is-a-macchiato/).)
 
 ## What Is a Cortado?
 

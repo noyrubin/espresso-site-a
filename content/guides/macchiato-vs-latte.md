@@ -28,7 +28,7 @@ Here's everything you need to know — including how to make both at home.
 
 ## What Is a Macchiato?
 
-*Macchiato* means "stained" or "marked" in Italian. The espresso macchiato is a straight shot of espresso "stained" with just a small amount of steamed milk or foam — enough to soften the edge of the espresso without diluting it.
+*Macchiato* means "stained" or "marked" in Italian. The espresso macchiato is a straight shot of espresso "stained" with just a small amount of steamed milk or foam — enough to soften the edge of the espresso without diluting it. (For the full definitional history of the macchiato — etymology, the three drinks that share the name, and how Starbucks reinvented the word in 1996 — see our [what is a macchiato guide](/guides/what-is-a-macchiato/).)
 
 There are two traditional forms:
 

@@ -18,7 +18,7 @@ This guide covers the classic hot caramel macchiato, the iced version, and a few
 
 A caramel macchiato is a layered espresso drink: vanilla syrup on the bottom, steamed milk in the middle, espresso poured on top, and a caramel drizzle to finish.
 
-**The word "macchiato"** means "marked" in Italian. In its original form, a macchiato is just espresso marked with a tiny bit of foam. The Starbucks caramel macchiato is a different animal — more of a sweetened vanilla latte with espresso poured in last and caramel on top.
+**The word "macchiato"** means "marked" in Italian. In its original form, a macchiato is just espresso marked with a tiny bit of foam. The Starbucks caramel macchiato is a different animal — more of a sweetened vanilla latte with espresso poured in last and caramel on top. (For the full definitional history — including the espresso macchiato, the latte macchiato, and how Starbucks reinvented the term in 1996 — see our [what is a macchiato guide](/guides/what-is-a-macchiato/).)
 
 When you order a caramel macchiato at most cafés today, you're getting the Starbucks-style version. That's what this recipe makes.
 
