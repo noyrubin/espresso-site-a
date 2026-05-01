@@ -29,6 +29,8 @@ A cappuccino is an Italian espresso drink made with equal parts espresso, steame
 
 The defining characteristic of a cappuccino is its **thick, dense foam layer** — roughly 1–1.5 cm deep — sitting on top of the drink. This foam shouldn't be dry or airy like meringue; it should be dense and creamy, almost like soft ice cream.
 
+(For the full definitional context — the Capuchin-monk origin of the name, the Vienna-to-Italy history, the wet vs dry distinction, and how a cappuccino differs from a latte, flat white, and macchiato — see our [What Is a Cappuccino?](/guides/what-is-a-cappuccino/) guide.)
+
 ### Cappuccino vs. Latte vs. Flat White
 
 | Drink | Espresso | Milk | Foam | Total Size |

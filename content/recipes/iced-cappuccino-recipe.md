@@ -29,6 +29,8 @@ faq:
 
 An **iced cappuccino** is a cold version of the classic cappuccino — espresso, cold milk, and cold milk foam, served over ice. Done well, it tastes like a refreshed cappuccino: the same espresso forward flavor, but with a cool creamy mouthfeel and a foam cap that sits on top of the ice instead of melting into the drink.
 
+(For the broader definitional context — what a cappuccino actually is, the Capuchin-monk origin of the name, and how it differs from a latte, flat white, and macchiato — see our [What Is a Cappuccino?](/guides/what-is-a-cappuccino/) guide.)
+
 There are three common ways to make an iced cappuccino at home: **the traditional Italian way** (espresso + cold frothed milk, no ice), **the American way** (espresso + cold milk + cold foam over ice), and **the shaken way** (everything shaken together with ice for a frothy, foam-filled drink). This guide covers all three, with the ratios, technique, and timing that actually work.
 
 ---

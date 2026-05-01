@@ -29,7 +29,7 @@ faq:
 
 A traditional cappuccino is roughly equal parts espresso, steamed milk, and milk foam. **Wet** and **dry** are the two common variations — same drink, different milk-to-foam balance. A wet cappuccino has more steamed milk and less foam (closer to a small latte). A dry cappuccino is mostly foam over the espresso with barely any liquid milk.
 
-If you've ever ordered a cappuccino and gotten something that felt too foamy or too milky for your taste, the wet/dry vocabulary is what you were missing. This guide breaks down the differences, ratios, and how to make each at home from the same shot of espresso.
+If you've ever ordered a cappuccino and gotten something that felt too foamy or too milky for your taste, the wet/dry vocabulary is what you were missing. This guide breaks down the differences, ratios, and how to make each at home from the same shot of espresso. (If you want the broader context first — what a cappuccino actually is, the Capuchin-monk origin of the name, and how it differs from a latte, flat white, and macchiato — see our dedicated [What Is a Cappuccino?](/guides/what-is-a-cappuccino/) guide.)
 
 ---
 

@@ -43,6 +43,8 @@ A traditional cappuccino is a 5–6 oz drink divided into thirds:
 
 The foam is the defining characteristic. It should be dry enough to hold its shape — you can spoon it — but not stiff like whipped cream. In Italy, a cappuccino is a morning drink, almost never ordered after noon.
 
+(For the full definitional breakdown — the Capuchin-monk origin of the name, the early-20th-century Italian café history, the wet vs dry distinction, the caffeine math by Starbucks size, and 5 common cappuccino misconceptions — see our dedicated [What Is a Cappuccino?](/guides/what-is-a-cappuccino/) guide.)
+
 **Flavor profile:** Strong espresso forward, slightly bitter, with a creamy mouthfeel from the foam. Less sweet than a latte because the milk-to-espresso ratio is much lower.
 
 ---
