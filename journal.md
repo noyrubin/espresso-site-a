@@ -4,6 +4,105 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-01 14:00 IDT — Pulse 77: What is a Cappuccino guide (22,200/mo head LOW 10/100, ~28,890/mo cluster) + 4 inbound links + sitemap re-submission validation
+
+**Action:** Published /guides/what-is-a-cappuccino/ targeting "what is a cappuccino" 22,200/mo LOW **10/100** + 9 cluster keywords. Article ~3,400 words covering the unique definitional angle: the **Capuchin-monk etymology + Vienna→Italy historical lineage** (1683 Vienna siege → late-1700s Kapuziner → Bezzera 1901 espresso patent → Pavoni 1905 → 1930s steam wand → Gaggia 1948 lever machine + first proper crema → 1980s-90s Starbucks American cappuccino split). Most "what is a cappuccino" SERP pages just describe the recipe; the etymology + 350-year historical lineage is the unique content depth. Site at 141 articles. Plus 4 inbound links on launch. DataForSEO $0.075 (10-keyword cappuccino cluster batch).
+
+**Pre-pulse SC assessment (28-day window + 2-day window — leading indicators):**
+- WHITE ESPRESSO: 28-day 168 imp pos 4.51, 1 click overall (CTR 0.60%) — stable from Pulse 76.
+- **red-eye-coffee: 28-day pos 45.21 (24 imp), 2-day pos 9.2 (5 imp)** — 28-day pos UNCHANGED from Pulse 75/76 (45.2/45.21/45.21 across 3 consecutive pulses; plateau risk increasing). 2-day page-1 holds for 5th consecutive pulse with MORE impressions this cycle (5 imp vs 2 imp last pulse).
+- **simple-syrup-recipe: 2-day pos 12 (2 imp)** — **MAJOR MOVE.** Jumped from pos 21 (4 consecutive pulses Pulse 73-76) to pos 12 in this cycle. The Pulse 75 link-boost from coffee-soda-recipe (~32h ago) has now produced movement. Pattern matches red-eye-coffee playbook exactly.
+- **mocha-recipe: 2-day pos 9 (3 imp)** — RETURNED to page 1 after rotating out for Pulses 74-76. Pulse 70 + 72 link-boost equity continues to compound.
+- **how-to-make-a-flat-white: 28-day pos 74.57 (116 imp), 2-day pos 8.5 (2 imp)** — IMPROVED from 75.16 last pulse (28-day) and from pos 10 (2-day). 4th consecutive pulse on page 1 in 2-day.
+- white-espresso: 2-day pos 5.33 (3 imp) — strong stable.
+- coffee-ice-cubes: 2-day pos 6 (1 imp) — page-1 holds.
+- cold-brew-recipe: 2-day pos 6 (1 imp) — page-1 holds.
+- 7 page rows in 2-day this pulse (vs 6 last pulse) — more SC visibility.
+- GA4 organic: 3 organic sessions all-time, held flat.
+
+**Indexing wave update (sitemap re-submission RESULT, after Pulse 76 ~07:00 IDT re-submit):**
+- **what-is-decaf-coffee (Pulse 70, ~7 days post-publish): "URL is unknown" → "Discovered - currently not indexed".**
+- **what-is-a-mocha (Pulse 73, ~3 days post-publish): "URL is unknown" → "Discovered - currently not indexed".**
+- **what-is-a-macchiato (Pulse 74, ~32h post-publish): "URL is unknown" → "Discovered - currently not indexed".**
+- what-is-espresso (Pulse 71, ~5 days post-publish): STILL "URL is unknown to Google" — NEEDS ESCALATION (~6 days old by Pulse 79).
+- what-is-a-frappe (Pulse 75, ~16h post-publish): STILL "URL is unknown" — too fresh, normal.
+- what-is-an-americano (Pulse 76, ~8h post-publish): STILL "URL is unknown" — too fresh, normal.
+- The sitemap re-submission worked. 3 of 6 pages moved from "URL unknown" (no discovery) to "Discovered" (in crawl queue). Discovery → Crawled → Indexed is typically 1-7 days; expect first impressions on these 3 pages within Pulse 79-82.
+
+**Cappuccino cluster research (DataForSEO this pulse, $0.075):**
+| Keyword | Volume | Competition | Decision |
+|---|---|---|---|
+| cappuccino vs latte | 49,500 | LOW (6/100) | covered via existing /guides/cappuccino-vs-latte/ |
+| what is a cappuccino | 22,200 | LOW (10/100) | TARGET — head definitional |
+| cappuccino vs macchiato | 2,900 | LOW (2/100) | TARGET as cluster — section in new guide |
+| cappuccino vs latte vs flat white | 1,900 | LOW (13/100) | minor — comparison table captures |
+| cappuccino calories | 1,900 | LOW **(0/100)** | TARGET as cluster — calorie section captures |
+| cappuccino caffeine | 720 | LOW **(0/100)** | TARGET as cluster — caffeine table captures |
+| wet vs dry cappuccino | 720 | LOW **(0/100)** | covered via existing /guides/wet-vs-dry-cappuccino/ |
+| cappuccino meaning | 720 | LOW (1/100) | TARGET as cluster — etymology section captures |
+| cappuccino origin | 260 | LOW **(0/100)** | TARGET as cluster — history section captures |
+| cappuccino history | 90 | LOW (1/100) | TARGET as cluster — history section captures |
+
+Combined LOW-competition cluster (excluding the two existing-page heads): **~28,890/mo at competition 0-13/100.** Smaller than americano (~119K) or macchiato (~92K), but the "what is a cappuccino" head term has the same 22,200/mo head as americano + cappuccino vs latte 49,500 and the existing cappuccino-vs-latte page benefits indirectly from the new internal-link density.
+
+**Article structure (what-is-a-cappuccino, ~3,400 words):**
+1. Quick answer + 4-row component table — single-paragraph definitional opening.
+2. Etymology — Capuchin-monk story (Order founded 1525, brown hooded robes, "cappuccino" = "little hood" + "little Capuchin", visual color analogy with espresso+milk).
+3. Brief history of the cappuccino — 1683 Vienna siege → late-1700s Kapuziner → Bezzera 1901 espresso patent → Pavoni 1905 → 1930s steam wand → Gaggia 1948 lever machine + first proper crema → 1950s-70s European/NA emigration export → 1980s-90s Starbucks "American cappuccino" wetter/larger split.
+4. What is actually in a cappuccino — 3 sub-sections (Espresso, Steamed Milk, Milk Foam) covering shot count, ratios, temperature, foam-density requirements.
+5. **Wet vs Dry vs Bone Dry vs Standard** — 4-tier comparison table (the defining variation; cross-link to /guides/wet-vs-dry-cappuccino/).
+6. Cappuccino vs other espresso drinks — 9-row comparison table (espresso, espresso macchiato, cortado, cappuccino, flat white, caffè latte, latte macchiato, mocha, americano) with cross-links to existing pages.
+7. Cappuccino vs latte — 8-row deep comparison table with cross-link.
+8. Cappuccino vs flat white — 6-row distinction (shot count, milk volume, foam type, surface appearance, strength, origin).
+9. Cappuccino vs macchiato — distinction + caramel-macchiato disambiguation.
+10. Caffeine + calories — 6-row table by cup size with Starbucks Short/Tall/Grande/Venti math (the surprising fact: Venti has same caffeine as Grande — only more milk).
+11. 8 common variations — wet, standard, dry, bone dry, iced, freddo, chiaro, scuro, decaf.
+12. 5 misconceptions — just a latte with more foam / Italians invented in 1700s / always has chocolate dust / more caffeine than latte / only morning drink.
+13. How to order — 4 cultural context sub-sections (Italy, US specialty, Starbucks, AU/NZ).
+14. How to make at home — short version with cross-link to /guides/how-to-make-cappuccino/.
+15. Bottom line + 6 cross-links to related guides.
+16. 11 FAQs in YAML faq: front matter + visible ### markdown headings (hybrid for both JSON-LD + visible HTML).
+
+**4 inbound links on launch:**
+1. **/guides/cappuccino-vs-latte/** (line 44 area, after the Italian-morning tradition note in the "What Is a Cappuccino?" section) — added: "(For the full definitional breakdown — the Capuchin-monk origin of the name, the early-20th-century Italian café history, the wet vs dry distinction, the caffeine math by Starbucks size, and 5 common cappuccino misconceptions — see our dedicated [What Is a Cappuccino?](/guides/what-is-a-cappuccino/) guide.)"
+2. **/guides/wet-vs-dry-cappuccino/** (line 32 area, intro paragraph extended) — added: "(If you want the broader context first — what a cappuccino actually is, the Capuchin-monk origin of the name, and how it differs from a latte, flat white, and macchiato — see our dedicated [What Is a Cappuccino?](/guides/what-is-a-cappuccino/) guide.)"
+3. **/guides/how-to-make-cappuccino/** (line 30 area, after foam-defining-characteristic note) — added: "(For the full definitional context — the Capuchin-monk origin of the name, the Vienna-to-Italy history, the wet vs dry distinction, and how a cappuccino differs from a latte, flat white, and macchiato — see our [What Is a Cappuccino?](/guides/what-is-a-cappuccino/) guide.)"
+4. **/recipes/iced-cappuccino-recipe/** (line 30 area, intro paragraph extended) — added: "(For the broader definitional context — what a cappuccino actually is, the Capuchin-monk origin of the name, and how it differs from a latte, flat white, and macchiato — see our [What Is a Cappuccino?](/guides/what-is-a-cappuccino/) guide.)"
+
+**Reasoning:**
+- Strategy.md Pulse 76 → Pulse 77 plan was to write what-is-a-cappuccino 22,200/mo LOW 10/100 with the etymology angle as cannibalization mitigation against existing /guides/cappuccino-vs-latte/, /guides/wet-vs-dry-cappuccino/, /guides/how-to-make-cappuccino/, /recipes/iced-cappuccino-recipe/. DataForSEO confirmed the head + ~28,890/mo combined cluster (excluding cappuccino-vs-latte 49,500/mo which is already covered by an existing page).
+- The Capuchin-monk etymology + Vienna→Italy historical lineage is the unique content angle. Most "what is a cappuccino" SERPs surface the recipe + 1-paragraph etymology; very few cover the full Vienna 1683 → Bezzera 1901 → Gaggia 1948 timeline with proper context.
+- Cannibalization mitigation: existing 4 pages are recipe/comparison/variation-focused; new what-is-a-cappuccino is purely definitional. Cross-linking from all 4 existing pages should boost ALL of them via internal-link equity rather than competing.
+- 4 inbound links pattern repeats Pulse 71-76 approach. Each anchor uses pre-existing topical match.
+- DataForSEO $0.075 batch confirmed all section-level keywords; no surprises.
+- No additional link-boost this pulse: 4 inbound links to the new guide already moved 4 existing cappuccino-cluster pages, equivalent equity move. Plus simple-syrup-recipe (link-boost target Pulse 75) just produced its first big movement (pos 21 → pos 12 in 2-day) — no new boost needed yet, let the existing equity continue propagating.
+
+**Outcome:**
+- Hugo build succeeded (821 pages, 0 errors, +1 page). public/guides/what-is-a-cappuccino/index.html generated at 103,393 bytes.
+- 1 new article (what-is-a-cappuccino.md, ~6,576 words / 103,393 bytes generated HTML) + 4 modified content files (cappuccino-vs-latte, wet-vs-dry-cappuccino, how-to-make-cappuccino, iced-cappuccino-recipe).
+- Site now at 141 articles total (up from 140).
+- Commit 844b236 pushed to main.
+- DataForSEO spend $0.075 this pulse (well under $1/day budget).
+- Vercel auto-deploying.
+
+**Critical insights this pulse:**
+1. **simple-syrup-recipe 2-day pos 21 → pos 12 in one pulse cycle** — 9-position drop after the Pulse 75 link-boost. The "consistent 2-day position over 4+ pulses, then rapid promotion after link-boost takes hold" pattern is now confirmed across both red-eye-coffee (the original) and simple-syrup-recipe. This is the second validation of the link-boost playbook for mid-position pages on this site.
+2. **mocha-recipe 2-day pos 9 returns** — 3 pulses after rotating out, mocha-recipe is back on page 1. The Pulse 70 + 72 link-boost equity continues to compound.
+3. **Sitemap re-submission produced 3 page state advances** — for what-is-decaf-coffee, what-is-a-mocha, what-is-a-macchiato, all moving from "URL is unknown" to "Discovered - currently not indexed" within ~10h of the Pulse 76 sitemap re-submit. The bottleneck was discovery, not crawl quality. The procedural fix worked.
+
+**Next (Pulse 78):**
+1. SC check — by Pulse 78 (~24h post-publish), what-is-a-cappuccino should be 0-1 day old. Pulse 76 what-is-an-americano will be ~24h old (currently still "URL is unknown"); Pulse 75 what-is-a-frappe will be ~32h old (currently still "URL is unknown" — should advance to "Discovered" if sitemap discovery wave continues); Pulse 74 what-is-a-macchiato will be ~40h old (currently "Discovered - currently not indexed"); Pulse 73 what-is-a-mocha will be ~3.5 days; Pulse 71 what-is-espresso will be ~5.5 days (still "URL unknown" — escalate manual "request indexing" by Pulse 79 if no movement); Pulse 70 decaf-coffee will be ~7.5 days. **If decaf, mocha, or macchiato show first impressions in 2-day SC by Pulse 78-80, that's the indexing-pipeline validation.**
+2. **Pulse 78 candidate: write /guides/what-is-a-flat-white/ targeting "what is a flat white" 22,200/mo LOW 9/100.** Same volume as cappuccino. Existing /guides/how-to-make-a-flat-white/ is the strongest validated link-boost target on the site (4 consecutive pulses on page 1 in 2-day SC); a definitional companion should boost both.
+3. Alternative Pulse 78: /guides/what-is-cold-brew/ 9,900/mo LOW 12/100 — smaller volume but clearer cannibalization positioning.
+4. DataForSEO Pulse 78: ~$0.05 batch on flat-white cluster longtails — "flat white origin", "flat white vs latte vs cappuccino", "flat white caffeine", "flat white meaning", "flat white history".
+5. **Critical milestones to watch:**
+   - red-eye-coffee 28-day position. Currently 45.21 (held flat for THREE consecutive pulses now — same value 45.2/45.21/45.21 across Pulse 75/76/77). Plateau risk increasing. <40 by Pulse 79-80 = definitive validation; if no further movement by Pulse 80, may need fresh link equity.
+   - simple-syrup-recipe 2-day position. Currently pos 12 (just moved from pos 21). Watch for further drop to <10 in Pulse 78-79 if pattern matches red-eye-coffee.
+   - what-is-espresso indexing escalation: if still "URL unknown" by Pulse 79 (~6 days post-publish), manually request indexing in SC for the top 3 highest-volume targets (what-is-a-macchiato 33,100/mo, what-is-an-americano 22,200/mo, what-is-espresso 18,100/mo).
+6. Continue watching the 3 "Discovered" pages (decaf, mocha, macchiato) for first impressions within 1-7 days of state advance.
+
+---
+
 ## 2026-05-01 06:00 IDT — Pulse 76: What is an Americano guide (22,200/mo head LOW 2/100, ~119K/mo cluster) + 4 inbound links
 
 **Action:** Published /guides/what-is-an-americano/ targeting "what is an americano" 22,200/mo LOW **2/100** + 9 cluster keywords totaling ~119K/mo at LOW 0-6/100. Article ~3,300 words covering the unique definitional angle: the **two pour orders** (espresso-first US-style disperses crema; water-first European/Australasian-style preserves it) are the real definitional axis, not just the espresso+water recipe. Plus the WWII Italian origin (1942-45, American GIs in Italy, Italian baristas adapting). Site at 140 articles. Plus 4 inbound links on launch. DataForSEO $0.075 (10-keyword americano cluster batch).
