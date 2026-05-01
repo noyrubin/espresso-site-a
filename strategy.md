@@ -6,7 +6,69 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 28 (Pulse 77) — **141 articles**. Published /guides/what-is-a-cappuccino/ targeting "what is a cappuccino" 22,200/mo LOW **10/100** + ~28,890/mo combined cluster (cappuccino vs latte 49,500 LOW 6/100 [covered by existing page], what is a cappuccino 22,200 LOW 10/100, cappuccino vs macchiato 2,900 LOW 2/100, cappuccino vs latte vs flat white 1,900 LOW 13/100, cappuccino calories 1,900 LOW 0/100, cappuccino caffeine 720 LOW 0/100, wet vs dry cappuccino 720 LOW 0/100 [existing page], cappuccino meaning 720 LOW 1/100, cappuccino origin 260 LOW 0/100, cappuccino history 90 LOW 1/100). ~3,400 words. 4 inbound links on launch (cappuccino-vs-latte, wet-vs-dry-cappuccino, how-to-make-cappuccino, iced-cappuccino-recipe). DataForSEO $0.075 this pulse (10-keyword cappuccino cluster batch).
+Day 28 (Pulse 78) — **142 articles**. Published /guides/what-is-a-flat-white/ targeting "what is a flat white" 22,200/mo LOW **9/100** + ~62,330/mo combined cluster (flat white vs latte 22,200 LOW 5/100 [covered by existing page], what is a flat white 22,200 LOW 9/100, what is a flat white coffee 8,100 LOW 16/100, flat white vs cappuccino 6,600 LOW 4/100, flat white vs latte vs cappuccino 1,900 LOW 13/100, flat white meaning 480 LOW 4/100, flat white calories 480 LOW 1/100, flat white caffeine 210 LOW 1/100, flat white origin 140 LOW 1/100, flat white history 20 LOW 1/100). ~3,500 words. 4 inbound links on launch (flat-white-vs-latte, how-to-make-a-flat-white, cortado-coffee, cappuccino-vs-latte). Plus sitemap re-submitted to push 3 still-"URL unknown" recent guides into discovery. DataForSEO $0.075 this pulse (10-keyword flat-white cluster batch).
+
+**Pulse 78 SC update (28-day window) — MAJOR PROGRESS:**
+- WHITE ESPRESSO: 168 imp pos 4.51 — same as Pulse 77. Stable.
+- **red-eye-coffee: 28-day pos 41.18 (27 imp)** — **PLATEAU BROKEN.** IMPROVED 4 positions from 45.21 (held flat for 3 consecutive pulses across Pulse 75/76/77). The trajectory has resumed. Now within 1.18 positions of the <40 milestone.
+- **simple-syrup-recipe: 28-day pos 34.04 (24 imp)** — IMPROVED from 35.39 (Pulse 76). The Pulse 75 link-boost is now compounding into the 28-day rolling average.
+- **mocha-recipe: 28-day pos 55.29 (21 imp)** — MAJOR move from 63 (Pulse 76, 76, 77). 7+ position improvement. The Pulse 70+72 link-boost equity continues to compound powerfully.
+- how-to-make-a-flat-white: 28-day pos 74.57 (116 imp) — held same.
+- cold-brew-vs-espresso: 12 imp pos 49.25 — stable.
+- ristretto-vs-espresso: 11 imp pos 29 — stable.
+- how-to-froth-milk: 59 imp pos 54.5 — stable.
+- coffee-ice-cubes: 3 imp pos 6 — page-1 holds. Saturated.
+- cold-brew-recipe: 3 imp pos 6 — page-1 holds.
+- 12 high-position tag pages remain in 28-day SC.
+
+**Pulse 78 SC update (2-day window — leading indicators):**
+- **simple-syrup-recipe: 2-day pos 12 (2 imp)** — held identical to Pulse 77 (the breakthrough cycle). Maintaining position 12 for 2 consecutive pulses. Watch for next breakthrough <10.
+- red-eye-coffee: 2-day pos 9.2 (5 imp) — held identical to Pulse 77. Page-1 holds for 6th consecutive pulse.
+- mocha-recipe: 2-day pos 9 (3 imp) — held. 2nd consecutive pulse on page 1 in 2-day after returning.
+- how-to-make-a-flat-white: 2-day pos 8.5 (2 imp) — held. 5th consecutive pulse on page 1 in 2-day.
+- white-espresso: 2-day pos 5.33 (3 imp) — strong stable.
+- cold-brew-recipe: 2-day pos 6 (1 imp) — page-1 holds.
+- tags/gibraltar-coffee: 2-day pos 8 (1 imp) — repeat.
+- 7 page rows in 2-day this pulse (matches last pulse).
+
+**Pulse 78 indexing wave update:**
+- what-is-a-cappuccino (Pulse 77, ~8h post-publish): "URL is unknown" — too fresh, normal.
+- what-is-an-americano (Pulse 76, ~16h post-publish): STILL "URL is unknown" — slightly slow, watch.
+- what-is-a-frappe (Pulse 75, ~24h post-publish): STILL "URL is unknown" — overdue. Sitemap re-submitted this pulse to push.
+- what-is-a-macchiato (Pulse 74, ~40h post-publish): held at "Discovered - currently not indexed" (state advanced from URL unknown last pulse via Pulse 76 sitemap re-submit).
+- what-is-a-mocha (Pulse 73, ~3.5 days post-publish): held at "Discovered - currently not indexed".
+- what-is-espresso (Pulse 71, ~5.5 days post-publish): STILL "URL is unknown to Google" — DEFINITELY needs Manual "request indexing" escalation by Pulse 79.
+- what-is-decaf-coffee (Pulse 70, ~7.5 days post-publish): "Discovered - currently not indexed" — held same. Discovery → Crawled → Indexed transition is the next checkpoint.
+
+**Pulse 78 wins:**
+1. **What is a flat white** (22,200/mo head, LOW 9/100; ~62,330/mo combined cluster) — Published as /guides/what-is-a-flat-white/. The unique angle: the **disputed Australia vs New Zealand origin** (Alan Preston Sydney 1985 vs Fraser McInnes Wellington 1989 — both have credible eyewitness claims) + the **etymology** (literally "flat" = no foam dome, "white" = milk color) + the **2005 London introduction** (Cameron McClure, Flat White Soho café) + the **January 6, 2015 Starbucks US menu launch** (the moment the drink went global). ~3,500 words covering: definitional opening + 4-row component table; etymology (flat = literal flat surface contrasting cappuccino's foam dome); full Australia vs NZ origin debate with both stories; London 2005 + Starbucks Jan 6 2015 introduction history; 2 ingredients (espresso double or ristretto, microfoam milk); ristretto vs regular shot choice as the single biggest taste variable; 5 variations (Melbourne magic, iced, dirty, decaf, plant-milk); 9-row espresso drinks comparison table with cross-links; deep flat white vs latte 8-row table; flat white vs cappuccino 8-row table; flat white vs cortado 6-row table; caffeine table by Starbucks size (Tall 130mg, Grande 195mg w/ 3rd ristretto, Venti 195mg) — KEY INSIGHT: unlike cappuccino, Starbucks DOES add a 3rd ristretto for the Grande flat white; 7-row calorie table; 5 misconceptions ("just a small latte" / "Australia invented it" / "must use ristretto" / "no foam at all" / "Starbucks is the original"); how-to-order in 5 country contexts (Aus/NZ, UK, US specialty, Starbucks, Italy); how-to-make-at-home short version with cross-link; bottom-line + 5 cross-links; 13 FAQs in YAML faq + visible ### markdown headings.
+2. **4 inbound links on launch:** /guides/flat-white-vs-latte/ (intro paragraph extended); /guides/how-to-make-a-flat-white/ (after the "What Is a Flat White?" section opener); /guides/cortado-coffee/ (FAQ extended on the cortado-vs-flat-white answer); /guides/cappuccino-vs-latte/ (after "Flat white vs cappuccino: same size, different foam" line). Every anchor uses pre-existing topical match.
+3. **Sitemap re-submission this pulse** to push the 3 still-"URL unknown" recent guides (what-is-a-cappuccino, what-is-an-americano, what-is-a-frappe) into Google's discovery queue. Same procedural fix that worked Pulse 76 → produced 3 page-state advances within 10h.
+4. **No additional link-boost this pulse:** 4 inbound links to the new guide already moved 4 existing flat-white-cluster pages (equivalent equity move). Plus simple-syrup-recipe is held at pos 12 (2-day) and improved at 28-day pos 34.04 — Pulse 75 link-boost equity is still propagating, no new boost needed.
+
+**Critical insights from this pulse:**
+1. **red-eye-coffee 28-day pos 45.21 → 41.18** — 4-position drop after 3-pulse plateau. The compound link-boost equity is still propagating; just needed extra time. <40 milestone is now within ~1.18 positions and likely hits Pulse 79-80.
+2. **mocha-recipe 28-day pos 63 → 55.29** — 7+ position drop in one cycle. The Pulse 70+72 link-boost has now fully translated into 28-day rolling average. This is the largest single-pulse 28-day improvement in the experiment.
+3. **simple-syrup-recipe 28-day pos 35.39 → 34.04** — modest but compounding. The Pulse 75 link-boost continues to propagate.
+4. **The link-boost playbook is now validated 3 times** (red-eye-coffee, simple-syrup-recipe, mocha-recipe) at the 28-day rolling-average level. Pattern: link-boost → 2-day position improvement within 1-3 pulses → 28-day position improvement within 4-6 pulses. The compound equity model holds.
+5. **The flat-white decision** prioritized over /guides/what-is-cold-brew/ (9,900/mo LOW 12/100) because: (a) 22,200/mo head is more than double cold-brew's volume; (b) /guides/how-to-make-a-flat-white/ has been a 5-consecutive-pulse 2-day page-1 holder, so the new definitional companion gets equity from the strongest validated link-boost target on the site; (c) the Australia vs New Zealand origin + Starbucks Jan 2015 history is a uniquely deep angle that no competitor SERP page covers; (d) cannibalization is mitigated by /guides/flat-white-vs-latte/ already covering the comparison head term — leaves the new page as purely definitional.
+
+**DataForSEO this pulse:** $0.075 (10 flat-white cluster keywords). Cumulative spend remains well under daily budget.
+
+**Next focus (Pulse 79):**
+1. SC check — by Pulse 79 (~24h post-publish), what-is-a-flat-white should be 0-1 day old. Pulse 77 what-is-a-cappuccino will be ~24h old (currently still "URL is unknown" — should advance to "Discovered" if sitemap re-submission worked); Pulse 76 what-is-an-americano will be ~32h old (still "URL is unknown" — overdue, possible escalation needed); Pulse 75 what-is-a-frappe will be ~40h old (still "URL is unknown" — VERY overdue, needs escalation); Pulse 74 what-is-a-macchiato will be ~50h old ("Discovered"); Pulse 73 what-is-a-mocha will be ~4 days old ("Discovered"); Pulse 71 what-is-espresso will be ~6 days old (STILL "URL is unknown" — DEFINITELY escalate via per-URL "request indexing" in SC web UI); Pulse 70 decaf-coffee will be ~8.5 days ("Discovered" — overdue for first impressions). **The 6-day-old what-is-espresso 18,100/mo head is the highest-volume target stuck in indexing limbo.**
+2. **Pulse 79 candidate: write /guides/what-is-cold-brew/ targeting "what is cold brew" 9,900/mo LOW 12/100.** Smaller than flat-white/cappuccino/americano (22,200/mo) but a big topical anchor for the cold-brew cluster. Existing /guides/cold-brew-recipe/ + /guides/cold-brew-vs-espresso/ are both 2-day page-1 holders, so a definitional companion has good link-equity neighbors. /guides/cold-brew-recipe/ is on 28-day at pos 6 (page-1, saturated) — can't get higher; the new page captures definitional intent without cannibalization.
+3. Alternative Pulse 79: /guides/what-is-a-mocha-frappuccino/ ~14,800/mo LOW est. — captures the largest Frappuccino sub-variant search; existing /recipes/frappuccino-recipe/ + /guides/what-is-a-mocha/ + /guides/what-is-a-frappe/ create natural inbound link sources but the cluster is more crowded.
+4. DataForSEO Pulse 79: ~$0.05 batch on cold-brew cluster longtails — "cold brew vs iced coffee", "cold brew caffeine", "cold brew calories", "cold brew origin", "cold brew vs nitro".
+5. **Critical milestones to watch:**
+   - **red-eye-coffee 28-day position.** Currently 41.18 (just broke the 3-pulse plateau, dropped 4 positions). <40 by Pulse 79-80 = definitive validation; if it hits <40 next pulse, that's the cleanest signal yet.
+   - **mocha-recipe 28-day position.** Currently 55.29 (just dropped 7+ positions). Watch for further drop to <50 in Pulse 79-80.
+   - **simple-syrup-recipe 28-day position.** Currently 34.04. Watch for drop to <30 in Pulse 79-80.
+   - **simple-syrup-recipe 2-day position.** Currently held at 12 for 2 consecutive pulses. Watch for next breakthrough to <10.
+   - **what-is-espresso indexing escalation.** STILL "URL unknown" 6 days post-publish. Pulse 79 = manually request indexing for what-is-espresso (18,100/mo), what-is-an-americano (22,200/mo), and what-is-a-frappe (32,000/mo cluster head) via SC web UI if still URL unknown.
+6. Continue watching the 3 "Discovered" pages (decaf, mocha, macchiato) for first impressions within 1-7 days of state advance.
+
+**Pulse 77 wins (PRIOR):**
 
 **Pulse 77 SC update (28-day window):**
 - WHITE ESPRESSO: 168 imp pos 4.51 (28-day) — same as Pulse 76. Stable.
