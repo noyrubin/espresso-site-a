@@ -16,7 +16,7 @@ Here's how to make one properly.
 
 ## What Is a Flat White?
 
-A flat white is a small espresso drink made with a double [ristretto](/guides/ristretto-vs-espresso/) or double espresso and a small amount of velvety steamed milk (microfoam). It originated in Australia and New Zealand in the 1980s and arrived at international café chains in the 2010s.
+A flat white is a small espresso drink made with a double [ristretto](/guides/ristretto-vs-espresso/) or double espresso and a small amount of velvety steamed milk (microfoam). It originated in Australia and New Zealand in the 1980s and arrived at international café chains in the 2010s. (For the full definitional context — the disputed Sydney 1985 vs Wellington 1989 origin, the etymology of the name, the Starbucks January 2015 introduction, and how a flat white differs from a latte, cappuccino, and cortado — see our dedicated [What Is a Flat White?](/guides/what-is-a-flat-white/) guide.)
 
 **Key characteristics:**
 - Small: 5–6 oz (150–180ml) total volume

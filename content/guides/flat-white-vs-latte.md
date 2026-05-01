@@ -21,7 +21,7 @@ faq:
 
 Two espresso drinks with steamed milk, served in cups of different sizes. At first glance, a flat white and a latte look almost identical. But for coffee drinkers who care about strength and texture, the difference is meaningful.
 
-Here's exactly how they compare.
+Here's exactly how they compare. (For the broader definitional context — what a flat white actually is, the disputed Australia vs New Zealand origin, the etymology of the name, and how a flat white differs from a cappuccino, cortado, and macchiato — see our dedicated [What Is a Flat White?](/guides/what-is-a-flat-white/) guide.)
 
 ## The Short Answer
 

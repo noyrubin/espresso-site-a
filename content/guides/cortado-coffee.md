@@ -230,7 +230,7 @@ A: Yes. Make strong coffee using a Moka pot, AeroPress, or Nespresso pod as your
 
 **Q: What is the difference between a cortado and a flat white?**
 
-A: A cortado is 4oz with a 1:1 espresso-to-milk ratio. A flat white is 5-6oz with roughly a 1:2-3 ratio, and traditionally uses ristretto shots instead of a standard double. Both use silky microfoam with no dry foam layer, but a flat white is slightly larger and a bit milder. A cortado is more espresso-forward.
+A: A cortado is 4oz with a 1:1 espresso-to-milk ratio. A flat white is 5-6oz with roughly a 1:2-3 ratio, and traditionally uses ristretto shots instead of a standard double. Both use silky microfoam with no dry foam layer, but a flat white is slightly larger and a bit milder. A cortado is more espresso-forward. (For the full flat white definitional context — the disputed Australia vs New Zealand origin, the etymology, and how it differs from every other milk drink — see our [What Is a Flat White?](/guides/what-is-a-flat-white/) guide.)
 {{< /faq >}}
 
 ---

@@ -124,7 +124,7 @@ The flat white lives between a cappuccino and a latte:
 
 The key distinction: cappuccinos have a distinct foam layer. Flat whites use microfoam throughout with no separate foam — similar to a latte but in a smaller cup with a stronger espresso-to-milk ratio.
 
-**Flat white vs cappuccino:** Same size, different foam. If you want a small strong drink without thick foam, choose a flat white.
+**Flat white vs cappuccino:** Same size, different foam. If you want a small strong drink without thick foam, choose a flat white. (For the full flat white definitional context — the disputed Australia vs New Zealand origin, the Sydney 1985 vs Wellington 1989 origin stories, the etymology, and how a flat white differs from every other espresso drink — see our [What Is a Flat White?](/guides/what-is-a-flat-white/) guide.)
 
 ---
 
