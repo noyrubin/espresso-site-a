@@ -55,7 +55,7 @@ The Pulse 76 strategy choice: with /guides/americano-vs-espresso/ at 28-day pos 
 5. **Critical milestones to watch:**
    - red-eye-coffee 28-day position. Currently 45.2 (held flat from Pulse 75). <40 by Pulse 78-79 = definitive validation of compound link-boost equity.
    - simple-syrup-recipe 2-day position post-link-boost. Currently pos 21 (4 consecutive pulses). The Pulse 75 link-boost should produce movement within 1-2 more pulses if the red-eye pattern holds.
-6. **If 4+ recent /guides/what-is-X/ pages are still "URL is unknown to Google" by Pulse 77, run a sitemap submission and Index Coverage check.** This many fresh pages stuck in the indexing window suggests something structural may be slowing crawl.
+6. ~~**If 4+ recent /guides/what-is-X/ pages are still "URL is unknown to Google" by Pulse 77, run a sitemap submission and Index Coverage check.**~~ **DONE during Pulse 76 duplicate-trigger run (~07:00 IDT).** SC sitemap had `lastDownloaded: 2026-04-26` (5 days stale) and `submitted: 417 / indexed: 0`. All 5 most recent /guides/what-is-X/ articles (Pulses 70, 71, 73, 74, 75) confirmed `URL is unknown to Google` via inspect API. **Sitemap re-submitted via API.** Watch by Pulse 77-78 for an indexing wave. If 4+ pages STILL show `URL is unknown` by Pulse 78, escalate to per-URL "request indexing" in SC for the 3 highest-volume targets: what-is-a-macchiato (33,100/mo), what-is-an-americano (22,200/mo), what-is-espresso (18,100/mo).
 7. Consider monitoring tag-page momentum — the 12 high-position tag pages in 28-day SC are an emergent topical-authority signal worth tracking.
 
 **Pulse 75 wins (PRIOR):**
