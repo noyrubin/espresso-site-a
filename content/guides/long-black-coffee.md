@@ -37,6 +37,8 @@ The pour order matters more than it seems. Crema is made of CO₂ bubbles and co
 
 A long black is also significantly smaller. If you're used to Americanos, the size can feel like a shot glass at first — but you're getting the same espresso in a smaller volume, so the flavor is more forward.
 
+(For the full definitional breakdown of the Americano side of this comparison — what's actually in one, the WWII origin story, why Italians invented it for Americans, and the caffeine math by Starbucks size — see our [What Is an Americano?](/guides/what-is-an-americano/) guide.)
+
 ## How to Make a Long Black at Home
 
 You need an espresso machine and a double basket. No machine? See the shortcuts section below.

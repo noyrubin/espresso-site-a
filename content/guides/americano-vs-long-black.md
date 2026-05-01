@@ -33,6 +33,8 @@ To make an Americano, you pull your espresso shot directly into hot water. The e
 
 The resulting drink has a relatively mild, clean flavor. The crema breaks up and distributes through the drink, giving it a slightly rounder taste. Because the espresso mixes with water, the overall intensity is similar to drip coffee — but the flavor profile is different. Espresso-brewed coffee has distinct characteristics that don't taste exactly like pour-over.
 
+(For the full definitional context on the Americano side — the WWII Italian origin, the two pour orders, comparison tables against drip, lungo, and latte, plus the caffeine math by Starbucks size — see our dedicated [What Is an Americano?](/guides/what-is-an-americano/) guide.)
+
 ## Long Black: Water First, Then Espresso
 
 To make a long black, you put the hot water in the cup first, then pull or pour espresso over the top. The espresso floats on the water briefly, preserving the crema layer.

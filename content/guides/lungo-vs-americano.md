@@ -63,6 +63,8 @@ An **Americano** is a standard double espresso shot with hot water added in the 
 
 The espresso is pulled at the normal 1:2 ratio first, then the water is added. This means you get the full flavor development of a proper espresso shot, just diluted to a lower concentration.
 
+(For the full definitional context — the WWII Italian origin of the name, the two pour orders, comparison tables against drip coffee, long black, and latte, plus how to order one anywhere in the world — see our dedicated [What Is an Americano?](/guides/what-is-an-americano/) guide.)
+
 ### How to Make an Americano
 
 There are two approaches, and they taste different:

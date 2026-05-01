@@ -29,7 +29,7 @@ This guide covers the classic recipe, the best water-to-espresso ratio, flavored
 
 ## What Is an Iced Americano?
 
-An iced americano is the cold version of a [classic americano](/guides/americano-vs-long-black/) — espresso shots diluted with cold water and poured over ice. The drink originated from the americano (hot espresso + hot water), itself named for American soldiers in WWII who diluted European espresso to make it more like the drip coffee they were used to.
+An iced americano is the cold version of a [classic americano](/guides/what-is-an-americano/) — espresso shots diluted with cold water and poured over ice. The drink originated from the americano (hot espresso + hot water), itself named for American soldiers in WWII who diluted European espresso to make it more like the drip coffee they were used to.
 
 The cold version has become a staple of modern coffee culture, especially for those who want bold coffee flavor without the heaviness of milk. Unlike an iced latte, an iced americano contains no dairy — just espresso, water, and ice.
 

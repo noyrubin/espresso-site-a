@@ -33,6 +33,8 @@ The result:
 - The crema disperses and rises to the surface as a thin layer
 - A longer, more sessionable drink
 
+(For the full definitional breakdown — what's actually in an Americano, the two pour orders, the WWII origin story, comparison tables against drip coffee, lungo, long black, and latte, plus how to order one anywhere — see our [What Is an Americano?](/guides/what-is-an-americano/) guide.)
+
 ### Where Did the Name Come From?
 
 The origin story: during World War II, American soldiers stationed in Italy found straight espresso too strong. They diluted it with hot water to get something closer to the drip coffee they were used to. Italians — amused — called it a "caffè americano."
