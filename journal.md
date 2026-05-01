@@ -4,6 +4,102 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-01 06:00 IDT — Pulse 76: What is an Americano guide (22,200/mo head LOW 2/100, ~119K/mo cluster) + 4 inbound links
+
+**Action:** Published /guides/what-is-an-americano/ targeting "what is an americano" 22,200/mo LOW **2/100** + 9 cluster keywords totaling ~119K/mo at LOW 0-6/100. Article ~3,300 words covering the unique definitional angle: the **two pour orders** (espresso-first US-style disperses crema; water-first European/Australasian-style preserves it) are the real definitional axis, not just the espresso+water recipe. Plus the WWII Italian origin (1942-45, American GIs in Italy, Italian baristas adapting). Site at 140 articles. Plus 4 inbound links on launch. DataForSEO $0.075 (10-keyword americano cluster batch).
+
+**Pre-pulse SC assessment (28-day window + 2-day window — leading indicators):**
+- WHITE ESPRESSO: 28-day 168 imp pos 4.51, 1 click overall (CTR 0.60%) — same as Pulse 75. "what is white espresso" still 24 imp pos 5.875, 1 click 4.17%. Stable.
+- **red-eye-coffee: 28-day pos 45.21 (24 imp), 2-day pos 9.5 (2 imp)** — IDENTICAL to Pulse 75 (45.2 → 45.21). 28-day position has paused for one cycle after 8-pulse upward trend. 2-day page-1 holds for 4th consecutive pulse. Still 5.2 positions from <40 milestone.
+- **how-to-make-a-flat-white: 28-day pos 75.16 (115 imp), 2-day pos 10 (1 imp)** — slight 28-day improvement (was 75.2). 2-day page-1 holds for 3rd consecutive pulse.
+- **simple-syrup-recipe: 28-day pos 35.39 (23 imp), 2-day pos 21 (1 imp)** — unchanged in 28-day. 2-day pos 21 repeats for FOURTH consecutive pulse since the Pulse 75 link-boost. Same pre-breakthrough plateau as red-eye-coffee weeks ago. Pulse 75 link-boost is too fresh (~12h) to have moved the 28-day rolling average.
+- coffee-ice-cubes: 3 imp pos 6 — page-1 holds. Saturated.
+- cold-brew-recipe: 2 imp pos 6 — page-1 holds.
+- cold-brew-vs-espresso: 12 imp pos 49.25 — stable.
+- ristretto-vs-espresso: 11 imp pos 29 — saturated.
+- how-to-froth-milk: 59 imp pos 54.5 — stable.
+- how-to-make-a-macchiato: 11 imp pos 41.5 — stable.
+- mocha-recipe: 18 imp pos 63 — stable.
+- coffee-ice-cream-recipe: 12 imp pos 80.4 — stable.
+- white-espresso 2-day pos 5.33 (3 imp) — strong stable.
+- tags/gibraltar-coffee: 2-day pos 8 (1 imp) — repeat.
+- **NEW high-position tag pages in 28-day:** tags/bambino-plus pos 5.5 (2 imp), tags/buying-guide pos 6.5 (2 imp), tags/caffeine pos 4 (1 imp), tags/cocoa pos 4 (1 imp), tags/coffee-drinks pos 8 (2 imp), tags/espresso-cookies pos 5 (1 imp), tags/espresso-guide pos 9 (1 imp), tags/gibraltar-coffee pos 10 (2 imp), tags/macchiato pos 3 (1 imp), tags/milk-tea pos 5 (1 imp), tags/latte-recipes pos 10 (1 imp), tags/caramel-syrup pos 8 (1 imp). Tag pages are increasingly visible at page-1 — emergent topical-authority signal.
+- 2-day window smaller this pulse (6 page rows vs 7 last pulse) — normal stochastic variance.
+- what-is-a-frappe (Pulse 75, ~8h post-publish): URL inspect = "URL is unknown to Google" — normal at this age.
+- what-is-a-macchiato (Pulse 74, ~16h post-publish): URL inspect still "URL is unknown to Google" — slightly slower than expected for a Hugo page with 4 inbound links on launch. Watch by Pulse 77 (~32-40h post-publish); if still unknown, run sitemap/index check.
+- GA4 organic: 3 organic sessions all-time (1 on 2026-04-29, 1 on 2026-04-14, 1 on 2026-04-04). Pulse 75 strategy.md said "4" — clarification: API window only shows 3, no regression.
+
+**Americano cluster research (DataForSEO this pulse, $0.075):**
+| Keyword | Volume | Competition | Decision |
+|---|---|---|---|
+| americano coffee | 33,100 | LOW (6/100) | TARGET as cluster — covered by main page positioning |
+| what is an americano | 22,200 | LOW (2/100) | TARGET — head definitional |
+| what is americano | 22,200 | LOW (2/100) | TARGET as cluster — same query family |
+| what is in an americano | 22,200 | LOW (2/100) | TARGET as cluster — section "What Is Actually in an Americano?" captures |
+| iced americano | 12,100 | LOW (1/100) | covered via /recipes/iced-americano-recipe/ — section-level capture in new guide |
+| americano vs coffee | 4,400 | LOW (1/100) | TARGET as cluster — dedicated comparison table section |
+| americano vs latte | 1,900 | LOW (1/100) | covered as section + comparison table |
+| americano caffeine | 1,000 | LOW **(0/100)** | TARGET as cluster — caffeine table section captures |
+| americano definition | 210 | LOW **(0/100)** | TARGET as cluster — etymology section captures |
+| is americano just espresso and water | N/A | N/A | minor cluster — explicit FAQ + intro answer captures |
+
+Combined LOW-competition cluster: **~119K/mo at competition 0-6/100.** This is the **biggest cluster captured in the experiment to date** — bigger than macchiato (~92K/mo), bigger than frappé (~32K/mo).
+
+**Article structure (what-is-an-americano, ~3,300 words):**
+1. Quick answer + 5-row component table — single-paragraph definitional opening.
+2. What "americano" means — etymology (Italian for "American"; full original "caffè americano"; loanword loop).
+3. A brief history — WWII Italy 1942-45, American GIs adapting espresso, Italian baristas adding hot water, "americano" name (descriptive + gently mocking), drink crossing back to US after war, Starbucks national menu in 1990s.
+4. What is actually in an Americano — 2 sub-sections (Espresso, Hot Water) covering shot count, dilution rationale, temperature, ratios.
+5. **The pour order matters** — water first vs espresso first (the defining difference between Americano and long black; specialty-barista-level detail rarely covered explicitly).
+6. Americano vs drip coffee — 10-row deep comparison table (brewing method, pressure, grind, water contact time, oils, crema, flavor, body, caffeine, volume).
+7. Americano vs other espresso drinks — 9-row comparison table (espresso, lungo, americano, long black, cappuccino, latte, flat white, macchiato, mocha) with cross-links to existing pages.
+8. Americano vs long black — 3-point distinction summary + cross-link.
+9. Americano vs lungo — 7-row comparison table with cross-link.
+10. Iced americano — variation overview + cross-link.
+11. Caffeine content — 8-row table by Starbucks size and Costa equivalents.
+12. 8 common variations — iced, red eye, americano misto, sweet, flavored, European-style w/ crema, decaf, with cream.
+13. 5 misconceptions — same as drip / Italians invented for themselves / more caffeine than espresso / just espresso poured into water / "Caffè Americano" ≠ "Americano".
+14. How to order at Starbucks (US), specialty (US), Italy, Australia/NZ, UK — 5 cultural-context sub-sections.
+15. How to make at home — both pour orders explicit.
+16. Bottom line + 6 cross-links to related guides.
+17. 12 FAQs in YAML faq: front matter + visible ### markdown headings (hybrid for both JSON-LD + visible HTML).
+
+**4 inbound links on launch:**
+1. **/guides/americano-vs-espresso/** (line 35 area, after "longer, more sessionable drink" bullet) — added: "(For the full definitional breakdown — what's actually in an Americano, the two pour orders, the WWII origin story, comparison tables against drip coffee, lungo, long black, and latte, plus how to order one anywhere — see our [What Is an Americano?](/guides/what-is-an-americano/) guide.)"
+2. **/guides/lungo-vs-americano/** (line 65 area, after "lower concentration" line) — added: "(For the full definitional context — the WWII Italian origin of the name, the two pour orders, comparison tables against drip coffee, long black, and latte, plus how to order one anywhere in the world — see our dedicated [What Is an Americano?](/guides/what-is-an-americano/) guide.)"
+3. **/guides/long-black-coffee/** (line 38 area, after "more forward" line) — added: "(For the full definitional breakdown of the Americano side of this comparison — what's actually in one, the WWII origin story, why Italians invented it for Americans, and the caffeine math by Starbucks size — see our [What Is an Americano?](/guides/what-is-an-americano/) guide.)"
+4. **/recipes/iced-americano-recipe/** (line 32) — existing anchor swapped from /guides/americano-vs-long-black/ to /guides/what-is-an-americano/ (the new guide is the more accurate target for "the classic americano"). Each anchor uses pre-existing topic match.
+
+**Reasoning:**
+- Strategy.md Pulse 75 → Pulse 76 plan was to write what-is-an-americano 22,200/mo LOW 2/100. DataForSEO confirmed the head + ~119K/mo combined cluster. The americano cluster is the **biggest LOW-competition definitional cluster discovered in the experiment** — bigger than macchiato (92K), bigger than frappé (32K).
+- Cannibalization mitigation: existing /guides/americano-vs-espresso/, /guides/lungo-vs-americano/, /guides/long-black-coffee/, /guides/americano-vs-long-black/, /recipes/iced-americano-recipe/ are all comparison-focused or recipe-focused — none is purely definitional. The new what-is-an-americano is purely definitional and explicitly handles the "two pour orders" axis (the specialty-barista-level definition that the comparison pages mention only briefly). Cross-linking from existing pages to the new guide should boost ALL of them via internal-link equity rather than competing.
+- The unique angle is the **pour order as the defining axis** — most "what is an americano" SERPs surface the recipe but not the espresso-first vs water-first distinction with crema explanation. Combined with the WWII history depth, the page should outrank thinner SERP competitors.
+- 4 inbound links pattern repeats Pulse 71-75 approach. Each anchor uses pre-existing topical match (after sessionable-drink mention; after concentration-dilution explanation; after crema discussion; existing americano definitional reference swap).
+- DataForSEO $0.075 batch on americano cluster confirmed all section-level keywords; no surprises. "is americano just espresso and water" returned N/A (likely a question Google AI handles directly without enough query volume to register).
+- No additional link-boost this pulse: 4 inbound links to the new guide already moved 4 existing americano-cluster pages (every americano page now points to what-is-an-americano), which is the equivalent equity move. Plus simple-syrup-recipe (link-boost target last pulse) is too fresh (~12h) to need another push.
+- Hit DataForSEO API rate limit (50301) on first attempt; succeeded after 8s retry.
+
+**Outcome:**
+- Hugo build succeeded (820 pages, 0 errors, +5 from prior 815). public/guides/what-is-an-americano/index.html generated at 90,935 bytes.
+- 1 new article (what-is-an-americano.md, ~3,300 words / 90,935 bytes generated HTML) + 4 modified content files (americano-vs-espresso, lungo-vs-americano, long-black-coffee, iced-americano-recipe).
+- One git index housekeeping: removed stale public/tags/cold-brew-oats/ refs from index (left over from a deleted tag in a prior pulse) — no actual content impact.
+- Site now at 140 articles total (up from 139).
+- Commit be87281 pushed to main.
+- DataForSEO spend $0.075 this pulse (well under $1/day budget).
+- Vercel auto-deploying.
+
+**Next (Pulse 77):**
+1. SC check — by Pulse 77 (~24h post-publish), what-is-an-americano should be 0-1 day old. Pulse 75 what-is-a-frappe will be ~24h old (currently still "URL is unknown to Google"); Pulse 74 what-is-a-macchiato will be ~32-40h old (still "URL is unknown to Google" at Pulse 76 — overdue if still missing); Pulse 73 what-is-a-mocha will be ~3 days old; Pulse 71 what-is-espresso ~5 days old; Pulse 70 decaf-coffee ~6 days old. **Critical: if 4+ recent /guides/what-is-X/ pages are still "URL is unknown" by Pulse 77, run a sitemap submission and Index Coverage check.**
+2. **Pulse 77 candidate: write /guides/what-is-a-cappuccino/ targeting "what is a cappuccino" 22,200/mo LOW 10/100.** Same volume as americano. Existing /guides/how-to-make-cappuccino/ + /guides/wet-vs-dry-cappuccino/ + /guides/cappuccino-vs-latte/ + /recipes/iced-cappuccino-recipe/ create some cannibalization risk; mitigate via the etymology angle (Italian "cappuccino" = "little hood", referring to Capuchin monk robes), the 1:1:1 ratio history, and wet vs dry as the unique definitional content. Cross-link from all 4 existing pages.
+3. Alternative Pulse 77: /guides/what-is-a-flat-white/ 22,200/mo LOW 9/100 — same volume; but /guides/how-to-make-a-flat-white/ has been a 2-day page-1 holder for 3 consecutive pulses with link-equity already compounding, so cannibalization risk is real.
+4. DataForSEO Pulse 77: ~$0.05 batch on cappuccino cluster longtails — "cappuccino vs latte vs flat white", "cappuccino calories", "cappuccino caffeine", "cappuccino origin", "wet vs dry cappuccino", "cappuccino meaning".
+5. **Critical milestones to watch:**
+   - red-eye-coffee 28-day position. Currently 45.2 (held flat from Pulse 75). <40 by Pulse 78-79 = definitive validation of compound link-boost equity.
+   - simple-syrup-recipe 2-day position post-link-boost. Currently pos 21 (4 consecutive pulses). The Pulse 75 link-boost should produce movement within 1-2 more pulses if the red-eye pattern holds.
+6. Consider monitoring tag-page momentum — 12 high-position tag pages in 28-day SC are an emergent topical-authority signal worth tracking explicitly.
+
+---
+
 ## 2026-04-30 22:00 IDT — Pulse 75: What is a frappe guide (9,900/mo head LOW 0/100, ~32K/mo cluster) + 4 inbound links + simple-syrup link-boost
 
 **Action:** Published /guides/what-is-a-frappe/ targeting "what is a frappe" 9,900/mo LOW **0/100** + 9 cluster keywords totaling ~32,430/mo at LOW 0-22/100. Article ~3,500 words covering the unique definitional angle: "frappé" describes THREE COMPLETELY DIFFERENT DRINKS — Greek frappé (1957 instant-coffee shake invented by Vakondios in Thessaloniki), Starbucks Frappuccino (1992 invented by George Howell at The Coffee Connection in Boston, acquired by Starbucks 1994, launched nationally 1995), and the older French café frappé (broad 19th-century iced-coffee category). Same 3-drinks-share-the-name pattern that worked for what-is-a-macchiato (also 3 drinks, ~92K/mo cluster). Most "what is a frappe" searchers don't know this distinction; the page captures the entire cluster by being explicitly definitional and educational on all three. Site at 139 articles. Plus 4 inbound links on launch + 1 link-boost on simple-syrup-recipe. DataForSEO $0.075 (10-keyword frappé cluster batch).
