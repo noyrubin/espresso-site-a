@@ -14,6 +14,8 @@ schema:
 
 A **dirty chai latte** is what happens when espresso and spiced chai tea fall in love. The result is a drink that hits every note — warming spices, bold coffee kick, creamy milk — in a single cup. If you've only ever ordered one at a café, you're in for a treat: this is one of the easiest specialty drinks to make at home, and the homemade version is almost always better.
 
+(For the full definitional context — what a dirty chai actually is, where the term "dirty" came from, the U.S. specialty-café 1990s-2000s origin story, how it differs from a regular chai latte and from a masala chai and from a plain latte, plus caffeine and calorie tables and how to order one anywhere — see our [What Is a Dirty Chai?](/guides/what-is-dirty-chai/) guide.)
+
 ## What Is a Dirty Chai Latte?
 
 A dirty chai latte is a chai tea latte with one or two shots of espresso added. The word "dirty" means spiked with coffee — the same way a "dirty martini" has olive brine added. The espresso adds depth, bitterness, and an extra caffeine boost to the sweet, spiced chai base.

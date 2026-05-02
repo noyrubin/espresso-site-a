@@ -27,6 +27,8 @@ A great chai latte starts with one thing: **real spices**. The kind that smell l
 
 This guide covers everything — a quick 10-minute version for weekdays, a deeper concentrate method for batching, hot and iced formats, and the spice ratios that actually matter.
 
+(For the espresso-spiked variation that adds a shot of coffee to this same base — the popular U.S. specialty-café drink known as a "dirty chai" — see our [What Is a Dirty Chai?](/guides/what-is-dirty-chai/) guide. It covers the etymology of "dirty," the 1990s-2000s Pacific Northwest origin story, the caffeine and calorie math, and exactly how a dirty chai differs from this regular chai latte recipe.)
+
 ## What Is a Chai Latte?
 
 A chai latte is a spiced tea drink made from black tea brewed with aromatic spices (cardamom, cinnamon, ginger, cloves, black pepper), combined with steamed or frothed milk. "Chai" literally means tea in Hindi — so "chai tea latte" is technically redundant, but widely understood.

@@ -31,6 +31,8 @@ The key is the concentrate. Make it yourself, and you control the sweetness and 
 
 Here's everything you need, including the homemade concentrate recipe and three variations.
 
+(For the iced version with an espresso shot added — the popular "iced dirty chai" — see our [What Is a Dirty Chai?](/guides/what-is-dirty-chai/) guide for the full definitional context, plus how the iced dirty chai differs from this plain iced chai latte in caffeine, calories, and flavor.)
+
 ---
 
 ## What Is an Iced Chai Latte?

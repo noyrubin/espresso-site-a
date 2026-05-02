@@ -37,6 +37,8 @@ This guide explains what espresso actually is, how the brewing differs from drip
 
 (For the most famous espresso-as-dessert application — the classic Italian *affogato al caffè*, where a hot espresso shot is poured over a scoop of *fior di latte* or vanilla gelato and eaten with a spoon — see our [What Is an Affogato?](/guides/what-is-an-affogato/) guide.)
 
+(For the popular U.S. specialty-café drink that adds an espresso shot to a chai tea latte — the "dirty chai" — see our [What Is a Dirty Chai?](/guides/what-is-dirty-chai/) guide. The dirty chai is one of the most-ordered espresso applications outside of pure coffee drinks, with the espresso shot adding 60-80 mg of caffeine and bitterness to the otherwise sweet, spiced chai base.)
+
 ---
 
 ## What Espresso Actually Is
