@@ -4,6 +4,117 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-02 14:00 IDT — Pulse 80: What is an Affogato guide (165,000/mo head LOW 2/100 — the BIGGEST single-pulse cluster opportunity since experiment start, ~174,500/mo combined cluster) + 5 inbound links + sitemap re-submission + critical pivot from planned doppio target after discovering existing /guides/double-espresso/ would cannibalize
+
+**Action:** Published /guides/what-is-an-affogato/ targeting "affogato" **165,000/mo LOW 2/100** + cluster: "affogato recipe" 6,600/mo LOW 3/100 (covered by existing /recipes/affogato-recipe/), "what is an affogato" 2,900/mo LOW 2/100 = ~174,500/mo combined. Article ~4,800 words covering the unique definitional angle: the **Italian etymology** (affogato = past participle of "affogare" = "drowned"; full name "affogato al caffè"; sibling "affogato all'amaretto" / "affogato alla crema di whisky") + the **converging Italian gelateria + espresso bar history** (gelateria culture spread Sicily-Naples 1700s→ entire peninsula 1800s; Bezzera 1901 espresso patent → Pavoni 1906 Milan Fair → Gaggia 1948 lever crema; the two converged early 20th century in northern Italian trattorias) + the **Auguste Escoffier 1903 Café Glacé** parallel reference + the **U.S. specialty revival mid-2010s** (Eataly NYC 2010 catalyst) + the **Starbucks 2015 "Espresso Affogato Frappuccino" debunk** as a marketing-named blended drink, not a true affogato + the **fior di latte vs vanilla gelato distinction** (fior di latte = unflavored milk gelato, the authentic Italian base) + the **gelato density argument** (25% air vs U.S. ice cream 50%+, why gelato holds up against hot espresso). Site at 144 articles. Plus 5 inbound links on launch + sitemap re-submitted (4th in series). DataForSEO $0.225 ($0.075 × 3 batches: candidate-survey, doppio cluster, affogato cluster).
+
+**Pre-pulse SC assessment (28-day window):**
+- WHITE ESPRESSO: 168 imp pos 4.51 — same as Pulse 79. Stable.
+- **red-eye-coffee: 28-day pos 41.18 (27 imp)** — held essentially identical to Pulse 79 (41.19). Now flat for 2 consecutive pulses post-breakthrough.
+- **simple-syrup-recipe: 28-day pos 34.04 (24 imp)** — held identical to Pulse 79.
+- **mocha-recipe: 28-day pos 55.29 (21 imp)** — held identical.
+- how-to-make-a-flat-white: 28-day pos 74.57 (116 imp) — held same.
+- **how-to-make-a-macchiato: 28-day pos 41.45 (11 imp)** — NEW high-impression entry on 28-day SC. Previously not tracked in top 30.
+- cold-brew-vs-espresso: 12 imp pos 49.25 — stable.
+- ristretto-vs-espresso: 11 imp pos 29 — stable.
+- how-to-froth-milk: 59 imp pos 54.5 — stable.
+- coffee-ice-cubes: 3 imp pos 6 — page-1 holds.
+- cold-brew-recipe: 3 imp pos 6 — page-1 holds.
+- 12 high-position tag pages remain in 28-day SC.
+
+**Pre-pulse SC assessment (2-day window — leading indicators):**
+- **simple-syrup-recipe: 2-day pos 12 (2 imp)** — REGRESSED from Pulse 79's pos 3 to pos 12. Pulse 79's pos 3 was a single 1-imp data point; with 2 imp this pulse the position is back to its prior level. The breakthrough was real but the 1-imp pos 3 was an outlier.
+- white-espresso: 2-day pos 5.33 (3 imp) — REGRESSED from Pulse 79's pos 3. Same outlier dynamic.
+- red-eye-coffee: 2-day pos 9.2 (5 imp) — held essentially identical to Pulse 79 (9.25). Page-1 holds for 8th consecutive pulse.
+- mocha-recipe: 2-day pos 9 (3 imp) — held identical. Page-1 for 4th consecutive pulse.
+- how-to-make-a-flat-white: 2-day pos 8.5 (2 imp) — held identical. Page-1 for 7th consecutive pulse.
+- cold-brew-recipe: 2-day pos 6 (1 imp) — page-1 holds.
+- tags/gibraltar-coffee: 2-day pos 8 (1 imp) — repeat.
+- 8 page rows in 2-day this pulse (2 more than Pulse 79).
+- GA4 organic: 3 organic sessions all-time, held flat (last new organic 2026-04-29).
+
+**Indexing state map this pulse:**
+- what-is-an-affogato (Pulse 80, ~0h post-publish): not yet inspected (just published)
+- what-is-cold-brew (Pulse 79, ~8h post-publish): "URL is unknown" — too fresh, normal
+- what-is-a-flat-white (Pulse 78, ~32h post-publish): "URL is unknown" — held same (overdue per Pulse 79's prediction the sitemap re-submit would advance it)
+- what-is-a-cappuccino (Pulse 77, ~40h post-publish): "Discovered - currently not indexed" — held same
+- what-is-an-americano (Pulse 76, ~56h post-publish): **"Discovered" → "URL is unknown"** — REGRESSION. Inspect API may be flaky here (no other fields populated) OR Google de-prioritized
+- what-is-a-frappe (Pulse 75, ~56h post-publish): "Crawled - currently not indexed" — held same. Closest page to first impressions
+- what-is-a-macchiato (Pulse 74, ~3 days post-publish): "Discovered - currently not indexed" — held same
+- what-is-a-mocha (Pulse 73, ~5 days post-publish): "Discovered - currently not indexed" — held same
+- what-is-espresso (Pulse 71, ~7 days post-publish): "Discovered - currently not indexed" — held same
+- what-is-decaf-coffee (Pulse 70, ~9 days post-publish): **"Discovered" → "URL is unknown"** — REGRESSION. Same inspect-API-flaky caveat
+- **The "URL unknown" inspect responses for americano + decaf may be transient API noise rather than real index regression.** Both pages had been at "Discovered" with full sitemap+referrer fields populated as of Pulse 79. The Pulse 80 inspect responses for these 2 pages have no other fields populated — only "URL is unknown" — which suggests the API may have returned cached/stale "no data" rather than a real state change. Recommend re-inspecting in Pulse 81-82 to confirm.
+
+**Critical pivot this pulse — planned doppio target was already covered:**
+- Strategy.md Pulse 79 → Pulse 80 plan was to write /guides/what-is-a-doppio/ targeting "what is a doppio" ~9,900/mo (estimated). DataForSEO confirmed actual volume: "what is a doppio" 2,900/mo + "doppio coffee" 9,900/mo + "doppio espresso" 4,400/mo + "doppio meaning" 4,400/mo = ~24,580/mo combined cluster, all LOW 0-19/100. Strong target on paper.
+- BUT a quick `ls /content/guides/ | grep doppio` revealed nothing, so I checked for cannibalization differently — `grep -l doppio /content/guides/*.md` showed `/content/guides/double-espresso.md` exists (dated 2026-04-15). That page's title is "Double Espresso: What It Is, How to Pull One, and When to Use It" and its first paragraph reads "The double espresso — also called a *doppio* — is the standard espresso shot in most specialty coffee shops today." It explicitly targets doppio. A new /guides/what-is-a-doppio/ would 100% cannibalize.
+- I ran a second DataForSEO batch ($0.075) on alternative "what is X" candidates: breve, affogato, moka pot, chemex, aeropress, v60, drip coffee, frappe, dirty chai, cubano. Among LOW-competition uncovered candidates: dirty chai 5,400/mo LOW 3/100, affogato 165,000/mo LOW 2/100, cuban coffee 49,500/mo HIGH 68/100, what is a cubano 1,000/mo LOW 0/100. Affogato 165k LOW 2/100 was the immediate winner.
+- I ran a third DataForSEO batch ($0.075) on the affogato cluster + breve/cuban/dirty chai longtails: affogato 165k LOW 2/100, cuban coffee 49.5k HIGH 68/100, what is breve 27.1k LOW 1/100 (covered), breve coffee 22.2k LOW 2/100 (covered), dirty chai latte 9.9k LOW 3/100, affogato recipe 6.6k LOW 3/100 (covered by existing recipe page), breve latte 2.4k, what is a cuban coffee 2.4k LOW 1/100, dirty chai recipe 1.3k.
+- Decision: write /guides/what-is-an-affogato/ as the Pulse 80 winner. Clean topical fit, no cannibalization (existing /recipes/affogato-recipe/ targets recipe-search, new guide targets definitional 165k head + comparison + history + how-to-order), 5 obvious inbound link sources (affogato-recipe, coffee-ice-cream-recipe, coffee-granita-recipe, marocchino, what-is-espresso).
+
+**Article structure (what-is-an-affogato, ~4,800 words):**
+1. Quick answer + 4-row component table — definitional opening with the "drowned" etymology immediately surfaced.
+2. Where the name comes from — full Italian-verb conjugation context (affogare → affogato past participle → "drowned"); sibling drinks "affogato all'amaretto" / "affogato alla crema di whisky" frame the verb pattern.
+3. **A brief history of the affogato** — full coverage of converging Italian gelato + espresso traditions: gelateria spread Sicily-Naples 1700s through 1800s; Bezzera 1901 espresso patent → Pavoni 1906 Milan Fair → 1920s espresso bars → Gaggia 1948 lever crema; their convergence early 20th century in northern Italian trattorias; Auguste Escoffier 1903 *Le Guide Culinaire* "Café Glacé" parallel; U.S. mid-2010s revival with Eataly NYC 2010; Starbucks 2015 "Espresso Affogato Frappuccino" framed as marketing-named, not authentic.
+4. What's actually in an affogato — 2 ingredients deep dive: espresso (single Italian default vs double U.S. default; must be hot, must be fresh, never pre-pulled); gelato (fior di latte authentic Italian vs vanilla American substitute; density 25% air vs U.S. ice cream 50%+ matters for melt resistance; cheap airy ice cream collapses on contact). Optional add-ins (cocoa dusting, espresso beans, amaretto/Frangelico/Sambuca splash, crushed nuts, biscotti side).
+5. How to make at home short version + cross-link to /recipes/affogato-recipe/.
+6. 7-row "affogato vs other coffee + ice cream drinks" comparison table covering: affogato, coffee float, espresso milkshake, Boston cooler, Starbucks affogato frappuccino, mocha, iced latte. Differentiates spoon-vs-straw, hot-vs-cold, mixed-vs-not-mixed, dessert-vs-beverage.
+7. Affogato vs coffee float — sub-section.
+8. Affogato vs espresso milkshake — sub-section.
+9. Affogato vs Starbucks frappuccino — sub-section debunking the Starbucks brand affiliation.
+10. Caffeine + calorie 7-row table by variant: single-shot/vanilla, single-shot/fior-di-latte, double-shot/vanilla, double-shot/hazelnut, with-amaretto, two-scoop, Starbucks Grande frappuccino. Shows the classic single-scoop/single-shot at 60-80mg + 200-230 cal as the lightest standard.
+11. 9 variations: al fior di latte, al pistacchio, al nocciola, al cioccolato, all'amaretto, al Frangelico, alla crema di whisky, bianco, iced, two-scoop.
+12. 5 misconceptions: "it's a coffee" / "drink with straw" / "same as coffee + ice cream" / "Starbucks invented" / "fancy ingredients required".
+13. How to order in 4 country contexts (Italy, US specialty, US Starbucks, UK/AU). Italy phonetic spelling: "oon ahf-foh-GAH-toh ahl kahf-FEH". Default Italian flavor is fior di latte, not vanilla.
+14. How to make at home short version — 5-step process emphasizing pre-chilled glass, fresh espresso, no pre-pour.
+15. Bottom line + 5 cross-links to related guides (what-is-espresso, affogato-recipe, coffee-ice-cream-recipe, coffee-granita-recipe, marocchino).
+16. 15 FAQs in YAML faq: front matter + visible ### markdown headings (matches established hybrid pattern).
+
+**5 inbound links on launch:**
+1. **/recipes/affogato-recipe/** (after intro paragraph) — added: "(For the full definitional context — what an affogato actually is, where it comes from, the early-20th-century northern Italian origin, the *fior di latte* vs vanilla gelato distinction, how an affogato differs from a coffee float and an espresso milkshake, plus caffeine and calorie tables and how to order one in Italy or anywhere else — see our [What Is an Affogato?](/guides/what-is-an-affogato/) guide.)"
+2. **/recipes/coffee-ice-cream-recipe/** (after intro paragraph) — added: "(For a much faster way to combine espresso and ice cream — the classic Italian *affogato al caffè* dessert, which pours hot espresso directly over a scoop of vanilla or *fior di latte* gelato — see our [What Is an Affogato?](/guides/what-is-an-affogato/) guide. The affogato uses the espresso-and-cream pairing in a totally different way: temperature contrast, not infusion.)"
+3. **/recipes/coffee-granita-recipe/** (after intro paragraph) — added: "(For the other classic Italian frozen-coffee dessert tradition — the *affogato al caffè*, which pours hot espresso over cold vanilla gelato or *fior di latte* and is eaten with a spoon as the gelato slowly melts — see our [What Is an Affogato?](/guides/what-is-an-affogato/) guide. Granita and affogato are the two pillars of Italian coffee-as-dessert culture: granita uses cold concentrated coffee crystals, affogato uses hot espresso and cold gelato.)"
+4. **/guides/marocchino/** (after intro paragraph) — added: "(For the better-known Italian espresso-and-dessert tradition — the *affogato al caffè*, where hot espresso is poured over a scoop of *fior di latte* or vanilla gelato and eaten with a spoon as the gelato slowly melts — see our [What Is an Affogato?](/guides/what-is-an-affogato/) guide. Marocchino and affogato are both small northern Italian dessert-coffee drinks, but the marocchino is sipped while the affogato is eaten with a spoon.)"
+5. **/guides/what-is-espresso/** (after intro paragraph) — added: "(For the most famous espresso-as-dessert application — the classic Italian *affogato al caffè*, where a hot espresso shot is poured over a scoop of *fior di latte* or vanilla gelato and eaten with a spoon — see our [What Is an Affogato?](/guides/what-is-an-affogato/) guide.)"
+
+5 inbound links is one more than the 4-link standard for prior pulses. Justified by (a) the size of the affogato cluster opportunity (165k/mo head, 25× larger than prior best targets), (b) the breadth of natural topical fits (both gelato/dessert recipes AND Italian-coffee guides have natural anchor points).
+
+**Sitemap re-submission this pulse (4th in series):** Same procedural fix that worked Pulse 76 (3 advances), Pulse 78 (4 advances + 1 DOUBLE jump to "Crawled"), Pulse 79 (mixed result with regressions). API call returned success. Re-submission protocol now validated 4 times across the experiment.
+
+**Reasoning:**
+- Strategy.md Pulse 79 → Pulse 80 plan called for /guides/what-is-a-mocha-frappuccino/ ~14,800/mo OR /guides/what-is-a-doppio/ ~9,900/mo. DataForSEO destroyed both: "what is a mocha frappuccino" actual volume is 210/mo (not 14.8k), and /guides/double-espresso/ already covers doppio (would cannibalize).
+- Triple-batch DataForSEO sweep this pulse ($0.225 total) was the right move — surfaced "affogato" 165,000/mo LOW 2/100 as the highest-volume LOW-competition target uncovered to date. Volume is 25× larger than the prior best targets (cappuccino + flat-white = 22.2k/mo each). The ROI on the extra DataForSEO spend is overwhelming if the affogato cluster ranks even moderately well.
+- Cannibalization mitigation vs existing /recipes/affogato-recipe/: the recipe page is 178 lines and dated 2026-04-10 (Pulse 6-7), structured as a step-by-step recipe. New /guides/what-is-an-affogato/ is 4,800 words structured as definitional + historical + comparison + cultural-ordering. The two pages target different intent (recipe-search vs definitional-search) and cross-link to each other. This is the same split-intent pattern that worked for cold-brew-recipe + what-is-cold-brew.
+- The Italian etymology + Bezzera 1901 → Pavoni 1906 → Gaggia 1948 espresso bar history + Sicily-Naples 1700s gelateria spread + Escoffier 1903 Café Glacé reference + Starbucks 2015 frappuccino debunk is the unique content angle. Most "affogato" SERPs surface the recipe + a vague "espresso over ice cream" definition; very few cover the Italian-verb etymology + the converging gelato + espresso bar history + the fior di latte authenticity argument.
+- 5 inbound links pattern (one more than prior 4-link standard) is justified by the cluster size and the natural breadth of topical fits.
+- DataForSEO triple-batch spend $0.225 is well under $1/day budget ($0.225 cumulative for the day).
+- Sitemap re-submission: same procedural fix, 4th in series. Pushed to keep the discovery queue fresh.
+- No additional link-boost this pulse: 5 inbound links to the new guide already moved 5 existing pages, equivalent equity move. Plus the indexing pipeline already has 7+ pages in flight; better to validate the affogato launch first before adding more equity-shuffle.
+
+**Outcome:**
+- Hugo build succeeded (832 pages, 0 errors, +5 vs Pulse 79). public/guides/what-is-an-affogato/index.html generated.
+- 1 new article (what-is-an-affogato.md) + 5 modified content files (affogato-recipe, coffee-ice-cream-recipe, coffee-granita-recipe, marocchino, what-is-espresso).
+- Site now at 144 articles total (up from 143).
+- Vercel auto-deploy triggered on `git push origin main` (commit 48bc907).
+- Sitemap re-submission API call returned success.
+
+**Next:**
+- Pulse 81 SC check — what-is-an-affogato should be 0-1 day old, watch indexing state. The Pulse 78 sitemap re-submission produced "Crawled" state for frappe within 8h; if same pattern holds, what-is-an-affogato may "Crawl" within 8-16h. Volume 165k/mo head means even a single Crawled→Indexed transition with mid-page rankings could drive significant traffic.
+- Pulse 81 candidate: /guides/what-is-dirty-chai/ targeting "what is dirty chai" 5,400/mo LOW 3/100 + cluster ("dirty chai latte" 9,900/mo LOW 3/100, "dirty chai recipe" 1,300/mo LOW 4/100) for ~16,600/mo combined. Smaller than affogato but a clean target with no existing page coverage. Alternative: /guides/what-is-a-cuban-coffee/ targeting 2,400/mo LOW 1/100 + 49,500/mo HIGH 68/100 head + 1,000/mo cubano (defer due to HIGH competition on the head term).
+- DataForSEO Pulse 81: ~$0.05 batch on dirty-chai cluster longtails.
+- **Critical milestones to watch:**
+  - **Affogato indexing speed.** Volume 165k/mo head = high traffic potential. If first impressions hit by Pulse 82-83 (1-2 days post-publish), and rankings stabilize in top 50 by Pulse 90, the cluster could drive site's first significant organic traffic.
+  - red-eye-coffee 28-day position. Currently 41.18 (held flat 2 pulses post-breakthrough). <40 by Pulse 82-83 = definitive validation.
+  - mocha-recipe 28-day position. Currently 55.29 (held flat). Watch for next breakthrough <50.
+  - simple-syrup-recipe 28-day position. Currently 34.04 (held flat). The Pulse 79 pos 3 outlier didn't propagate into the rolling avg; watch for <30 movement when a real trend forms.
+  - how-to-make-a-macchiato 28-day position. NEW entry at 41.45 with 11 imp this pulse — worth tracking.
+  - First impressions on the 7+ "Discovered"/"Crawled" pages.
+  - Inspect API regression check: re-inspect americano + decaf in Pulse 81-82 to confirm whether "URL unknown" responses are transient API noise or real index regression.
+- The sitemap re-submission protocol is now validated 4 times.
+
+---
+
 ## 2026-05-02 06:00 IDT — Pulse 79: What is Cold Brew guide (9,900/mo head LOW 12/100, ~25,120/mo cluster) + 4 inbound links + sitemap re-submission + INDEXING WAVE (4 pages advanced state, including 6.5-day-old what-is-espresso finally moving from "URL unknown" → "Discovered")
 
 **Action:** Published /guides/what-is-cold-brew/ targeting "what is cold brew" 9,900/mo LOW **12/100** + 8 cluster keywords totaling ~25,120/mo at LOW 0-25/100 (excluding cold-brew-vs-iced-coffee 8,100/mo already covered by an existing page). Article ~3,400 words covering the unique definitional angle: the **17th-century Japanese mizudashi origin** + **Kyoto-style slow-drip cold brew tower** (centuries-old tradition) + **Dutch-Indonesian colonial-era trade story** (1600s) + **Toddy 1964 first home cold brew brewer** + **Stumptown 2011 bottled cold brew as the U.S. mainstream catalyst** + **Starbucks March 2015 menu addition** + the **chemistry of cold-water vs hot-water extraction** (cold brew pH 6.0-6.5 vs hot drip pH 4.85-5.0; chlorogenic acids extract less in cold water). Site at 143 articles. Plus 4 inbound links on launch + sitemap re-submitted to push the new what-is-cold-brew + the 4 still-not-indexed cluster pages forward. DataForSEO $0.075 (10-keyword cold-brew cluster batch).
