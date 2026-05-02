@@ -16,6 +16,8 @@ Coffee granita (granita di caffè) is a semi-frozen Italian dessert from Sicily 
 
 In Sicily, granita di caffè con panna (coffee granita with cream) is a traditional breakfast — served in a glass with a brioche roll for dipping. As an afternoon treat or dessert, it's one of the simplest and most refreshing frozen coffee preparations you can make at home, with no equipment beyond a shallow dish and a fork.
 
+(For the other classic Italian frozen-coffee dessert tradition — the *affogato al caffè*, which pours hot espresso over cold vanilla gelato or *fior di latte* and is eaten with a spoon as the gelato slowly melts — see our [What Is an Affogato?](/guides/what-is-an-affogato/) guide. Granita and affogato are the two pillars of Italian coffee-as-dessert culture: granita uses cold concentrated coffee crystals, affogato uses hot espresso and cold gelato.)
+
 ---
 
 ## Why This Recipe Works

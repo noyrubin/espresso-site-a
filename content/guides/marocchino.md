@@ -31,6 +31,8 @@ A **marocchino** is a small Italian espresso drink made with espresso, a dusting
 
 This guide covers what a marocchino actually is (with regional variations), how to make a proper one at home in 5 minutes, and how it differs from a mocha, a marocchino-style mocha, or the Nutella version that's gaining popularity in Italy and beyond.
 
+(For the better-known Italian espresso-and-dessert tradition — the *affogato al caffè*, where hot espresso is poured over a scoop of *fior di latte* or vanilla gelato and eaten with a spoon as the gelato slowly melts — see our [What Is an Affogato?](/guides/what-is-an-affogato/) guide. Marocchino and affogato are both small northern Italian dessert-coffee drinks, but the marocchino is sipped while the affogato is eaten with a spoon.)
+
 ---
 
 ## Quick Answer: What Is a Marocchino?

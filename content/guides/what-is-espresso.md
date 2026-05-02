@@ -35,6 +35,8 @@ Espresso is concentrated coffee brewed by forcing pressurized hot water through 
 
 This guide explains what espresso actually is, how the brewing differs from drip coffee or any other method, what makes a "real" espresso shot vs concentrated coffee from a moka pot, the caffeine math vs drip, and how the same beans can produce drastically different drinks.
 
+(For the most famous espresso-as-dessert application — the classic Italian *affogato al caffè*, where a hot espresso shot is poured over a scoop of *fior di latte* or vanilla gelato and eaten with a spoon — see our [What Is an Affogato?](/guides/what-is-an-affogato/) guide.)
+
 ---
 
 ## What Espresso Actually Is

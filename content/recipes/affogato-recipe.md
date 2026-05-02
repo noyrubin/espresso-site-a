@@ -14,6 +14,8 @@ An affogato is one of the best things you can make with a home espresso machine 
 
 It occupies the unusual position of being both a dessert and a coffee drink. In Italy it's typically served after dinner as a combined dessert-and-digestif. At home, it's the easiest impressive thing you can serve to guests.
 
+(For the full definitional context — what an affogato actually is, where it comes from, the early-20th-century northern Italian origin, the *fior di latte* vs vanilla gelato distinction, how an affogato differs from a coffee float and an espresso milkshake, plus caffeine and calorie tables and how to order one in Italy or anywhere else — see our [What Is an Affogato?](/guides/what-is-an-affogato/) guide.)
+
 ---
 
 ## Classic Affogato Recipe

@@ -14,6 +14,8 @@ Real coffee ice cream — not that pale, barely-there "coffee flavored" grocery 
 
 This guide covers both methods: a no-churn version you can make with just a bowl and a whisk, and a churned version for those who own an ice cream maker. Both use real espresso. Both are genuinely excellent.
 
+(For a much faster way to combine espresso and ice cream — the classic Italian *affogato al caffè* dessert, which pours hot espresso directly over a scoop of vanilla or *fior di latte* gelato — see our [What Is an Affogato?](/guides/what-is-an-affogato/) guide. The affogato uses the espresso-and-cream pairing in a totally different way: temperature contrast, not infusion.)
+
 ## What You'll Need
 
 ### No-Churn Coffee Ice Cream
