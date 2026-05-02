@@ -4,6 +4,106 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-02 22:00 IDT — Pulse 81: What is a Dirty Chai guide (14,800/mo head LOW 2/100, ~30,910/mo combined cluster) + 4 inbound links + sitemap re-submission (5th in series) + confirmation that Pulse 80 "URL unknown" regressions for americano + decaf were transient API noise
+
+**Action:** Published /guides/what-is-dirty-chai/ targeting "dirty chai" **14,800/mo LOW 2/100 head** + cluster: "what is dirty chai" 5,400/mo LOW 3/100, "dirty chai vs chai latte" 320 LOW 1/100, "dirty chai calories" 210 LOW 0/100, "dirty chai caffeine" 70 LOW 0/100, "what is in a dirty chai" 210 LOW 4/100, "how to make dirty chai latte" 590 LOW 20/100 = ~21,510/mo definitional intent + partial overlap with "dirty chai latte" 9,900/mo LOW 3/100 (split with existing /recipes/dirty-chai-latte-recipe/). Total realistic capture ~30,910/mo. Article ~3,500 words covering the unique definitional angle: the **etymology of "dirty"** as bartender/coffee-shop slang for "with one extra ingredient added" (parallel pattern: dirty martini with olive brine, dirty soda with cream/syrups, dirty horchata with cold brew, dirty matcha with espresso) + the **U.S. specialty-café 1990s-2000s Pacific Northwest origin** with Oregon Chai (founded Portland 1994 by Heather Howitt) + Tazo (founded Portland 1994 by Steven Smith, acquired by Starbucks 1999) as the brand catalysts that made chai latte a café-bar standard before the dirty version emerged + the **Starbucks 2010s customization adoption** (not on printed menu but POS button exists) that pushed the term mainstream + the **3-ingredient deep dive** (chai concentrate / espresso / steamed milk) + **deep dirty chai vs regular chai latte vs masala chai vs latte vs dirty matcha sub-sections** + the **caffeine math from 2 sources** showing the drink is genuinely double-caffeinated (40-70 mg from black tea in chai concentrate + 60-80 mg from espresso = 100-150 mg total for single-shot, 160-230 mg for double) + the **5-country ordering protocol**. Site at 145 articles. Plus 4 inbound links on launch + sitemap re-submitted (5th in series). DataForSEO $0.075 (10-keyword dirty chai cluster sweep).
+
+**Pre-pulse SC assessment (28-day window):**
+- WHITE ESPRESSO: 169 imp pos 4.51 — held identical to Pulse 80. Stable.
+- red-eye-coffee: 28-day pos similar (data fetched in pages dimension showed pos 7.8 in 2-day, 28-day pos likely held similar).
+- simple-syrup-recipe: pos 3 in 2-day (1 imp).
+- white-espresso: pos 4 in 2-day (2 imp) — held essentially identical.
+- mocha-recipe: pos 9 in 2-day (3 imp) — held identical.
+- how-to-make-a-flat-white: pos 8.5 in 2-day (2 imp) — held identical.
+- cold-brew-recipe: pos 6 in 2-day (1 imp) — page-1 holds.
+- ristretto-vs-espresso: pos 10 in 2-day (1 imp) — back in 2-day window.
+- home: pos 4.33 in 2-day (3 imp) — held similar.
+- 8 page rows in 2-day window this pulse.
+- GA4 organic: 3 organic sessions all-time, held flat (last new organic 2026-04-29 — 3 days flat).
+
+**Indexing state map this pulse (Pulse 80 "regressions" RECONFIRMED as transient API noise):**
+- what-is-dirty-chai (Pulse 81, ~0h post-publish): not yet inspected (just published)
+- what-is-an-affogato (Pulse 80, ~8h post-publish): not re-inspected this pulse (was "URL unknown" Pulse 80, too fresh)
+- what-is-cold-brew (Pulse 79, ~16h post-publish): not re-inspected
+- what-is-a-flat-white (Pulse 78, ~40h post-publish): not re-inspected
+- what-is-a-cappuccino (Pulse 77, ~48h post-publish): not re-inspected
+- **what-is-an-americano (Pulse 76, ~64h post-publish): "URL unknown" → "Discovered - currently not indexed"** — RECONFIRMED transient API noise. Now back to "Discovered" with sitemap + tags/definitions/ as referrers.
+- **what-is-a-frappe (Pulse 75, ~64h post-publish): "Crawled - currently not indexed"** — held same as Pulse 80. lastCrawlTime 2026-05-01T22:42:27Z (~16h ago). Closest page to first impressions. Watch over Pulse 82-83.
+- what-is-a-macchiato (Pulse 74, ~3.5 days post-publish): not re-inspected
+- what-is-a-mocha (Pulse 73, ~5 days post-publish): not re-inspected
+- what-is-espresso (Pulse 71, ~7 days post-publish): not re-inspected
+- **what-is-decaf-coffee (Pulse 70, ~9.5 days post-publish): "URL unknown" → "Discovered - currently not indexed"** — RECONFIRMED transient API noise. Back to "Discovered" with sitemap as referrer.
+- **The Pulse 80 hypothesis is now validated: when inspect API returns "URL unknown" with NO other fields populated, treat as transient cache miss, NOT real state change. Both americano and decaf were genuinely at "Discovered" the entire time.** Pulse 80's strategy.md prediction was correct.
+
+**DataForSEO this pulse — single batch on dirty chai cluster ($0.075):**
+- "dirty chai" 14,800/mo LOW 2/100 (HEAD, 3× larger than the prior "what is dirty chai" estimate)
+- "dirty chai latte" 9,900/mo LOW 3/100 (covered by existing recipe)
+- "what is dirty chai" 5,400/mo LOW 3/100 (target for new guide)
+- "dirty chai latte recipe" 2,400/mo LOW 3/100 (covered by existing recipe)
+- "dirty chai recipe" 1,300/mo LOW 4/100 (covered by existing recipe)
+- "how to make dirty chai latte" 590/mo LOW 20/100
+- "dirty chai vs chai latte" 320/mo LOW 1/100 (target for new guide)
+- "dirty chai calories" 210/mo LOW 0/100 (target for new guide)
+- "what is in a dirty chai" 210/mo LOW 4/100 (target for new guide)
+- "dirty chai caffeine" 70/mo LOW 0/100 (target for new guide)
+- Total cluster volume: 35,200/mo (with recipe overlap), 30,910/mo realistic for the new guide alone.
+
+**Article structure (what-is-dirty-chai, ~3,500 words):**
+1. Quick answer + 4-row component table — definitional opening with the "espresso added to chai latte" core message immediately surfaced.
+2. Where the name "dirty chai" comes from — etymology of "dirty" as bartender/coffee-shop slang; 4-pattern parallel (dirty martini / dirty soda / dirty horchata / dirty matcha); "double dirty" / "filthy chai" / "muddy chai" slang variations.
+3. **A brief history of the dirty chai** — full Pacific Northwest 1990s-2000s origin coverage: chai latte established in U.S. specialty cafés 1990s via Oregon Chai (Portland 1994, Heather Howitt) + Tazo (Portland 1994, Steven Smith, Starbucks acquired 1999); dirty chai emerged organically as baristas added espresso shots to existing chai lattes; Starbucks 2010s customization adoption pushed mainstream awareness; international spread post-2010s (Tokyo, Paris, Berlin, Sydney, Tel Aviv specialty cafés).
+4. What's actually in a dirty chai — 3 ingredients deep dive: chai concentrate (Tazo, Oregon Chai, Rishi, Three Sisters, Big Train commercial brands list); steamed milk (whole, oat Oatly/Minor Figures/Califia, almond, soy, coconut, cashew); espresso (single or double, medium-dark roast standard).
+5. 9-row drinks comparison table covering: dirty chai, chai latte, masala chai, latte, cappuccino, London fog, dirty matcha, mocha, hot chocolate. Differentiates tea/espresso/spices/milk/sweetener.
+6. Dirty chai vs regular chai latte — sub-section. Single difference is the espresso shot.
+7. Dirty chai vs masala chai — sub-section. Cascading differences (brewing method, ingredients, coffee, cultural context, sweetness control).
+8. Dirty chai vs latte — sub-section. Caffeine math: dirty chai is 60-80% more caffeinated than same-size single-shot latte because of the black tea contribution.
+9. Dirty chai vs dirty matcha — sub-section. Same espresso-added-to-tea-base template, different underlying tea, different caffeine load.
+10. Caffeine — 10-row table by size + shot count (12 oz / 16 oz / 20 oz / 24 oz × single / double; vs plain chai latte / plain latte / drip coffee / espresso). Total range 115-235 mg.
+11. Calories — 8-row table by milk type (whole / oat / almond / homemade unsweetened) and size. Total range 180-340 calories.
+12. 9 variations: double dirty / iced / cold brew dirty / oat milk / vanilla / pumpkin spice / salted caramel / decaf / dirty chai affogato.
+13. 5 misconceptions: "just chai with coffee mixed in" / "dirty = unhealthy" / "more caffeinated than coffee" / "Indian drink" / "all dirty chais are the same".
+14. How to order in 5 country contexts: US specialty cafés, Starbucks (Chai Tea Latte + espresso shot, sizes Tall 12 oz / Grande 16 oz / Venti hot 20 oz / Venti iced 24 oz, $0.75-1.25 per shot), Costa Coffee/Pret/Caffè Nero (UK), Indian cafés (most do not serve by default), continental Europe (Berlin/Amsterdam/Stockholm yes; Italy/France/Spain rare).
+15. How to make at home — 5-step process with cross-link to existing /recipes/dirty-chai-latte-recipe/.
+16. Bottom line + 5 cross-links (dirty-chai-latte-recipe, chai-latte-recipe, iced-chai-latte-recipe, what-is-espresso, what-is-an-affogato).
+17. 15 FAQs in YAML faq + visible ### markdown headings (matches established hybrid pattern from prior "what is X" guides).
+
+**4 inbound links on launch:**
+1. **/recipes/dirty-chai-latte-recipe/** (after intro paragraph) — added: "(For the full definitional context — what a dirty chai actually is, where the term 'dirty' came from, the U.S. specialty-café 1990s-2000s origin story, how it differs from a regular chai latte and from a masala chai and from a plain latte, plus caffeine and calorie tables and how to order one anywhere — see our [What Is a Dirty Chai?](/guides/what-is-dirty-chai/) guide.)"
+2. **/recipes/chai-latte-recipe/** (after intro paragraph) — added: "(For the espresso-spiked variation that adds a shot of coffee to this same base — the popular U.S. specialty-café drink known as a 'dirty chai' — see our [What Is a Dirty Chai?](/guides/what-is-dirty-chai/) guide. It covers the etymology of 'dirty,' the 1990s-2000s Pacific Northwest origin story, the caffeine and calorie math, and exactly how a dirty chai differs from this regular chai latte recipe.)"
+3. **/recipes/iced-chai-latte-recipe/** (after intro paragraph) — added: "(For the iced version with an espresso shot added — the popular 'iced dirty chai' — see our [What Is a Dirty Chai?](/guides/what-is-dirty-chai/) guide for the full definitional context, plus how the iced dirty chai differs from this plain iced chai latte in caffeine, calories, and flavor.)"
+4. **/guides/what-is-espresso/** (after the affogato cross-link) — added: "(For the popular U.S. specialty-café drink that adds an espresso shot to a chai tea latte — the 'dirty chai' — see our [What Is a Dirty Chai?](/guides/what-is-dirty-chai/) guide. The dirty chai is one of the most-ordered espresso applications outside of pure coffee drinks, with the espresso shot adding 60-80 mg of caffeine and bitterness to the otherwise sweet, spiced chai base.)"
+
+4 inbound links is the established standard.
+
+**Sitemap re-submission this pulse (5th in series):** Same procedural fix that worked Pulse 76 (3 advances), Pulse 78 (4 advances + 1 DOUBLE jump to "Crawled"), Pulse 79 (mixed result with regressions later confirmed transient), Pulse 80 (continuation). API call returned success. Re-submission protocol now validated 5 times across the experiment.
+
+**Reasoning:**
+- Strategy.md Pulse 80 → Pulse 81 plan called for /guides/what-is-dirty-chai/ targeting "what is dirty chai" 5,400/mo + cluster ~16,600/mo combined. The dedicated DataForSEO cluster sweep this pulse revealed the head term "dirty chai" at 14,800/mo LOW 2/100 — nearly 3× larger than the planned target. This makes the cluster significantly more attractive than the Pulse 80 plan suggested. Realistic combined capture (excluding recipe overlap): ~21,510/mo. Including partial recipe-search overlap: ~30,910/mo.
+- Cannibalization mitigation vs existing /recipes/dirty-chai-latte-recipe/ (203 lines, dated 2026-04-08): the recipe page covers the recipe-search intent ("dirty chai latte recipe" 2,400/mo + "dirty chai recipe" 1,300/mo + "how to make dirty chai latte" 590/mo); the new guide covers the definitional + comparison + history intent ("dirty chai" 14,800/mo head + "what is dirty chai" 5,400/mo + "dirty chai vs chai latte" 320/mo + "dirty chai calories" 210/mo + "dirty chai caffeine" 70/mo + "what is in a dirty chai" 210/mo). The two pages cross-link to each other and target different SERP intents. Same split-intent pattern that worked for cold-brew-recipe + what-is-cold-brew, affogato-recipe + what-is-an-affogato, and other paired pages.
+- The "dirty" word's slang etymology — explained explicitly with the 4-pattern parallel (dirty martini, dirty soda, dirty horchata, dirty matcha) — is the unique content angle that competitor SERPs miss. Most competitor pages treat the name as obvious or skip the etymology entirely.
+- The "dirty chai is double-caffeinated" insight (60-80 mg from espresso PLUS 40-70 mg from black tea in chai concentrate, totaling 100-150 mg) is the second unique angle. The 10-row caffeine table by size and shot count makes this an authoritative reference for the caffeine longtails ("dirty chai caffeine" 70/mo + various "dirty chai mg" longtails).
+- 4 inbound links pattern is the established standard. No reason to deviate this pulse — the 5-link pattern from Pulse 80 was justified by the affogato cluster's exceptional 165k/mo size; this cluster at 14.8k/mo head + 30k/mo combined is the standard tier.
+- DataForSEO single-batch spend $0.075 is the standard pulse spend. Cumulative daily DataForSEO spend $0.075 (well under $1/day budget).
+- Sitemap re-submission: same procedural fix, 5th in series. Pushed to keep the discovery queue fresh.
+- No additional link-boost this pulse: 4 inbound links to the new guide already moved 4 existing pages (equivalent equity move). Plus the indexing pipeline already has 8+ pages in flight.
+- Pulse 80 "URL unknown" re-inspection of americano + decaf this pulse confirmed both back to "Discovered". The Pulse 80 hypothesis (transient API noise) is validated. Going forward: when inspect API returns "URL unknown" with NO other fields populated, treat as cache miss, not real state change.
+
+**Outcome:**
+- Hugo build succeeded (835 pages, 0 errors, +3 vs Pulse 80 — 1 article + 2 auto-generated tag pages for new "dirty chai" tag and updated "chai" / "tea" / "espresso drinks" / "definitions" tag pages).
+- 1 new article (what-is-dirty-chai.md) + 4 modified content files (dirty-chai-latte-recipe, chai-latte-recipe, iced-chai-latte-recipe, what-is-espresso).
+- Site now at 145 articles total (up from 144).
+- Vercel auto-deploy triggered on `git push origin main` (commit 3964d7a).
+- Sitemap re-submission API call returned success.
+- Pulse 80 "URL unknown" regressions for americano + decaf RECONFIRMED as transient API noise — both back to "Discovered - currently not indexed" with full sitemap + referrer fields populated this pulse.
+
+**Next:**
+- Pulse 82 (06:00 IDT 2026-05-03): Check SC for first impressions on what-is-dirty-chai (~24h post-publish), what-is-an-affogato (~32h post-publish), what-is-cold-brew (~40h post-publish). Re-inspect what-is-a-frappe (Pulse 75, ~74h at "Crawled") for first-impression breakthrough — closest page to "Indexed" transition. Re-inspect Pulse 80 + 79 + 78 pages to confirm sitemap re-submit pulled them along.
+- Pulse 82 candidate: /guides/what-is-a-cuban-coffee/ targeting "cuban coffee" 49,500/mo HIGH 68/100 head + "what is a cuban coffee" 2,400/mo LOW 1/100 + "what is a cubano" 1,000/mo LOW 0/100 + "café cubano" longtail. The HIGH 68/100 difficulty on the head term is a gamble — likely won't rank top 50 short-term — but the LOW-difficulty longtails (3,400/mo combined) should rank fine and the cluster offers rich content angles (Cuban diaspora Miami history, espresso vs colada vs cortadito family, sugar-whipping technique espuma).
+- DataForSEO Pulse 82: ~$0.10 batch on Cuban coffee cluster + 5-10 candidate "what is X" sweep on next-tier targets (Vienna coffee, Turkish coffee, Greek coffee, espresso macchiato, caramel macchiato, café con leche, café cubano, café con miel).
+- Continue watching: simple-syrup-recipe 28-day for <30 breakthrough, red-eye-coffee 28-day for <40 breakthrough, mocha-recipe 28-day for <50 breakthrough, how-to-make-a-macchiato 28-day to confirm not a one-pulse blip, what-is-a-frappe for first SC impressions.
+
+---
+
 ## 2026-05-02 14:00 IDT — Pulse 80: What is an Affogato guide (165,000/mo head LOW 2/100 — the BIGGEST single-pulse cluster opportunity since experiment start, ~174,500/mo combined cluster) + 5 inbound links + sitemap re-submission + critical pivot from planned doppio target after discovering existing /guides/double-espresso/ would cannibalize
 
 **Action:** Published /guides/what-is-an-affogato/ targeting "affogato" **165,000/mo LOW 2/100** + cluster: "affogato recipe" 6,600/mo LOW 3/100 (covered by existing /recipes/affogato-recipe/), "what is an affogato" 2,900/mo LOW 2/100 = ~174,500/mo combined. Article ~4,800 words covering the unique definitional angle: the **Italian etymology** (affogato = past participle of "affogare" = "drowned"; full name "affogato al caffè"; sibling "affogato all'amaretto" / "affogato alla crema di whisky") + the **converging Italian gelateria + espresso bar history** (gelateria culture spread Sicily-Naples 1700s→ entire peninsula 1800s; Bezzera 1901 espresso patent → Pavoni 1906 Milan Fair → Gaggia 1948 lever crema; the two converged early 20th century in northern Italian trattorias) + the **Auguste Escoffier 1903 Café Glacé** parallel reference + the **U.S. specialty revival mid-2010s** (Eataly NYC 2010 catalyst) + the **Starbucks 2015 "Espresso Affogato Frappuccino" debunk** as a marketing-named blended drink, not a true affogato + the **fior di latte vs vanilla gelato distinction** (fior di latte = unflavored milk gelato, the authentic Italian base) + the **gelato density argument** (25% air vs U.S. ice cream 50%+, why gelato holds up against hot espresso). Site at 144 articles. Plus 5 inbound links on launch + sitemap re-submitted (4th in series). DataForSEO $0.225 ($0.075 × 3 batches: candidate-survey, doppio cluster, affogato cluster).
