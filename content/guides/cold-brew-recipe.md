@@ -14,6 +14,8 @@ Cold brew is one of the smoothest, most forgiving coffees you can make at home. 
 
 This guide covers the complete cold brew process: ratios, grind size, brew time, two easy methods (mason jar and French press), filtering, storage, and how to serve it.
 
+(For the broader definitional context — what cold brew actually is, the 17th-century Japanese mizudashi origin, the Dutch-Indonesian colonial-era trade story, how cold brew differs from iced coffee, nitro, French press, and espresso, plus caffeine and calorie tables — see our dedicated [What Is Cold Brew?](/guides/what-is-cold-brew/) guide.)
+
 ## What Makes Cold Brew Different
 
 Cold brew is made by steeping coarse-ground coffee in cold water for an extended time — typically 12–24 hours. The complete absence of heat changes the chemistry of extraction:

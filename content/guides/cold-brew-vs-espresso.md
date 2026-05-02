@@ -23,6 +23,8 @@ faq:
 
 Cold brew and espresso are both beloved coffee concentrates — but they're made completely differently, taste nothing alike, and suit different moments. If you're trying to decide which belongs in your routine (or whether you need both), here's everything you need to know.
 
+(For the full definitional context on cold brew alone — what it actually is, the 17th-century Japanese mizudashi origin, the Stumptown 2011 catalyst that brought cold brew mainstream in the U.S., the chemistry of cold-water extraction, and how cold brew differs from iced coffee and French press — see our [What Is Cold Brew?](/guides/what-is-cold-brew/) guide.)
+
 ## The Core Difference: Hot vs Cold, Fast vs Slow
 
 The most fundamental difference between cold brew and espresso is the brewing method:

@@ -12,6 +12,8 @@ draft: false
 
 Cold foam turns any iced coffee or cold brew into a barista-style drink — that creamy, cloud-like layer you sip through that slowly folds into the drink as you go. The good news: you don't need a steam wand or any special equipment. A cheap handheld frother (or even a French press) is all it takes.
 
+(For the full definitional context on the cold brew that pairs with cold foam — what cold brew actually is, the 17th-century Japanese mizudashi origin, how it differs from iced coffee and nitro, and the chemistry of cold-water extraction — see our [What Is Cold Brew?](/guides/what-is-cold-brew/) guide.)
+
 This guide covers four methods for making cold foam at home, plus recipes for vanilla sweet cream cold foam, salted caramel, and chocolate variations.
 
 ## What Is Cold Foam?
