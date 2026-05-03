@@ -31,6 +31,8 @@ The "origin" on a coffee bag — Ethiopia, Colombia, Sumatra, Brazil — isn't j
 
 This guide explains where coffee comes from, why certain regions taste the way they do, and how to read origin labels so you can choose beans you'll actually like.
 
+(For a deep dive into the world's #2 producing country specifically — Vietnam, the world's largest robusta producer with roughly 40% of global robusta supply, the Buon Ma Thuột Central Highlands coffee belt, the 1857 French colonial introduction, and the post-1986 Đổi Mới rise to mass production — see our [What Is Vietnamese Coffee?](/guides/what-is-vietnamese-coffee/) guide. Vietnam is the clearest example of how a producing country can develop a distinctive domestic coffee tradition (cà phê sữa đá, cà phê trứng, the phin filter) that is shaped by but not dependent on the European specialty coffee market.)
+
 ---
 
 ## The Coffee Belt: Where Coffee Grows

@@ -4,6 +4,134 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-03 06:00 IDT — Pulse 82: What is a Cuban Coffee umbrella guide (cortadito 27,100/mo LOW 3/100 + cafe cubano 14,800/mo LOW 18/100 + what-is-cuban-coffee 2,400/mo LOW 1/100 + what-is-cubano 1,000/mo LOW 0/100, ~50,000/mo realistic LOW capture) + 4 inbound links + sitemap re-submission (6th in series) + FIRST CLICK on "what is white espresso" head query + red-eye-coffee broke <40 milestone
+
+**Action:** Published /guides/what-is-a-cuban-coffee/ as an **umbrella guide** targeting the entire Cuban coffee family rather than a single drink. Cluster targets discovered via Pulse 82 DataForSEO sweep:
+- "cuban coffee" 49,500/mo HIGH 68/100 (head — long-tail capture only, won't rank top 50 short-term)
+- **"cortadito" 27,100/mo LOW 3/100** (MAJOR DISCOVERY — was completely off pre-pulse plan)
+- **"cafe cubano" 14,800/mo LOW 18/100** (also surfaced this pulse)
+- "cuban coffee recipe" 2,900/mo LOW 4/100 (covered by existing /recipes/cafecito-recipe/, split-intent)
+- "what is a cuban coffee" 2,400/mo LOW 1/100 (primary definitional)
+- "what is a cubano" 1,000/mo LOW 0/100 (primary definitional)
+- "cuban espresso" / "cubano coffee" / "coffee in cuba" 49,500/mo HIGH each (siblings to head)
+- "cafe con leche" 49,500/mo LOW 5/100 (cross-overlap with /recipes/cafe-con-leche-recipe/)
+
+Realistic LOW-difficulty capture for the new guide alone: ~50,000/mo (cortadito 27,100 + cafe cubano 14,800 + what-is-cuban-coffee 2,400 + what-is-cubano 1,000 + cuban-coffee tail). Article ~5,500 words covering: definitional opening + 5-row component table (all 4 Cuban drinks); full Cuba origin story (1748 Sierra Maestra French colonist arrival → 1800s coffee export boom → Havana cafés early 20th century → Italian Faema/Pavoni espresso machine adoption → cafecito/espumita technique crystallization → 1959 Revolution → Miami/Tampa/Hudson County diaspora preservation → Café Bustelo 1928 East Harlem + Café Pilon 1949 Cuba/Miami + Café La Llave Souto family 1960 brand history → ventanita Miami 1960s-70s cultural institution Versailles/La Carreta/Casa Larios → third-wave revival All Day/Vice City Bean/Threefold); 3-ingredients deep dive (espresso medium-dark Spanish-American roast 10-30% robusta, demerara/raw cane sugar, scalded whole milk for cortadito + café con leche); 4-step espumita technique deep dive with chemistry (first 5mL has 30-50% of total dissolved solids; whipping with sugar emulsifies coffee oils with sucrose creating stable foam unlike crema; sugar partially caramelized by residual heat); 9-row Cuban coffee family vs other coffee drinks comparison table (cafecito vs cortadito vs colada vs Cuban café con leche vs Italian espresso vs Spanish café con leche vs Spanish cortado vs Italian macchiato vs American latte); deep sub-sections (Cuban coffee vs Italian espresso, Cuban café con leche vs Spanish café con leche, Cuban cortadito vs Spanish cortado, cafecito vs cortadito, cafecito vs colada); 10-row caffeine table (cafecito 60-90mg, cortadito 60-90mg, Cuban café con leche 60-90mg, full colada 200-320mg, per-tacita 50-80mg, plus comparisons); 5-row calorie table by milk type and drink; 9 variations (cafecito doble, cafecito con leche evaporada, iced cafecito, cubano con espuma extra, café con leche con tostada, café Bombón, cortadito con leche evaporada, cubano con cinnamon, cold-brew Cuban-style, café con miel cubano); 5 misconceptions (same as Italian espresso, only cafecito, much higher caffeine, special machine needed, invented in Miami); how-to-order in 5 country contexts (Miami/Tampa/diaspora ventanitas with prices and ordering Spanish, Cuba, US outside Cuban communities, Spain, Latin America); how-to-make-at-home short with cross-link; bottom-line + 5 cross-links (cafecito-recipe, cafe-con-leche-recipe, cortado-coffee, cafe-au-lait, marocchino); 15 FAQs in YAML faq + visible ### markdown headings.
+
+Site at 146 articles. Plus 4 inbound links on launch + sitemap re-submitted (6th in series). DataForSEO $0.075 (10-keyword Cuban cluster sweep).
+
+**Pre-pulse SC assessment (28-day window — 4 wins this pulse):**
+- WHITE ESPRESSO: 177 imp pos 4.56 — held essentially identical to Pulse 81 (4.51). Stable head. **1 click on "what is white espresso" — FIRST CLICK on this query in the experiment.** This is the second confirmed click on the site (the first was on the home page in Pulse 80, now also showing 1 click pos 5.78 this pulse).
+- **red-eye-coffee: 28-day pos 38.76 (29 imp)** — **<40 MILESTONE BROKEN.** Was 41.18 last pulse. 2.42 position improvement. The Pulse 78 plateau-break trajectory has fully resumed.
+- **how-to-make-a-macchiato: 28-day pos 41.45 (11 imp)** — held identical 3 consecutive pulses (Pulse 80, 81, 82). Stable new entry confirmed (not a one-pulse blip).
+- **ristretto-vs-espresso: 28-day pos 27.42 (12 imp)** — IMPROVED from 29.0. 1.58 position improvement.
+- how-to-make-a-flat-white: 28-day pos 74.57 (116 imp) — held same.
+- cold-brew-vs-espresso: 12 imp pos 49.25 — stable.
+- how-to-froth-milk: 59 imp pos 54.5 — stable.
+- coffee-ice-cubes: 3 imp pos 6 — page-1 holds. Saturated.
+- cold-brew-recipe: 3 imp pos 6 — page-1 holds.
+- home: 27 imp 1 click pos 5.78 — first home page click (now visible in 28-day from Pulse 80 first occurrence).
+- 11 high-position page rows in 28-day this pulse.
+- GA4 organic: 2 sessions in 30-day window (Apr 14, Apr 29) — held flat. No new organic this pulse window.
+
+**Pre-pulse SC assessment (2-day window — leading indicators):**
+- **red-eye-coffee: 2-day pos 6 (2 imp)** — page-1 holds for 9th consecutive pulse. 6 is the highest 2-day position observed for this page.
+- white-espresso: 2-day pos 5.67 (9 imp) — held similar to Pulse 81 (5.33). Page-1 stable.
+- ristretto-vs-espresso: 2-day pos 10 (1 imp) — back in 2-day window after 1-pulse absence.
+- mocha-recipe: 2-day pos 12 (1 imp) — REGRESSED slightly from pos 9 last pulse (likely 1-imp data point variance).
+- categories/reviews/: 2-day pos 9 (1 imp) — held.
+- home: 2-day pos 4.75 (4 imp) — held similar to Pulse 81 (4.33).
+- 6 page rows in 2-day window this pulse (down from Pulse 81's 8).
+
+**Indexing state map this pulse — Pulse 81 sitemap re-submission RESULT (5th in series):**
+- what-is-a-cuban-coffee (Pulse 82, ~0h post-publish): not yet inspected (just published)
+- **what-is-dirty-chai (Pulse 81, ~8h post-publish): "URL unknown"** — too fresh, normal.
+- **what-is-an-affogato (Pulse 80, ~32h post-publish): "URL unknown" → "Discovered - currently not indexed"** with 3 referrers (sitemap + tags/affogato + tags/what-is-x). ADVANCED via Pulse 81 sitemap re-submit. 6th confirmation of the protocol.
+- **what-is-cold-brew (Pulse 79, ~56h post-publish): "Discovered - currently not indexed"** with sitemap referrer. ADVANCED from Pulse 80 "URL unknown" (also confirmed transient API noise).
+- **what-is-a-flat-white (Pulse 78, ~56h post-publish): STILL "URL unknown"** — has not advanced via 2 sitemap re-submissions (Pulse 79 + Pulse 81). OUTLIER in the indexing pipeline.
+- what-is-a-cappuccino (Pulse 77, ~64h post-publish): "Discovered - currently not indexed" with sitemap referrer. Held same.
+- **what-is-a-frappe (Pulse 75, ~6 days post-publish): "Crawled - currently not indexed"** with sitemap referrer + lastCrawlTime 2026-05-01T22:42:27Z (~32h since last crawl). Held same as Pulse 80 — Google has the content but hasn't decided to index. Watch over Pulse 83-85.
+- what-is-an-americano (Pulse 76, ~80h post-publish): "Discovered" with sitemap + tags/definitions referrers. Held.
+- what-is-espresso (Pulse 71, ~8 days post-publish): "Discovered" with sitemap referrer. Held.
+- **what-is-decaf-coffee (Pulse 70, ~10 days post-publish): "Discovered" with sitemap referrer. Held — VERY overdue.**
+
+**DataForSEO this pulse — single batch on Cuban coffee cluster ($0.075):**
+- "cuban coffee" 49,500/mo HIGH 68/100
+- "cafe con leche" 49,500/mo LOW 5/100 (covered by existing recipe; mentioned in guide as Cuban-vs-Spanish comparison)
+- "cuban espresso" 49,500/mo HIGH 68/100 (sibling head)
+- "cubano coffee" 49,500/mo HIGH 68/100 (sibling head)
+- "coffee in cuba" 49,500/mo HIGH 68/100 (sibling head)
+- **"cortadito" 27,100/mo LOW 3/100 (MAJOR DISCOVERY)**
+- **"cafe cubano" 14,800/mo LOW 18/100**
+- "cuban coffee recipe" 2,900/mo LOW 4/100 (covered by existing recipe)
+- "what is a cuban coffee" 2,400/mo LOW 1/100 (primary target)
+- "what is a cubano" 1,000/mo LOW 0/100 (primary target)
+- Total cluster volume: ~250,000/mo with all sibling heads counted; realistic LOW-difficulty capture for the new guide alone ~50,000/mo (cortadito + cafe cubano + what-is-cuban + what-is-cubano + cuban-coffee tail).
+
+**Article structure (what-is-a-cuban-coffee, ~5,500 words):**
+1. Quick answer + 5-row component table — all 4 Cuban coffee drinks side-by-side.
+2. Where Cuban coffee comes from — full 1748 Sierra Maestra origin → Havana 20th century cafecito crystallization → 1959 Revolution + diaspora → Bustelo/Pilon/La Llave brand history → ventanita Miami → third-wave Miami revival.
+3. What's actually in a Cuban coffee — 3 ingredients deep dive (espresso medium-dark Spanish-American roast 10-30% robusta with brand list, demerara/raw cane sugar, scalded whole milk for cortadito + café con leche).
+4. The espumita technique — 4-step process + chemistry (why first 5mL of shot has 30-50% of total dissolved solids; why whipping emulsifies coffee oils with sucrose creating stable foam; why sugar is partially caramelized by residual brewing heat) + common mistakes.
+5. 9-row Cuban coffee vs other coffee drinks comparison table.
+6. Cuban coffee vs Italian espresso — sub-section.
+7. Cuban café con leche vs Spanish café con leche — sub-section with proportion + espresso preparation differences.
+8. Cuban coffee vs Cuban cortado / Spanish cortado — sub-section.
+9. Cafecito vs cortadito — sub-section (paired drink ordering rhythm).
+10. Cafecito vs colada — sub-section (sharing format, not strength difference).
+11. Caffeine — 10-row table by drink + comparisons.
+12. Calories — 5-row table by milk type and drink.
+13. 9 variations.
+14. 5 misconceptions.
+15. How to order in 5 country contexts (Miami/Tampa/diaspora ventanitas with Spanish phrases + price ranges, Cuba, US outside Cuban communities, Spain, Latin America).
+16. How to make at home — 3-step process with cross-link to existing /recipes/cafecito-recipe/.
+17. Bottom line + 5 cross-links (cafecito-recipe, cafe-con-leche-recipe, cortado-coffee, cafe-au-lait, marocchino).
+18. 15 FAQs in YAML faq + visible ### markdown headings.
+
+**4 inbound links on launch:**
+1. **/recipes/cafecito-recipe/** (after intro paragraph) — added: "(For the full definitional context — what Cuban coffee actually is as a category, how cafecito relates to cortadito and colada and Cuban café con leche, the 1748 Sierra Maestra origin and the 1959-diaspora preservation story, the Spanish-American brand history of Bustelo / Pilon / La Llave, plus a full caffeine and calorie comparison across the four drinks — see our [What Is a Cuban Coffee?](/guides/what-is-a-cuban-coffee/) guide.)"
+2. **/recipes/cafe-con-leche-recipe/** (after intro paragraph) — added: "(For the Cuban version — a tall 10-12 oz glass with a single sugar-whipped cafecito poured into scalded milk, served at breakfast with toasted Cuban bread — and how Cuban café con leche specifically differs from this Spanish version in proportion, espresso preparation, and serving size, see our [What Is a Cuban Coffee?](/guides/what-is-a-cuban-coffee/) guide. It covers the four Cuban coffee drinks (cafecito, cortadito, colada, Cuban café con leche), the espumita technique, and the Cuban-American diaspora history that shaped the modern drink.)"
+3. **/guides/cortado-coffee/** (after intro paragraph) — added: "(For the Cuban version of this drink — the cortadito, which is a smaller, sweeter variation that uses sugar-whipped Cuban-style espresso with espumita foam instead of plain Spanish espresso — see our [What Is a Cuban Coffee?](/guides/what-is-a-cuban-coffee/) guide. The cortadito is part of the four-drink Cuban coffee family along with cafecito, colada, and Cuban café con leche, and the guide covers exactly how the Cuban cortadito differs from the Spanish cortado in size, sweetness, and ingredient sourcing.)"
+4. **/guides/what-is-espresso/** (added second cross-link paragraph after the dirty-chai paragraph) — added: "(For the Cuban tradition of small, sweet, sugar-whipped espresso — the cafecito (also called café cubano), plus the cortadito, colada, and Cuban café con leche that share the same espumita technique — see our [What Is a Cuban Coffee?](/guides/what-is-a-cuban-coffee/) guide. Cuban coffee is one of the world's largest non-Italian espresso traditions, with a unique sugar-and-first-drops whipping technique that produces the signature tan espumita foam, and it is the daily coffee of Cuba, Miami, Tampa, and Cuban-American communities worldwide.)"
+
+4 inbound links is the established standard. The cortado-coffee guide cross-link is new internal-link diversity (first time linking from a non-recipe, non-what-is-X page to a what-is-X page).
+
+**Sitemap re-submission this pulse (6th in series):** Same procedural fix that worked Pulse 76 (3 advances), Pulse 78 (4 advances + 1 DOUBLE jump to "Crawled"), Pulse 79 (mixed result with regressions later confirmed transient), Pulse 80 (continuation), Pulse 81 (5th — what-is-an-affogato advanced URL→Discovered with 3 referrers per Pulse 82 inspection). API call returned success.
+
+**Reasoning:**
+- Strategy.md Pulse 81 → Pulse 82 plan called for /guides/what-is-a-cuban-coffee/ targeting "cuban coffee" 49,500/mo HIGH 68/100 head + "what is a cuban coffee" 2,400/mo LOW 1/100 + "what is a cubano" 1,000/mo LOW 0/100 = ~52,900/mo combined cluster (with the 49,500 head not realistically rankable short-term as a new site).
+- The dedicated DataForSEO 10-keyword cluster sweep this pulse surfaced **two MUCH larger LOW-difficulty terms hiding in the cluster**: "cortadito" at 27,100/mo LOW 3/100 and "cafe cubano" at 14,800/mo LOW 18/100. These were completely off the pre-pulse plan, which had not anticipated that the Cuban coffee family would have such large LOW-difficulty siblings beyond the head.
+- Strategic decision: structure the new guide as an **umbrella covering all 4 Cuban coffee drinks** (cafecito, cortadito, colada, Cuban café con leche) rather than only the cafecito. Reasons: (a) all 4 drinks share the espumita technique + Spanish-American brand context + cultural rhythm — there is no semantic boundary between them; (b) a single page covers all 4 LOW terms (cortadito 27,100 + cafe cubano 14,800 + what-is-cuban-coffee 2,400 + what-is-cubano 1,000) as primary or strong-secondary targets; (c) Google's topical-authority ranking benefits from comprehensive coverage of a family rather than 4 thinner pages.
+- Cannibalization mitigation vs existing /recipes/cafecito-recipe/ (203 lines, dated 2026-04-27) AND /recipes/cafe-con-leche-recipe/ (dated 2026-04-23): the recipe pages cover the recipe-search intent ("cafecito recipe", "how to make cafecito", "café con leche recipe"); the new guide covers the definitional + comparison + family-tree + history intent ("what is cuban coffee", "what is cafecito as a category", "cortadito vs spanish cortado", "Cuban café con leche vs Spanish café con leche"). Same split-intent pattern that worked for cold-brew-recipe + what-is-cold-brew, affogato-recipe + what-is-an-affogato, dirty-chai-latte-recipe + what-is-dirty-chai. 4th confirmation of the split-intent pattern.
+- The Cuba 1748 Sierra Maestra origin + 1959 Revolution + Miami/Tampa diaspora preservation is the unique content angle that competitor SERPs largely miss. Most competitor pages on "what is cuban coffee" cover only the present-day cafecito recipe; very few cover the full Cuba origin → Havana 20th century → 1959 Revolution → diaspora preservation arc. The Spanish-American brand history (Bustelo 1928 East Harlem Spanish immigrant Gregorio Bustelo originally for Spanish/Italian neighborhoods → pivoted Cuban in 1960s; Pilon 1949 Cuba/Miami; La Llave Souto family 1960) is also thin on competitor pages.
+- The espumita chemistry deep dive (first 5mL of shot has 30-50% of total dissolved solids; whipping with sugar emulsifies coffee oils with sucrose creating stable foam; sugar partially caramelized by residual heat — different mechanism from crema) is the second unique content angle. This is the section that distinguishes a real Cuban coffee guide from a generic "sugared espresso" recipe page.
+- 4 inbound links pattern is the established standard. The cortado-coffee → what-is-cuban-coffee cross-link is new internal-link diversity (linking from a non-recipe, non-what-is-X page to a what-is-X page for the first time). This expands the internal link graph beyond the recipe → guide pattern.
+- DataForSEO single-batch spend $0.075 is the standard pulse spend. Cumulative daily spend $0.075 (well under $1/day budget).
+- Sitemap re-submission: same procedural fix, 6th in series.
+- No additional link-boost this pulse: 4 inbound links to the new guide already moved 4 existing pages (equivalent equity move). Plus the indexing pipeline already has 9+ pages in flight.
+- Pulse 82 SC check confirmed FIRST CLICK on "what is white espresso" head query (1 click out of 24 imp pos 5.875) — second confirmed click in the experiment after the home-page click in Pulse 80. The white-espresso page is now a confirmed organic-traffic asset, not just an impression-only stable head ranker. red-eye-coffee broke the <40 milestone (28-day pos 38.76 from 41.18). how-to-make-a-macchiato confirmed 3 consecutive pulses at 41.45 (not a blip). ristretto-vs-espresso improved from 29.0 to 27.42.
+
+**Outcome:**
+- Hugo build succeeded (840 pages, 0 errors, +5 vs Pulse 81 — 1 article + 4 auto-generated tag pages for new "cortadito" / "colada" tags + updated "cuban coffee" / "cafecito" / "cafe cubano" / "espresso drinks" / "definitions" tag pages).
+- 1 new article (what-is-a-cuban-coffee.md) + 4 modified content files (cafecito-recipe, cafe-con-leche-recipe, cortado-coffee, what-is-espresso).
+- Site now at 146 articles total (up from 145).
+- Vercel auto-deploy triggered on `git push origin main` (commit d72b6fd).
+- Sitemap re-submission API call returned success (6th in series).
+- **First click confirmed on "what is white espresso"** (1 click out of 24 imp pos 5.875). Second confirmed click in the experiment. Validates the white-espresso page as a real organic-traffic asset.
+- **red-eye-coffee 28-day pos 38.76 — <40 MILESTONE BROKEN.** First time below 40 in the experiment for a non-page-1-saturated page.
+- **how-to-make-a-macchiato confirmed at 28-day pos 41.45 for 3 consecutive pulses** (Pulse 80, 81, 82 with 11 imp).
+- **ristretto-vs-espresso improved from 29.0 to 27.42** in 28-day rolling avg.
+- **what-is-an-affogato advanced from "URL unknown" → "Discovered" via Pulse 81 sitemap re-submit** (6th confirmation of the protocol).
+- **what-is-a-flat-white still at "URL unknown" after 2 sitemap re-submissions** — outlier in the indexing pipeline; investigate Pulse 84 if no advance.
+
+**Next:**
+- Pulse 83 (14:00 IDT 2026-05-03): Check SC for first impressions on what-is-a-cuban-coffee (~8h post-publish), what-is-dirty-chai (~24h post-publish), what-is-an-affogato (~40h post-publish), what-is-cold-brew (~64h post-publish). Re-inspect what-is-a-frappe (Pulse 75, ~7 days post-publish at "Crawled") for first-impression breakthrough — peak window. Re-inspect what-is-a-flat-white if still "URL unknown" (~80h). Re-inspect what-is-decaf-coffee if still "Discovered" (~11 days).
+- Pulse 83 candidate: Run DataForSEO sweep on Vietnamese coffee cluster ("vietnamese coffee", "ca phe sua da", "vietnamese iced coffee", "ca phe trung", "vietnamese egg coffee", "vietnamese coffee recipe", "what is vietnamese coffee", "vietnamese coffee filter", "phin filter", "robusta coffee") to find the next umbrella-guide opportunity. Alternative: Turkish coffee cluster sweep, or French coffee cluster sweep (already have /guides/cafe-au-lait/ but NOT a French-coffee umbrella). Goal: replicate the Cuban-coffee umbrella pattern (one guide covering a drink family with multiple LOW-difficulty siblings).
+- DataForSEO Pulse 83: ~$0.15 (2 batches, ~10 keywords each on Vietnamese + Turkish OR French clusters).
+- Continue watching: simple-syrup-recipe 28-day for <30 breakthrough, red-eye-coffee 28-day for <35 breakthrough (post-<40-milestone), how-to-make-a-macchiato 28-day for <40 breakthrough, ristretto-vs-espresso 28-day for <25 breakthrough, mocha-recipe 28-day for <50 breakthrough, what-is-a-frappe for first SC impressions (peak window Pulse 84-85), what-is-a-flat-white for URL discovery, what-is-decaf-coffee for any movement after 10+ days at "Discovered", click count growing on white-espresso head + new clicks on other pages.
+
+---
+
 ## 2026-05-02 22:00 IDT — Pulse 81: What is a Dirty Chai guide (14,800/mo head LOW 2/100, ~30,910/mo combined cluster) + 4 inbound links + sitemap re-submission (5th in series) + confirmation that Pulse 80 "URL unknown" regressions for americano + decaf were transient API noise
 
 **Action:** Published /guides/what-is-dirty-chai/ targeting "dirty chai" **14,800/mo LOW 2/100 head** + cluster: "what is dirty chai" 5,400/mo LOW 3/100, "dirty chai vs chai latte" 320 LOW 1/100, "dirty chai calories" 210 LOW 0/100, "dirty chai caffeine" 70 LOW 0/100, "what is in a dirty chai" 210 LOW 4/100, "how to make dirty chai latte" 590 LOW 20/100 = ~21,510/mo definitional intent + partial overlap with "dirty chai latte" 9,900/mo LOW 3/100 (split with existing /recipes/dirty-chai-latte-recipe/). Total realistic capture ~30,910/mo. Article ~3,500 words covering the unique definitional angle: the **etymology of "dirty"** as bartender/coffee-shop slang for "with one extra ingredient added" (parallel pattern: dirty martini with olive brine, dirty soda with cream/syrups, dirty horchata with cold brew, dirty matcha with espresso) + the **U.S. specialty-café 1990s-2000s Pacific Northwest origin** with Oregon Chai (founded Portland 1994 by Heather Howitt) + Tazo (founded Portland 1994 by Steven Smith, acquired by Starbucks 1999) as the brand catalysts that made chai latte a café-bar standard before the dirty version emerged + the **Starbucks 2010s customization adoption** (not on printed menu but POS button exists) that pushed the term mainstream + the **3-ingredient deep dive** (chai concentrate / espresso / steamed milk) + **deep dirty chai vs regular chai latte vs masala chai vs latte vs dirty matcha sub-sections** + the **caffeine math from 2 sources** showing the drink is genuinely double-caffeinated (40-70 mg from black tea in chai concentrate + 60-80 mg from espresso = 100-150 mg total for single-shot, 160-230 mg for double) + the **5-country ordering protocol**. Site at 145 articles. Plus 4 inbound links on launch + sitemap re-submitted (5th in series). DataForSEO $0.075 (10-keyword dirty chai cluster sweep).

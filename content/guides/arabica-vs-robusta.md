@@ -31,6 +31,8 @@ Almost all the coffee in the world comes from two species: **Coffea arabica** an
 
 This guide compares arabica and robusta side by side, then explains when each one is the right choice — including for espresso crema, instant coffee, and budget blends.
 
+(For the most prominent example of a coffee tradition built specifically around robusta — Vietnamese coffee, where robusta is the default bean, the phin filter is the brewing method, and condensed milk is the standard sweetener-and-creamer — see our [What Is Vietnamese Coffee?](/guides/what-is-vietnamese-coffee/) guide. Vietnam is the world's #2 coffee producer and #1 robusta producer, accounting for roughly 40% of global robusta supply, and the Vietnamese coffee tradition (cà phê sữa đá, cà phê trứng, bạc xỉu) is the clearest demonstration of what robusta can do when the brewing method is designed around its strengths rather than treating it as a substitute for arabica.)
+
 ---
 
 ## Quick Answer: Arabica vs Robusta

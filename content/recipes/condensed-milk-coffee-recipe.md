@@ -14,6 +14,8 @@ Condensed milk coffee is one of the most satisfying coffee drinks you can make a
 
 This guide covers how to make condensed milk coffee in multiple styles: quick iced, hot, Vietnamese phin filter, Cuban cortadito, and Thai-inspired spiced versions. Plus a ratio guide so you can dial in exactly how sweet you want it.
 
+(For the full definitional context behind the Vietnamese version specifically — what Vietnamese coffee is as a tradition, why it uses robusta beans rather than arabica, the 1857 French colonial introduction, the post-1986 Đổi Mới rise to #2 global producer, the phin filter slow-drip technique with chemistry and step-by-step brewing, and the full family of drinks (cà phê đen, cà phê sữa đá, cà phê trứng, bạc xỉu, cà phê dừa, cà phê muối) with their Hanoi/Saigon/Huế regional contexts — see our [What Is Vietnamese Coffee?](/guides/what-is-vietnamese-coffee/) guide. It covers the 1946 Café Giảng invention of egg coffee, the Buon Ma Thuột Central Highlands coffee belt, and how Vietnamese coffee compares to Italian espresso, Cuban café cubano, and Thai iced coffee.)
+
 ## Why Condensed Milk Works So Well in Coffee
 
 Sweetened condensed milk is whole milk with about 60% of the water removed and sugar added — it's approximately 55% sugar by weight. When you stir it into hot or iced coffee, you get three things at once: sweetness, creaminess, and a slight caramel flavor from the Maillard reaction during processing.

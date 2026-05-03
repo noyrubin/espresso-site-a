@@ -41,6 +41,8 @@ This guide explains what espresso actually is, how the brewing differs from drip
 
 (For the Cuban tradition of small, sweet, sugar-whipped espresso — the cafecito (also called café cubano), plus the cortadito, colada, and Cuban café con leche that share the same espumita technique — see our [What Is a Cuban Coffee?](/guides/what-is-a-cuban-coffee/) guide. Cuban coffee is one of the world's largest non-Italian espresso traditions, with a unique sugar-and-first-drops whipping technique that produces the signature tan espumita foam, and it is the daily coffee of Cuba, Miami, Tampa, and Cuban-American communities worldwide.)
 
+(For the parallel non-European tradition that built itself around robusta + slow gravity drip + condensed milk instead of around pressure-extracted arabica espresso — Vietnamese coffee, the world's most distinctive non-Italian coffee tradition, with the phin filter as the brewing tool, cà phê sữa đá as the national drink, and Hanoi's cà phê trứng (egg coffee) as the most famous specialty — see our [What Is Vietnamese Coffee?](/guides/what-is-vietnamese-coffee/) guide. Vietnam is the world's #2 coffee producer and #1 robusta producer, and the Vietnamese phin tradition demonstrates that a coffee culture doesn't need an espresso machine to produce small, strong, sweet, dark-roasted drinks at scale.)
+
 ---
 
 ## What Espresso Actually Is
