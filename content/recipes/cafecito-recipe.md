@@ -31,6 +31,8 @@ Cafecito — also called *café cubano* or simply Cuban coffee — is one of the
 
 This guide covers the authentic moka pot method (how it is actually made in Cuban kitchens), the espresso machine method, the espumita technique step by step, and every variation you will see on a Cuban coffee menu — colada, cortadito, café con leche cubano, and more.
 
+(For the full definitional context — what Cuban coffee actually is as a category, how cafecito relates to cortadito and colada and Cuban café con leche, the 1748 Sierra Maestra origin and the 1959-diaspora preservation story, the Spanish-American brand history of Bustelo / Pilon / La Llave, plus a full caffeine and calorie comparison across the four drinks — see our [What Is a Cuban Coffee?](/guides/what-is-a-cuban-coffee/) guide.)
+
 ## What Is Cafecito?
 
 Cafecito is the everyday Cuban name for **a small shot of strong, sweet espresso topped with espumita**, a tan sugar-and-coffee foam. The drink itself is roughly 1 oz; the foam adds another half ounce of glossy, caramel-like crema.

@@ -16,6 +16,8 @@ It's not a latte. It's not a cappuccino. It's its own thing, with a philosophy b
 
 Here's everything you need to know about cortado coffee, how it compares to other drinks, and how to make it at home.
 
+(For the Cuban version of this drink — the cortadito, which is a smaller, sweeter variation that uses sugar-whipped Cuban-style espresso with espumita foam instead of plain Spanish espresso — see our [What Is a Cuban Coffee?](/guides/what-is-a-cuban-coffee/) guide. The cortadito is part of the four-drink Cuban coffee family along with cafecito, colada, and Cuban café con leche, and the guide covers exactly how the Cuban cortadito differs from the Spanish cortado in size, sweetness, and ingredient sourcing.)
+
 ## What Is a Cortado?
 
 A cortado is a Spanish espresso drink made with equal parts espresso and warm steamed milk. The standard recipe: 2oz (60ml) double espresso + 2oz (60ml) steamed milk, served in a small 4oz glass.

@@ -39,6 +39,8 @@ This guide explains what espresso actually is, how the brewing differs from drip
 
 (For the popular U.S. specialty-café drink that adds an espresso shot to a chai tea latte — the "dirty chai" — see our [What Is a Dirty Chai?](/guides/what-is-dirty-chai/) guide. The dirty chai is one of the most-ordered espresso applications outside of pure coffee drinks, with the espresso shot adding 60-80 mg of caffeine and bitterness to the otherwise sweet, spiced chai base.)
 
+(For the Cuban tradition of small, sweet, sugar-whipped espresso — the cafecito (also called café cubano), plus the cortadito, colada, and Cuban café con leche that share the same espumita technique — see our [What Is a Cuban Coffee?](/guides/what-is-a-cuban-coffee/) guide. Cuban coffee is one of the world's largest non-Italian espresso traditions, with a unique sugar-and-first-drops whipping technique that produces the signature tan espumita foam, and it is the daily coffee of Cuba, Miami, Tampa, and Cuban-American communities worldwide.)
+
 ---
 
 ## What Espresso Actually Is

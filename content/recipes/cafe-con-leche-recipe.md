@@ -14,6 +14,8 @@ Café con leche is one of the most satisfying coffee drinks you can make at home
 
 This guide covers the authentic recipe, the difference between café con leche and café au lait, and five delicious variations.
 
+(For the Cuban version — a tall 10-12 oz glass with a single sugar-whipped cafecito poured into scalded milk, served at breakfast with toasted Cuban bread — and how Cuban café con leche specifically differs from this Spanish version in proportion, espresso preparation, and serving size, see our [What Is a Cuban Coffee?](/guides/what-is-a-cuban-coffee/) guide. It covers the four Cuban coffee drinks (cafecito, cortadito, colada, Cuban café con leche), the espumita technique, and the Cuban-American diaspora history that shaped the modern drink.)
+
 ## What Is Café Con Leche?
 
 Café con leche (Spanish for "coffee with milk") is made with **equal parts espresso and hot milk** — typically a 1:1 ratio. The milk is scalded (heated to just below boiling) so it is very hot, blending seamlessly with the espresso. Sugar is usually added at the table.
