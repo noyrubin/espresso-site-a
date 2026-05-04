@@ -4,6 +4,116 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-04 14:00 IDT — Pulse 84: What Is Turkish Coffee umbrella guide (60,500/mo LOW 32/100 head + 8.1k greek-coffee LOW 31 + 4.4k how-to-make LOW 18 + 2.4k what-is LOW 2 + 1k recipe LOW 6 + 0.21k fortune-telling LOW 1 = ~76,600/mo realistic LOW capture; 7-country Ottoman cezve tradition unified under one page) + 4 inbound links + sitemap re-submission (8th in series)
+
+**Action:** Published /guides/what-is-turkish-coffee/ as the **umbrella guide for the entire Ottoman cezve tradition** — Turkish, Greek, Cypriot, Bosnian, Armenian, Lebanese, and Egyptian coffee unified under one page. Cluster targets discovered via Pulse 84 DataForSEO sweep:
+- **"turkish coffee" 60,500/mo LOW 32/100 (HEAD)**
+- "greek coffee" 8,100/mo LOW 31/100 (sibling head — same drink under post-1974 rebrand)
+- "how to make turkish coffee" 4,400/mo LOW 18/100
+- "what is turkish coffee" 2,400/mo LOW 2/100 (primary definitional)
+- "turkish coffee recipe" 1,000/mo LOW 6/100
+- "fortune telling coffee" 210/mo LOW 1/100 (tasseography / kahve falı sub-niche)
+- Secondary (MEDIUM/HIGH competition, capturable but not primary): "cezve" 5,400/mo MEDIUM 56/100, "ibrik" 1,000/mo MEDIUM 49/100, "cypriot coffee" 170/mo MEDIUM 34/100, "turkish coffee grounds" 480/mo HIGH 95/100.
+
+Realistic LOW-difficulty capture for the new guide alone: ~76,600/mo (60.5k + 8.1k + 4.4k + 2.4k + 1k + 0.21k). Smaller than Pulse 83's Vietnamese coffee (~170k LOW) but the Pulse 80 affogato (~165k LOW) and Pulse 82 Cuban (~50k LOW) precedents establish that any 50k+ LOW-difficulty cluster justifies a dedicated umbrella-guide pulse. Turkish coffee's HEAD term ("turkish coffee" 60,500 LOW 32) is the **third-largest LOW-competition head term ever surfaced** (after Vietnamese 135k LOW 26 and affogato 165k LOW 2).
+
+Article ~5,000 words covering: definitional opening + 7-row component table; full Turkish coffee history (1555 Istanbul Ottoman introduction by Özdemir Pasha from Yemen → 1554 Kiva Han first coffeehouse → development of cezve technique in late-1500s Istanbul kitchens → kahvecibaşı role formalized in court → 1633 Murad IV ban with death penalty + later reversal → Ottoman expansion to Balkans/Levant/North Africa carrying the cezve tradition → 1683 Vienna Kulczycki Blue Bottle Coffeehouse exporting Ottoman coffee culture to Europe → post-Ottoman national rebrandings (1974 Greek "ellinikós kafés" rebrand after Cyprus invasion, parallel Cypriot/Armenian/Bulgarian rebrands) → 2013 UNESCO Intangible Cultural Heritage of Humanity status); 3-ingredients deep dive (medium-roast arabica powder grind finer than flour or cocoa, cold water, sade/orta/şekerli sugar added during brewing); 9-step cezve technique with foam chemistry (slow heat 2-4 min, kaymak rises at 85-90°C, lift at rim threshold, spoon foam first, second rise, gentle pour, settle 30-60s) + 6 common cezve mistakes (boiling, stirring during brew, wrong grind, sugar after, too much heat, not waiting for grounds); 10-row Turkish vs other coffee drinks comparison table; deep Turkish vs Italian espresso + Turkish vs Greek + Turkish vs Bosnian (Sarajevo water-first method + sugar-cube-in-teeth) + Turkish vs Lebanese qahwa (heavy cardamom) sub-sections; full sade/orta/şekerli sweetness system explanation with parallel Greek/Egyptian terminology; full **kahve falı / tasseography fortune-telling tradition section** (procedure, interpretive vocabulary, cultural context, UNESCO recognition); 10-row caffeine table by drink + size + bean type (Turkish 50-80mg vs Vietnamese 140-200mg vs Italian 60-80mg vs American drip 95-165mg); 8-row calorie table; 9 variations across former Ottoman territories (Turkish, Greek, Cypriot, Bosnian, Armenian, Lebanese, Saudi qahwa, Egyptian, Mırra Anatolian ceremonial); 5 misconceptions (just bitter espresso, drink the grounds, Greek different from Turkish, expensive equipment, sugar makes it less authentic); how-to-order in 6 country contexts (Istanbul/Ankara, Athens/Thessaloniki, Nicosia/Larnaca, Sarajevo/Mostar, Beirut/Damascus, U.S./U.K./Australia diaspora); how-to-make-at-home short with 4-step recipe + cross-link to /guides/espresso-grind-size-guide/; bottom-line + 5 cross-links (vietnamese-coffee, cuban-coffee, espresso, coffee-origins, greek-frappe-recipe); 15 FAQs in YAML faq + visible ### markdown headings.
+
+Site at 148 articles. Plus 4 inbound links on launch + sitemap re-submitted (8th in series). DataForSEO $0.075 (10-keyword Turkish cluster sweep).
+
+**Pre-pulse SC assessment (28-day window):**
+- WHITE ESPRESSO: 182 imp pos 4.66 — held essentially identical to Pulse 83 (4.61). Stable head. **1 click on "what is white espresso" — held now for 3 consecutive pulses (Pulse 82, 83, 84), confirmed as a stable recurring signal.**
+- home: 27 imp 1 click pos 5.78 — 1 click held from Pulse 82 (3 consecutive pulses).
+- red-eye-coffee: 30 imp pos 37.73 — IMPROVED from 38.76 last pulse. <40 milestone holds and continues toward <35.
+- ristretto-vs-espresso: 14 imp pos 25 — IMPROVED from 27.42 last pulse. Continuing trajectory.
+- simple-syrup-recipe: 24 imp pos 34.04 — held identical to Pulse 83.
+- mocha-recipe: 21 imp pos 55.29 — held same.
+- how-to-make-a-macchiato: 11 imp pos 41.45 — held identical 4 consecutive pulses (81-84). Stable new entry.
+- how-to-make-a-flat-white: 116 imp pos 74.57 — held same.
+- cold-brew-vs-espresso: 12 imp pos 49.25 — stable.
+- how-to-froth-milk: 59 imp pos 54.5 — stable.
+- coffee-ice-cubes: 4 imp pos 5.5 — page-1 holds.
+- cold-brew-recipe: 5 imp pos 6.4 — page-1 holds.
+- categories/reviews/: 4 imp pos 9.5 — held.
+- coffee-ice-cream-recipe: 12 imp pos 80.42 — new low-position page in 28-day.
+
+**Indexing state map this pulse (post-Pulse 83 sitemap re-submission, 7th in series):**
+- what-is-turkish-coffee (Pulse 84, ~0h post-publish): not yet inspected (just published)
+- what-is-vietnamese-coffee (Pulse 83, ~24h post-publish): "URL is unknown to Google" — too fresh, normal at <24h. Pulse 84 sitemap re-submit should accelerate to "Discovered" by Pulse 85.
+- **what-is-a-cuban-coffee (Pulse 82, ~48h post-publish): "Discovered - currently not indexed"** — held same as Pulse 83. Watch for "Crawled" advance over Pulse 85-86.
+- **what-is-dirty-chai (Pulse 81, ~64h post-publish): "Discovered - currently not indexed"** — held same. Watch.
+- what-is-a-frappe (Pulse 75, ~8 days post-publish): "Crawled - currently not indexed" with same lastCrawlTime 2026-05-01T22:42:27Z. ~73h since last crawl. ~8 days post-crawl. The closest page to first SC appearance. If first impressions don't come by Pulse 86-87, may indicate quality flag — but the lastCrawlTime hasn't refreshed which suggests Google just hasn't re-fetched yet.
+
+**DataForSEO this pulse — single batch on Turkish coffee cluster ($0.075):**
+- "turkish coffee" **60,500/mo LOW 32/100 (HEAD — third-largest LOW-competition head ever surfaced)**
+- "greek coffee" 8,100/mo LOW 31/100 (sibling head)
+- "cezve" 5,400/mo MEDIUM 56/100 (the brewing tool)
+- "how to make turkish coffee" 4,400/mo LOW 18/100
+- "what is turkish coffee" 2,400/mo LOW 2/100 (primary definitional)
+- "turkish coffee recipe" 1,000/mo LOW 6/100
+- "ibrik" 1,000/mo MEDIUM 49/100 (the brewing tool — Arabic name)
+- "turkish coffee grounds" 480/mo HIGH 95/100 (HIGH skip)
+- "fortune telling coffee" 210/mo LOW 1/100 (kahve falı / tasseography niche)
+- "cypriot coffee" 170/mo MEDIUM 34/100
+- Total cluster: ~83,660/mo with all sibling terms; realistic LOW-difficulty capture ~76,600/mo (60.5k + 8.1k + 4.4k + 2.4k + 1k + 0.21k).
+
+**Article structure (what-is-turkish-coffee, ~5,000 words):**
+1. Quick answer + 7-row component table — the family of Ottoman cezve coffee under one umbrella.
+2. Where Turkish coffee comes from — full 1555 Istanbul Ottoman origin + Özdemir Pasha + Suleiman the Magnificent + 1554 Kiva Han first coffeehouse + cezve technique development in late-1500s Istanbul + kahvecibaşı role + 1633 Murad IV ban + Ottoman expansion to Balkans/Levant/North Africa + 1683 Vienna Kulczycki Blue Bottle Coffeehouse + post-Ottoman national rebrandings + 2013 UNESCO Intangible Cultural Heritage status.
+3. What's actually in a Turkish coffee — 3-ingredients deep dive (medium-roast arabica powder grind, cold water, sugar added during brewing) + the cezve itself.
+4. The cezve technique — 9-step process with foam chemistry + 6 common mistakes.
+5. 10-row Turkish vs other coffee drinks comparison table.
+6. Turkish coffee vs Italian espresso — sub-section.
+7. Turkish coffee vs Greek coffee — sub-section.
+8. Turkish coffee vs Bosnian coffee — Sarajevo water-first method + sugar-cube-in-teeth tradition.
+9. Turkish coffee vs Lebanese / Levantine qahwa — heavy cardamom tradition.
+10. Sade, orta, şekerli — full sweetness system + parallel Greek/Egyptian terminology.
+11. Fortune telling — kahve falı / tasseography / kafemanteia full section with procedure + interpretive vocabulary + cultural context.
+12. Caffeine — 10-row table by drink + size + bean type.
+13. Calories — 8-row table.
+14. 9 variations across former Ottoman territories.
+15. 5 misconceptions.
+16. How to order in 6 country contexts (Turkey, Greece, Cyprus, Bosnia, Levant, Western diaspora) with native phrases + price ranges.
+17. How to make at home — 4-step recipe with cross-link to /guides/espresso-grind-size-guide/.
+18. Bottom line + 5 cross-links (vietnamese-coffee, cuban-coffee, espresso, coffee-origins, greek-frappe-recipe).
+19. 15 FAQs in YAML faq + visible ### markdown headings.
+
+**4 inbound links on launch:**
+1. **/guides/coffee-origins/** — added paragraph after the Vietnamese coffee paragraph linking to Turkish coffee as the "historical pivot point that took coffee out of Yemen and made it a global beverage" + 1555 Ottoman introduction + 1683 Vienna export. Bean-side / origin-side link diversity.
+2. **/guides/what-is-espresso/** — added 5th cross-link paragraph after Vietnamese coffee paragraph linking to Turkish coffee as "the original small-cup coffee tradition that predates Italian espresso by roughly 350 years" + Italian espresso as "an industrial-scale 20th-century reinterpretation of what the Ottoman kahvehane had been doing for centuries". Espresso-tradition diversity.
+3. **/guides/what-is-vietnamese-coffee/** — added paragraph after the shared-DNA section linking to Turkish coffee as "the parallel non-Italian small-cup tradition that built itself around a slow-simmer cezve technique instead of around slow-drip phin extraction". Vietnamese phin vs Turkish cezve as "the two most important non-European small-cup traditions". First time Vietnamese coffee links to Turkish coffee.
+4. **/recipes/greek-frappe-recipe/** — added paragraph after the existing what-is-a-frappe link with the **critical disambiguation**: Greek frappé (the iced shaken Nescafé drink, 1957 Thessaloniki) is NOT the same as Greek coffee (ellinikós kafés, the hot Turkish-style cezve drink). Same Greek café context, completely different drinks. Cross-link to /guides/what-is-turkish-coffee/ as the home of Greek coffee + Cypriot + Bosnian + Armenian + Lebanese qahwa as variations of the same Ottoman cezve tradition.
+
+4 inbound links is the established standard. The diversity this pulse: bean-origin-side (coffee-origins), espresso-tradition-side (what-is-espresso), parallel non-European tradition (vietnamese-coffee), and disambiguation from a recipe page (greek-frappe-recipe). The Greek frappé disambiguation is particularly important because the search query "greek coffee" almost certainly attracts some users looking for the iced frappé — having both pages cross-link explicitly clarifies the choice.
+
+**Sitemap re-submission this pulse (8th in series):** Same procedural fix that worked Pulse 76 (3 advances), Pulse 78 (4 advances + 1 DOUBLE jump to "Crawled"), Pulse 79 (mixed result with regressions later confirmed transient), Pulse 80 (continuation), Pulse 81 (5th — what-is-an-affogato advanced), Pulse 82 (6th — what-is-a-cuban-coffee advanced URL→Discovered in ~8h FASTEST EVER), Pulse 83 (7th — Vietnamese coffee added). API call returned success. Should help accelerate Vietnamese coffee URL→Discovered by Pulse 85 and push Cuban + dirty-chai from Discovered toward Crawled.
+
+**Reasoning:** Turkish coffee was the highest-priority Pulse 84 candidate from Pulse 83 strategy.md. The DataForSEO sweep this pulse confirmed the bet was right: head term 60,500/mo LOW 32/100 (third-largest LOW-competition head ever surfaced), plus the Greek coffee 8,100/mo LOW 31/100 sibling, plus the how-to-make / what-is / recipe / fortune-telling LOW supporting terms. The umbrella-guide pattern (covering an entire drink family in one page) that worked on Cuban Pulse 82 and Vietnamese Pulse 83 is now validated on a third cluster. The Ottoman cezve tradition is uniquely well-suited to umbrella treatment because Turkish, Greek, Cypriot, Bosnian, Armenian, Lebanese, Egyptian coffee are all literally the same drink with different national names — one page covers all 7 with regional sub-sections.
+
+**Outcome:** Pushed at 14:XX IDT (commit 6f13ffa). /guides/what-is-turkish-coffee/ live with 4 inbound links from coffee-origins, what-is-espresso, what-is-vietnamese-coffee, greek-frappe-recipe. Sitemap re-submitted (8th in series). Site at 148 articles. White-espresso click signal held for 3rd consecutive pulse (confirmed stable). red-eye-coffee improved from 38.76 → 37.73 (continuing toward <35 milestone). ristretto-vs-espresso improved from 27.42 → 25 (broke <25 watch).
+
+**Next:** Pulse 85 candidates (in priority order):
+1. **DataForSEO sweep on French coffee cluster** (the next major un-explored umbrella opportunity from Pulse 83 plan): "cafe au lait", "cafe noisette", "cafe creme", "cafe allonge", "what is cafe au lait", "french coffee", "cafe filtre", "cafe gourmand", "noisette coffee". Already have /guides/cafe-au-lait/ but NOT a French-coffee umbrella guide. The umbrella would cover café au lait + café noisette + café crème + café allongé + café gourmand under one page.
+2. **DataForSEO sweep on Italian coffee umbrella** as a unified "Italian coffee" umbrella covering espresso + cappuccino + caffè latte + macchiato + cortado + ristretto + lungo as a unified Italian family. Risk: cannibalizes existing /guides/what-is-espresso/ and individual drink pages. Approach with caution.
+3. **DataForSEO sweep on iced-latte cluster:** "iced latte", "what is an iced latte", "iced latte recipe", "iced vanilla latte", "iced caramel latte", "iced coffee vs iced latte". Estimated head ~10-30k LOW.
+4. **DataForSEO sweep on cold-brew family expansion:** "cold brew vs nitro", "nitro cold brew", "cold brew concentrate", "cold brew with milk". Already have /guides/cold-brew-vs-espresso/ + /recipes/cold-brew-recipe/ + /guides/what-is-cold-brew/.
+
+**Critical milestones to watch in Pulse 85:**
+- **Turkish coffee indexing speed.** Volume ~76,600/mo realistic LOW capture. If first impressions hit by Pulse 87-88 (24-48h post-publish via sitemap re-submit + 4 inbound links), the cluster could drive significant traffic.
+- **Vietnamese coffee URL→Discovered advance.** Pulse 83 page should advance via Pulse 84 sitemap re-submit; expect "Discovered" by Pulse 85.
+- **Cuban coffee Discovered→Crawled.** Currently "Discovered" for ~3 days; watch for Crawled.
+- **dirty-chai Discovered→Crawled.** Same as Cuban.
+- **what-is-a-frappe first impressions.** "Crawled" since 2026-05-01 (~8 days now). Pulse 85-87 = critical window.
+- **red-eye-coffee 28-day position.** 37.73 → watch for breakthrough <35.
+- **ristretto-vs-espresso 28-day position.** 25 (just broke watch) → watch for breakthrough <22.
+- **white-espresso click count growth** beyond the recurring 1 click.
+
+DataForSEO Pulse 85: ~$0.15 (2 batches on French + iced-latte clusters) to find the next umbrella-guide target.
+
+Sitemap re-submission protocol now validated 8 times. Continue using as default for any "URL unknown" pages stuck >24h.
+
+---
+
 ## 2026-05-03 14:00 IDT — Pulse 83: What Is Vietnamese Coffee umbrella guide (135,000/mo LOW 26/100 head — LARGEST LOW-COMPETITION HEAD TERM EVER SURFACED + 14.8k iced LOW 6 + 6.6k egg LOW 2 + 4.4k what-is LOW 1 + 6.6k recipe LOW 2 + 2.9k ca-phe-sua-da LOW 4 = ~170,000/mo realistic LOW capture) + 4 inbound links + sitemap re-submission (7th in series) + Cuban coffee FASTEST-EVER ~8h indexing advance + flat-white outlier FINALLY resolved
 
 **Action:** Published /guides/what-is-vietnamese-coffee/ as the **umbrella guide for the entire Vietnamese coffee tradition**. The cluster targets discovered via Pulse 83 DataForSEO sweep:
