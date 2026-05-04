@@ -33,6 +33,8 @@ If your only experience with instant coffee is a sad mug of brown water at a hot
 
 This guide covers the authentic shake-or-whisk method, the three traditional sweetness levels, milk options, and how to order at a Greek café. (For the broader definitional context — the etymology of "frappé," how the Greek frappé compares to a Starbucks Frappuccino and the older French café frappé, and why all three drinks share the name despite being completely different — see our [what is a frappé guide](/guides/what-is-a-frappe/).)
 
+(Critical disambiguation: the Greek frappé is **not** the same as **Greek coffee** (ellinikós kafés, ελληνικός καφές). Greek coffee is the hot, unfiltered, finely-powdered coffee simmered slowly in a small long-handled copper pot called a briki — the same drink as Turkish coffee, with the same sweetness levels (sketos / metrios / glykos), the same kaymak foam, and the same Ottoman-era technique dating to 1555 Istanbul. The Greek frappé in this guide is the cold shaken iced Nescafé drink invented in 1957 in Thessaloniki. They share the same Greek café context but are otherwise completely different drinks — different bean form (powdered vs instant), different temperature (hot vs cold), different tool (briki vs shaker), different era (1500s vs 1957), and different drinking pace (sipped in 10 minutes vs sipped over an hour). For the hot version, see our [What Is Turkish Coffee?](/guides/what-is-turkish-coffee/) guide, which covers Greek coffee, Cypriot coffee, Bosnian coffee, Armenian coffee, and Lebanese qahwa as variations of the same Ottoman cezve tradition.)
+
 ## The 90-Second Greek Frappé
 
 **Makes:** 1 serving  

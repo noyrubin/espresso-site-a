@@ -28,6 +28,8 @@ This guide covers the 1857 French colonial introduction, the post-1986 Đổi M�
 
 The shared DNA: dark-roasted **robusta**, slow gravity-drip extraction through a **phin** filter, and **condensed milk** as the default sweetener and creamer. Once you know those three elements, every drink in the family becomes a logical variation.
 
+(For the parallel non-Italian small-cup tradition that built itself around a slow-simmer cezve technique instead of around slow-drip phin extraction — Turkish coffee, the oldest small-cup coffee tradition in the world (Istanbul, 1555, predates Italian espresso by ~350 years), brewed in a long-handled copper pot, served unfiltered with a thick tan foam called kaymak, and consumed across the entire former Ottoman world under different national names (Greek, Cypriot, Bosnian, Armenian, Lebanese, Egyptian) — see our [What Is Turkish Coffee?](/guides/what-is-turkish-coffee/) guide. Vietnamese phin coffee and Turkish cezve coffee are the two most important non-European small-cup traditions, both arriving at small-strong-sweet drinks via slow extraction without pressure — but using completely different tools, beans (robusta vs arabica), and serving customs.)
+
 ## Where Vietnamese Coffee Comes From
 
 ### French colonial introduction, 1857

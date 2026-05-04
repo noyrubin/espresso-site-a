@@ -33,6 +33,8 @@ This guide explains where coffee comes from, why certain regions taste the way t
 
 (For a deep dive into the world's #2 producing country specifically — Vietnam, the world's largest robusta producer with roughly 40% of global robusta supply, the Buon Ma Thuột Central Highlands coffee belt, the 1857 French colonial introduction, and the post-1986 Đổi Mới rise to mass production — see our [What Is Vietnamese Coffee?](/guides/what-is-vietnamese-coffee/) guide. Vietnam is the clearest example of how a producing country can develop a distinctive domestic coffee tradition (cà phê sữa đá, cà phê trứng, the phin filter) that is shaped by but not dependent on the European specialty coffee market.)
 
+(For the historical pivot point that took coffee out of Yemen and made it a global beverage — the 1555 Ottoman introduction of coffee to Istanbul under Suleiman the Magnificent, the rise of the Ottoman kahvehane (coffeehouse) as the central social institution of the empire, the development of the cezve simmering technique that defines Turkish, Greek, Cypriot, Bosnian, Armenian, Lebanese, and Egyptian coffee, and the 1683 Vienna export of coffee culture from the retreating Ottoman army to the rest of Europe — see our [What Is Turkish Coffee?](/guides/what-is-turkish-coffee/) guide. Turkish coffee is the oldest small-cup coffee tradition in the world and the parent of every European coffeehouse, including the Italian espresso bar.)
+
 ---
 
 ## The Coffee Belt: Where Coffee Grows

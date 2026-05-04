@@ -43,6 +43,8 @@ This guide explains what espresso actually is, how the brewing differs from drip
 
 (For the parallel non-European tradition that built itself around robusta + slow gravity drip + condensed milk instead of around pressure-extracted arabica espresso — Vietnamese coffee, the world's most distinctive non-Italian coffee tradition, with the phin filter as the brewing tool, cà phê sữa đá as the national drink, and Hanoi's cà phê trứng (egg coffee) as the most famous specialty — see our [What Is Vietnamese Coffee?](/guides/what-is-vietnamese-coffee/) guide. Vietnam is the world's #2 coffee producer and #1 robusta producer, and the Vietnamese phin tradition demonstrates that a coffee culture doesn't need an espresso machine to produce small, strong, sweet, dark-roasted drinks at scale.)
 
+(For the original small-cup coffee tradition that predates Italian espresso by roughly 350 years — Turkish coffee, developed in 1555 Istanbul under the Ottoman Empire, brewed in a small long-handled copper pot called a cezve, served unfiltered with a thick tan foam called kaymak, and consumed across the entire former Ottoman world under different national names (Greek coffee, Cypriot coffee, Bosnian coffee, Armenian coffee, Lebanese qahwa, Egyptian mazboot) — see our [What Is Turkish Coffee?](/guides/what-is-turkish-coffee/) guide. Italian espresso (patented 1884, commercialized 1901) is in many ways an industrial-scale 20th-century reinterpretation of what the Ottoman kahvehane had been doing for centuries, and the entire European coffeehouse tradition descends from the 1683 Vienna export of Ottoman coffee culture.)
+
 ---
 
 ## What Espresso Actually Is
