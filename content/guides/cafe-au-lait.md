@@ -33,6 +33,8 @@ Despite the French name, this is not an espresso drink. That's the single thing 
 
 This guide covers the original French recipe, the New Orleans version with chicory, how café au lait compares to lattes and other milk drinks, and how to make a great one at home with no espresso machine required.
 
+(Café au lait is one of seven drinks in the broader French coffee family — alongside the café (single espresso), the café crème (espresso + steamed milk, the bistro morning drink), the café noisette (the French macchiato, espresso 'stained' with a hazelnut-colored dollop of milk), the café allongé (the French lungo or americano, espresso lengthened with hot water), the café gourmand (the 1990s espresso-and-mini-desserts dessert presentation), and café filtre (drip filter coffee, historically rare and now reviving in specialty cafés). For the full umbrella tour — including the 1686 Café de Procope origin of the French coffeehouse tradition, how French names map to Italian originals, the Continental System chicory tradition that this very drink descends from, the bistro vs. specialty divide in 2026 Paris, and how to order coffee at any French café — see our [What Is French Coffee?](/guides/what-is-french-coffee/) guide.)
+
 ---
 
 ## Quick Answer: What Is a Café au Lait?

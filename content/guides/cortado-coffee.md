@@ -18,6 +18,8 @@ Here's everything you need to know about cortado coffee, how it compares to othe
 
 (For the Cuban version of this drink — the cortadito, which is a smaller, sweeter variation that uses sugar-whipped Cuban-style espresso with espumita foam instead of plain Spanish espresso — see our [What Is a Cuban Coffee?](/guides/what-is-a-cuban-coffee/) guide. The cortadito is part of the four-drink Cuban coffee family along with cafecito, colada, and Cuban café con leche, and the guide covers exactly how the Cuban cortadito differs from the Spanish cortado in size, sweetness, and ingredient sourcing.)
 
+(For the closest French analog — the café noisette, an espresso 'stained' with a small dollop of warm milk that gives it a hazelnut color (noisette is French for 'hazelnut'), drunk in a small cup at any French bistro — and the larger café crème (espresso plus 4-6 oz of steamed milk in a 6-8 oz cup, the standard French morning drink), see our [What Is French Coffee?](/guides/what-is-french-coffee/) guide. The Spanish cortado, the French café noisette, and the Italian espresso macchiato are all variations on the same idea (small espresso softened with a small amount of milk) but with different ratios, vessels, and cultural slots — the cortado is the largest of the three at a 1:1 ratio, the noisette and macchiato are roughly identical at about 90% espresso to 10% milk, and the French café crème is a separate, milkier morning drink that has no Spanish equivalent at the same volume.)
+
 ## What Is a Cortado?
 
 A cortado is a Spanish espresso drink made with equal parts espresso and warm steamed milk. The standard recipe: 2oz (60ml) double espresso + 2oz (60ml) steamed milk, served in a small 4oz glass.
