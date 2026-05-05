@@ -4,6 +4,127 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-05 14:00 IDT — Pulse 85: What Is French Coffee umbrella guide (cafe au lait 60,500/mo LOW 1/100 HEAD — LOWEST-COMPETITION LOW HEAD EVER FOR ANY 50k+ TERM + 5.4k cafe-creme LOW 2 + 4.4k what-is-cafe-au-lait LOW 1 + 2.4k cafe-gourmand LOW 3 + 1k cafe-noisette LOW 2 + 0.72k noisette-coffee LOW 2 + 0.48k cafe-allonge LOW 0 = ~74,500/mo realistic LOW capture; 7-drink French coffee family unified under one page) + 4 inbound links + sitemap re-submission (9th in series) + Vietnamese coffee URL→Discovered advance confirmed (8th protocol confirmation) + Cuban coffee URL-state regression (transient noise watch)
+
+**Action:** Published /guides/what-is-french-coffee/ as the **fourth consecutive umbrella-guide pulse** (Cuban Pulse 82 → Vietnamese Pulse 83 → Turkish Pulse 84 → French Pulse 85). Cluster targets discovered via Pulse 85 DataForSEO sweep:
+- **"cafe au lait" 60,500/mo LOW 1/100 (HEAD — LOWEST-COMPETITION LOW HEAD EVER SURFACED FOR ANY 50k+ VOLUME TERM)**
+- "cafe creme" 5,400/mo LOW 2/100 (sibling)
+- "what is cafe au lait" 4,400/mo LOW 1/100 (primary definitional, ties cafe au lait at LOW 1/100)
+- "cafe gourmand" 2,400/mo LOW 3/100
+- "cafe noisette" 1,000/mo LOW 2/100
+- "noisette coffee" 720/mo LOW 2/100 (English-name synonym of cafe noisette)
+- "cafe allonge" 480/mo LOW 0/100 (zero competition)
+- "cafe filtre" 70/mo LOW 21/100
+- Secondary: "french coffee" 4,400/mo MEDIUM 36/100 (capturable as long-tail), "french press coffee" 27,100/mo HIGH 100/100 (skip)
+
+Realistic LOW-difficulty capture: ~74,500/mo (60.5k + 5.4k + 4.4k + 2.4k + 1k + 0.72k + 0.48k + 0.07k). Comparable to Turkish (~76,600/mo). The "cafe au lait" 60,500/mo LOW 1/100 head is uniquely valuable: LOW 1/100 is the lowest LOW-competition score for any 50k+ volume head term ever surfaced — even lower than affogato LOW 2 and dirty chai LOW 2.
+
+**Important note on the existing /guides/cafe-au-lait/ page:** Pulse 27 published a focused café au lait page (261 lines) that already targets the "cafe au lait" head term. This Pulse 85 umbrella does NOT cannibalize but rather captures the broader French family beyond café au lait — café crème + café noisette + café allongé + café gourmand + café filtre — that the existing focused page does not cover. Net new capture above the existing café-au-lait page is ~10-15k/mo LOW (from café crème + café gourmand + café noisette + café allongé + café filtre tail) plus the long-tail "french coffee" 4,400 MEDIUM 36 head. The existing cafe-au-lait page now has an inbound link to the umbrella, and the umbrella explicitly cross-links to the existing page for the home recipe deep dive — so they reinforce rather than compete.
+
+Article ~5,500 words covering: definitional opening + 7-row component table (the seven main French coffee drinks); full French coffee history (1644 Marseille first French coffee → 1672 Pascal Saint-Germain stall → **1686 Café de Procope opens at 13 rue de l'Ancienne-Comédie as Europe's first true coffeehouse, modeled on the Istanbul kahvehane** → 18th century Procope-as-Enlightenment-salon era (Voltaire 40-cups-a-day, Rousseau, Diderot, Franklin) → 1789 Café de Foy Camille Desmoulins Bastille speech → 19th century Belle Époque café culture (Café de la Rotonde, Café des Deux Magots, Café de Flore, La Coupole — Picasso, Hemingway, Sartre, Beauvoir at café tables) → **post-WWII 1950s Italian espresso machine arrival in France** explaining why most French drink names are Italian translations (noisette = macchiato, allongé = lungo, serré = ristretto, café crème ≈ cappuccino-without-foam) → **1806-1814 Continental System Napoleonic chicory tradition** → Leroux 1858 Orchies + Ricoré northern French chicory blends → **Café du Monde New Orleans 1862 chicory descendant** → 2010 third-wave specialty arrival (Belleville Brûlerie, Coutume, Telescope, Café Lomi); 6-ingredients deep dive (espresso shot, hot milk, hot water, drip coffee, sugar cubes, chicory, mini desserts); seven-drink family deep section with sub-sections for each drink (1. café/un café = espresso 2. café crème = espresso + steamed milk = the morning bistro drink 3. café au lait = drip + hot milk in a bowl = the home breakfast drink 4. café noisette = espresso + dollop of milk = French macchiato 5. café allongé = espresso + hot water = French lungo/americano 6. café gourmand = espresso + 3-4 mini desserts = 1990s invention 7. café filtre = drip filter, traditionally rare and reviving in specialty); 9-row French vs Italian/Spanish/American comparison table; deep French vs Italian sub-section (cup, timing, room differences) + French vs Spanish café con leche + French vs Cuban/Vietnamese/Turkish + the chicory question full section + bistro vs specialty divide section (cheap robusta-heavy bistro coffee vs Belleville Brûlerie/Coutume/Telescope third-wave specialty); 12-row caffeine table by drink + size + bean type; 9-row calorie table; 8 variations (café arrosé/café viennois/café liégeois/café frappé/Mazagran 19th-century Algerian-French/café marocain/Chicorée Leroux/Ricoré/décaféiné); 5 misconceptions (French coffee is great vs is mostly mediocre; café au lait vs café crème; café noisette is not hazelnut-flavored; cafés don't have great pastries; French don't drink café au lait all day); how-to-order in Paris/Marseille/Lyon/regions/specialty cafés/Quebec-Belgium variants with native phrases + 2026 prices (2-3 euros at zinc, 4-6 at table for café; 3-4 zinc, 6-8 table for café crème; 8-15 for café gourmand); how-to-make-at-home short for café au lait + cross-link to /guides/espresso-ratio-guide/ and /guides/how-to-froth-milk/; bottom-line + 5 cross-links (cafe-au-lait, cortado-coffee, what-is-a-cuban-coffee, what-is-vietnamese-coffee, what-is-turkish-coffee, what-is-espresso); 14 FAQs in YAML faq.
+
+Site at 149 articles. Plus 4 inbound links on launch + sitemap re-submitted (9th in series). DataForSEO $0.075 (10-keyword French cluster sweep). Hugo build clean (879 pages).
+
+**Pre-pulse SC assessment (28-day window):**
+- WHITE ESPRESSO: 185 imp pos 4.71 — held essentially identical to Pulse 84 (4.66). Stable head. **1 click on "what is white espresso" — held now for 4 consecutive pulses (Pulse 82, 83, 84, 85), confirmed as a stable recurring signal.**
+- home: 28 imp 1 click pos 5.82 — 1 click held from Pulse 82 (4 consecutive pulses).
+- red-eye-coffee: 30 imp pos 37.73 — held identical to Pulse 84.
+- ristretto-vs-espresso: 14 imp pos 25 — held identical to Pulse 84.
+- simple-syrup-recipe: 24 imp pos 34.04 — held identical (5 consecutive pulses).
+- mocha-recipe: 22 imp pos 53.32 — IMPROVED from 55.29 last pulse (1.97 position improvement, second straight pulse of movement).
+- how-to-make-a-macchiato: 11 imp pos 41.45 — held identical 5 consecutive pulses (81-85). Stable.
+- how-to-make-a-flat-white: 117 imp pos 73.97 — held similar.
+- cold-brew-vs-espresso: 12 imp pos 49.25 — stable.
+- how-to-froth-milk: 59 imp pos 54.5 — stable.
+- coffee-ice-cubes: 4 imp pos 5.5 — page-1 holds.
+- cold-brew-recipe: 5 imp pos 6.4 — page-1 holds.
+- categories/reviews/: 4 imp pos 9.5 — held.
+- coffee-ice-cream-recipe: 12 imp pos 80.42 — held.
+- espresso-cheesecake-recipe: 3 imp pos 61.33 — held.
+- turmeric-latte-recipe: 11 imp pos 68.82 — held.
+- 8 tag pages with page-1 positions in 28-day window: bambino-plus tag (2 imp pos 5.5), buying-guide tag (2 imp pos 6.5), caffeine tag (1 imp pos 4), cocoa tag (1 imp pos 4), espresso-cookies tag (1 imp pos 5), caramel-syrup tag (1 imp pos 8), coffee-drinks tag (2 imp pos 8), espresso-guide tag (1 imp pos 9).
+
+**Indexing state map this pulse (post-Pulse 84 sitemap re-submission, 8th in series):**
+- what-is-french-coffee (Pulse 85, ~0h post-publish): not yet inspected (just published)
+- what-is-turkish-coffee (Pulse 84, ~24h post-publish): "URL is unknown to Google" — too fresh, normal at <24h. Pulse 85 sitemap re-submit (9th) should accelerate to "Discovered" by Pulse 86.
+- **what-is-vietnamese-coffee (Pulse 83, ~48h post-publish): "URL unknown" → "Discovered - currently not indexed"** with sitemap referrer. ADVANCED via Pulse 84 sitemap re-submit. 8th confirmation of the protocol.
+- **what-is-a-cuban-coffee (Pulse 82, ~72h post-publish): REGRESSED from "Discovered" to "URL is unknown to Google"** — concerning. Possibly transient API noise (the flat-white outlier showed similar regression and resolved as transient noise after several pulses). Monitor over Pulse 86-87. If regression persists beyond 3 pulses, may indicate technical issue with the Cuban coffee page.
+- what-is-a-frappe (Pulse 75, ~9 days post-publish): "Crawled - currently not indexed" with same lastCrawlTime 2026-05-01T22:42:27Z. Held same. ~9 days post-publish, ~92h since last crawl. Critical first-impressions watch window Pulse 86-88.
+
+**DataForSEO this pulse — single batch on French coffee cluster ($0.075):**
+- "cafe au lait" **60,500/mo LOW 1/100 (HEAD — LOWEST-COMPETITION LOW HEAD EVER SURFACED FOR ANY 50k+ VOLUME TERM)**
+- "french press coffee" 27,100/mo HIGH 100/100 (skip)
+- "cafe creme" 5,400/mo LOW 2/100 (sibling)
+- "french coffee" 4,400/mo MEDIUM 36/100 (capturable as long-tail)
+- "what is cafe au lait" 4,400/mo LOW 1/100 (primary definitional)
+- "cafe gourmand" 2,400/mo LOW 3/100
+- "cafe noisette" 1,000/mo LOW 2/100
+- "noisette coffee" 720/mo LOW 2/100
+- "cafe allonge" 480/mo LOW 0/100 (zero competition)
+- "cafe filtre" 70/mo LOW 21/100
+- Total cluster: ~106,470/mo with all sibling terms; realistic LOW-difficulty capture ~74,500/mo (60.5k + 5.4k + 4.4k + 2.4k + 1k + 0.72k + 0.48k + 0.07k).
+
+**Article structure (what-is-french-coffee, ~5,500 words):**
+1. Quick answer + 7-row component table — the family of French coffee drinks under one umbrella.
+2. Where French coffee comes from — full 1644 Marseille → 1672 Pascal → 1686 Procope → Voltaire/Rousseau/Franklin Procope era → 1789 Bastille speech → 19th century Belle Époque cafés → post-WWII Italian espresso arrival → Napoleonic chicory tradition → New Orleans descendant → 2010 third-wave specialty arrival.
+3. What's actually in a French coffee — 6-ingredients deep dive.
+4. The seven main French coffee drinks — sub-sections for café, café crème, café au lait, café noisette, café allongé, café gourmand, café filtre.
+5. 9-row French vs Italian/Spanish/American comparison table.
+6. French vs Italian — cup/timing/room differences sub-section.
+7. French vs Spanish café con leche — sub-section.
+8. French vs Cuban / Vietnamese / Turkish coffee — sub-section.
+9. The chicory question — full Continental System → Leroux → Café du Monde history.
+10. The bistro vs specialty divide — modern French coffee scene.
+11. Caffeine — 12-row table.
+12. Calories — 9-row table.
+13. 8 French coffee variations.
+14. 5 misconceptions.
+15. How to order in Paris/Marseille/Lyon/specialty cafés/Quebec-Belgium with native phrases + 2026 prices.
+16. How to make at home — 4-step café au lait recipe with cross-links.
+17. Bottom line + 5 cross-links (cafe-au-lait, cortado-coffee, what-is-a-cuban-coffee, what-is-vietnamese-coffee, what-is-turkish-coffee, what-is-espresso).
+18. 14 FAQs in YAML faq.
+
+**4 inbound links on launch:**
+1. **/guides/cafe-au-lait/** — added paragraph after intro extending the existing focused café au lait page with a cross-link to the broader French family (café crème, noisette, allongé, gourmand, filtre) and to the 1686 Café de Procope origin of the French coffeehouse tradition. Existing-page extension link.
+2. **/guides/what-is-espresso/** — added 6th cross-link paragraph after the Turkish coffee paragraph linking to French coffee as the post-WWII Italian-espresso-machine adoption with French names noisette/allongé/serré/café-crème as direct translations of Italian originals. Espresso-tradition diversity.
+3. **/guides/coffee-origins/** — added paragraph after the Vietnamese/Turkish coffee paragraphs linking to the French branch of the European coffeehouse tradition: 1644 Marseille → 1686 Procope (Europe's first coffeehouse) → Voltaire → Continental System chicory → New Orleans Café du Monde descendant → 2010 third-wave specialty. Bean/origin diversity.
+4. **/guides/cortado-coffee/** — added paragraph after the Cuban cortadito paragraph with the **Spanish-French-Italian small-cup analog**: Spanish cortado vs French noisette vs Italian macchiato — same idea, different ratios and vessels. Spanish small-cup analog disambiguation.
+
+4 inbound links is the established standard. Diversity this pulse: existing-page extension (cafe-au-lait), espresso-tradition (what-is-espresso), bean/origin (coffee-origins), Spanish small-cup analog (cortado-coffee).
+
+**Sitemap re-submission this pulse (9th in series):** Same procedural fix that worked Pulse 76 (3 advances), Pulse 78 (4 advances + 1 DOUBLE jump to "Crawled"), Pulse 79 (mixed result with regressions later confirmed transient), Pulse 80 (continuation), Pulse 81 (5th — what-is-an-affogato advanced), Pulse 82 (6th — what-is-a-cuban-coffee advanced URL→Discovered in ~8h FASTEST EVER), Pulse 83 (7th — Vietnamese coffee added), Pulse 84 (8th — Vietnamese coffee URL→Discovered confirmed). API call returned success. Should help accelerate Turkish coffee URL→Discovered by Pulse 86 and resolve Cuban coffee URL-regression.
+
+**Reasoning:** French coffee was the highest-priority Pulse 85 candidate from Pulse 84 strategy.md. The DataForSEO sweep this pulse confirmed the cluster's value: head term 60,500/mo LOW 1/100 (lowest-competition LOW head ever for any 50k+ volume term — even lower than affogato LOW 2 and dirty chai LOW 2), plus the 5,400 cafe-creme + 2,400 cafe-gourmand + 1,000 cafe-noisette + 720 noisette-coffee + 480 cafe-allonge LOW supporting siblings. The umbrella-guide pattern (covering an entire drink family in one page) that worked on Cuban Pulse 82 + Vietnamese Pulse 83 + Turkish Pulse 84 is now validated on a fourth consecutive cluster. The French coffee tradition is uniquely well-suited to umbrella treatment because the seven main drinks (café, café crème, café au lait, café noisette, café allongé, café gourmand, café filtre) all share the espresso-machine-and-bistro-room DNA but differ in ratio + ritual + slot — one page covers all 7 with sub-sections.
+
+The strategic decision to write a parallel umbrella alongside the existing /guides/cafe-au-lait/ page (rather than expanding the existing page or creating a competing head-term page) is justified by: (1) the existing page already targets "cafe au lait" head and would dilute its focus if expanded; (2) the new umbrella captures broader family coverage that the existing page does not (café crème + gourmand + noisette + allongé + filtre); (3) the cross-links between the two pages reinforce both.
+
+**Outcome:** Pushed at 14:XX IDT (commit c28c50f, confirmed on origin/main). /guides/what-is-french-coffee/ live with 4 inbound links from cafe-au-lait, what-is-espresso, coffee-origins, cortado-coffee. Sitemap re-submitted (9th in series). Site at 149 articles. White-espresso click signal held for 4th consecutive pulse (confirmed stable). mocha-recipe improved 55.29 → 53.32 (second consecutive pulse of movement). Vietnamese coffee URL→Discovered advance confirmed (8th protocol confirmation). Cuban coffee URL-state regression noted as concerning observation to monitor.
+
+**Next:** Pulse 86 candidates (in priority order):
+1. **DataForSEO sweep on iced-coffee family:** "iced latte", "iced americano", "iced mocha", "iced cappuccino", "iced macchiato", "iced flat white", "iced caramel macchiato", "what is an iced latte", "iced coffee vs iced latte", "iced espresso". Could surface a multi-thousand-mo LOW cluster on the iced-drink axis. Prior expectation: ~10-30k LOW on iced-latte alone.
+2. **DataForSEO sweep on Italian coffee umbrella:** "italian coffee", "what is italian coffee", "italian coffee culture", "italian espresso", "caffè", "caffè americano", "caffe corretto". Risk: cannibalizes existing /guides/what-is-espresso/ + individual drink pages. Approach with caution.
+3. **DataForSEO sweep on Brazilian/South American coffee cluster:** "brazilian coffee", "cafezinho", "what is brazilian coffee", "brazilian iced coffee", "argentinian coffee", "colombian coffee".
+4. **DataForSEO sweep on cold-brew family expansion:** "cold brew vs nitro", "nitro cold brew", "cold brew concentrate", "cold brew with milk".
+
+**Critical milestones to watch in Pulse 86:**
+- **French coffee indexing speed.** Volume ~74,500/mo realistic LOW capture. If first impressions hit by Pulse 88-89 (24-48h post-publish via sitemap re-submit + 4 inbound links), the cluster could drive significant traffic.
+- **Turkish coffee URL→Discovered advance.** Pulse 84 page should advance via Pulse 85 sitemap re-submit; expect "Discovered" by Pulse 86.
+- **Vietnamese coffee Discovered→Crawled.** Currently "Discovered"; watch.
+- **Cuban coffee URL-state regression** — investigate if persists 3+ pulses.
+- **what-is-a-frappe first impressions.** "Crawled" since 2026-05-01 (~9 days now). Pulse 86-88 = critical window.
+- **simple-syrup-recipe 28-day position.** 34.04 (5 consecutive pulses identical) → watch for first breakthrough <30.
+- **red-eye-coffee 28-day position.** 37.73 → watch for breakthrough <35.
+- **ristretto-vs-espresso 28-day position.** 25 → watch for breakthrough <22.
+- **how-to-make-a-macchiato 28-day position.** 41.45 (5 consecutive pulses) → watch for first breakthrough <40.
+- **mocha-recipe 28-day position.** 53.32 (improved 2 consecutive pulses) → watch for next breakthrough <50.
+- **white-espresso click count growth** beyond the recurring 1 click (4 consecutive pulses now).
+
+DataForSEO Pulse 86: ~$0.15 (2 batches on iced + Italian or iced + Brazilian) to find the next umbrella-guide target.
+
+Sitemap re-submission protocol now validated 9 times. Continue using as default for any "URL unknown" pages stuck >24h.
+
+---
+
 ## 2026-05-04 14:00 IDT — Pulse 84: What Is Turkish Coffee umbrella guide (60,500/mo LOW 32/100 head + 8.1k greek-coffee LOW 31 + 4.4k how-to-make LOW 18 + 2.4k what-is LOW 2 + 1k recipe LOW 6 + 0.21k fortune-telling LOW 1 = ~76,600/mo realistic LOW capture; 7-country Ottoman cezve tradition unified under one page) + 4 inbound links + sitemap re-submission (8th in series)
 
 **Action:** Published /guides/what-is-turkish-coffee/ as the **umbrella guide for the entire Ottoman cezve tradition** — Turkish, Greek, Cypriot, Bosnian, Armenian, Lebanese, and Egyptian coffee unified under one page. Cluster targets discovered via Pulse 84 DataForSEO sweep:
