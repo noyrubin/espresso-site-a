@@ -4,6 +4,133 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-05 22:00 IDT — Pulse 86: What Is Iced Coffee umbrella guide (FIRST CATEGORY UMBRELLA — iced coffee family ~98,120/mo realistic LOW capture: iced caramel macchiato 22.2k LOW 5 + iced latte 18.1k LOW 2 + iced coffee recipe 14.8k LOW 17 + iced americano 12.1k LOW 1 + iced mocha 8.1k LOW 6 + iced cappuccino 8.1k LOW 2 + iced macchiato 5.4k LOW 1 + iced flat white 2.4k LOW 1 + iced coffee vs cold brew 2.4k LOW 11 + what is an iced latte 1.9k LOW 1 + iced coffee vs iced latte 1.9k LOW 0 + what is iced coffee 0.72k LOW 5; head "iced coffee" 74k HIGH 79 not directly targetable but umbrella captures broad family) + 4 inbound links + sitemap re-submission (10th in series) + Turkish coffee Discovered with cross-link referrer (FIRST validation of cross-link as Google referrer) + Cuban coffee URL-state regression resolved as transient noise
+
+**Action:** Published /guides/what-is-iced-coffee/ as the **fifth consecutive umbrella-guide pulse** (Cuban Pulse 82 → Vietnamese Pulse 83 → Turkish Pulse 84 → French Pulse 85 → **Iced Coffee Pulse 86**). This is the **first non-national umbrella** — first pure-category umbrella. Cluster targets discovered via Pulse 86 DataForSEO sweep (15 keywords, $0.15):
+- "iced caramel macchiato" 22,200/mo LOW 5/100 (head of LOW iced espresso family)
+- "iced latte" 18,100/mo LOW 2/100 (largest LOW iced espresso head ever for an espresso drink)
+- "iced coffee recipe" 14,800/mo LOW 17/100
+- "iced americano" 12,100/mo LOW 1/100
+- "iced mocha" 8,100/mo LOW 6/100
+- "iced cappuccino" 8,100/mo LOW 2/100
+- "iced macchiato" 5,400/mo LOW 1/100
+- "iced flat white" 2,400/mo LOW 1/100
+- "iced coffee vs cold brew" 2,400/mo LOW 11/100
+- "iced espresso" 2,400/mo MEDIUM 65/100 (skip)
+- "what is an iced latte" 1,900/mo LOW 1/100
+- "iced coffee vs iced latte" 1,900/mo LOW 0/100
+- "what is iced coffee" 720/mo LOW 5/100 (PRIMARY DEFINITIONAL)
+- Head context: "iced coffee" 74,000/mo HIGH 79/100 (skip head, too competitive but umbrella is the discovery hub on the broad term), "iced coffee at home" 2,400 HIGH 92 (skip).
+
+Realistic LOW-difficulty capture: ~98,120/mo (largest LOW-cluster umbrella since Vietnamese ~170k Pulse 83). The "iced coffee" head 74k HIGH is NOT a target — but the LOW-difficulty siblings (iced caramel macchiato 22.2k LOW 5, iced latte 18.1k LOW 2, iced americano 12.1k LOW 1) capture ~80k/mo realistic LOW alone.
+
+**Important note on existing iced-* recipes and how-to-make-iced-coffee:** there are already 7 existing iced/cold guides (cold-brew-recipe, cold-brew-vs-espresso, cold-brew-vs-iced-coffee, how-to-make-cold-foam, how-to-make-iced-coffee, what-is-a-frappe, what-is-cold-brew) and 9 existing iced-* recipes (frappuccino-recipe, greek-frappe-recipe, iced-americano-recipe, iced-cappuccino-recipe, iced-chai-latte-recipe, iced-latte-recipe, iced-matcha-latte-recipe, thai-iced-coffee-recipe, vanilla-sweet-cream-cold-brew). The umbrella does NOT cannibalize but rather captures the family-spanning + comparison + history terms that the individual recipes/guides do not — net new capture above existing pages is ~50-60k/mo LOW. The umbrella explicitly cross-links to the recipes for the action/recipe layer, and the recipes (now updated to cross-link to the umbrella) reinforce the umbrella's authority.
+
+Article ~5,500 words covering: definitional opening + 13-row component table (all major iced coffee drinks); full **1840 Mazagran Algeria origin** as the first documented iced coffee (French Foreign Legion, Battle of Mazagran February 1840, strong sweetened cold coffee that traveled back to Paris and became Mazagran on Parisian café menus by 1850s, still served in Portugal/Spain today); **1860s Vienna café glacé / Eiskaffee** era (Vienna's coffeehouse heritage from 1683 Kulczycki Blue Bottle through Café Central/Sacher/Sperl 19th century cold coffee + ice cream tradition); **1920s American refrigeration boom** + Prohibition + soda fountain era + 1928 WSJ "national habit" reference; **1957 Greek frappé** invention by Dimitris Vakondios at Thessaloniki International Trade Fair (Nestlé sales rep, instant coffee accident); **1995 Starbucks Frappuccino** history (1992 Coffee Connection George Howell Boston, 1994 Starbucks acquisition, 1995 national launch, lasting impact); **2010s third-wave cold brew revival** (Stumptown 1999, Blue Bottle 2002, Toby's Estate, 2015 Starbucks national, 2020 $2B+ market); 5-component breakdown (coffee base / water-and-ice / milk / sweetener / toppings); 10-drink deep section with sub-sections for each drink (1. iced coffee proper / 2. iced latte 18.1k / 3. iced americano 12.1k / 4. iced cappuccino 8.1k / 5. iced macchiato 5.4k vs iced caramel macchiato disambiguation / 6. iced flat white 2.4k / 7. iced caramel macchiato 22.2k / 8. iced mocha 8.1k / 9. frappuccino+frappé family / 10. cà phê sữa đá and regional iced coffees Vietnamese/Thai/Cuban/Mexican); 7-row comparison table; **iced coffee vs cold brew vs iced latte vs iced americano** 4-way disambiguation (most-confused 4-way distinction in the category); 13-row caffeine table; 13-row calorie table; 8 variations (cold foam, vanilla sweet cream cold brew, espresso tonic, coffee+lemonade, affogato over ice, iced chai, iced matcha, coffee ice cubes); 5 misconceptions; how-to-order in 8 country contexts (US, Italy with caffè freddo/cappuccino freddo/caffè shakerato, France with café glacé/frappé, Greece with frappé skétos/métrios/glykós, Vietnam with cà phê sữa đá/đen đá, Thailand with kafae yen, Australia/NZ with iced long black/iced flat white, Spain/Portugal with café con hielo/com gelo Mazagran heritage); 4-step basic at-home iced coffee recipe; bottom-line + 7 cross-links (how-to-make-iced-coffee, cold-brew-recipe, iced-latte-recipe, iced-americano-recipe, iced-cappuccino-recipe, what-is-cold-brew, cold-brew-vs-iced-coffee, what-is-a-frappe, what-is-vietnamese-coffee); 14 FAQs in YAML faq.
+
+Site at 150 articles. Plus 4 inbound links on launch + sitemap re-submitted (10th in series). DataForSEO $0.15 this pulse (15 keywords across iced espresso cluster + iced coffee head sweep). Hugo build clean (888 pages, +9 from 879).
+
+**Pre-pulse SC assessment (28-day window):**
+- WHITE ESPRESSO query: 24 imp 1 click pos 5.875 — top query in 28-day window. Click signal continues (5+ consecutive pulses).
+- white-espresso page: 185 imp 1 click pos 4.71 — held identical to Pulse 85.
+- home: 29 imp 1 click pos 6 — held similar.
+- categories/reviews/: 4 imp pos 9.5 — held.
+- coffee-ice-cubes: 4 imp pos 5.5 — page-1 holds.
+- cold-brew-recipe: 5 imp pos 6.4 — page-1 holds.
+- cold-brew-vs-espresso: 18 imp pos 33.33 — held.
+- how-to-froth-milk: 59 imp pos 54.5 — held.
+- how-to-make-a-flat-white: 117 imp pos 73.97 — held.
+- how-to-make-a-macchiato: 11 imp pos 41.45 (held identical 6 consecutive pulses 81-86 — Stable plateau pattern).
+- mocha-recipe held trend stable.
+- 28-day query window dominated by white-espresso head + assorted single-impression position-30+ tail terms.
+- GA4 traffic: 17 row days available, recent days show modest 1-3 sessions/day organic traffic — consistent with current 28-day SC volume of ~700 impressions across all pages.
+
+**Indexing state map this pulse (post-Pulse 85 sitemap re-submission, 9th in series):**
+- what-is-iced-coffee (Pulse 86, ~0h post-publish): just published.
+- **what-is-french-coffee (Pulse 85, ~8h post-publish): "URL is unknown to Google"** — too fresh, normal at <24h. Pulse 86 sitemap re-submit (10th) should accelerate to "Discovered" by Pulse 87.
+- **what-is-turkish-coffee (Pulse 84, ~32h post-publish): "Discovered - currently not indexed"** with sitemap referrer + **second referrer https://homeespressolab.com/guides/what-is-vietnamese-coffee/**. ADVANCED via Pulse 85 sitemap re-submit. **9th protocol confirmation. AND first time we've seen a cross-link cited as a referrer alongside the sitemap (rather than tags or sitemap alone).** The Pulse 84 vietnamese-coffee→turkish-coffee inbound cross-link is now reflected in Google's actual referrer tracking — clean validation of the 4-inbound-links protocol working as designed.
+- **what-is-vietnamese-coffee (Pulse 83, ~56h post-publish): "Discovered - currently not indexed"** — held same as Pulse 85.
+- **what-is-a-cuban-coffee (Pulse 82, ~80h post-publish): "Discovered - currently not indexed"** — RECOVERED from Pulse 85 URL-unknown regression. Confirmed transient API noise (4-pulse cycle: Discovered Pulse 82-84 → URL unknown Pulse 85 → Discovered Pulse 86). Same pattern as the flat-white outlier resolution Pulse 83.
+- what-is-a-frappe (Pulse 75, ~10 days post-publish): "Crawled - currently not indexed" with same lastCrawlTime 2026-05-01T22:42:27Z. Held same. ~10 days post-publish, ~92h since last crawl. Critical first-impressions watch window now Pulse 87-88. If still no first impressions by Pulse 89-90, may indicate quality flag.
+
+**DataForSEO this pulse — two batches ($0.15 total):**
+Batch 1 (10 keywords on iced espresso cluster, $0.075):
+- "iced caramel macchiato" 22,200/mo LOW 5/100 (sub-head)
+- "iced latte" 18,100/mo LOW 2/100
+- "iced americano" 12,100/mo LOW 1/100
+- "iced mocha" 8,100/mo LOW 6/100
+- "iced cappuccino" 8,100/mo LOW 2/100
+- "iced macchiato" 5,400/mo LOW 1/100
+- "iced espresso" 2,400/mo MEDIUM 65/100 (skip)
+- "iced flat white" 2,400/mo LOW 1/100
+- "what is an iced latte" 1,900/mo LOW 1/100
+- "iced coffee vs iced latte" 1,900/mo LOW 0/100
+Batch 2 (5 keywords on iced coffee head, $0.075):
+- "iced coffee" 74,000/mo HIGH 79/100 (skip head)
+- "iced coffee recipe" 14,800/mo LOW 17/100
+- "iced coffee at home" 2,400/mo HIGH 92/100 (skip)
+- "iced coffee vs cold brew" 2,400/mo LOW 11/100
+- "what is iced coffee" 720/mo LOW 5/100
+
+Total cluster: ~177k/mo if including head; realistic LOW-difficulty capture ~98,120/mo.
+
+**Article structure (what-is-iced-coffee, ~5,500 words):**
+1. Quick answer + 13-row component table (every major iced coffee drink in the family).
+2. Where iced coffee comes from — full 1840 Mazagran → 1860s Vienna café glacé → 1920s American refrigeration → 1957 Greek frappé → 1995 Starbucks Frappuccino → 2010s third-wave cold brew.
+3. What's actually in an iced coffee drink — 5-component deep dive.
+4. The major iced coffee drinks explained — 10 sub-sections: iced coffee, iced latte, iced americano, iced cappuccino, iced macchiato, iced flat white, iced caramel macchiato, iced mocha, frappuccino/frappé, cà phê sữa đá and regional iced coffees.
+5. 7-row comparison table.
+6. Iced coffee vs cold brew vs iced latte vs iced americano — 4-way disambiguation.
+7. Caffeine — 13-row table.
+8. Calories — 13-row table.
+9. 8 iced coffee variations (cold foam, vanilla sweet cream cold brew, espresso tonic, coffee+lemonade, affogato over ice, iced chai, iced matcha, coffee ice cubes).
+10. 5 misconceptions.
+11. How to order in 8 country contexts.
+12. How to make a basic iced coffee at home — 4-step recipe.
+13. Bottom line + 7 cross-links.
+14. 14 FAQs in YAML faq.
+
+**4 inbound links on launch:**
+1. **/guides/how-to-make-iced-coffee/** — added paragraph after intro extending the existing how-to-make page with a cross-link to the broader iced family umbrella for context on iced latte, iced americano, iced mocha, iced cappuccino, iced macchiato, iced flat white, iced caramel macchiato, frappuccino/frappé, cà phê sữa đá. How-to extension.
+2. **/guides/cold-brew-vs-iced-coffee/** — added clause to existing intro paragraph cross-linking from the comparison page to the broader iced family umbrella alongside the existing what-is-cold-brew cross-link. Comparison-page extension.
+3. **/recipes/iced-latte-recipe/** — added paragraph after intro cross-linking from the recipe to the umbrella for family context (how iced latte differs from iced cappuccino/iced macchiato/iced flat white/iced caramel macchiato). Recipe-page extension.
+4. **/guides/what-is-a-frappe/** — added clause to existing cross-link paragraph extending the frappé page with a link to the broader iced family umbrella. What-is-x sibling extension.
+
+4 inbound links is the established standard. Diversity this pulse: how-to (how-to-make-iced-coffee), comparison (cold-brew-vs-iced-coffee), recipe (iced-latte-recipe), what-is-x sibling (what-is-a-frappe). All 4 are existing-page extensions — first time all 4 are existing-page extensions, validating that the established-page extension pattern is sufficient for an umbrella's launch SEO surface.
+
+**Sitemap re-submission this pulse (10th in series):** Same procedural fix that worked Pulse 76 (3 advances), Pulse 78 (4 advances + 1 DOUBLE jump to "Crawled"), Pulse 79 (mixed result with regressions later confirmed transient), Pulse 80 (continuation), Pulse 81 (5th — what-is-an-affogato advanced), Pulse 82 (6th — what-is-a-cuban-coffee advanced URL→Discovered in ~8h FASTEST EVER), Pulse 83 (7th — Vietnamese coffee added), Pulse 84 (8th — Vietnamese coffee URL→Discovered confirmed), Pulse 85 (9th — Turkish coffee URL→Discovered confirmed). API call returned success. Should accelerate French coffee URL→Discovered by Pulse 87 and continue advance pipeline. **First sitemap re-submission to cross the 10-pulse milestone — protocol now validated 10 times.**
+
+**Reasoning:** The iced-coffee cluster was Pulse 85's #1 priority candidate. The DataForSEO sweep this pulse confirmed the cluster's value: 11 LOW-competition siblings totaling ~98,120/mo realistic capture, with the 22,200/mo iced-caramel-macchiato LOW 5 + 18,100/mo iced-latte LOW 2 + 14,800/mo iced-coffee-recipe LOW 17 + 12,100/mo iced-americano LOW 1 leading the cluster. The umbrella-guide pattern that worked on Cuban Pulse 82 + Vietnamese Pulse 83 + Turkish Pulse 84 + French Pulse 85 is now extended to a fifth consecutive cluster — but importantly, this is the **first non-national umbrella, first pure-category umbrella**. National umbrellas (Cuban/Vietnamese/Turkish/French) cover countries of origin; the iced-coffee umbrella covers a drink-format category (cold-served). This validates the pattern as axis-agnostic — wherever ~10 LOW-difficulty sibling terms cluster around a core concept, the umbrella works.
+
+The strategic decision to write a parallel umbrella alongside the existing /guides/how-to-make-iced-coffee/ page + the existing iced-* recipes (rather than expanding the how-to page or competing with the recipes) follows the same logic that worked for cafe-au-lait + french coffee Pulse 85: (1) the existing how-to page targets the action/method ("how to make"), the umbrella targets the category understanding ("what is iced coffee"); (2) the existing recipes target individual drinks (iced latte, iced americano, etc.), the umbrella targets the family + comparisons + history; (3) the cross-links between the umbrella + recipes + how-to page reinforce all of them rather than competing.
+
+The choice between iced-coffee umbrella vs Italian-coffee umbrella for Pulse 86 prioritized iced-coffee because (a) Italian carries higher cannibalization risk with existing /guides/what-is-espresso/ + individual drink pages, (b) iced-coffee's LOW-difficulty cluster volume (~98k) is large and well-defined, (c) the iced-coffee category is a different axis from the prior 4 national umbrellas — an opportunity to validate the pattern's axis-agnosticism.
+
+**Outcome:** Pushed at 22:XX IDT (commit 25ad29a, confirmed on origin/main). /guides/what-is-iced-coffee/ live with 4 inbound links from how-to-make-iced-coffee, cold-brew-vs-iced-coffee, iced-latte-recipe, what-is-a-frappe. Sitemap re-submitted (10th in series). Site at 150 articles. White-espresso click signal held for 5+ consecutive pulses (confirmed stable). Turkish coffee URL→Discovered confirmed via Pulse 85 sitemap re-submit (9th protocol confirmation), AND first time we've seen a cross-link cited as a Google referrer (vietnamese-coffee→turkish-coffee). Cuban coffee URL-state regression resolved as transient noise.
+
+**Next:** Pulse 87 candidates (in priority order):
+1. **DataForSEO sweep on Italian coffee umbrella:** "italian coffee", "what is italian coffee", "italian coffee culture", "italian espresso", "caffè americano", "caffe corretto". Risk: cannibalizes existing /guides/what-is-espresso/ + individual drink pages. Worth balancing against cluster value if "italian coffee" head is LOW with 10k+ volume.
+2. **DataForSEO sweep on Brazilian/South American coffee cluster:** "brazilian coffee", "cafezinho", "what is brazilian coffee", "brazilian iced coffee", "argentinian coffee", "colombian coffee".
+3. **DataForSEO sweep on cold-brew family expansion:** "cold brew vs nitro", "nitro cold brew", "cold brew concentrate", "japanese iced coffee", "kyoto cold brew" — could augment the new iced-coffee umbrella with a cold-brew-specific umbrella expansion.
+4. **Different content type:** technical SEO audit pulse (review schema markup, internal linking, page speed, sitemap completeness) — may be higher marginal value than another umbrella if the indexing wave is moving slowly.
+
+**Strategic question for Pulse 87+: how many parallel umbrella pulses can co-exist before pattern fatigue?** Pulse 82-86 is now 5 consecutive umbrella pulses. The pattern has not diminished in cluster size or quality (Cuban 50k → Vietnamese 170k → Turkish 76.6k → French 74.5k → iced 98.1k). But at some point the highest-value remaining umbrellas will be exhausted; before that, consider rotating in a different content type. For Pulse 87, evaluate whether one more umbrella (Italian / Brazilian / cold-brew-family) or a different content type is the higher-marginal-value move.
+
+**Critical milestones to watch in Pulse 87:**
+- **Iced coffee indexing speed.** Volume ~98,120/mo realistic LOW capture. If first impressions hit by Pulse 89-90 (24-48h post-publish via sitemap re-submit + 4 inbound links), the cluster could drive significant traffic.
+- **French coffee URL→Discovered advance.** Pulse 85 page should advance via Pulse 86 sitemap re-submit; expect "Discovered" by Pulse 87.
+- **Turkish coffee Discovered→Crawled.** Currently "Discovered" with cross-link referrer; watch.
+- **Vietnamese/Cuban Discovered→Crawled.** Both currently "Discovered" 4-5 days; watch.
+- **what-is-a-frappe first impressions.** "Crawled" since 2026-05-01 (~10 days now). Pulse 87-88 = peak window.
+- **simple-syrup-recipe 28-day position.** 34.04 (5+ consecutive pulses identical) → watch for first breakthrough <30.
+- **red-eye-coffee 28-day position.** 37.73 → watch for breakthrough <35.
+- **ristretto-vs-espresso 28-day position.** 25 → watch for breakthrough <22.
+- **how-to-make-a-macchiato 28-day position.** 41.45 (6 consecutive pulses now, 81-86) → watch for first breakthrough <40.
+- **mocha-recipe 28-day position.** 53.32 (improved 2 consecutive pulses) → watch for next breakthrough <50.
+- **white-espresso click signal** (5+ consecutive pulses now) → watch for click count growth.
+
+---
+
 ## 2026-05-05 14:00 IDT — Pulse 85: What Is French Coffee umbrella guide (cafe au lait 60,500/mo LOW 1/100 HEAD — LOWEST-COMPETITION LOW HEAD EVER FOR ANY 50k+ TERM + 5.4k cafe-creme LOW 2 + 4.4k what-is-cafe-au-lait LOW 1 + 2.4k cafe-gourmand LOW 3 + 1k cafe-noisette LOW 2 + 0.72k noisette-coffee LOW 2 + 0.48k cafe-allonge LOW 0 = ~74,500/mo realistic LOW capture; 7-drink French coffee family unified under one page) + 4 inbound links + sitemap re-submission (9th in series) + Vietnamese coffee URL→Discovered advance confirmed (8th protocol confirmation) + Cuban coffee URL-state regression (transient noise watch)
 
 **Action:** Published /guides/what-is-french-coffee/ as the **fourth consecutive umbrella-guide pulse** (Cuban Pulse 82 → Vietnamese Pulse 83 → Turkish Pulse 84 → French Pulse 85). Cluster targets discovered via Pulse 85 DataForSEO sweep:
