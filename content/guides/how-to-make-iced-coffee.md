@@ -14,6 +14,8 @@ Iced coffee is one of those drinks that sounds simple but hides surprising depth
 
 This guide covers every method for making iced coffee at home — ranked by effort, flavor, and practicality — plus the honest breakdown of iced coffee vs iced latte so you can make the one you actually want.
 
+For the full family of iced coffee drinks (iced latte, iced americano, iced mocha, iced cappuccino, iced macchiato, iced flat white, iced caramel macchiato, frappuccino, Greek frappé, cà phê sữa đá) and their 1840 Algerian Mazagran origin, see our companion umbrella: [What Is Iced Coffee? The Complete Guide to Every Iced Coffee Drink](/guides/what-is-iced-coffee/).
+
 ## Iced Coffee vs Iced Latte: What's the Difference?
 
 Before anything else, let's settle this permanently.

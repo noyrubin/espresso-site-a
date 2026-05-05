@@ -27,7 +27,7 @@ faq:
 
 Cold brew and iced coffee look identical in a glass. But pour a sip of each and the difference is immediate — cold brew is smooth, low-acid, almost chocolatey; iced coffee is brighter, more acidic, and tastes like hot coffee that's been chilled. They're made completely differently, and knowing which is which changes how you make (and enjoy) your coffee at home.
 
-(For the full definitional context on cold brew alone — the 17th-century Japanese mizudashi origin, Kyoto-style slow drip, the Stumptown 2011 catalyst that brought cold brew mainstream in the U.S., the chemistry of cold-water extraction, and how cold brew differs from nitro, French press, and espresso — see our [What Is Cold Brew?](/guides/what-is-cold-brew/) guide.)
+(For the full definitional context on cold brew alone — the 17th-century Japanese mizudashi origin, Kyoto-style slow drip, the Stumptown 2011 catalyst that brought cold brew mainstream in the U.S., the chemistry of cold-water extraction, and how cold brew differs from nitro, French press, and espresso — see our [What Is Cold Brew?](/guides/what-is-cold-brew/) guide. For the full iced-coffee family — iced latte, iced americano, iced mocha, iced cappuccino, iced macchiato, iced flat white, iced caramel macchiato, frappuccino, and Greek frappé — see [What Is Iced Coffee? The Complete Guide to Every Iced Coffee Drink](/guides/what-is-iced-coffee/).)
 
 Here's everything you need to know.
 

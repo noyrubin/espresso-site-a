@@ -14,6 +14,8 @@ An iced latte is one of the most popular coffee drinks in the world — and it's
 
 This guide covers everything: the basic recipe, the right ratio, milk choices, flavor variations, and exactly what to avoid.
 
+For the full context on the iced latte's place in the broader iced coffee family — how it differs from the iced cappuccino (which has foam), the iced macchiato (which is small and espresso-forward), the iced flat white (which uses ristretto shots and denser milk), and the iced caramel macchiato (which inverts the recipe with vanilla milk first, then espresso on top, then caramel) — see our umbrella guide: [What Is Iced Coffee? The Complete Guide to Every Iced Coffee Drink](/guides/what-is-iced-coffee/).
+
 ## What You Need
 
 **Equipment:**

@@ -53,7 +53,7 @@ A frappé (pronounced **fra-PAY**) is the French word for "iced" or "chilled" �
 
 If someone in Athens orders a "frappé," they mean the Greek one. If someone in a Starbucks orders a "Frappuccino," they mean the blended Starbucks drink. If someone in Paris or Montreal orders a "café frappé," they're using the older, broader meaning — usually a chilled or shaken espresso, often without milk.
 
-For the actual recipes, see our [Greek frappé recipe](/recipes/greek-frappe-recipe/) (the authentic shake method) and our [homemade Frappuccino recipe](/recipes/frappuccino-recipe/) (the blended Starbucks-style version).
+For the actual recipes, see our [Greek frappé recipe](/recipes/greek-frappe-recipe/) (the authentic shake method) and our [homemade Frappuccino recipe](/recipes/frappuccino-recipe/) (the blended Starbucks-style version). For where the frappé and Frappuccino fit in the broader iced coffee family — alongside iced lattes, iced americanos, iced mochas, iced cappuccinos, iced macchiatos, iced flat whites, iced caramel macchiatos, and Vietnamese cà phê sữa đá — see our umbrella: [What Is Iced Coffee? The Complete Guide to Every Iced Coffee Drink](/guides/what-is-iced-coffee/).
 
 ---
 
