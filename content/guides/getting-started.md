@@ -186,4 +186,6 @@ Once you can pull consistent shots, the next steps are:
 - **Exploring single-origin beans** - Different origins produce wildly different espresso flavors
 - **Pressure profiling** - Advanced technique for manual and high-end machines
 
+And the practical side that keeps a machine working for a decade rather than a year: maintenance. The two halves are separate — [daily and weekly cleaning](/guides/how-to-clean-espresso-machine/) for coffee oils and milk residue on the surfaces you can see, and [monthly to quarterly descaling](/guides/how-to-descale-espresso-machine/) for mineral scale that builds up inside the boiler where you can't see it. Both matter, both take less time than you'd guess, and ignoring either is the most common reason home espresso machines die early.
+
 Home espresso is a skill that keeps rewarding you the more you learn. Start simple, be patient with yourself, and enjoy the process. Your morning coffee will never be the same.

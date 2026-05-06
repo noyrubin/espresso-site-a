@@ -192,9 +192,9 @@ Something is wrong with your espresso and you need to fix it. This guide is orga
 
 ### Scale/Mineral Buildup
 
-**Symptoms:** Slower flow rates over time, reduced steam power, white deposits visible.
+**Symptoms:** Slower flow rates over time, reduced steam power, white deposits visible, higher-pitched pump sound, descale indicator light coming on (Breville, De'Longhi, Jura).
 
-**Solution:** Descale every 1-3 months with citric acid solution or a commercial descaling product. Follow your machine's manual for the exact procedure.
+**Solution:** Descale every 1–3 months with citric acid solution or a commercial descaling product. Follow your machine's manual for the exact procedure, or see the [complete descaling guide for every brand](/guides/how-to-descale-espresso-machine/) — it covers Breville, Gaggia Classic, Rancilio Silvia, dual-boiler prosumer machines, the citric-acid-vs-vinegar question, how to backflush, and what to do if the descale light won't reset after a cycle. Persistent symptoms after descaling usually indicate either insufficient soak time or old hardened scale that needs a second descale cycle to fully clear.
 
 ### Rancid Taste
 

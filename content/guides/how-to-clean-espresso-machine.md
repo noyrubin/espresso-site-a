@@ -105,7 +105,9 @@ Some machines have a dispersion plate behind the shower screen — clean this to
 
 ### Descaling
 
-Descaling removes mineral deposits (limescale) that accumulate from your water supply. How often you descale depends on your water hardness:
+Descaling is its own topic — distinct from cleaning. Cleaning targets coffee oils on accessible surfaces (group head, basket, shower screen, steam wand) and is done daily and weekly with detergents like Cafiza. Descaling targets mineral scale (calcium and magnesium carbonate) that builds up *inside* the boiler and water lines, and is done monthly to quarterly with an acidic descaler like citric acid. The basics are below; for a complete walkthrough including brand-specific procedures (Breville, Gaggia Classic, Rancilio Silvia, dual-boiler machines), how to backflush, and a full maintenance schedule, see our [complete espresso machine descaling guide](/guides/how-to-descale-espresso-machine/).
+
+How often you descale depends on your water hardness:
 
 - **Hard water:** Every 1-2 months
 - **Medium water:** Every 2-3 months

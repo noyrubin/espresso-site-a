@@ -134,7 +134,7 @@ The Bambino Plus is relatively low-maintenance:
 - **Weekly:** Flush group head with hot water, wipe exterior
 - **Monthly:** Run a descaling cycle with Breville descaler or citric acid solution, clean portafilter basket with cafiza
 
-The machine will alert you when descaling is needed. Follow the cycle — mineral buildup is the main cause of long-term issues.
+The machine will alert you when descaling is needed via the **DESCALE** light. Follow the cycle — mineral buildup is the main cause of long-term issues. The Bambino Plus shares its descale routine with all current Breville machines (POWER + 1-CUP + 2-CUP held together for 3 seconds enters descale mode); the [step-by-step descaling guide for Breville and other machines](/guides/how-to-descale-espresso-machine/) walks through the full procedure including how to handle the rinse cycle and what to do if the descale light won't reset.
 
 ## Final Verdict
 
