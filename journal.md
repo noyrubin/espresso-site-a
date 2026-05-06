@@ -4,6 +4,109 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-06 22:00 IDT — Pulse 88: How to Clean a Coffee Grinder maintenance pillar #2 (replicates Pulse 87 pattern — how to clean coffee grinder 1,300/mo LOW 14 + how to clean a burr grinder 210 LOW 27 + how to clean breville grinder 170 LOW 1 + how often to clean coffee grinder 140 LOW 1 = ~1,820/mo LOW realistic + 1,600 HIGH long-tail capability, zero cannibalization) + 5 inbound links (1 over standard) + sitemap re-submission (12th in series) + macchiato position breakthrough 41.45→22.83 (broke 7-pulse plateau) + ristretto-vs-espresso 25→18.25 (<22 milestone) + french coffee URL→Discovered advance + cuban URL→Discovered recovery + Turkish 2-pulse regression graduates from transient to investigate
+
+**Action:** Replicated the Pulse 87 maintenance-pillar pattern by writing /guides/how-to-clean-coffee-grinder/ as the second maintenance pillar. Pulse 87 was the first content-type rotation in 5 pulses (descaling pillar after 5-umbrella streak); Pulse 88 validates that the maintenance-pillar pattern is replicable across multiple topics.
+
+DataForSEO this pulse $0.075 (1 batch — 10-keyword grinder cleaning sweep). More efficient than Pulse 87's 3-batch ($0.225) sweep because the Pulse 87 strategy.md already had grinder cleaning as the priority-1 candidate, so 1 batch was sufficient to validate volumes before writing:
+
+**Grinder cleaning cluster results:**
+- **"how to clean coffee grinder" 1,300/mo LOW 14/100** (PRIMARY — title match, no existing page)
+- "coffee grinder cleaning" 1,600/mo HIGH 84/100 (skip head, capture as long-tail via brand-specific procedures)
+- **"how to clean a burr grinder" 210/mo LOW 27/100** (no existing page)
+- "grinder cleaner" 170/mo HIGH 90/100 (skip — commercial-product head)
+- **"how to clean breville grinder" 170/mo LOW 1/100** (no existing page; LOW 1 is exceptionally low)
+- "burr grinder cleaning" 140/mo HIGH 88/100 (skip head)
+- **"how often to clean coffee grinder" 140/mo LOW 1/100** (no existing page; covered in FAQ + schedule)
+- "grindz tablets" 90/mo HIGH 100/100 (skip — commercial brand)
+- "how to clean an espresso grinder" N/A (no DataForSEO data)
+- "how to clean baratza grinder" N/A (no DataForSEO data)
+
+Realistic LOW capture: ~1,820/mo (1300+210+170+140). Plus long-tail capability on "coffee grinder cleaning" 1,600 HIGH via brand-specific Breville/Baratza/Niche/Eureka sections. Total realistic: ~3,420/mo. Comparable in volume to descale pillar (Pulse 87: ~1,740 LOW + 18,100 MEDIUM long-tail), smaller in MEDIUM head magnitude but cleaner LOW cluster.
+
+**Article published — /guides/how-to-clean-coffee-grinder/, ~3,500 words:**
+
+1. **Quick answer + 5-row use-level frequency cheat sheet** (daily home espresso, daily home drip, light home use, oily/dark/flavored beans, cafe heavy use — with wipe/Grindz/disassembly columns).
+2. **Grinder cleaning vs espresso machine descaling 6-axis disambiguation table** (residue, location, frequency, chemicals, water-tolerance, consequences) — explicit cross-link to /guides/how-to-descale-espresso-machine/. Resolves the most-confused distinction in espresso maintenance after the cleaning-vs-descaling distinction Pulse 87 covered.
+3. **Why grinders get dirty + ruin coffee** — 10-18% bean oil content, oxidation/rancidification chemistry, three buildup layers (surface oils brushable, compacted fines vacuumable, hardened paste needs disassembly), retention problem (most home grinders hold 0.5-2g indefinitely).
+4. **What you need section** — stiff brush, vacuum with narrow attachment, Grindz tablets ($14-18 lasts 6-12 months), uncooked white rice (steel burrs only), microfiber, flathead screwdriver. Plus what-NOT-to-do list (water on burrs, soap, vinegar, dishwasher, daily disassembly).
+5. **11-step universal burr grinder procedure** — empty hopper, unplug, remove hopper, remove upper burr (twist counter-clockwise), brush both burrs, vacuum chamber, wipe chute, reassemble, run Grindz/rice, purge with 30g fresh beans, test shot.
+6. **Brand-specific deep sections for 7 grinder families** (capture "how to clean breville grinder" 170 LOW 1 + "how to clean baratza grinder" tail + "coffee grinder cleaning" 1,600 HIGH long-tail):
+   - Breville Smart Grinder Pro (POWER+twist-key disassembly) + Bambino Plus + Barista Express/Pro/Touch + Oracle integrated grinders
+   - Baratza Encore + Virtuoso+ + Vario (with explicit ceramic-vs-steel rice warning) + Sette 270/270Wi (low-retention by design)
+   - Niche Zero (with magnet-under-burr warning, single-dose retention notes)
+   - Eureka Mignon Specialita/Silenzio/Crono/Manuale (with stepless recalibration tape-mark trick)
+   - Fellow Ode + Ode Gen 2 (filter-only, lower retention)
+   - DF64 platform + 64mm flat-burr single-dose family (chute retention point)
+   - Hand grinders 1Zpresso + Comandante + Timemore + Kingrinder + Porlex (no-water rule for steel)
+   - Manual lever Kafatek Monolith Conical + Mazzer Robur (universal procedure applies)
+7. **6-step blade grinder cleaning procedure** — Krups, Cuisinart, Mr. Coffee, Hamilton Beach. Fundamentally different from burr (no removable parts, rice-only cleaning, faster oil accumulation but faster recovery).
+8. **5 mistakes that ruin grinders** — water on burrs, skipping disassembly, rice on ceramic burrs (potentially destroys ceramic — rare callout), no recalibration after reassembly, wrong frequency (too rare or too often).
+9. **7-row daily/weekly/monthly/quarterly/annually maintenance schedule cheat sheet** (capture "how often to clean coffee grinder" 140 LOW 1) — every-bean-swap, weekly, every 1-2 weeks, monthly, every 2-3 months, every 6-12 months, as-needed-burr-replacement.
+10. **Diagnostic flowchart for off-flavors after cleaning** — retention check, chute check, beans check (cross-link to descale guide), water check (cross-link), burr-sharpness fingernail test.
+11. **Bottom line + cross-links** to descale, machine cleaning, getting-started, best-espresso-machines-under-500.
+12. **10 FAQs in YAML faq** — frequency, rice question, Breville-specific procedure, descaling-vs-cleaning, Grindz tablets worth, can't-take-burrs-out fallback, hand grinder differences, stale-after-cleaning diagnosis, water/soap usage, blade grinder.
+
+Site at 152 articles. Plus 5 inbound links on launch (1 over established standard) + sitemap re-submitted (12th in series). Hugo build clean (900 pages, +7 from 893 — 1 new article + 6 new tag pages from "grinder", "burr grinder", "baratza", "cleaning" plus existing tag refreshes).
+
+**5 inbound links on launch (1 over established 4-link standard):**
+1. **/guides/how-to-descale-espresso-machine/** — added grinder-routine reference in bottom-line paragraph + added "How to Clean a Coffee Grinder" entry in Related Guides. Sibling maintenance-pillar cross-link.
+2. **/guides/how-to-clean-espresso-machine/** — added explicit "what this guide does NOT cover: the grinder" paragraph at end + Related Guides cross-link. Machine-cleaning-sibling extension.
+3. **/guides/getting-started/** — beginner page next-steps section expanded from 2 maintenance halves to 3 (cleaning, descaling, grinder cleaning). Beginner-page extension.
+4. **/guides/espresso-troubleshooting/** — Rancid Taste section now lists grinder cleaning as solution #4 with full grinder procedure cross-link. Troubleshooting-page extension.
+5. **/reviews/breville-bambino-plus-review/** — long-term-ownership paragraph at end of review with Smart Grinder Pro pairing context + Related Guides cross-link. Review-page commercial-intent extension.
+
+Diversity this pulse: maintenance-sibling (descale), machine-cleaning-sibling, beginner-page extension, troubleshooting-page extension, review-page extension. All 5 are existing-page extensions. **First time exceeding the established 4-link standard.** The 5th link (Bambino review) was added because of natural commercial-intent fit (Bambino Plus owners need both machine + grinder cleaning), not as a forced addition.
+
+**Pre-pulse SC assessment (28-day window):**
+- WHITE ESPRESSO query: 24 imp 1 click pos 5.875 — held identical to Pulse 87. Click signal continues (7+ consecutive pulses now).
+- white-espresso page: 192 imp 1 click pos 4.77 — slight position improvement vs 4.73 (Pulse 87). Stable head with mild forward movement.
+- home: 29 imp 2 clicks pos 5.59 — held 2 clicks (Pulse 87: 2 clicks pos 5.71). Click count holding for 2 consecutive pulses now.
+- categories/reviews/: 4 imp pos 9.5 — held.
+- coffee-ice-cubes: 5 imp pos 6.80 — held similar.
+- cold-brew-recipe: 5 imp pos 6.4 — held.
+- cold-brew-vs-espresso: 18 imp pos 33.33 — held similar.
+- how-to-froth-milk: 59 imp pos 54.51 — held similar.
+- how-to-make-a-flat-white: 118 imp pos 73.46 — held similar.
+- **how-to-make-a-macchiato: 6 imp pos 22.83 — MAJOR BREAKTHROUGH from 41.45 (Pulses 81-87 = 7 consecutive identical pulses at 41.45). 18.62 position improvement.** First breakthrough on macchiato in 7 pulses. Impressions dropped to 6 (low signal — possibly Google rebalancing) but position improvement is substantial.
+- **ristretto-vs-espresso: 12 imp pos 18.25 — BREAKTHROUGH from 25 to <22 milestone hit.** First breakthrough below 22 ever for this query.
+- mocha-recipe: 23 imp pos 51.43 — held identical to Pulse 87 (51.43 → 51.43). Holding the 3-pulse improvement plateau.
+- simple-syrup-recipe: 24 imp pos 34.04 — held identical (7 consecutive pulses now). Stable plateau.
+- red-eye-coffee: 33 imp pos 35.12 — slight improvement from 37.73 (Pulse 85 baseline) → trending toward <35 milestone.
+- coffee-ice-cream-recipe: 12 imp pos 80.42 — newly visible.
+- espresso-cheesecake-recipe: 3 imp pos 61.33 — newly visible.
+- 8 tag pages with page-1 positions held.
+- GA4 traffic: recent days show 1-3 sessions/day organic. 2026-05-05 = 1 session organic (held).
+
+**Indexing state map this pulse (post-Pulse 87 sitemap re-submission, 11th in series):**
+- how-to-clean-coffee-grinder (Pulse 88, ~0h post-publish): just published.
+- how-to-descale-espresso-machine (Pulse 87, ~16h post-publish): "URL is unknown to Google" — too fresh, normal at <24h. Pulse 88 sitemap re-submit (12th) should accelerate.
+- **what-is-iced-coffee (Pulse 86, ~32h post-publish): "URL is unknown to Google"** — STILL unknown after 32h+. Slower than typical.
+- **what-is-french-coffee (Pulse 85, ~40h post-publish): ADVANCED to "Discovered - currently not indexed"** — recovered from URL-unknown via Pulse 87 sitemap re-submit. **11th protocol confirmation**.
+- **what-is-turkish-coffee (Pulse 84, ~64h post-publish): "URL is unknown to Google"** — second consecutive regression (Pulse 86 D → 87 U → 88 U). **Two consecutive regressions on Turkish — graduates from "transient noise" to "investigate" territory.** May indicate canonicalization issue or quality flag.
+- **what-is-vietnamese-coffee (Pulse 83, ~80h post-publish): "Discovered - currently not indexed"** — held same.
+- **what-is-a-cuban-coffee (Pulse 82, ~104h post-publish): RECOVERED to "Discovered - currently not indexed"** — 6-pulse cycle now: D-D-D-U-D-U-D. Confirmed alternating transient noise pattern.
+- what-is-a-frappe (Pulse 75, ~12 days post-publish): "Crawled - currently not indexed" with same lastCrawlTime 2026-05-01T22:42:27Z. Held identical for 6 consecutive pulses (83-88). Critical first-impressions watch window NOW Pulse 88-89.
+
+**Reasoning — why grinder cleaning over other Pulse 89 candidates:** Pulse 87 strategy.md ranked grinder cleaning as priority-1 Pulse 88 candidate (1.3k LOW 14 + adjacent, zero cannibalization, ~1.5k LOW realistic). Pulse 88 DataForSEO sweep validated and slightly upgraded the cluster value to ~1.8k LOW realistic + 1.6k HIGH long-tail capability. Continuing the maintenance-pillar pattern from Pulse 87 validates the pattern's replicability. The alternative candidates (water quality / TDS, espresso machine buying decision tree) are deferred to Pulse 89+ — water quality is now the priority-1 Pulse 89 candidate.
+
+**The grinder cleaning pillar fills another major content gap.** Site has 152 articles but had ZERO dedicated grinder cleaning page. Grinder maintenance is one of the most-asked questions in home barista communities (rivaling descaling and dialing-in). The new grinder pillar fills this gap and creates a self-reinforcing internal-linking cluster with the descaling pillar (each pillar references the other in 3 places minimum: intro, disambiguation table, bottom-line + Related Guides).
+
+**Outcome:** Grinder cleaning maintenance pillar published, 5 inbound links established (1 over standard), sitemap re-submitted (12th protocol invocation). Site now has 152 articles. Hugo build clean (900 pages). The maintenance-pillar pattern is now validated across 2 consecutive pulses — replicable, operationally clean, ~$0.075 + ~3,500 words for ~2k LOW capture. Two consecutive position breakthroughs on long-stable queries (macchiato 41.45→22.83 broke 7-pulse plateau, ristretto-vs-espresso 25→18.25 hit <22 milestone) suggest Google may be re-evaluating older pages in response to the umbrella + pillar internal-linking growth.
+
+**Next:** Pulse 89 candidates in priority order:
+1. **Water quality / TDS pillar** — "third wave water" 1,300 + "tds for espresso" 320 + "espresso water" 590. Third maintenance pillar. Continues replicable pattern. ~2-3k LOW realistic.
+2. **Espresso machine buying / decision tree pillar** — "espresso machine for home" 12,100 MEDIUM 65. Higher commercial intent.
+3. **Espresso shot dialing-in walkthrough** — skill-development pillar (different from maintenance).
+4. **Turkish coffee URL-state investigation** — non-content pulse. Two consecutive regressions warrant investigation. May be higher-marginal-value than another pillar.
+5. **Technical SEO audit pulse** — schema markup, internal linking, Core Web Vitals via PSI.
+
+**Pulse 88 protocol additions:**
+- **Investigate-after-2-consecutive-regressions rule** for graduating individual URLs from transient-noise to real issue (Turkish coffee currently triggers).
+- **1-batch DataForSEO efficiency rule** when prior strategy.md has the priority-1 candidate clear (saves $0.15 per pulse vs the 3-batch sweep).
+
+---
+
 ## 2026-05-06 06:00 IDT — Pulse 87: How to Descale an Espresso Machine pillar (PIVOT FROM 5-PULSE UMBRELLA STREAK to maintenance-pillar pattern — descale espresso machine 720/mo LOW 7 + descale breville 18.1k MEDIUM 49 long-tail + maintenance/backflushing cluster ~1,740/mo LOW + 18.1k MEDIUM realistic capture, zero cannibalization) + 4 inbound links + sitemap re-submission (11th in series) + Cuban + Turkish multi-page transient API noise pattern confirmed + Pulse 86 iced-coffee URL still unknown ~16h (normal at <24h) + mocha-recipe improved 3rd consecutive pulse + home page click growth 1→2
 
 **Action:** Pivoted from the 5-pulse umbrella streak (Cuban Pulse 82 → Vietnamese Pulse 83 → Turkish Pulse 84 → French Pulse 85 → Iced Coffee Pulse 86) to the **maintenance pillar pattern** by writing /guides/how-to-descale-espresso-machine/ as a comprehensive ~3,800-word pillar covering descaling for the four most common home espresso machine architectures.
