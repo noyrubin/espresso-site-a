@@ -189,8 +189,12 @@ Total cost for a complete cleaning kit is about $30-50 and lasts most of a year.
 | Monthly | Descale, replace water filter | 20-30 min |
 | Yearly | Replace gasket, deep clean internals | 30-60 min |
 
+A note on what this guide does *not* cover: **the grinder**. Grinders accumulate coffee oils on the burrs and fines in the chute, both of which go rancid and cause stale or bitter shots even when the machine itself is spotless. Most home baristas underestimate how much grinder cleanliness affects taste. The grinder routine is separate from the machine routine — same household, different chemicals, different frequency, different tools. See our complete [coffee grinder cleaning guide](/guides/how-to-clean-coffee-grinder/) for the burr-side maintenance routine, brand-specific notes for Breville, Baratza, Niche, Eureka, and others, and the answer to whether you should use rice or Grindz tablets.
+
 ## Related Guides
 
+- **[How to Descale an Espresso Machine](/guides/how-to-descale-espresso-machine/)** - Full descaling procedure with brand-specific notes
+- **[How to Clean a Coffee Grinder](/guides/how-to-clean-coffee-grinder/)** - Burr and blade grinder cleaning routine
 - **[Getting Started with Home Espresso](/guides/getting-started/)** - Complete beginner's guide
 - **[Espresso Troubleshooting](/guides/espresso-troubleshooting/)** - Fix taste and flow problems
 - **[Best Espresso Machines Under $500](/reviews/best-espresso-machines-under-500/)** - Machine recommendations

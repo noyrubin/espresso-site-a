@@ -146,4 +146,6 @@ Pair it with a solid burr grinder, use fresh beans, and expect a few weeks of di
 
 ---
 
-*Related guides: [Getting Started with Home Espresso](/guides/getting-started/) | [Espresso Grind Size Guide](/guides/espresso-grind-size-guide/) | [How to Clean Your Espresso Machine](/guides/how-to-clean-espresso-machine/)*
+A note on long-term ownership: whichever grinder you pair the Bambino Plus with, the grinder will need its own cleaning routine separate from the machine. Coffee oils accumulate on burrs faster than most home baristas realize and are a frequent (overlooked) cause of off-flavors that get blamed on the machine. The full burr-side maintenance routine is in [how to clean a coffee grinder](/guides/how-to-clean-coffee-grinder/) — covers the Breville Smart Grinder Pro that pairs naturally with the Bambino Plus, plus Baratza, Niche, Eureka, and others. Pair that with the [machine cleaning](/guides/how-to-clean-espresso-machine/) and [descaling](/guides/how-to-descale-espresso-machine/) routines and you'll keep the Bambino Plus tasting like new for years.
+
+*Related guides: [Getting Started with Home Espresso](/guides/getting-started/) | [Espresso Grind Size Guide](/guides/espresso-grind-size-guide/) | [How to Clean Your Espresso Machine](/guides/how-to-clean-espresso-machine/) | [How to Clean a Coffee Grinder](/guides/how-to-clean-coffee-grinder/)*

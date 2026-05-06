@@ -200,12 +200,13 @@ Something is wrong with your espresso and you need to fix it. This guide is orga
 
 **Symptoms:** All shots taste off, stale, or rancid regardless of bean freshness.
 
-**Cause:** Old coffee oil buildup in the group head, portafilter, and basket.
+**Cause:** Old coffee oil buildup — almost always in either the group head/portafilter/basket on the machine side, or in the burrs/chute/doser on the grinder side. The grinder is the underestimated half — burrs accumulate oils that go rancid within weeks, and a clean machine paired with a dirty grinder still produces stale shots.
 
 **Solution:**
 1. **Backflush with cleaner** (if your machine supports backflushing). Use Cafiza or similar espresso machine cleaner. Do this weekly.
 2. **Soak the portafilter and basket** in hot water with Cafiza for 15-20 minutes. Scrub with a brush.
 3. **Clean the shower screen.** Remove it and scrub with a brush and cleaner.
+4. **Deep-clean the grinder.** Disassemble the upper burr, brush both burr faces, vacuum the chute and chamber, run Grindz tablets, and purge with fresh beans. Most "rancid taste" diagnoses that survive machine cleaning trace back to the grinder. Full procedure: [how to clean a coffee grinder](/guides/how-to-clean-coffee-grinder/).
 
 ### Leaking Around the Portafilter
 
