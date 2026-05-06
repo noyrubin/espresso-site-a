@@ -4,6 +4,142 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-06 06:00 IDT — Pulse 87: How to Descale an Espresso Machine pillar (PIVOT FROM 5-PULSE UMBRELLA STREAK to maintenance-pillar pattern — descale espresso machine 720/mo LOW 7 + descale breville 18.1k MEDIUM 49 long-tail + maintenance/backflushing cluster ~1,740/mo LOW + 18.1k MEDIUM realistic capture, zero cannibalization) + 4 inbound links + sitemap re-submission (11th in series) + Cuban + Turkish multi-page transient API noise pattern confirmed + Pulse 86 iced-coffee URL still unknown ~16h (normal at <24h) + mocha-recipe improved 3rd consecutive pulse + home page click growth 1→2
+
+**Action:** Pivoted from the 5-pulse umbrella streak (Cuban Pulse 82 → Vietnamese Pulse 83 → Turkish Pulse 84 → French Pulse 85 → Iced Coffee Pulse 86) to the **maintenance pillar pattern** by writing /guides/how-to-descale-espresso-machine/ as a comprehensive ~3,800-word pillar covering descaling for the four most common home espresso machine architectures.
+
+DataForSEO this pulse $0.225 across 3 batches (Italian + Brazilian + maintenance how-to) to inform the umbrella-vs-pivot decision:
+
+**Batch 1 — Italian coffee cluster ($0.075):**
+- "italian coffee" 14,800/mo HIGH 88/100 (skip head)
+- "italian espresso" 3,600/mo HIGH 89/100 (skip)
+- "caffe shakerato" 6,600/mo LOW 0/100
+- "caffe macchiato" 2,400/mo LOW 5/100 (cannibalizes existing what-is-a-macchiato)
+- "caffe corretto" 1,600/mo LOW 1/100
+- "caffe lungo" 590/mo LOW 1/100 (cannibalizes existing what-is-espresso lungo coverage)
+- "italian coffee culture" 320/mo LOW 7/100
+- "caffe marocchino" 210/mo LOW 0/100 (note: existing /guides/marocchino/ already)
+- "what is italian coffee" 110/mo LOW 7/100
+- "caffe ristretto" 90/mo LOW 2/100 (cannibalizes existing ristretto-vs-espresso)
+Realistic LOW capture: ~10-12k/mo with significant cannibalization (4 of 7 main Italian drinks already have dedicated pages). Net new capture: ~5-7k LOW. Below umbrella threshold.
+
+**Batch 2 — Brazilian/SA coffee cluster ($0.075):**
+- "colombian coffee" 27,100/mo HIGH 86/100 (skip)
+- "brazilian coffee" 6,600/mo HIGH 89/100 (skip)
+- "peruvian coffee" 1,900/mo HIGH 100/100 (skip)
+- "latin american coffee" 1,300/mo LOW 30/100
+- "cafezinho" 880/mo LOW 1/100
+- "argentinian coffee" 590/mo LOW 10/100
+- "coffee bean origins" 480/mo LOW 19/100
+- "what is brazilian coffee" 40/mo LOW 7/100
+- "brazilian iced coffee" 20/mo LOW 2/100
+- "cuban vs brazilian coffee" N/A
+Realistic LOW capture: ~3.3k/mo. Mostly bean/origin head terms HIGH-competition; the actual drink "cafezinho" is just 880/mo. Below umbrella threshold.
+
+**Batch 3 — Maintenance how-to cluster ($0.075):**
+- **"descale breville" 18,100/mo MEDIUM 49/100** (third-largest MEDIUM head ever surfaced)
+- "how to clean coffee maker" 12,100/mo MEDIUM 35/100
+- "clean keurig" 4,400/mo MEDIUM 53/100
+- **"how to clean espresso machine" 1,600/mo LOW 15/100** (existing /guides/how-to-clean-espresso-machine/ already targets — sibling)
+- **"how to clean coffee grinder" 1,300/mo LOW 14/100** (no existing page)
+- **"how to descale espresso machine" 720/mo LOW 7/100** (PRIMARY — no existing page)
+- **"espresso machine maintenance" 590/mo LOW 11/100** (no existing page)
+- **"how to clean breville espresso" 260/mo LOW 1/100** (no existing page)
+- **"how to backflush espresso machine" 170/mo LOW 3/100** (no existing page)
+- "how to season grinder" N/A
+
+Maintenance cluster: ~4.6k/mo LOW realistic + 18.1k MEDIUM long-tail capability. Zero cannibalization for descaling + backflushing + maintenance-schedule (no existing pages), partial cannibalization for cleaning (existing how-to-clean-espresso-machine.md handles "how to clean espresso machine" 1,600 LOW). Decision: write a **descaling-focused pillar** that covers descaling + backflushing + maintenance schedule + brand-specific Breville section (capture descale breville 18.1k MEDIUM long-tail).
+
+**Article published — /guides/how-to-descale-espresso-machine/, ~3,800 words:**
+
+1. **Quick answer + 5-tier water hardness chart** (very hard / hard / medium / soft / filtered with example regions and descale frequency).
+2. **Descaling vs cleaning disambiguation table** — the most-confused distinction in espresso machine maintenance (target / where / frequency / product / method per topic). Explicit cross-link to existing /guides/how-to-clean-espresso-machine/ for the cleaning side.
+3. **Why descaling matters** — limescale chemistry deep dive: 1mm scale = 10% heat loss, feedback loop with thermostat, 3 failure modes (solenoid valve clog $40-80 parts, pump failure $80-120, heating element burnout terminal).
+4. **7-step "signs your machine needs descaling"** diagnostic in order of how early they appear.
+5. **What-you-need section** — citric acid 30g/L recipe, commercial descaler comparison (Urnex Dezcal, Durgol Swiss Espresso, Breville Eco-Descaler, De'Longhi EcoDecalk), vinegar warning, what-NOT-to-use list (CLR, bleach, household).
+6. **13-step generic semi-auto descale procedure** — applies to any pump-driven machine without a built-in program.
+7. **Breville-specific procedure** (capture "descale breville" 18,100 MEDIUM 49 + "how to clean breville espresso" 260 LOW 1) — POWER + 1-CUP + 2-CUP held 3 sec descale mode entry, alternates group + steam wand automatically, Bambino 8 min vs Dual Boiler 25 min, water filter removal protocol, automatic descale tracker reset, Oracle menu walkthrough, model-specific notes for Bambino/Bambino Plus/Barista Express/Barista Pro/Barista Touch/Dual Boiler/Oracle.
+8. **Single-boiler PID procedure** — Gaggia Classic Pro brass boiler considerations, Rancilio Silvia third-rinse + heating element thermal protection note, Lelit Anita/Anna Durgol-only recommendation (gentler on brass+copper), all with brass-vs-phosphoric-acid notes.
+9. **Dual-boiler/heat-exchanger procedure** — Profitec Pro 600 / Lelit Bianca / Rocket Appartamento / ECM Synchronika / La Marzocco Linea Mini — separate boiler descales (brew first, then steam), hot water tap routine for HX machines (Profitec/ECM/Rocket/La Marzocco), critical first-time-pro warning (don't try at home for the first time on a 2+ year old prosumer machine — old hardened scale can flake off and lodge in solenoid).
+10. **Backflushing comprehensive section** (capture "how to backflush espresso machine" 170 LOW 3) — which machines have 3-way solenoid valves, blind basket sourcing, Cafiza vs descaler distinction (alkaline cleaner for oils ≠ acidic descaler for scale), weekly water-only routine, monthly cleaner routine, common backflush mistake (using descaler instead of cleaner).
+11. **5 common descaling mistakes** — skipping soak, insufficient rinsing, using vinegar, leaving water filter in, descaling too rarely.
+12. **Full daily/weekly/monthly/quarterly/annual maintenance schedule** (capture "espresso machine maintenance" 590 LOW 11) — 7-row screenshot-able cheat sheet with task / time / notes per frequency.
+13. **Bottom line + cross-links** to how-to-clean, getting-started, espresso-troubleshooting, best-espresso-machines-under-500, breville-bambino-plus-review.
+14. **10 FAQs in YAML faq** — how often to descale, cleaning vs descaling difference, vinegar question, Breville Bambino Plus / Barista Express specific procedure, descale breville light meaning, backflushing yes/no per machine, can descaling damage machine, water filter removal, time required, loud pump after descaling diagnosis.
+
+Site at 151 articles. Plus 4 inbound links on launch + sitemap re-submitted (11th in series). Hugo build clean (893 pages, +5 from 888 — 1 new article + 4 new tag pages from "descaling", "rancilio", "gaggia", "backflushing").
+
+**4 inbound links on launch:**
+1. **/guides/how-to-clean-espresso-machine/** — added paragraph at the top of its existing Descaling section explicitly disambiguating cleaning vs descaling and cross-linking to the full descale guide. Sibling-page extension.
+2. **/guides/getting-started/** — added new paragraph at the end of next-steps section linking to BOTH how-to-clean and how-to-descale as the two halves of practical maintenance. Beginner-page extension.
+3. **/reviews/breville-bambino-plus-review/** — extended Maintenance section with the specific Breville descale entry sequence (POWER + 1-CUP + 2-CUP held 3 sec) and link to the full guide. Review-page commercial-intent extension.
+4. **/guides/espresso-troubleshooting/** — extended Scale/Mineral Buildup section with full descale guide cross-link as the resolution to symptoms diagnosed (slower flow, reduced steam power, white deposits, descale indicator light, higher-pitched pump sound). Troubleshooting-page extension.
+
+Diversity this pulse: sibling-page extension, beginner page extension, review-page extension, troubleshooting-page extension. All 4 are existing-page extensions (established pattern). 4 inbound links is the established standard — no deviation.
+
+**Pre-pulse SC assessment (28-day window):**
+- WHITE ESPRESSO query: 24 imp 1 click pos 5.875 — held identical to Pulse 86. Click signal continues (6+ consecutive pulses now).
+- white-espresso page: 188 imp 1 click pos 4.73 — held similar to Pulse 86 (4.71). Stable head.
+- home: 28 imp 2 clicks pos 5.71 — **CLICK COUNT GROWTH from 1→2 clicks** (first click-count growth on home in 6 pulses).
+- categories/reviews/: 4 imp pos 9.5 — held.
+- coffee-ice-cubes: 4 imp pos 5.5 — page-1 holds.
+- cold-brew-recipe: 5 imp pos 6.4 — page-1 holds.
+- cold-brew-vs-espresso: held similar.
+- how-to-froth-milk: held similar.
+- how-to-make-a-flat-white: held similar.
+- how-to-make-a-macchiato: held similar (Pulse 81-87 = 7 consecutive identical position pulses now — Stable plateau confirmed).
+- mocha-recipe 51.43 — IMPROVED from 53.32 (1.89 position improvement, **third consecutive pulse of mocha-recipe movement** 55.29 → 53.32 → 51.43). Watch for first <50 breakthrough next pulse.
+- simple-syrup-recipe: 24 imp pos 34.04 — held identical (6 consecutive pulses now).
+- turmeric-latte-recipe held similar.
+- 8 tag pages with page-1 positions held.
+- GA4 traffic: 17 row days, recent days show 1-3 sessions/day organic.
+
+**Indexing state map this pulse (post-Pulse 86 sitemap re-submission, 10th in series):**
+- how-to-descale-espresso-machine (Pulse 87, ~0h post-publish): just published.
+- **what-is-iced-coffee (Pulse 86, ~16h post-publish): "URL is unknown to Google"** — too fresh, normal at <24h. Pulse 87 sitemap re-submit (11th) should accelerate to "Discovered" by Pulse 88.
+- **what-is-french-coffee (Pulse 85, ~24h post-publish): "URL is unknown to Google"** — slightly delayed advance. Should reach "Discovered" by Pulse 88 via Pulse 87 sitemap re-submit. Slightly slower than the typical 24h pattern.
+- **what-is-turkish-coffee (Pulse 84, ~48h post-publish): REGRESSED from "Discovered" to "URL is unknown to Google"** — second URL-state regression on a previously-Discovered page. Same pattern as Cuban Pulse 85 → recovered Pulse 86 → regressed Pulse 87. **Multi-page transient API noise pattern confirmed.**
+- **what-is-vietnamese-coffee (Pulse 83, ~64h post-publish): "Discovered - currently not indexed"** — held same.
+- **what-is-a-cuban-coffee (Pulse 82, ~88h post-publish): REGRESSED again to "URL is unknown to Google"** — 5-pulse cycle now: Discovered Pulse 82-84 → URL unknown Pulse 85 → Discovered Pulse 86 → URL unknown Pulse 87. Watch over Pulse 88-89; if persists 3+ more consecutive pulses, investigate.
+- what-is-a-frappe (Pulse 75, ~10 days post-publish): "Crawled - currently not indexed" with same lastCrawlTime 2026-05-01T22:42:27Z. Held identical for 5 consecutive pulses (83-87). Critical first-impressions watch window NOW Pulse 87-88. If no impressions by Pulse 89-90, investigate quality.
+
+**Reasoning — why pivot to maintenance pillar over another umbrella:** Strategy.md (Pulse 86) raised the pattern-fatigue question: "how many parallel umbrella pulses can co-exist before pattern fatigue?" Pulse 87 ran 3 sweeps to compare:
+- Italian umbrella: ~10-12k LOW with significant cannibalization (4 of 7 main Italian drinks already have dedicated pages). Net new capture: ~5-7k LOW. Below the threshold.
+- Brazilian umbrella: ~3.3k LOW. Mostly bean/origin head terms HIGH-competition; the actual drink "cafezinho" is just 880/mo. Below the threshold.
+- Maintenance how-to cluster: ~1.7k LOW + 18.1k MEDIUM (descale breville). Zero cannibalization. High commercial intent. **Above the umbrella thresholds when cannibalization is factored in.**
+
+**The descaling pillar fills a major content gap.** The site has 151 articles but had ZERO dedicated descaling, backflushing, or maintenance-schedule pages. The existing /guides/how-to-clean-espresso-machine/ from Pulse 1 mentions descaling briefly but at a generic-process level (no brand-specific procedures, no failure-mode chemistry, no backflushing detail). The new descaling pillar fills this gap and creates a maintenance-pattern precedent that can be replicated for grinder cleaning, water quality, and other underserved utility-content topics.
+
+**Outcome:** Maintenance pillar published, 4 inbound links established, sitemap re-submitted (11th protocol invocation). Site now has 151 articles. Hugo build clean (893 pages). The pivot from umbrellas to pillars sets up Pulse 88-89 for either a second maintenance pillar (grinder cleaning, water quality) or rotation back to umbrellas if a high-value cluster surfaces.
+
+**Next:** Pulse 88 candidates in priority order:
+1. **Coffee grinder cleaning pillar** — "how to clean coffee grinder" 1,300 LOW 14 + adjacent. Continues maintenance-pillar pattern. Zero cannibalization. ~1.5k LOW realistic.
+2. **Espresso machine buying / decision tree pillar** — "espresso machine for home" 12,100 MEDIUM 65 + "best espresso machine for beginners" 5,400 HIGH. Higher commercial intent, higher competition.
+3. **Water quality / TDS / mineral content guide** — "espresso water" 590 + "third wave water" 1,300 + "tds for espresso" 320 + "rpavoni TDS" tail. Smaller cluster.
+4. **Different content type: technical SEO audit pulse** — schema markup, internal linking density, Core Web Vitals via PSI, sitemap completeness. May surface fixable issues blocking indexing of Pulse 75 frappe + Pulse 70 decaf pages.
+
+Recommended Pulse 88: **coffee grinder cleaning pillar** (pattern continuity, zero cannibalization, ~1.5k LOW realistic). DataForSEO Pulse 88: ~$0.075 (1 batch on grinder cleaning + adjacent).
+
+**Critical milestones to watch:**
+- Descale page indexing speed (~1.7k LOW + 18.1k MEDIUM realistic)
+- Iced coffee URL→Discovered advance (Pulse 86, currently URL unknown ~16h)
+- French coffee URL→Discovered advance (Pulse 85, currently URL unknown ~24h, slightly delayed)
+- Turkish coffee URL state recovery from regression (Pulse 84)
+- Cuban coffee URL state recovery from second regression (Pulse 82)
+- Vietnamese coffee Discovered→Crawled advance (Pulse 83)
+- what-is-a-frappe first impressions (Pulse 75 ~10-11 days, peak window Pulse 87-88)
+- mocha-recipe first <50 breakthrough (51.43 currently, improved 3rd consecutive pulse)
+- simple-syrup-recipe first <30 breakthrough (34.04, 6 consecutive pulses identical)
+- red-eye-coffee first <35 breakthrough (37.73)
+- ristretto-vs-espresso first <22 breakthrough (25)
+- how-to-make-a-macchiato first <40 breakthrough (41.45, 7 consecutive pulses identical)
+- white-espresso click count growth (1 click 6 consecutive pulses)
+- home page click count growth continuation (1→2 this pulse, watch next)
+
+DataForSEO this pulse: $0.225 cumulative daily, well under $1/day budget.
+
+---
+
 ## 2026-05-05 22:00 IDT — Pulse 86: What Is Iced Coffee umbrella guide (FIRST CATEGORY UMBRELLA — iced coffee family ~98,120/mo realistic LOW capture: iced caramel macchiato 22.2k LOW 5 + iced latte 18.1k LOW 2 + iced coffee recipe 14.8k LOW 17 + iced americano 12.1k LOW 1 + iced mocha 8.1k LOW 6 + iced cappuccino 8.1k LOW 2 + iced macchiato 5.4k LOW 1 + iced flat white 2.4k LOW 1 + iced coffee vs cold brew 2.4k LOW 11 + what is an iced latte 1.9k LOW 1 + iced coffee vs iced latte 1.9k LOW 0 + what is iced coffee 0.72k LOW 5; head "iced coffee" 74k HIGH 79 not directly targetable but umbrella captures broad family) + 4 inbound links + sitemap re-submission (10th in series) + Turkish coffee Discovered with cross-link referrer (FIRST validation of cross-link as Google referrer) + Cuban coffee URL-state regression resolved as transient noise
 
 **Action:** Published /guides/what-is-iced-coffee/ as the **fifth consecutive umbrella-guide pulse** (Cuban Pulse 82 → Vietnamese Pulse 83 → Turkish Pulse 84 → French Pulse 85 → **Iced Coffee Pulse 86**). This is the **first non-national umbrella** — first pure-category umbrella. Cluster targets discovered via Pulse 86 DataForSEO sweep (15 keywords, $0.15):
