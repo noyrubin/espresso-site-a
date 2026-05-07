@@ -230,4 +230,4 @@ Brew at a stronger ratio than normal (1:13 to 1:14 for pour over or drip) to com
 
 ---
 
-*For espresso-specific ratio guidance and dialing in, see our [espresso ratio guide](/guides/espresso-ratio-guide/). For cold brew ratios and recipes, see our [cold brew recipe](/guides/cold-brew-recipe/). For a guide to espresso grind size and its interaction with ratio, see our [espresso grind size guide](/guides/espresso-grind-size-guide/).*
+*For espresso-specific ratio guidance and dialing in, see our [espresso ratio guide](/guides/espresso-ratio-guide/). For cold brew ratios and recipes, see our [cold brew recipe](/guides/cold-brew-recipe/). For a guide to espresso grind size and its interaction with ratio, see our [espresso grind size guide](/guides/espresso-grind-size-guide/). The mineral content of the water itself also changes the result — see [water for espresso](/guides/water-for-espresso/) for the TDS, GH, and KH targets that pair with these ratios.*

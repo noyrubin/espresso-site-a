@@ -261,7 +261,7 @@ If you've cleaned thoroughly and still taste stale or bitter:
 
 A grinder that gets a 5-minute weekly brush and a 20-minute monthly deep clean will outlast its owner and deliver consistent taste throughout. A grinder that gets only the first 6 months of factory cleaning will start tasting stale around month 9 and never recover until disassembled.
 
-If you have an espresso setup, the grinder routine pairs with the [espresso machine descaling routine](/guides/how-to-descale-espresso-machine/) and the [daily/weekly cleaning routine](/guides/how-to-clean-espresso-machine/). All three are required for a setup that maintains its original taste 5 years in.
+If you have an espresso setup, the grinder routine pairs with the [espresso machine descaling routine](/guides/how-to-descale-espresso-machine/), the [daily/weekly cleaning routine](/guides/how-to-clean-espresso-machine/), and the upstream foundation — [water for espresso](/guides/water-for-espresso/) (which determines whether you'll be descaling every month or every six months). All four are required for a setup that maintains its original taste 5 years in.
 
 If you're new to home espresso and not sure where to start with maintenance overall, our [getting started guide](/guides/getting-started/) walks you through every routine in priority order. And if you're shopping for a grinder rather than maintaining one, our [best espresso machines under $500 review](/reviews/best-espresso-machines-under-500/) covers integrated-grinder options like the Bambino Plus and the Barista Express.
 

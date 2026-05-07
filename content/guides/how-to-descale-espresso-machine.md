@@ -250,12 +250,13 @@ Descaling is the most important thing you can do for an espresso machine's longe
 
 If your machine has a built-in descale program (Breville, De'Longhi automatic, Jura), use it — they're well-designed and they reset the descale tracker automatically. If your machine doesn't (most prosumer and vintage machines), use the generic procedure with citric acid every 1–6 months depending on your water hardness. Either way, rinse twice with fresh water afterward and you'll have a machine that lasts a decade or more.
 
-For more on the cleaning side of maintenance, see the [daily, weekly, and monthly cleaning routine](/guides/how-to-clean-espresso-machine/). For the grinder side of maintenance — oils on burrs, retention, fines — see [how to clean a coffee grinder](/guides/how-to-clean-coffee-grinder/). For machine recommendations and brand context: [breaking down the best espresso machines under $500](/reviews/best-espresso-machines-under-500/) and the [Breville Bambino Plus review](/reviews/breville-bambino-plus-review/). For why scale matters in the first place — [getting started with home espresso](/guides/getting-started/) covers water quality and machine setup as a foundation.
+For more on the cleaning side of maintenance, see the [daily, weekly, and monthly cleaning routine](/guides/how-to-clean-espresso-machine/). For the grinder side of maintenance — oils on burrs, retention, fines — see [how to clean a coffee grinder](/guides/how-to-clean-coffee-grinder/). To prevent scale from forming in the first place, the upstream choice is your water — see the [water for espresso](/guides/water-for-espresso/) guide for TDS, GH/KH, bottled-water comparisons, and remineralization. For machine recommendations and brand context: [breaking down the best espresso machines under $500](/reviews/best-espresso-machines-under-500/) and the [Breville Bambino Plus review](/reviews/breville-bambino-plus-review/). For why scale matters in the first place — [getting started with home espresso](/guides/getting-started/) covers water quality and machine setup as a foundation.
 
 ## Related Guides
 
 - **[How to Clean Your Espresso Machine](/guides/how-to-clean-espresso-machine/)** — Daily, weekly, and monthly cleaning for oils and residue
 - **[How to Clean a Coffee Grinder](/guides/how-to-clean-coffee-grinder/)** — Burr and blade grinder cleaning, brand-specific notes
+- **[Water for Espresso](/guides/water-for-espresso/)** — TDS, GH/KH, bottled and filtered water options
 - **[Getting Started with Home Espresso](/guides/getting-started/)** — Beginner's setup including water quality
 - **[Espresso Troubleshooting](/guides/espresso-troubleshooting/)** — Diagnose flow, taste, and pressure problems
 - **[Best Espresso Machines Under $500](/reviews/best-espresso-machines-under-500/)** — Buying guide
