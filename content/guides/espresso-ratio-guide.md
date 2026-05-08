@@ -190,6 +190,8 @@ Ristretto: 1:1.5 (sweeter, more concentrated)
 Lungo: 1:3 (lighter, less intense)
 ```
 
+For the iterative process of using ratio in real time — the 4-shot dial-in protocol, reading taste, and adjusting one lever at a time — see the [complete dial-in walkthrough](/guides/how-to-dial-in-espresso/).
+
 ---
 
 Understanding the ratio is just one piece of the puzzle. To get consistently good shots, you also need proper [grind size dialing in](/guides/espresso-grind-size-guide/) and clean equipment. Read our [espresso troubleshooting guide](/guides/espresso-troubleshooting/) if you're still getting inconsistent results.

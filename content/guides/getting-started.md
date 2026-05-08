@@ -164,6 +164,7 @@ Yes, there is a meaningful upfront cost. But consider that a daily cafe latte at
 
 Once you can pull consistent shots, the next steps are:
 
+- **[How to Dial In Espresso](/guides/how-to-dial-in-espresso/)** - The complete 4-shot walkthrough for adjusting grind, dose, yield, and time on every new bag
 - **[How to make a latte at home](/guides/how-to-make-a-latte/)** - The most popular espresso drink, step by step
 - **[Steaming milk for latte art](/guides/how-to-steam-milk-latte-art/)** - Turn your espresso into cafe-quality lattes and cappuccinos
 - **[Flat white vs latte](/guides/flat-white-vs-latte/)** - Understand the key differences between these two popular milk drinks

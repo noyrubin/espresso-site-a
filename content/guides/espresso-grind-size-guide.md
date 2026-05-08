@@ -214,5 +214,7 @@ Save this for your kitchen:
 
 ## Related Guides
 
+- **[How to Dial In Espresso](/guides/how-to-dial-in-espresso/)** - Grind size is the primary lever; this is the complete iterative process for matching grind to dose, yield, and time on a fresh bag
+- **[Espresso Ratio Guide](/guides/espresso-ratio-guide/)** - Dose, yield, and time math that pairs with grind adjustment
 - **[Getting Started with Home Espresso](/guides/getting-started/)** - Full beginner's setup guide
 - **[How to Steam Milk for Latte Art](/guides/how-to-steam-milk-latte-art/)** - Pair your perfect shot with steamed milk

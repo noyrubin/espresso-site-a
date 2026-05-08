@@ -231,6 +231,7 @@ When your espresso tastes off, work through this in order:
 
 ## Related Guides
 
+- **[How to Dial In Espresso](/guides/how-to-dial-in-espresso/)** - The complete 4-shot dial-in protocol with the flavor wheel that maps every off-flavor to a specific lever fix
 - **[Getting Started with Home Espresso](/guides/getting-started/)** - Complete beginner's setup guide
 - **[Espresso Grind Size Guide](/guides/espresso-grind-size-guide/)** - Deep dive into grind adjustment
 - **[Best Espresso Machines Under $500](/reviews/best-espresso-machines-under-500/)** - Machine recommendations

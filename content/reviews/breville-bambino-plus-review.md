@@ -140,7 +140,7 @@ The machine will alert you when descaling is needed via the **DESCALE** light. F
 
 The Breville Bambino Plus earns its popularity. For the beginner who wants genuine espresso quality with a gentle learning curve, it's hard to beat. The 3-second heat-up, PID temperature control, and automatic steam wand solve the three biggest frustrations new espresso enthusiasts encounter.
 
-Pair it with a solid burr grinder, use fresh beans, and expect a few weeks of dialing in — and you'll have a setup that produces cafe-quality espresso at home.
+Pair it with a solid burr grinder, use fresh beans, and expect a few weeks of [dialing in](/guides/how-to-dial-in-espresso/) — and you'll have a setup that produces cafe-quality espresso at home.
 
 **Rating: 4.5/5** — Excellent for beginners; limited ceiling for advanced users
 
