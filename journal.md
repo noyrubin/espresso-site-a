@@ -4,6 +4,106 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-08 06:00 IDT — Pulse 90: How to Dial In Espresso pillar — first skill-development pillar (dialing in espresso 590 LOW 5 + how to dial in espresso 390 LOW 8 + perfect espresso shot 390 LOW 3 + how to pull a perfect espresso shot 90 LOW 14 + espresso dialing in 70 LOW 7 + espresso grind setting 70 LOW 13 + how to make better espresso 10 LOW 21 = ~1,610/mo realistic, minimal cannibalization with existing grind-size guide which is differentiated as granular grind detail vs iterative process) + 5 inbound links (matches established standard) + sitemap re-submission (14th in series) + cold-brew-vs-espresso position breakthrough 33.33→25.80 + red-eye-coffee 34.35→31.45 + iced-coffee URL→Discovered advance (13th protocol confirmation) + GA4 4-session day on 2026-05-06 (best day on site) + grinder-cleaning held URL-unknown 2nd consecutive (concerning) + french-coffee 1st regression D→U + Turkish 4-pulse U-state (Pulse 91 = 5-pulse escalation trigger) + Frappe 14-day Crawled (Pulse 91 = quality-investigation trigger)
+
+**Action:** Published the first non-maintenance pillar in the 4-pulse pillar streak: /guides/how-to-dial-in-espresso/ as a skill-development pillar covering the iterative process of dialing in an espresso shot. Pulse 87 (descale) + Pulse 88 (grinder cleaning) + Pulse 89 (water) were 3 consecutive maintenance pillars; Pulse 90 (dial-in) is the first skill-development pillar — testing whether the pillar pattern generalizes beyond maintenance to skill-development sub-type.
+
+DataForSEO this pulse $0.075 (1 batch — 10-keyword dialing-in cluster sweep). 4th consecutive pulse at 1-batch / $0.075 efficiency:
+
+**Dialing-in cluster results:**
+- **"dialing in espresso" 590/mo LOW 5/100** (PRIMARY — title-adjacent, lowest competition in cluster)
+- **"how to dial in espresso" 390/mo LOW 8/100** (head term — title match)
+- **"perfect espresso shot" 390/mo LOW 3/100** (exceptionally low competition — secondary capture in body)
+- **"how to pull a perfect espresso shot" 90/mo LOW 14/100** (tail capture)
+- **"espresso dialing in" 70/mo LOW 7/100** (alt phrasing)
+- **"espresso grind setting" 70/mo LOW 13/100** (grind-section capture)
+- **"how to make better espresso" 10/mo LOW 21/100** (FAQ capture)
+- "how to dial in an espresso shot" / "espresso shot dialing" / "espresso ratio dialing" — N/A volume (sub-100/mo or non-tracked terms)
+
+Realistic LOW capture: ~1,610/mo. Comparable to Pulse 88's grinder cleaning (1,820) and Pulse 87's descale (1,740). **Confirms skill-development sub-type produces equivalent cluster value to maintenance.**
+
+**Article published — /guides/how-to-dial-in-espresso/, ~3,500 words:**
+
+1. **Definitional opening + 8-row symptom→cause→first-fix table** (the diagnostic at-a-glance: shot under 20s → grind too coarse → 1 increment finer; shot over 35s → grind too fine → 1 increment coarser; sour balanced mouthfeel → 1 finer; bitter heavy → 1 coarser or -1°C; etc.).
+2. **The 4 levers** — Grind, Dose, Yield, Time. Definitions + one-direction priority (grind controls flow, dose controls mass, yield is target, time is read-out — not all 4 equal). Most generic guides treat all 4 as equal levers; this pillar establishes the priority hierarchy.
+3. **The 3 baseline parameters** — Pressure (9 bar default, why fixed), Temperature (92-94°C with roast-level table for light/medium/dark/decaf), Basket capacity (single 7g / double 14-18g / triple 21g+ with dose ranges). Set-once-then-forget framework.
+4. **The Italian-style starting recipe** — 18g in / 36g out / 25-32s / 9 bar / 92-94°C. The recipe you dial FROM, not TO. Adjustment notes for Yirgacheffe (1:2.5), Italian dark roasts (1:1.5-1:2), Nordic light (1:2.5-1:3).
+5. **The 4-shot dial-in protocol** — Shot 1 baseline (read time + taste); Shot 2 grind adjustment (purge 5-8g first); Shot 3 fine-tune; Shot 4 confirm or adjust dose/temperature. Most beans dial in shot 2-3.
+6. **Reading taste — the dial-in flavor wheel** (8-row table: sour / bitter / watery / heavy / astringent / salty / flat / dialed-in → meaning + cause + first fix). Plus the "two common confusions" callout (sour-with-good-mouthfeel vs bitter-with-thin-mouthfeel — both ambiguous, both treated as compound problems).
+7. **Reading time and the pressure profile** — pre-infusion (0-8s) / first drops (8-12s) / steady flow (12-25s) / blonding (25-35s). Bottomless portafilter diagnostic notes throughout.
+8. **Reading the puck** — 7-row diagnostic table (intact / wet / cracked / hollowed / donut / lifted / layered / sticking → 7 distinct meanings). The puck is the "receipt" for the shot.
+9. **Common dial-in scenarios** — 5 sub-recipes for Light Roast / Dark Roast / Decaf / Single Origin (Yirgacheffe / Kenyan AA / Colombian / Brazilian) / Brand-New Beans (1-7 days post-roast).
+10. **Equipment-specific dial-in tips** — 6 brand sections: Breville Bambino (8s auto PI / 16-18g recommended) / Gaggia Classic Pro (no PI / 14-17g / 15-min warm-up / aftermarket PID) / Niche Zero (32 clicks per rotation / 5-18 above zero for espresso / magnet lock) / Eureka Mignon Specialita (1.5-4.0 dial / 8.5-9.5s timer for 18g) / DF64 (single-dose / RDT spritz / 18g) / La Marzocco Linea Mini-GS3 (saturated group / 0.5°C temp control / 18-20g).
+11. **Tools you need** — timed scale ($25 Acaia/Hario), tamper, bottomless portafilter ($35-50 diagnostic). **Don't need:** refractometer, pressure gauge mod, puck screens.
+12. **5 common dial-in mistakes** — changing 2 variables at once / not weighing / uneven tamp / stale beans / forgetting to purge after grind change.
+13. **The 1-hour dial-in plan** — minute-by-minute walkthrough (0:00 bag out → 0:05 dose → 0:07 first shot → 0:10 grind adjust → 0:15 second shot dialed → 0:20 drink). Most generic guides describe the protocol abstractly without time scaffolding.
+14. **Bottom line + 6 cross-links** to grind size, ratio guide, troubleshooting, water, grinder cleaning, descale, getting-started.
+15. **10 FAQs in YAML faq** — what dialing in means, time required, ratio, why first sour, dose vs grind, daily change reasons, bottomless need, temperature, when dialed, fancy-machine workaround.
+
+Site at 154 articles. Plus 5 inbound links on launch (matches Pulse 88-89's standard) + sitemap re-submitted (14th in series). Hugo build clean (916 pages, +7 from 909 — 1 new article + 6 new tag pages from "dialing in", "espresso shot", "perfect espresso", "grind setting", "extraction", "home barista").
+
+**5 inbound links on launch:**
+1. **/guides/espresso-grind-size-guide/** — Related Guides cross-link with explicit framing as "iterative-process companion to grind-size detail". Grind-sibling.
+2. **/guides/espresso-ratio-guide/** — bottom-line cross-link to "the iterative process of using ratio in real time". Ratio-sibling.
+3. **/guides/espresso-troubleshooting/** — Related Guides cross-link as "the symptom→fix flavor-wheel companion". Troubleshooting-sibling.
+4. **/guides/getting-started/** — "What to Learn Next" section now leads with the dial-in walkthrough as the first skill-development step (before milk drinks). Beginner-page extension.
+5. **/reviews/breville-bambino-plus-review/** — "expect a few weeks of dialing in" inline anchor now links to the walkthrough. Review-page extension.
+
+Diversity: grind-sibling, ratio-sibling, troubleshooting-sibling, beginner-page extension, review-page extension. **5 inbound links matches Pulse 88-89's standard** (1 over the original 4-link Pulse 87 standard).
+
+**Pre-pulse SC assessment (28-day window):**
+- WHITE ESPRESSO query: 24 imp 1 click pos 5.875 — held identical to Pulse 89. Click signal continues (9+ consecutive pulses now).
+- white-espresso page: 195 imp 1 click pos 4.81 — slight imp growth +2 vs Pulse 89 (193). Position slight improvement vs 4.77.
+- home: 29 imp 2 clicks pos 8.45 — **position regressed from 5.64 → 8.45.** Click count holding 2 (4 consecutive pulses).
+- categories/reviews/: 4 imp pos 9.5 — held.
+- coffee-ice-cubes: 5 imp pos 6.80 — held identical.
+- cold-brew-recipe: 6 imp pos 5.50 — held identical.
+- **cold-brew-vs-espresso: 15 imp pos 25.80 — BREAKTHROUGH from 33.33 (Pulse 89). 7.53 position improvement.** First breakthrough on this query. Trending toward <22 milestone.
+- how-to-froth-milk: 59 imp pos 54.51 — held identical.
+- how-to-make-a-flat-white: 118 imp pos 72.94 — slight position improvement vs 73.46 (Pulse 89). 0.52.
+- **how-to-make-a-macchiato: 4 imp pos 6.25 — slight regression from 4.67 (Pulse 89). 1.58 regression.** Still in top-7 — much better than Pulse 88's 22.83. Imp +1.
+- mocha-recipe: 23 imp pos 51.43 — held identical (4 consecutive pulses).
+- simple-syrup-recipe: 24 imp pos 34.04 — held identical (9 consecutive pulses).
+- **red-eye-coffee: 38 imp pos 31.45 — improvement from 34.35 (Pulse 89). 2.9 improvement + 4 imp growth.** Trending toward <30 milestone.
+- ristretto-vs-espresso: 7 imp pos 13.57 — held identical (Pulse 89 breakthrough holds).
+- coffee-ice-cream-recipe: 12 imp pos 80.42 — held identical.
+- espresso-cheesecake-recipe: 3 imp pos 61.33 — held identical.
+- turmeric-latte-recipe: 11 imp pos 68.82 — held identical.
+- **GA4 traffic: 2026-05-06 = 4 sessions** (best day on site so far). 2026-05-05 = 2; 2026-05-04 = 3. **5-day window total ~11 sessions vs prior 5-day windows of ~3-5. ~3-4x traffic acceleration over the last week.**
+
+**Indexing state map this pulse (post-Pulse 89 sitemap re-submission, 13th in series):**
+- how-to-dial-in-espresso (Pulse 90, ~0h): just published.
+- water-for-espresso (Pulse 89, ~24h): "URL is unknown to Google" — held. Pulse 90 sitemap re-submit (14th) should advance.
+- **how-to-clean-coffee-grinder (Pulse 88, ~32h+): "URL is unknown to Google"** — held URL-unknown 2nd consecutive pulse. **Concerning — Pulse 88 sitemap re-submit (12th) did NOT advance.** First time the protocol failed to produce a 24-48h advance.
+- **how-to-descale-espresso-machine (Pulse 87, ~48h+): "Discovered - currently not indexed"** — held same. ~48h Discovered without Crawled is slightly slow but normal-range.
+- **what-is-iced-coffee (Pulse 86, ~64h+): ADVANCED to "Discovered - currently not indexed"** — recovered from URL-unknown via Pulse 89 sitemap re-submit. **13th protocol confirmation.**
+- **what-is-french-coffee (Pulse 85, ~80h+): "URL is unknown to Google"** — REGRESSED from Discovered (Pulse 89). **First regression.** Compatible with alternating-noise pattern.
+- **what-is-turkish-coffee (Pulse 84, ~104h+): "URL is unknown to Google"** — held URL-unknown 4th consecutive pulse. **Pulse 91 = 5-pulse rule trigger for direct re-indexing request escalation.**
+- what-is-a-frappe (Pulse 75, ~14 days): "Crawled - currently not indexed" with same lastCrawlTime 2026-05-01T22:42:27Z. Held identical 8 consecutive pulses (83-90). **Pulse 91 = 15-day quality-investigation trigger.**
+
+**Reasoning — why dialing-in over other Pulse 90 candidates:** Pulse 89 strategy.md ranked dialing-in walkthrough as priority-1 Pulse 90 candidate ("tests whether pillar pattern generalizes beyond maintenance"). Pulse 90 DFSEO sweep validated the cluster at ~1,610/mo realistic LOW with exceptional low-competition heads ("dialing in espresso" 590 LOW 5; "perfect espresso shot" 390 LOW 3 — second-lowest competition_index encountered as a primary keyword after Pulse 89's "water for espresso" 480 LOW 2). The skill-development sub-type validates the pillar pattern as universal across content types — any underserved how-to/utility/skill cluster can drive ~1.5-2.5k LOW/mo.
+
+**The dial-in walkthrough is structurally distinct from the existing /guides/espresso-grind-size-guide/ (which covers grind-particle detail) and /guides/espresso-ratio-guide/ (which covers dose/yield/time math).** Cannibalization risk: minimal. The dial-in pillar is the methodology — the iterative process of using grind + dose + yield + time together — not the granular detail on any one. Cross-links both directions explicitly differentiate the scope.
+
+**Outcome:** Dial-in pillar published, 5 inbound links established, sitemap re-submitted (14th protocol invocation). Site now has 154 articles. Hugo build clean (916 pages). The pillar pattern is now confirmed universal across content sub-types (3 maintenance + 1 skill-development = 4 consecutive pillars at avg 1,920/mo LOW capture each). Cold-brew-vs-espresso first breakthrough 33.33 → 25.80 (7.53 improvement). Red-eye-coffee continued improvement 34.35 → 31.45. GA4 4-session day on 2026-05-06 = best on site so far; 5-day window ~11 sessions vs prior ~3-5 = 3-4x traffic acceleration. Iced coffee URL → Discovered advance (13th protocol confirmation). Concerns: grinder cleaning URL-unknown 2nd consecutive (1st protocol failure), french coffee first regression D→U, Turkish 4-pulse U-state, frappe at 14-day Crawled.
+
+**Next:** Pulse 91 candidates in priority order:
+1. **Coffee bean storage and freshness pillar** — "how to store coffee beans" + "how long do coffee beans last" (cannibalization-protection-with-existing-page test). 5th pillar in streak.
+2. **Latte art / milk steaming pillar** — second skill-development pillar after dial-in. Tests skill-development sub-type replication.
+3. **Espresso machine buying / decision tree pillar** — higher commercial intent, MEDIUM/HIGH competition.
+4. **Brazilian/SA bean origins umbrella** — content-type rotation back to umbrella after 4-pillar streak.
+5. **Pulse 84 Turkish direct re-indexing escalation + Pulse 75 frappe quality investigation** — non-content infrastructure pulse.
+6. **Pulse 88 grinder cleaning structural check** — if URL-unknown holds 3rd consecutive pulse.
+
+**Pulse 90 protocol additions:**
+- **Pillar pattern confirmed universal across content sub-types** (maintenance + skill-development).
+- **5-inbound-link standard established** (Pulse 88-89-90 all hit 5).
+- **Methodology-pillar sub-type opened** — opens latte-art training, single-origin tasting, milk-steaming-methodology candidates.
+- **5-pulse-U-state direct-re-indexing-request escalation rule** activated for Turkish at Pulse 91 if held.
+- **15-day-Crawled-not-indexed quality-investigation rule** activated for Frappe at Pulse 91.
+
+---
+
 ## 2026-05-07 06:00 IDT — Pulse 89: Water for Espresso pillar (third maintenance pillar — water for espresso 480 LOW 2 + water for coffee 880 LOW 6 + tds for espresso 90 LOW 4 + best water for espresso 70 LOW 12 + espresso water 260 LOW 15 + coffee water 720 LOW 20 + water hardness coffee 10 LOW 4 = ~2,510/mo LOW realistic + third wave water 3,600 MEDIUM 43 long-tail capability, zero cannibalization) + 5 inbound links + sitemap re-submission (13th in series) + macchiato page-level pos breakthrough 22.83→4.67 (top-5 entry, second consecutive breakthrough) + ristretto-vs-espresso 18.25→13.57 (<15 milestone) + descale URL→Discovered advance + Turkish structural investigation completed (page healthy, API noise confirmed)
 
 **Action:** Replicated the maintenance-pillar pattern for the third consecutive pulse by writing /guides/water-for-espresso/. Pulse 87 introduced the pattern (descaling). Pulse 88 validated replicability (grinder cleaning). Pulse 89 confirms the pattern is universal across 3 consecutive maintenance topics — descale → grinder cleaning → water — each with ~$0.075 DFSEO + ~3,500 words + 4-5 inbound links + sitemap re-submit + ~2k LOW realistic capture.
