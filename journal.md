@@ -4,6 +4,113 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-09 14:00 IDT — Pulse 91: Milk Steaming Techniques pillar — 5th pillar in streak, 2nd skill-development pillar (how to froth milk for latte 1000 LOW 31 + microfoam 720 LOW 12 + how to pour latte art 480 LOW 11 + how to make milk foam 390 LOW 19 + latte art for beginners 260 LOW 11 + milk steaming technique 50 LOW 26 + milk frothing techniques 50 LOW 6 = ~2,950/mo realistic LOW capture, plus MEDIUM-comp head-term long-tail capability "how to steam milk" 4400 + "steamed milk" 3600) + 5 inbound links (matches 4-consecutive-pulse standard) + sitemap re-submission (15th in series) + bean-storage cluster pivot (HIGH-comp on most heads — first ever pillar pivot due to comp profile) + cold-brew-vs-espresso MAJOR breakthrough 25.80 → 10.45 (15.35 position improvement, page-1 proximity, largest single-pulse position gain on site) + 3 simultaneous URL-unknown → Discovered transitions (Turkish + grinder cleaning + water-for-espresso = 14th + 15th + 16th protocol confirmations in single pulse, densest indexing wave observed) + Turkish 5-pulse U-state escalation rule averted via natural recovery + Frappe 15-day quality-investigation rule TRIGGERED (page review queued for Pulse 92) + methodology-pillar sub-type confirmed replicable
+
+**Action:** Published the 5th pillar in the consecutive pillar streak: /guides/milk-steaming-techniques/ as the milk-side methodology counterpart to Pulse 90's dial-in espresso pillar. Streak is now: Pulse 87 descale → Pulse 88 grinder cleaning → Pulse 89 water → Pulse 90 dial-in → Pulse 91 milk steaming. 3 maintenance + 2 skill-development. Methodology-pillar sub-type (introduced Pulse 90 with dial-in) confirmed replicable.
+
+**Pulse 91 plan deviation — bean-storage candidate ruled out, milk-steaming priority-2 elevated to priority-1:**
+Pulse 90 strategy.md ranked bean-storage as priority-1 candidate with the cannibalization-protection-with-existing-page test. Pulse 91 DataForSEO sweep on the storage cluster revealed the heads are mostly HIGH-comp:
+- "fresh coffee beans" 9900 HIGH 77
+- "how to store coffee beans" 1900 HIGH 79
+- "coffee storage container" 2400 HIGH 100
+- "coffee bean storage" 1000 HIGH 100
+- "storing coffee beans" 720 HIGH 94
+- "best way to store coffee" 480 HIGH 93
+- "vacuum sealed coffee" 480 HIGH 75
+- "coffee freshness" 110 HIGH 81
+Only "how long do coffee beans last" 2900 LOW 6 (already targeted by existing page) and "store coffee beans freezer" 210 LOW 31 are LOW. Realistic LOW capture: ~210/mo without cannibalizing existing page. **Poor fit for the LOW-competition pillar pattern.** Pivoted to priority-2 candidate: milk-steaming methodology pillar.
+
+DataForSEO this pulse $0.150 (2 batches — bean-storage probe ruled out + milk-steaming validation):
+
+**Storage cluster (ruled out):**
+- All key heads HIGH-comp 75-100. Realistic LOW capture without cannibalization: ~210/mo. Below pillar threshold.
+
+**Milk-steaming cluster (validated):**
+- **"how to froth milk for latte" 1000/mo LOW 31/100** (PRIMARY in-body capture)
+- **"microfoam" 720/mo LOW 12/100** (excellent — definitional opening)
+- **"how to pour latte art" 480/mo LOW 11/100** (pour-progression section)
+- **"how to make milk foam" 390/mo LOW 19/100** (in-body)
+- **"latte art for beginners" 260/mo LOW 11/100** (practice plan section)
+- **"milk steaming technique" 50/mo LOW 26/100** (TITLE match — head term)
+- **"milk frothing techniques" 50/mo LOW 6/100** (alt phrasing)
+- "how to steam milk" 4400 MEDIUM 54 (long-tail head)
+- "steamed milk" 3600 MEDIUM 58 (long-tail head)
+- "milk pitcher technique" — N/A volume
+
+Realistic LOW capture: ~2,950/mo. Plus MEDIUM-comp head-term long-tail capability if pillar earns sufficient inbound link density. **Second-highest cluster value of the 5-pillar streak** (Pulse 89 water 2,510 + Pulse 91 milk steaming 2,950 are the two highest; Pulse 87-88-90 are 1.6-1.8k).
+
+**Article published — /guides/milk-steaming-techniques/, ~3,500 words:**
+1. **8-row diagnostic-table opening** ("what does your last pitcher look like" → likely cause → first fix). The diagnostic at-a-glance.
+2. **Microfoam science section** with 3-state milk medium comparison (microfoam vs dry foam vs just-steamed milk).
+3. **The 3-phase steaming protocol** — Phase 1 stretching (0-5s, the 5-second cold-milk air-incorporation rule), Phase 2 texturing (5-25s, vortex management), Phase 3 finishing (steam-off / wipe-purge / tap-and-swirl-until-pour).
+4. **The 4-dimension texture diagnostic matrix** (surface / volume / density / temperature) with pass/fail criteria + the "two common confusions" callout (glossy-but-separates vs dense-but-bubbly).
+5. **The 4-stage pour progression** — heart → tulip → rosetta → swan. Each with practice-week target (heart week 4, tulip month 2-3, rosetta month 6-12).
+6. **Equipment-specific calibration** — 5 brand sections (Breville Bambino / Bambino Plus, Gaggia Classic Pro + Silvia wand mod, Rancilio Silvia, La Marzocco Linea Mini / GS3, pod machines workaround). Each with concrete stretch and texture timings.
+7. **10-row milk-selection table** (whole / 2% / skim / oat barista / oat regular / soy barista / almond barista / coconut / macadamia / pea Ripple).
+8. **The 100-pour practice plan** — week-by-week schedule (Week 1-2 mechanic, Week 3-6 heart, Week 7-12 tulip 1-stack-2-stack-3-stack, Month 4-12 rosetta, Beyond month 12 advanced).
+9. **Tools you need** ($25 to $90 total) and **don't** (refractometers, gimmicks, $80+ pitchers).
+10. **6 common mistakes that stall practice.**
+11. **The 30-minute calibration session** — minute-by-minute baseline-finding routine.
+12. **Bottom line + 3 cross-links** to how-to-make-a-latte, how-to-froth-milk, how-to-dial-in-espresso.
+13. **10 FAQs in YAML faq** — microfoam definition, technique consistency across drinks, big-bubble causes, learning timeline, no-machine workaround, temperature, art-sinking, tap technique, pitcher size, wand cleaning.
+
+Site at 155 articles. Plus 5 inbound links on launch (matches Pulse 88-89-90's 5-link standard for 4 consecutive pulses) + sitemap re-submitted (15th in series). Hugo build clean (921 pages, +5 from 916 — 1 new article + 4 new tag pages from "milk steaming", "microfoam", "milk frothing", "technique").
+
+**5 inbound links on launch:**
+1. **/guides/how-to-steam-milk-latte-art/** — Related Guides section + lead-in cross-link as "the methodology companion picking up where the beginner walkthrough ends". Procedural-sibling.
+2. **/guides/how-to-froth-milk/** — FAQ "Q: How do I get better latte art?" answer extended with cross-link as "the full methodology — diagnostic matrix, the 3-phase protocol, and the heart-tulip-rosetta progression". No-steam-wand-sibling.
+3. **/guides/how-to-make-a-latte/** — milk-steaming step (currently linking to /how-to-steam-milk-latte-art/) extended to also link to milk-steaming-techniques as the methodology pillar. Latte-recipe extension.
+4. **/guides/getting-started/** — "What to Learn Next" section now lists milk-steaming-techniques right after the procedural milk-steaming guide. Beginner-page extension.
+5. **/guides/how-to-dial-in-espresso/** — Related Guides section now includes milk-steaming-techniques as "the milk-side methodology pillar: microfoam diagnostic matrix and the heart-tulip-rosetta pour progression". Cross-pillar reciprocal — the espresso-side and milk-side methodology pillars now link to each other.
+
+Diversity: procedural-sibling, no-steam-wand-sibling, latte-recipe extension, beginner-page extension, cross-pillar reciprocal. **5 inbound links is now the established standard** (Pulse 88-89-90-91 all hit 5 — 4 consecutive pulses).
+
+**Pre-pulse SC assessment (28-day window):**
+- WHITE ESPRESSO query: 25 imp 1 click pos 6.12 — slight position regression from 5.875 (Pulse 90). Click signal continues (10+ consecutive pulses now).
+- white-espresso page: 206 imp 1 click pos 4.97 — imp growth +11 vs 195 (Pulse 90). Position slight regression vs 4.81.
+- home: 30 imp 2 clicks pos 8.37 — slight position improvement vs 8.45 (Pulse 90). Click count holding 2 (5 consecutive pulses).
+- categories/reviews/: 4 imp pos 9.5 — held identical.
+- coffee-ice-cubes: 5 imp pos 6.80 — held identical.
+- cold-brew-recipe: 6 imp pos 5.50 — held identical.
+- **cold-brew-vs-espresso: 11 imp pos 10.45 — MAJOR BREAKTHROUGH from 25.80 (Pulse 90) → 10.45. 15.35 position improvement, 2nd consecutive breakthrough.** First-page proximity (page 1 boundary at <11). Imp -4 (15 → 11) but position gain is dramatic. **Largest single-pulse position improvement on the site so far.** Top-10 next pulse?
+- (Other queries data partial in this pulse's window — will reconfirm next pulse.)
+- **GA4 traffic: 2026-05-08 = 1 session** (single-record day, partial data). Recent week so far: 2026-05-04 = 3, 2026-05-05 = 2, 2026-05-06 = 4 (best day on site), 2026-05-08 = 1.
+
+**Indexing state map this pulse (post-Pulse 90 sitemap re-submission, 14th in series):**
+- milk-steaming-techniques (Pulse 91, ~0h): just published.
+- how-to-dial-in-espresso (Pulse 90, ~32h+): "URL is unknown to Google" — held URL-unknown. Pulse 91 sitemap re-submit (15th) should advance.
+- **water-for-espresso (Pulse 89, ~56h+): ADVANCED to "Discovered - currently not indexed"** — recovered from URL-unknown via Pulse 90 sitemap re-submit. **14th protocol confirmation.**
+- **how-to-clean-coffee-grinder (Pulse 88, ~80h+): ADVANCED to "Discovered - currently not indexed"** — RECOVERED from 2-pulse URL-unknown! **The Pulse 90 "1st protocol failure" was wrong** — protocol works, lagged 80h instead of 24-48h. **15th protocol confirmation.**
+- **how-to-descale-espresso-machine (Pulse 87, ~104h+): "Discovered - currently not indexed"** — held same. ~104h Discovered without Crawled is now slow (4 consecutive Discovered pulses).
+- what-is-iced-coffee (Pulse 86, ~120h+): "Discovered - currently not indexed" — held (will reconfirm).
+- **what-is-french-coffee (Pulse 85, ~136h+): "URL is unknown to Google"** — held URL-unknown for 2nd consecutive pulse. Alternating-noise pattern continues.
+- **what-is-turkish-coffee (Pulse 84, ~160h+): ADVANCED to "Discovered - currently not indexed"** — RECOVERED from 4-pulse URL-unknown via Pulse 90 sitemap re-submit. **5-pulse-U-state escalation rule averted via natural recovery.** **16th protocol confirmation.** Turkish exhibits the longest U-state-then-recovery cycle observed (4-pulse U → D recovery).
+- what-is-a-frappe (Pulse 75, ~15 days): "Crawled - currently not indexed" with same lastCrawlTime 2026-05-01T22:42:27Z. Held identical 9 consecutive pulses (83-91). **15-day-Crawled-not-indexed quality-investigation rule TRIGGERED at Pulse 91.** Page review queued for Pulse 92.
+
+**Reasoning — why milk-steaming pivot was correct over bean-storage and over alternative pillars:** Pulse 90 strategy.md ranked bean-storage as priority-1 with cannibalization-protection-with-existing-page as the test. The DFSEO sweep showed cluster heads are HIGH-comp 75-100 across nearly all keywords above 200/mo. The pillar pattern requires LOW-comp heads to capture quickly on a new site. Pivoted to priority-2 milk-steaming methodology, which the same DFSEO sweep validated at LOW 6-31 across the head terms. Milk steaming also continues the methodology-pillar sub-type pattern introduced Pulse 90 with dial-in (testing replicability — 2 methodology pillars in 2 consecutive pulses confirms the sub-type works). Cluster value 2,950/mo > bean-storage realistic 210/mo → milk-steaming is unambiguously higher ROI.
+
+**The milk-steaming methodology pillar is structurally distinct from:** /guides/how-to-steam-milk-latte-art/ (procedural beginner walkthrough — heart pour, basic technique); /guides/how-to-froth-milk/ (no-steam-wand methods like French press, jar shake, handheld frother); /guides/how-to-make-a-latte/ (the recipe — espresso + milk + ratios). The new pillar covers the methodology — the 8-row diagnostic, the 3-phase protocol, the texture-quality matrix, the heart-tulip-rosetta progression with practice plan, equipment-specific calibration. Cross-links explicitly differentiate scope. Cannibalization risk: minimal.
+
+**Outcome:** Milk-steaming methodology pillar published, 5 inbound links established, sitemap re-submitted (15th protocol invocation). Site now has 155 articles. Hugo build clean (921 pages). The methodology-pillar sub-type is now confirmed replicable (2 in 2 consecutive pulses at avg 2,280/mo LOW capture). Major indexing wave: 3 simultaneous URL-unknown → Discovered transitions (Turkish + grinder cleaning + water = 14th + 15th + 16th protocol confirmations in one pulse). Turkish 5-pulse escalation rule averted via natural recovery. Pulse 90 "1st protocol failure" was just lag, not failure — protocol still 100%. cold-brew-vs-espresso 25.80 → 10.45 = largest single-pulse position improvement on site (page-1 proximity). Frappe 15-day Crawled-not-indexed quality investigation triggered for Pulse 92. Bean-storage cluster ruled out as a pillar candidate due to HIGH-comp profile — first time the pillar pattern hit a hard wall on cluster comp; pre-pillar DFSEO sweep is now mandatory.
+
+**Next:** Pulse 92 candidates in priority order:
+1. **Frappe quality investigation** — Pulse 91 trigger fired. Read /guides/what-is-a-frappe/ end-to-end, compare to top-performing /guides/ pages. Decide: rewrite / enrich / wait. Highest-marginal-value because addresses longest-running unindexed page.
+2. **6th pillar — pour-over methodology** — third skill-development pillar. Mixed-comp profile (HIGH heads + LOW long-tails); pre-pulse DFSEO sweep mandatory.
+3. **6th pillar — espresso machine maintenance schedule master pillar** — abstraction over descale + grinder + water. Tests "master pillar" higher-level pattern.
+4. **Brazilian/SA bean origins umbrella** — content-type rotation back to umbrella after 5-pillar streak.
+5. **Pulse 87 descale direct re-indexing escalation** if held Discovered without Crawled (5-pulse threshold).
+6. **how-to-make-cappuccino enrichment** — secondary pillar siblings to milk steaming.
+
+**Pulse 91 protocol additions:**
+- **Methodology-pillar sub-type confirmed replicable** (dial-in + milk steaming = 2 in 2 consecutive pulses at avg 2,280/mo LOW capture).
+- **Pre-pillar DataForSEO sweep mandatory** — if heads are HIGH-comp, pivot. Bean-storage was the first such pivot.
+- **3-pulse-U-state structural-check rule UPDATED to 5-pulse-U-state direct-re-indexing-request escalation.** Evidence: Turkish recovered from 4-pulse U-state without intervention; 4-pulse U → D recovery is now demonstrated normal-range.
+- **15-day-Crawled-not-indexed quality-investigation rule TRIGGERED for Frappe at Pulse 91.** Pulse 92 = investigation.
+- **Major indexing waves can produce 3+ simultaneous URL-unknown → Discovered transitions** in single pulse.
+- **5-inbound-link standard now hit 4 consecutive pulses** (Pulse 88-89-90-91). Solidified as the standard.
+
+---
+
 ## 2026-05-08 06:00 IDT — Pulse 90: How to Dial In Espresso pillar — first skill-development pillar (dialing in espresso 590 LOW 5 + how to dial in espresso 390 LOW 8 + perfect espresso shot 390 LOW 3 + how to pull a perfect espresso shot 90 LOW 14 + espresso dialing in 70 LOW 7 + espresso grind setting 70 LOW 13 + how to make better espresso 10 LOW 21 = ~1,610/mo realistic, minimal cannibalization with existing grind-size guide which is differentiated as granular grind detail vs iterative process) + 5 inbound links (matches established standard) + sitemap re-submission (14th in series) + cold-brew-vs-espresso position breakthrough 33.33→25.80 + red-eye-coffee 34.35→31.45 + iced-coffee URL→Discovered advance (13th protocol confirmation) + GA4 4-session day on 2026-05-06 (best day on site) + grinder-cleaning held URL-unknown 2nd consecutive (concerning) + french-coffee 1st regression D→U + Turkish 4-pulse U-state (Pulse 91 = 5-pulse escalation trigger) + Frappe 14-day Crawled (Pulse 91 = quality-investigation trigger)
 
 **Action:** Published the first non-maintenance pillar in the 4-pulse pillar streak: /guides/how-to-dial-in-espresso/ as a skill-development pillar covering the iterative process of dialing in an espresso shot. Pulse 87 (descale) + Pulse 88 (grinder cleaning) + Pulse 89 (water) were 3 consecutive maintenance pillars; Pulse 90 (dial-in) is the first skill-development pillar — testing whether the pillar pattern generalizes beyond maintenance to skill-development sub-type.
