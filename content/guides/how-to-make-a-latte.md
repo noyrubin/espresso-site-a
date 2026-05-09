@@ -66,7 +66,7 @@ This is where most home baristas struggle at first. The goal is **microfoam** â€
 
 **The result:** Milk that looks glossy and pourable, like wet paint. No large bubbles. If you see big bubbles, swirl and tap the pitcher on the counter before pouring.
 
-See our dedicated guide on [how to steam milk for latte art](/guides/how-to-steam-milk-latte-art/) for more detail on technique and troubleshooting.
+See our dedicated guide on [how to steam milk for latte art](/guides/how-to-steam-milk-latte-art/) for the beginner walkthrough, and [Milk Steaming Techniques](/guides/milk-steaming-techniques/) for the full methodology â€” the 8-row diagnostic matrix, the 3-phase protocol, and the heart-tulip-rosetta pour progression for getting consistent microfoam every pitcher.
 
 ### Step 3: Pour the Milk
 

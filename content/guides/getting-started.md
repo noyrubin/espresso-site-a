@@ -167,6 +167,7 @@ Once you can pull consistent shots, the next steps are:
 - **[How to Dial In Espresso](/guides/how-to-dial-in-espresso/)** - The complete 4-shot walkthrough for adjusting grind, dose, yield, and time on every new bag
 - **[How to make a latte at home](/guides/how-to-make-a-latte/)** - The most popular espresso drink, step by step
 - **[Steaming milk for latte art](/guides/how-to-steam-milk-latte-art/)** - Turn your espresso into cafe-quality lattes and cappuccinos
+- **[Milk Steaming Techniques: Microfoam Methodology](/guides/milk-steaming-techniques/)** - The full pillar — diagnostic matrix, 3-phase protocol, heart-tulip-rosetta pour progression for consistent microfoam every pitcher
 - **[Flat white vs latte](/guides/flat-white-vs-latte/)** - Understand the key differences between these two popular milk drinks
 - **[How to make a macchiato](/guides/how-to-make-a-macchiato/)** - Both espresso macchiato and latte macchiato, explained
 - **[Americano vs Long Black](/guides/americano-vs-long-black/)** - If you prefer black espresso drinks, understand the difference

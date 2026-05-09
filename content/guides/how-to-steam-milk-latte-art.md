@@ -205,8 +205,11 @@ Once you can steam milk well, here are the classic espresso drinks:
 
 The differences between these drinks are subtle and come down to the ratio of espresso to milk and the amount of foam. Learning to control foam volume through your stretching technique is what lets you make all of them.
 
+Once the heart pour is consistent, the next step is the methodology pillar with the full diagnostic matrix and the heart-tulip-rosetta progression: see [Milk Steaming Techniques: Microfoam Methodology and Latte Art Pour Guide](/guides/milk-steaming-techniques/). It picks up exactly where this beginner walkthrough ends.
+
 ## Related Guides
 
+- **[Milk Steaming Techniques](/guides/milk-steaming-techniques/)** - Microfoam methodology, the 8-row diagnostic matrix, and the heart-tulip-rosetta pour progression
 - **[Getting Started with Home Espresso](/guides/getting-started/)** - Complete beginner's guide to pulling your first shots
 - **[How to Make a Latte](/guides/how-to-make-a-latte/)** - Put your steamed milk to work: ratios, milk options, and flavor variations
 - **[How to Froth Milk (All Methods)](/guides/how-to-froth-milk/)** - No steam wand? Every method from French press to electric frother

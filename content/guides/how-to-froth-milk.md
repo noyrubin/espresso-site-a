@@ -215,7 +215,7 @@ A: Steaming (via a steam wand) heats and aerates simultaneously, creating silky 
 A: Yes. A slower speed with the frother near the surface introduces more air (more foam). A faster speed with the frother deeper in the milk heats and mixes without adding much foam. Adjust based on what your drink needs.
 
 **Q: How do I get better latte art?**
-A: You need real microfoam — silky and glossy, not fluffy. This requires a steam wand. After frothing, swirl the milk vigorously, tap the pitcher to pop large bubbles, and pour from low and close to the cup. Check our guide on [how to steam milk for latte art](/guides/how-to-steam-milk-latte-art/) for detailed technique.
+A: You need real microfoam — silky and glossy, not fluffy. This requires a steam wand. After frothing, swirl the milk vigorously, tap the pitcher to pop large bubbles, and pour from low and close to the cup. For the beginner technique, see [how to steam milk for latte art](/guides/how-to-steam-milk-latte-art/). For the full methodology — the 8-row diagnostic matrix, the 3-phase protocol, and the heart-tulip-rosetta pour progression — see [Milk Steaming Techniques](/guides/milk-steaming-techniques/).
 {{< /faq >}}
 
 ---
