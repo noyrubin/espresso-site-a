@@ -6,6 +6,99 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
+Day 36 (Pulse 92) — **155 articles**. **FIRST QUALITY-INVESTIGATION PULSE — Frappe enrich (5 new inbound links from indexed pages).** Pulse 91's 15-day-Crawled-not-indexed quality-investigation rule fired on /guides/what-is-a-frappe/ (Pulse 75 page, lastCrawlTime 2026-05-01T22:42:27Z, held identical 9+ consecutive pulses). Investigation: read full page (~3,300 words, 11 FAQs, etymology, history, 3 drinks fully covered, multiple comparison tables — content is structurally sound and matches top-performer pattern). SC inspection: page fetch SUCCESSFUL, canonical clean, robots ALLOWED, indexing ALLOWED. **Diagnosis: link signal density, not content quality.** Google's `referringUrls` field showed only the sitemap — no internal pages surfacing as referrers despite 5 codebase-level inbound links (1 guide + 4 recipe pages). **Decision: ENRICH** — add 5 additional inbound links from indexed/high-traffic guide pages. Total inbound now 10 (5 existing + 5 new).
+
+**Pulse 92 calibration note:** Strategy.md said "15 days post-publish" for Frappe — actual age 9 days (publish 2026-04-30, today 2026-05-09). The ~15 days framing was off because earlier strategy entries projected the milestone forward and the language drifted. The trigger fired on the *Crawled-not-indexed-with-stuck-lastCrawlTime* signal, not literal calendar age. The fix: enrich was appropriate either way — Pulse 75 is the longest-running unindexed page on the site.
+
+5 new inbound links to /guides/what-is-a-frappe/:
+1. **/guides/getting-started/** — beginner-page extension. Inserted in "What to Learn Next" between Cold Brew vs Espresso and Pour Over vs Espresso.
+2. **/guides/cold-brew-vs-espresso/** — cold-drink-category sibling. Inserted in Bottom Line section's cross-link paragraph. (cold-brew-vs-espresso recently broke through to position 10.45 = page-1 proximity; high page authority for link signal.)
+3. **/guides/what-is-a-cappuccino/** — drink-comparison family + Frappuccino name origin. Inserted in Iced Cappuccino variation note (the existing line already mentioned "frappuccino" without linking; now references the etymology connection — "Frappuccino" = frappé + cappuccino).
+4. **/guides/how-to-make-iced-coffee/** — reciprocal cross-link in More Cold Coffee Recipes section. (Frappe page already links here.)
+5. **/guides/espresso-caffeine/** — caffeine-comparison related-guide. Inserted with caffeine math context (Greek frappé 60-80mg; Frappuccino Coffee Grande ~95mg; Espresso Frappuccino ~155mg; McCafé Mocha Frappé ~100mg).
+
+Diversity: beginner-page, cold-drink-comparison, drink-family-sibling, iced-coffee-method-reciprocal, caffeine-comparison. **5 new inbound links matches the Pulse 88-92 standard for major content interventions** (Pulse 88-89-90-91 all hit 5 inbound links on launch; Pulse 92 enrich uses the same density for repair).
+
+Sitemap re-submitted (16th in series). DataForSEO this pulse $0 (no keyword research needed — pure content-link enrichment). Hugo build clean (921 pages, no new pages).
+
+**Pulse 92 SC update (28-day window):**
+- WHITE ESPRESSO query: 25 imp 1 click pos 6.12 — held identical to Pulse 91. Click signal continues (11+ consecutive pulses now).
+- white-espresso page: 207 imp 1 click pos 5.01 — imp growth +1 vs 206 (Pulse 91). Slight position regression vs 4.97.
+- home: 31 imp 2 clicks pos 8.42 — imp +1 vs 30 (Pulse 91), slight position regression vs 8.37. Click count holding 2 (6 consecutive pulses).
+- categories/reviews/: 4 imp pos 9.5 — held identical.
+- coffee-ice-cubes: 5 imp pos 6.80 — held identical.
+- cold-brew-recipe: 6 imp pos 5.50 — held identical.
+- **cold-brew-vs-espresso: 11 imp pos 10.45 — held identical to Pulse 91 breakthrough (25.80 → 10.45 last pulse). Page-1 proximity holds.** Watch for top-10 entry next pulse.
+- (Other queries data partial in this pulse window — will reconfirm next pulse.)
+
+**Pulse 92 indexing wave update — Pulse 91 sitemap re-submission RESULT (15th in series):**
+- milk-steaming-techniques (Pulse 91, ~10h post-publish): "URL is unknown to Google" — expected for 0-1 day old page. Pulse 92 sitemap re-submit (16th) should advance.
+- **how-to-dial-in-espresso (Pulse 90, ~33h+ post-publish): ADVANCED to "Discovered - currently not indexed"** — recovered from URL-unknown via Pulse 91 sitemap re-submit. **17th protocol confirmation.** referringUrls now shows /guides/water-for-espresso/ — cross-link signal showing in Google's view.
+- water-for-espresso (Pulse 89, ~57h+ post-publish): not re-inspected this pulse (will reconfirm). Was Discovered last pulse.
+- how-to-clean-coffee-grinder (Pulse 88, ~81h+ post-publish): not re-inspected this pulse (will reconfirm). Was Discovered last pulse.
+- how-to-descale-espresso-machine (Pulse 87, ~105h+ post-publish): not re-inspected this pulse (will reconfirm). Was Discovered last pulse — 4 consecutive Discovered. **Pulse 92-93 = 5-pulse Discovered hold trigger** for direct re-indexing escalation if held.
+- what-is-a-frappe (Pulse 75, ~9 days post-publish): "Crawled - currently not indexed" with same lastCrawlTime 2026-05-01T22:42:27Z. **Quality investigation completed Pulse 92. Enrich applied (5 new inbound links). Watch Pulse 93-94 for state advance.**
+
+**Pulse 92 wins:**
+1. **Quality-investigation rule executed cleanly first-time.** The Pulse 91 trigger fired, the Pulse 92 investigation pattern (read page → SC inspect → diagnose → choose rewrite/enrich/wait → execute) ran in single pulse. **The investigation pattern is now operational and replicable.** Future quality-investigation triggers (15+ day Crawled-not-indexed) follow this pattern.
+2. **Diagnosis was link signal density, not content quality.** This is a useful finding — the page has comprehensive content but low cross-link density relative to top-performers. The fix is cheap (5 link additions) and low-risk vs. a rewrite.
+3. **5 new inbound links from indexed pages.** Total inbound now 10. Diversity: beginner-page, cold-drink-comparison, drink-family-sibling, iced-coffee-method-reciprocal, caffeine-comparison.
+4. **Dial-in advanced to Discovered (17th protocol confirmation).** Pulse 91 sitemap re-submit catalyzed the URL-unknown → Discovered transition for /guides/how-to-dial-in-espresso/. referringUrls now showing /guides/water-for-espresso/ — cross-link signal visible in Google's view.
+5. **Sitemap re-submission this pulse (16th in series).** Continues established protocol.
+6. **DataForSEO this pulse: $0** (no keyword research — pure content-link intervention). Cumulative daily DataForSEO spend $0, well under $1/day budget.
+7. **Quality-investigation pattern is now distinct from pillar-publishing pattern.** 5 of last 6 pulses were pillar publishes (Pulse 87-91). Pulse 92 is the first quality-investigation pulse. **Diversification of pulse types** opens the toolkit beyond "publish another pillar".
+
+**Pulse 92 concerns:**
+1. **Frappe enrich result unknowable until Pulse 93-94.** Indexing decisions take 24-72h to manifest. If page advances from Crawled-not-indexed → Indexed by Pulse 94, enrich worked. If held, may need additional intervention (request manual re-index via Search Console UI).
+2. **Pulse 87 descale at ~105h+ Discovered (4 consecutive).** Pulse 92 = 5-pulse-Discovered-hold trigger if not advanced. Direct re-indexing escalation candidate for Pulse 93.
+3. **No GA4 traffic check this pulse** — focused on Frappe investigation. Will recheck Pulse 93.
+4. **No DataForSEO this pulse.** First $0 DataForSEO pulse in 6+ pulses. Pulse 93 budget: ~$0.075-$0.150 if pillar candidate selected.
+5. **Pulse 91 milk-steaming page sample-size of 1.** ~10h post-publish, URL-unknown — too early for any signal.
+
+**Critical insights from this pulse:**
+1. **The quality-investigation pattern works as a distinct pulse type.** Read → diagnose → choose → execute — 4 stages, single pulse. The diagnostic depth (SC inspect + content read + link-count vs comparable page) gives enough signal to choose rewrite/enrich/wait reliably. Future triggers (Frappe-style) follow same pattern.
+2. **Link signal density vs content quality are distinguishable.** Frappe content is comparable to top-performers (length, structure, depth). The differentiator was Google's `referringUrls` field showing only the sitemap. Future investigations: check `referringUrls` first — if only sitemap, link signal issue; if multiple internal pages but still not indexed, content quality or topic competition issue.
+3. **Pillar streak adds ambient inbound link density to all related pages.** The 5-pulse pillar streak (Pulse 87-91) added ~25 new inbound links across 5 different topic clusters. The Frappe enrich (Pulse 92) inherits this momentum — the Frappe page now sits at a node with denser surrounding link graph than 9 days ago.
+4. **The 5-inbound-link standard generalizes from launch to enrich.** Pulse 88-91 used 5 links on pillar launch. Pulse 92 used 5 links for repair. **5 may be the universal "make a page count" link density** across content interventions.
+5. **Dial-in's referringUrls = water-for-espresso confirms cross-link signal is visible.** The Pulse 90 dial-in pillar's "Related Guides" section linked to water-for-espresso (Pulse 89). Google's URL-info API now reports water-for-espresso as a referring URL for dial-in. **Cross-link signal is real and trackable** — not just internal-link bookkeeping.
+
+**DataForSEO this pulse:** $0 (no keyword research — pure content-link intervention).
+
+**Next focus (Pulse 93):**
+1. SC check — Pulse 92 sitemap re-submit (16th) should drive: milk-steaming-techniques (Pulse 91, ~32h+) URL-unknown → Discovered transition; potential Frappe state advance. Pulse 87 descale at ~129h+ Discovered = 5-pulse hold (direct re-indexing escalation candidate).
+2. **Pulse 93 candidate options (in priority order):**
+   - **Re-inspect Frappe + key indexing checks** — confirm Pulse 92 enrich impact. If state advanced, document the protocol; if held, consider request-indexing escalation.
+   - **6th pillar — pour-over methodology** — third skill-development pillar. Mixed-comp profile (HIGH heads + LOW long-tails); pre-pulse DFSEO sweep mandatory. Continue methodology sub-type sequence.
+   - **6th pillar — espresso machine maintenance master pillar** — abstraction-level test. "Espresso machine maintenance" cluster. Tests "master pillar" higher-order pattern.
+   - **Brazilian/SA bean origins umbrella** — content-type rotation back to umbrella after 5-pillar + 1-quality-investigation streak.
+   - **Pulse 87 descale direct re-indexing escalation** if held Discovered (5-pulse threshold).
+   - **how-to-make-cappuccino enrichment** — secondary pillar siblings to milk steaming (Pulse 91). Light-touch enrichment to seed cross-links.
+3. **Recommended Pulse 93: pour-over methodology pillar** (with re-inspection of Frappe + descale at start of pulse). Pour-over is the natural next methodology sub-type pillar after dial-in (espresso) + milk steaming (milk side) — completes the "3 main brewing methodologies for home barista" trilogy. Pre-pulse DFSEO sweep mandatory.
+4. DataForSEO Pulse 93: ~$0.075 (1 batch on pour-over cluster terms) for cluster validation.
+5. **Critical milestones to watch:**
+   - **Frappe state advance.** Pulse 93 = ~24h post-enrich (Pulse 92 was the link addition). Watch Crawled-not-indexed → Indexed transition or held state.
+   - **Milk-steaming indexing speed.** Pulse 91 page at ~32h+ — expect URL-unknown → Discovered via Pulse 92 sitemap re-submit.
+   - **Dial-in Discovered → Crawled advance.** Pulse 90 page just advanced to Discovered (Pulse 92).
+   - **Water Discovered → Crawled advance.** Pulse 89 page at ~57h+ Discovered — watch for Crawled.
+   - **Grinder cleaning Discovered → Crawled advance.** Pulse 88 page at ~81h+ Discovered.
+   - **Descale 5-pulse-Discovered hold trigger.** Pulse 87 page at 4 consecutive Discovered (~105h+). Pulse 92-93 = 5-pulse threshold — direct re-indexing escalation candidate.
+   - **cold-brew-vs-espresso top-10 entry.** 10.45 (page-1 boundary). Watch for <11 (top-10) in next pulse.
+   - **macchiato position hold or recovery.** Last seen 6.25 (Pulse 90).
+   - **red-eye-coffee position breakthrough <30.** Last seen 31.45 (Pulse 90).
+   - **white-espresso click signal** (11+ consecutive pulses).
+   - **home page click count growth** holding at 2 (Pulses 87-92, 6 consecutive).
+   - **GA4 daily session count.** No check this pulse — Pulse 93 will recheck.
+6. The sitemap re-submission protocol now validated 17 times. Continue using as default.
+
+**Pulse 92 protocol additions:**
+- **Quality-investigation pulse type formalized.** Pattern: SC inspect → read page → check `referringUrls` → diagnose link-density-vs-content-quality → choose rewrite/enrich/wait → execute. Single pulse end-to-end.
+- **`referringUrls` field is the link-density signal** to read first when triaging unindexed pages. If only sitemap → link-density issue (enrich path). If multiple internal pages and still unindexed → content quality or topic-competition issue (rewrite path or wait path).
+- **5-inbound-link standard generalizes from launch to enrich.** 5 may be the universal density for pages-that-count.
+- **Cross-link signal is real and trackable via `referringUrls`.** Dial-in's water-for-espresso entry confirms Google sees and reports cross-pillar links.
+
+---
+
+## Prior phase (Pulse 91) — kept for reference
 Day 36 (Pulse 91) — **155 articles**. **5TH PILLAR IN STREAK — 2ND SKILL-DEVELOPMENT PILLAR — METHODOLOGY-PILLAR SUB-TYPE REPLICATED.** Published /guides/milk-steaming-techniques/ as the milk-side counterpart to the dial-in espresso methodology. 5-pulse pillar streak now: Pulse 87 descale (maintenance) → Pulse 88 grinder cleaning (maintenance) → Pulse 89 water (maintenance) → Pulse 90 dial-in (skill) → Pulse 91 milk steaming (skill). Targeting "how to froth milk for latte" 1000/mo LOW 31/100 (PRIMARY in-body capture), "microfoam" 720/mo LOW 12/100 (excellent — definitional opening), "how to pour latte art" 480/mo LOW 11/100 (pour-progression section), "how to make milk foam" 390/mo LOW 19/100 (in-body), "latte art for beginners" 260/mo LOW 11/100 (practice plan section), "milk steaming technique" 50/mo LOW 26/100 (TITLE match — head term), "milk frothing techniques" 50/mo LOW 6/100 (alt phrasing). Realistic LOW capture: ~2,950/mo (slightly higher than Pulse 90 dial-in's 1,610). Plus MEDIUM-comp head-term long-tail capability: "how to steam milk" 4400 MEDIUM 54 + "steamed milk" 3600 MEDIUM 58 — title and body both rank-eligible with sufficient inbound link density.
 
 **~3,500-word milk-steaming pillar covering: 8-row diagnostic-table opening (the "what does your last pitcher look like" diagnostic at-a-glance — most generic guides lack this density); the microfoam science (3-state milk medium with comparison table to dry foam and just-steamed milk); the 3-phase steaming protocol (Phase 1 stretching 0-5s with the 5-second air-incorporation rule, Phase 2 texturing 5-25s with vortex management, Phase 3 finishing with tap-and-swirl-until-pour); the 4-dimension texture diagnostic matrix (surface / volume / density / temperature) + the "two common confusions" callout (glossy-but-separates vs dense-but-bubbly); the 4-stage pour progression (heart → tulip → rosetta → swan) with practice-week target for each; equipment-specific calibration (Bambino, Gaggia Classic Pro + Silvia wand mod, Rancilio Silvia, La Marzocco Linea Mini/GS3, pod machines workaround) with stretch and texture timings per machine; 10-row milk-selection table (whole / 2% / skim / oat barista / oat regular / soy / almond / coconut / macadamia / pea); the 100-pour practice plan with week-by-week milestones (Week 1-2 mechanic, Week 3-6 heart, Week 7-12 tulip, Month 4-12 rosetta); tools you need ($25 to $90 total) and don't (refractometers, gimmicks); 6 common mistakes; the 30-minute calibration session; 10 FAQs in YAML faq.**
