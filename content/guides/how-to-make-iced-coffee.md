@@ -235,5 +235,6 @@ If iced coffee is your thing, you'll enjoy these:
 - **[Cold Brew Recipe](/guides/cold-brew-recipe/)** — step-by-step guide to making cold brew at home, with ratios, brew times, and storage tips
 - **[How to Make Cold Foam](/guides/how-to-make-cold-foam/)** — the cloud-like topping for cold brew and iced coffee
 - **[Cold Brew vs Espresso](/guides/cold-brew-vs-espresso/)** — full comparison of the two approaches to cold coffee
+- **[What Is a Frappé?](/guides/what-is-a-frappe/)** — Greek frappé, Starbucks Frappuccino, and French café frappé fully explained, including which one foams (and why)
 - **[Dalgona Coffee Recipe](/recipes/dalgona-coffee-recipe/)** — the viral whipped coffee foam you can make in 5 minutes
 - **[Espresso Tonic](/recipes/espresso-tonic/)** — espresso over tonic water, surprisingly refreshing on a hot day

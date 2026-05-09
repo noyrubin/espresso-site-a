@@ -184,3 +184,4 @@ If you're dialing in your espresso, these guides cover the technical side:
 - [Espresso Beans vs Coffee Beans: What's the Difference?](/guides/espresso-beans-vs-coffee-beans/)
 - [Espresso vs Drip Coffee: Full Comparison](/guides/espresso-vs-drip-coffee/)
 - [Red Eye Coffee: The Drip-Plus-Espresso Caffeine Hack](/guides/red-eye-coffee/) — drip coffee with an espresso shot added; the highest-caffeine common café drink
+- [What Is a Frappé?](/guides/what-is-a-frappe/) — caffeine math across Greek frappé (60–80mg), Starbucks Coffee Frappuccino Grande (~95mg), Starbucks Espresso Frappuccino Grande (~155mg), and McCafé Mocha Frappé (~100mg)

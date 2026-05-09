@@ -252,7 +252,7 @@ Two important data points:
 1. **Wet cappuccino** — more milk, thinner foam. Closer to a small latte. The default in most US specialty cafés.
 2. **Dry cappuccino** — less liquid milk, thicker foam. Closer to the traditional Italian style.
 3. **Bone dry cappuccino** — no liquid steamed milk; just espresso topped with a mound of foam. The most foam-forward variant.
-4. **Iced cappuccino** — espresso poured over cold milk and ice, topped with cold-foamed milk. Note that a true iced cappuccino has cold foam, not whipped cream — the latter is a Starbucks-style "iced cappuccino" that is closer to a frappuccino.
+4. **Iced cappuccino** — espresso poured over cold milk and ice, topped with cold-foamed milk. Note that a true iced cappuccino has cold foam, not whipped cream — the latter is a Starbucks-style "iced cappuccino" that is closer to a Frappuccino. (See [what is a frappé](/guides/what-is-a-frappe/) for the difference between Greek frappés, Starbucks Frappuccinos, and the broader French café frappé — the name "Frappuccino" combines *frappé* and *cappuccino*.)
 5. **Cappuccino freddo** — Greek/Italian iced version with shaken espresso, cold milk, and a stiff cold milk foam. (See [Greek frappé](/recipes/greek-frappe-recipe/) for the cold-milk-foam shaking technique.)
 6. **Cappuccino chiaro** ("light cappuccino") — extra steamed milk, lighter color, even wetter than wet. Italian regional variant.
 7. **Cappuccino scuro** ("dark cappuccino") — extra espresso (often a double shot in the same 5–6 oz cup), darker color, stronger taste.
