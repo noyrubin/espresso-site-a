@@ -4,6 +4,114 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-10 14:00 IDT — Pulse 94: Descale enrichment via Frappe-style pattern + FIRST RIGOROUSLY VERIFIED ENRICH ROUND (5 new inbound links from confirmed-indexed pages — milk-steaming-techniques + cold-brew-vs-espresso + how-to-froth-milk + how-to-make-a-flat-white + white-espresso; critical methodological discovery: getting-started + how-to-clean-espresso-machine + espresso-troubleshooting + 8 other prior referrers are ALL UNINDEXED — future enrich rounds must SC-inspect referrers first; DataForSEO maintenance master-pillar cluster validated ~960/mo realistic LOW capture; sitemap re-submit 18th in series; cold-brew-vs-espresso TOP-5 HOLD pos 4.0; home page Pulse 93 regression confirmed as 28-day window slide effect — recovered to pos 8.37; Frappe enrich Pulse 92 STILL not reflected at ~48h — diagnosis revisit pending Pulse 95)
+
+**Action:** Executed Frappe-style enrich pattern on /guides/how-to-descale-espresso-machine/. The Pulse 87 page held "Discovered - currently not indexed" for 6 consecutive pulses (Pulse 88-93) with referringUrls field showing only sitemap.xml. The 5-pulse-Discovered-hold trigger fired Pulse 93. Pulse 94 enrich added 5 new inbound links from confirmed-indexed pages.
+
+**Pulse 94 plan adherence:** Pulse 93 strategy ranked Descale enrichment as priority-1 candidate. Pulse 92 strategy explicitly queued the descale escalation for Pulse 94 if the 5-pulse hold confirmed. Trigger fired Pulse 93 → Pulse 94 enrich = on-plan execution.
+
+**Critical methodological discovery this pulse — referrer indexing verification:**
+Before applying the enrich, I SC-inspected candidate referrer pages to confirm indexing status. Result: **most pages used as referrers in prior enrich rounds (Pulse 88-93) are NOT actually indexed.** Verified Discovered or URL-unknown:
+- getting-started ✗
+- how-to-clean-espresso-machine ✗
+- espresso-troubleshooting ✗
+- what-is-espresso ✗
+- how-to-make-cappuccino ✗
+- espresso-crema ✗
+- how-to-dial-in-espresso ✗ (Pulse 90)
+- water-for-espresso ✗ (Pulse 89)
+- how-to-clean-coffee-grinder ✗ (Pulse 88)
+- pour-over-technique ✗ (Pulse 93)
+- what-is-a-frappe ✗ (Pulse 75 — quality-investigation target)
+
+Confirmed indexed (PASS):
+- white-espresso ✓ (top performer, 210 imp pos 5.04)
+- home / ✓
+- cold-brew-vs-espresso ✓ (top-5 pos 4.0)
+- milk-steaming-techniques ✓ (Pulse 91 just-indexed)
+- how-to-froth-milk ✓ (62 imp)
+- how-to-make-a-flat-white ✓ (100 imp pos 72.14)
+- how-to-make-a-macchiato ✓ (6 imp pos 6.17)
+- red-eye-coffee ✓ (40 imp pos 30.28)
+- ristretto-vs-espresso ✓ (8 imp pos 12.88)
+- simple-syrup-recipe ✓ (33 imp pos 27.15)
+- cold-brew-recipe ✓ (6 imp pos 5.50)
+- coffee-ice-cubes ✓ (5 imp pos 6.80)
+- categories/reviews/ ✓ (4 imp pos 9.5)
+
+**This is a major implication.** Prior enrich rounds (Pulse 88-93) routinely used getting-started, how-to-clean-espresso-machine, and espresso-troubleshooting as referrer pages. Those pages are not yet indexed in Google. Their links contribute weak signal in Google's URL-info `referringUrls` field and likely weak signal in the ranking algorithm. Pulse 94 enrich is the first round where ALL 5 referrer pages are confirmed indexed.
+
+**5 new inbound links added (all from confirmed-indexed pages):**
+1. **/guides/milk-steaming-techniques/** — fresh-indexed Pulse 91 PASS verdict. Linked the existing "descale cycle" anchor in the 30-Minute Calibration Session section. Insertion: in-body anchor on existing text. Anchor: "[descale cycle](/guides/how-to-descale-espresso-machine/)". Methodology trilogy maintenance counterpart.
+2. **/guides/cold-brew-vs-espresso/** — top-5 indexed (pos 4.0). Equipment and Cost section. Added 2-sentence ongoing-ownership-maintenance contrast paragraph: cold brew has no boiler/group head/wand to maintain. Anchor: "[descaling every 1–3 months](/guides/how-to-descale-espresso-machine/) depending on water hardness".
+3. **/guides/how-to-froth-milk/** — indexed (62 imp). Closing paragraph: scaled boilers lose steam pressure first, the most common cause of milk that swirls but won't foam even with perfect technique. Ties wand cleaning + boiler descaling. Anchor: "[descale your espresso machine](/guides/how-to-descale-espresso-machine/) every 1–3 months".
+4. **/guides/how-to-make-a-flat-white/** — indexed (100 imp pos 72.14). Related Guides addition: flat whites depend on stable steam pressure; descaling on schedule keeps the wand performing. Anchor: "[How to Descale Your Espresso Machine](/guides/how-to-descale-espresso-machine/)".
+5. **/guides/white-espresso/** — top performer (210 imp pos 5.04). Related Guides addition: scale builds from your water, not your beans — unusual roasts don't change the maintenance schedule. Anchor: "[How to Descale Your Espresso Machine](/guides/how-to-descale-espresso-machine/)".
+
+**Diversity:** methodology pillar (fresh-indexed), comparison family (top-5 indexed), sibling cleaning topic (mid-volume indexed), drink recipe (high-impression indexed), top-traffic foundational page (top performer). All 5 referrers confirmed indexed via SC inspect this pulse.
+
+DataForSEO this pulse $0.075 (1 batch on 12 maintenance master-pillar cluster heads):
+
+**Maintenance master-pillar cluster (validated as candidate):**
+- **"espresso machine maintenance" 590/mo LOW 11/100** ⭐ excellent — TITLE candidate
+- **"how often descale espresso machine" 260/mo LOW 2/100** ⭐ excellent — in-body
+- **"coffee machine maintenance" 90/mo LOW 26/100** — variants
+- **"espresso machine care" 10/mo LOW 20/100** — incidental
+- **"how to maintain espresso machine" 10/mo LOW 21/100** — incidental
+- 7 other variants returned N/A (low search volume / no data — "espresso machine cleaning schedule", "coffee machine cleaning schedule", "espresso machine maintenance guide", "home espresso machine care", "when to clean espresso machine", "espresso machine upkeep", "espresso maintenance routine")
+
+Realistic LOW capture: ~960/mo — modest vs other pillars (descale 1500, grinder 1800, water 2510, milk 2950, dial-in 1610, pour-over 5790). Cannibalization risk against existing descale + grinder + water pillars. Lower priority candidate.
+
+**Pulse 94 SC update (28-day window):**
+- WHITE ESPRESSO query: 25 imp 1 click pos 6.12 — held identical to Pulse 92-93. Click signal continues (13+ consecutive pulses now).
+- white-espresso page: 210 imp 1 click pos 5.06 — imp +1 vs 209 (Pulse 93), slight position regression vs 5.04.
+- home: 27 imp 1 click pos 8.37 — imp +2 vs 25, position recovery 8.96 → 8.37 (back to Pulse 92 level). **Pulse 93 regression confirmed as 28-day window slide effect.** Click count holding 1.
+- categories/reviews/: 4 imp pos 9.5 — held identical (5+ pulses).
+- coffee-ice-cubes: 5 imp pos 6.80 — held identical.
+- cold-brew-recipe: 6 imp pos 5.50 — held identical.
+- **cold-brew-vs-espresso: 10 imp pos 4.0 — TOP-5 HOLD from Pulse 93 breakthrough.** Position held identical at 4.0.
+- how-to-froth-milk: 62 imp pos 51.95 — held.
+- how-to-make-a-flat-white: 100 imp pos 72.14 — held (high impression / low position pattern continues).
+- how-to-make-a-macchiato: 6 imp pos 6.17 — held.
+- red-eye-coffee: 40 imp pos 30.28 — held (just outside top-30).
+- ristretto-vs-espresso: 8 imp pos 12.88 — held.
+- simple-syrup-recipe: 33 imp pos 27.15 — held.
+
+**Pulse 94 indexing wave update:**
+- pour-over-technique (Pulse 93, ~24h post-publish): "URL is unknown to Google" — held URL-unknown. Expected at <48h.
+- milk-steaming-techniques (Pulse 91, ~56h post-publish, indexed Pulse 93): held PASS / Submitted and indexed.
+- how-to-dial-in-espresso (Pulse 90, ~80h+ post-publish): "Discovered - currently not indexed" — held. referringUrls now shows /guides/water-for-espresso/ (cross-link signal visible).
+- water-for-espresso (Pulse 89, ~104h+ post-publish): not re-inspected — was Discovered last pulse.
+- how-to-clean-coffee-grinder (Pulse 88, ~128h+ post-publish): not re-inspected — was Discovered last pulse.
+- **how-to-descale-espresso-machine (Pulse 87, ~152h+ post-publish): "Discovered - currently not indexed"** — held Discovered. **Enrich applied this pulse (5 new inbound links from confirmed-indexed pages). Watch Pulse 95-96 for state advance.**
+- **what-is-a-frappe (Pulse 75, ~11 days post-publish): "Crawled - currently not indexed"** with same lastCrawlTime 2026-05-01T22:42:27Z. Held identical 11 consecutive pulses. **Pulse 92 enrich (5 new inbound links) STILL NOT REFLECTED at ~48h** — referringUrls still only sitemap. Pulse 92 enrich used 2 unindexed referrers (getting-started + what-is-a-cappuccino) — possibly weakened the link-graph signal. **Pulse 94 descale enrich is the cleaner test (all 5 referrers confirmed indexed).** If Frappe still held by Pulse 95-96, diagnosis revisits.
+
+**Reasoning — why descale enrichment was correct over alternatives:**
+The Pulse 93 strategy listed 6 candidates for Pulse 94. Top priority was descale enrichment because: (1) the 5-pulse-Discovered-hold trigger fired Pulse 93 — protocol response is the established Frappe-pattern enrich; (2) descale is the longest-running Discovered page with confirmed protocol fired; (3) waiting longer risks Google deprioritizing the page in crawl queue; (4) Pulse 92 enrich-pattern is a validated pattern available to mirror. The alternative — 7th pillar — adds new content that would also need to be enriched, while leaving the trigger response unaddressed.
+
+The methodological discovery (referrer indexing verification) was an unplanned but critical find. The discovery happened naturally during the Pulse 94 SC-inspect routine to verify referrer candidates before linking. This insight is now codified as a Pulse 94 protocol addition — future enrich rounds must SC-inspect candidates first.
+
+**Outcome:** Descale page enriched with 5 inbound links from confirmed-indexed pages. **First rigorously-verified enrich round.** Hugo build clean (930 pages, no new pages from link-only edits — expected). Site at 156 articles. Sitemap re-submitted (18th in series). DataForSEO this pulse $0.075. Maintenance master-pillar cluster validated as candidate (~960/mo realistic LOW capture, but cannibalization risk + modest volume = lower priority). **Major methodological insight: many pages used as referrers in prior enrich rounds (Pulse 88-93) are NOT actually indexed — future rounds must SC-inspect referrers first.**
+
+**Next:** Pulse 95 candidates in priority order:
+1. **7th pillar — single-origin coffee umbrella** — content-type rotation back to umbrella after 6-pillar streak + 2-quality-investigation pulses. Mandatory pre-pulse DataForSEO sweep on cluster ("single origin coffee" + variants).
+2. **7th pillar — espresso machine maintenance master pillar** — abstraction-level test (~960/mo LOW capture per Pulse 94 sweep). Cannibalization risk vs existing maintenance pillars + modest volume = lower priority.
+3. **Brazilian/SA bean origins umbrella** — content-type rotation. Mandatory pre-pulse DataForSEO sweep.
+4. **Latte art pour-progression deep-dive** — extends milk-steaming methodology pillar with focused pour-pattern content.
+5. **Frappe enrich revisit** if Pulse 95 confirms enrich still not reflected at ~72h post-enrich.
+6. **Pulse 88 grinder cleaning enrich** — preempt 5-pulse trigger if it fires Pulse 95 or 96.
+
+**Recommended Pulse 95: 7th pillar — single-origin coffee umbrella** (with pre-pulse DataForSEO sweep mandatory). Content-type rotation diversifies the portfolio after 6-pillar streak + 2-quality-investigation pulses. Single-origin complements the methodology trilogy as a natural next-step topic.
+
+**Pulse 94 protocol additions:**
+- **Indexing-verification rule for enrichment referrers.** Before adding inbound links during an enrich round, SC-inspect each candidate referrer page. Use only referrers with verdict=PASS / coverageState="Submitted and indexed". Links from Discovered/URL-unknown referrers contribute weak signal in Google's URL-info `referringUrls` field and likely weak signal in the ranking algorithm.
+- **Confirmed-indexed referrer pool (verified Pulse 94):** white-espresso (top performer), home /, cold-brew-vs-espresso (top-5), milk-steaming-techniques (Pulse 91 fresh-indexed), how-to-froth-milk, how-to-make-a-flat-white, how-to-make-a-macchiato, red-eye-coffee, ristretto-vs-espresso, simple-syrup-recipe, cold-brew-recipe, coffee-ice-cubes, categories/reviews/. Priority referrer set for Pulse 95+.
+- **Confirmed-NOT-indexed pool (verified Pulse 94):** getting-started, how-to-clean-espresso-machine, espresso-troubleshooting, what-is-espresso, how-to-make-cappuccino, espresso-crema, how-to-dial-in-espresso, water-for-espresso, how-to-clean-coffee-grinder, pour-over-technique, what-is-a-frappe, how-to-descale-espresso-machine. Use for codebase-level links (still useful for navigation + when those pages do index they pass signal forward), but DO NOT count toward enrich referrer counts until they index.
+- **First rigorously-verified enrich round.** All 5 Pulse 94 descale enrich referrers confirmed indexed. This becomes the standard for all future enrich rounds.
+- **Pulse 92 Frappe enrich diagnosis revisit pending Pulse 95.** If Frappe still Crawled-not-indexed at ~72h post-enrich, the unindexed-referrers explanation likely (Pulse 92 used getting-started + what-is-a-cappuccino as 2 of 5 — both unindexed). Pulse 94 descale enrich is the cleaner test.
+
+---
+
 ## 2026-05-10 06:00 IDT — Pulse 93: Pour-over methodology pillar — 6th pillar in streak, 3rd methodology pillar, METHODOLOGY TRILOGY COMPLETE (~5,790/mo LOW capture — highest cluster value of streak; pour over ratio 2400 LOW 7 + pour over grind size 1600 LOW 8 + how much coffee for pour over 880 LOW 17 + pour over recipe 720 LOW 13 + pour over time 170 LOW 32 + pour over technique 480 MEDIUM 40 = title; 5 inbound links on launch including 1 from freshly-indexed milk-steaming page; sitemap re-submit 17th in series; cold-brew-vs-espresso TOP-5 BREAKTHROUGH 10.45 → 4.0; milk-steaming Pulse 91 INDEXED in ~32h = fastest indexing observed; descale 5-pulse-Discovered-hold trigger FIRED at Pulse 87 page 6 consecutive Discovered; Frappe enrich Pulse 92 not yet reflected — expected, ~24h post-enrich)
 
 **Action:** Published the 6th pillar in the consecutive pillar streak: /guides/pour-over-technique/ as the manual-brewing methodology counterpart to dial-in (espresso, Pulse 90) and milk-steaming (milk side, Pulse 91). **Methodology trilogy now COMPLETE**: dial-in (espresso) + milk-steaming (milk) + pour-over (manual brewing) — the 3 main brewing methodologies a home barista develops. Each pillar cross-links to the other two as methodology counterparts.
