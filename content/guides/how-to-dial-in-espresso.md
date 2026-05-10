@@ -362,3 +362,4 @@ If a shot is still off after a clean dial-in, see [Espresso Troubleshooting](/gu
 - [How to Descale Your Espresso Machine](/guides/how-to-descale-espresso-machine/) — keep the boiler delivering correct temperature and pressure
 - [Getting Started With Home Espresso](/guides/getting-started/) — beginner walkthrough from buying to first shot
 - [Milk Steaming Techniques](/guides/milk-steaming-techniques/) — the milk-side methodology pillar: microfoam diagnostic matrix and the heart-tulip-rosetta pour progression for consistent latte art
+- [Pour Over Coffee Technique](/guides/pour-over-technique/) — the same iterative methodology applied to pour over: the 4 knobs (ratio, grind, time, pour pattern), the diagnostic-by-taste table, and the 4-phase pour protocol. Same framework, different brewing method — the methodology trilogy completes here

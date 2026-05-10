@@ -196,6 +196,7 @@ Both are excellent. Many serious home brewers own both.
 - [Moka pot vs espresso](/guides/moka-pot-vs-espresso/) — Stovetop espresso-adjacent brewing
 - [Cold brew recipe](/guides/cold-brew-recipe/) — Room-temp immersion over 12–24 hours
 - [Coffee to water ratio guide](/guides/coffee-to-water-ratio/) — Ratios for all methods in one table
+- [Pour Over Coffee Technique (methodology)](/guides/pour-over-technique/) — The methodology pillar that pairs with these recipes: the 4 knobs (ratio, grind, time, pour pattern), the diagnostic-by-taste table, the 4-phase pour protocol, equipment-specific calibration for V60 / Chemex / Kalita / Origami, and the 30-day calibration plan
 
 ## Frequently Asked Questions
 

@@ -106,6 +106,8 @@ Pour over (V60, Chemex, Kalita Wave) is a filter method — coffee flows through
 
 **Bloom:** Always start with 2x the coffee weight in water (e.g., 50ml water for 25g coffee) and wait 30–45 seconds. This degasses the coffee and helps even extraction.
 
+For the full methodology behind pour over — the 4 knobs (ratio, grind, time, pour pattern), the diagnostic-by-taste table, the 4-phase pour protocol, equipment-specific calibration for V60 / Chemex / Kalita / Origami, and the 30-day calibration plan — see [Pour Over Coffee Technique](/guides/pour-over-technique/). Ratio is one knob; the methodology page covers how to adjust grind and time around it for the cup you actually want.
+
 ## Drip Coffee Maker Ratio
 
 **Standard: 1:16 to 1:18 (approximately 1 gram per 16–18 ml water)**

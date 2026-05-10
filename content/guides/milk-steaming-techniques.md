@@ -343,4 +343,6 @@ Go pour 100 hearts. Then 50 tulips. Then start working on rosettas.
 
 For deeper context on the rest of the milk-drink workflow, see [How to Make a Latte](/guides/how-to-make-a-latte/) for pour-format-specific timings, [How to Froth Milk](/guides/how-to-froth-milk/) for the no-steam-wand alternatives, and [How to Dial In Espresso](/guides/how-to-dial-in-espresso/) for the espresso side of the drink. For the underlying science of why temperature matters this much, the dial-in walkthrough's temperature section applies symmetrically to milk.
 
+The same iterative methodology — diagnostic table, 4-knob framework, calibration plan — extends to manual brewing too. [Pour Over Coffee Technique](/guides/pour-over-technique/) is the third methodology pillar: ratio, grind, time, and pour pattern as the four knobs; diagnose-by-taste; equipment-specific calibration across V60, Chemex, Kalita, and Origami. Espresso, milk, and pour over together — that is the methodology trilogy for a complete home barista.
+
 {{< faq >}}{{< /faq >}}

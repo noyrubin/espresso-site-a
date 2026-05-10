@@ -180,6 +180,9 @@ Once you can pull consistent shots, the next steps are:
 - **[Cold Brew vs Espresso](/guides/cold-brew-vs-espresso/)** - How cold brew and espresso compare in flavor, caffeine, and brewing method
 - **[What Is a Frappé?](/guides/what-is-a-frappe/)** - Greek frappé, Starbucks Frappuccino, and French café frappé — three completely different drinks that share the name
 - **[Pour Over vs Espresso](/guides/pour-over-vs-espresso/)** - How manual brewing methods (pour over, French press) compare to espresso
+- **[Pour Over Coffee Technique](/guides/pour-over-technique/)** - The methodology pillar for pour over: the 4 knobs (ratio, grind, time, pour pattern), diagnostic table, 4-phase pour protocol, and the 30-day calibration plan
+- **[How to Dial In Espresso](/guides/how-to-dial-in-espresso/)** - The methodology pillar for espresso: 4 levers, the 4-shot dial-in protocol, reading taste, reading the puck, and equipment-specific tips
+- **[Milk Steaming Techniques](/guides/milk-steaming-techniques/)** - The methodology pillar for the milk side: the microfoam diagnostic matrix, the 3-phase steaming protocol, and the heart-tulip-rosetta pour progression
 - **[Dirty Chai Latte Recipe](/recipes/dirty-chai-latte-recipe/)** - Espresso meets spiced chai — one of the most popular café drinks to make at home
 - **[Caramel Macchiato Recipe](/recipes/caramel-macchiato-recipe/)** - Vanilla syrup, espresso on top, caramel drizzle — better than Starbucks
 - **[How to Make a Flat White](/guides/how-to-make-a-flat-white/)** - The Australian-born espresso drink that's smaller and stronger than a latte
