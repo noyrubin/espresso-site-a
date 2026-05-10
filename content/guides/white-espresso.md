@@ -177,3 +177,4 @@ Yes, but check your grinder first. White coffee beans are very hard and can dama
 - [Espresso Beans vs Coffee Beans](/guides/espresso-beans-vs-coffee-beans/) — how roast level shapes espresso flavor
 - [Espresso Grind Size Guide](/guides/espresso-grind-size-guide/) — understanding how grind affects your shot
 - [How to Make a Latte](/guides/how-to-make-a-latte/) — white espresso works well in milk drinks
+- [How to Descale Your Espresso Machine](/guides/how-to-descale-espresso-machine/) — pulling unusual roasts (white, ultra-light, decaf) doesn't change the maintenance schedule; scale builds from your water, not your beans

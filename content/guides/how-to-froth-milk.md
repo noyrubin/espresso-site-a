@@ -221,3 +221,5 @@ A: You need real microfoam — silky and glossy, not fluffy. This requires a ste
 ---
 
 Ready to use your frothed milk? Try it in a [classic cappuccino](/guides/how-to-make-cappuccino/), a [flat white](/guides/how-to-make-a-flat-white/), or a [cortado](/guides/cortado-coffee/). For foam-forward variations of the cappuccino, see our [wet vs dry cappuccino guide](/guides/wet-vs-dry-cappuccino/) — same milk, different texturing technique. For cold drinks, our [iced cappuccino recipe](/recipes/iced-cappuccino-recipe/) covers cold-frothing for a foam-topped iced drink.
+
+If you steam milk regularly with an espresso machine, the steam wand and the boiler both need scheduled care: wipe and purge the wand after every pitcher, and [descale your espresso machine](/guides/how-to-descale-espresso-machine/) every 1–3 months depending on water hardness. Scaled boilers lose steam pressure first, which is the most common cause of milk that swirls but won't foam — even with perfect technique.
