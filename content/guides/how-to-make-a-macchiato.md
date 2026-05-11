@@ -175,6 +175,7 @@ See our [macchiato vs latte comparison](/guides/macchiato-vs-latte/) for a full 
 **For both:**
 - Fresh espresso makes a significant difference. Dial in your [grind size](/guides/espresso-grind-size-guide/) and use freshly roasted beans.
 - Temperature matters. Both drinks are served immediately after assembly.
+- Macchiatos are too small for full latte art patterns — the milk surface is a teaspoon spot, not a canvas. If pour patterns are the goal, [latte art](/guides/latte-art/) is much easier on cappuccinos and flat whites where the milk surface is wider.
 
 ---
 

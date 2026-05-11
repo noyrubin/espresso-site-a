@@ -185,7 +185,7 @@ A rosetta is a leaf — multiple curved leaflets pointing toward the back of the
 
 ### Stage 4: The Swan, Tulip-Rosetta Hybrid, etc.
 
-These are advanced patterns built from combinations of heart, tulip, and rosetta motions. By the time you can pour them you will know how — and at that level, this guide has nothing to add.
+These are advanced patterns built from combinations of heart, tulip, and rosetta motions. The full pour mechanics for every common pattern — heart, tulip, rosetta, swan — with cup angle, pour height, pour speed, and wiggle frequency for each, plus a per-pattern diagnostic table, live in the [latte art deep-dive guide](/guides/latte-art/). This guide produces the milk; that one teaches the pour.
 
 ---
 

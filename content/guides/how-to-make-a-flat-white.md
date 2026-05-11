@@ -367,3 +367,4 @@ Starbucks uses 2% milk as their standard for the flat white, steamed to a velvet
 - [How to Make a Cappuccino](/guides/how-to-make-a-cappuccino/) — learn the cappuccino for comparison
 - [Espresso Grind Size Guide](/guides/espresso-grind-size-guide/) — dial in your shot before tackling milk drinks
 - [How to Descale Your Espresso Machine](/guides/how-to-descale-espresso-machine/) — flat whites depend on stable steam pressure; descaling on schedule is what keeps the wand performing
+- [Latte Art: Heart, Tulip, Rosetta, and Swan](/guides/latte-art/) — the flat white is one of the easiest drinks to pour patterns into (small surface, dense microfoam); pour mechanics for every common pattern
