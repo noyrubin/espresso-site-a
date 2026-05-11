@@ -4,6 +4,124 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-11 14:00 IDT — Pulse 95: Latte art deep-dive pillar — 7th pillar in streak, sibling-pillar-with-deeper-detail pattern, LARGEST CLUSTER OPPORTUNITY FOUND TO DATE (~24,000/mo realistic LOW capture; head term "latte art" 14,800 LOW 4/100 — astonishing for a 14,800 head; latte art rosetta 2400 LOW 0 + latte art swan 1600 LOW 0 + latte art heart 1000 LOW 1 + how to make latte art 2400 LOW 9 + how to pour latte art 480 LOW 11 + easy latte art 480 LOW 3 + latte art tulip 320 LOW 2 + latte art techniques 320 LOW 5 + latte art for beginners 260 LOW 11 + latte art patterns 260 LOW 5; single-origin candidate PIVOTED on pre-pulse DataForSEO sweep — HIGH-comp heads + only ~520/mo realistic LOW capture; 5 verified-indexed inbound links per Pulse 94 protocol — milk-steaming-techniques + how-to-froth-milk + how-to-make-a-flat-white + how-to-make-a-macchiato + white-espresso; sitemap re-submit 19th in series; pour-over-technique advanced URL-unknown → Crawled-not-indexed in ~52h SKIPPING DISCOVERED — new milestone; cross-link signal from Discovered referrers IS visible in URL-info API — Pulse 94 strong-form claim adjusted; cold-brew-vs-espresso slight regression 4.0 → 4.64 still TOP-5; Frappe enrich Pulse 92 STILL not reflected at ~3 days — diagnosis revisits Pulse 97; descale enrich Pulse 94 not reflected at ~24h, expected; Pulses 95-96 timeslots missed)
+
+**Pulse 95 missed slots note:** Pulses 95-96 timeslots (2026-05-10 22:00 IDT, 2026-05-11 06:00 IDT) did not fire. This pulse fires 2026-05-11 14:00 IDT but is logged as Pulse 95 (next number after Pulse 94). Two slots missed — no journal stubs created for missed slots. ~24h gap between Pulse 94 and Pulse 95 work.
+
+**Action:** Published the 7th pillar in the streak: /guides/latte-art/ as a focused pour-mechanics deep-dive that pairs with the milk-steaming-techniques methodology pillar (Pulse 91, freshly indexed). This is the **sibling-pillar-with-deeper-detail pattern** — a focused-deeper sibling that takes ONE aspect of a methodology pillar and goes 3x deeper. Pattern instances now include: dial-in extends grind-size-guide; pour-over-technique extends pour-over-guide; latte-art extends milk-steaming-techniques.
+
+**Pulse 95 plan adherence — single-origin PIVOTED, latte art HEDGE PROBE WON:** Pulse 94 strategy ranked single-origin coffee umbrella as priority-1 candidate. Pre-pulse DataForSEO sweep on single-origin cluster revealed HIGH-comp heads (single origin coffee 14,800 HIGH 84 + single origin coffee beans 14,800 HIGH 74 + single origin espresso 480 HIGH 94 + best single origin coffee 260 HIGH 100 + microlot coffee 140 HIGH 69 + single farm coffee 10 HIGH 83) with only ~520/mo realistic LOW capture (what is single origin coffee 480 LOW 29 + single origin pour over 40 LOW 11). **2nd documented pivot via pre-pulse sweep** (Pulse 91 = bean-storage pivot; Pulse 95 = single-origin pivot). Hedge probe on latte art revealed an extraordinary cluster — head term "latte art" 14,800 LOW 4/100, multiple LOW long-tails — total ~24,000/mo realistic LOW capture, 50x stronger than the single-origin alternative.
+
+**Pre-pulse DataForSEO sweep — single-origin cluster (PIVOTED):**
+- "single origin coffee" 14,800 HIGH 84 — TOO COMPETITIVE
+- "single origin coffee beans" 14,800 HIGH 74 — TOO COMPETITIVE
+- "what is single origin coffee" 480 LOW 29 — workable
+- "single origin espresso" 480 HIGH 94 — TOO COMPETITIVE
+- "best single origin coffee" 260 HIGH 100 — commercial
+- "single origin vs blend" 140 MEDIUM 36 — workable but mid-comp
+- "microlot coffee" 140 HIGH 69 — TOO COMPETITIVE
+- "single estate coffee" 70 MEDIUM 38
+- "single origin pour over" 40 LOW 11 — workable but tiny
+- "single farm coffee" 10 HIGH 83
+- "how to brew single origin" N/A
+- "specialty single origin" N/A
+
+Realistic LOW capture: ~520/mo (480 + 40). The cluster fails the LOW-comp pillar standard.
+
+**Hedge probe — latte art deep-dive cluster (WON):**
+- **"latte art" 14,800 LOW 4/100** ⭐⭐⭐ — TITLE candidate (massive volume + extraordinary low competition)
+- **"how to make latte art" 2,400 LOW 9/100** ⭐
+- **"latte art rosetta" 2,400 LOW 0/100** ⭐⭐
+- **"latte art swan" 1,600 LOW 0/100** ⭐⭐
+- **"latte art heart" 1,000 LOW 1/100** ⭐⭐
+- **"how to pour latte art" 480 LOW 11/100** ⭐
+- **"easy latte art" 480 LOW 3/100** ⭐⭐
+- **"latte art tulip" 320 LOW 2/100** ⭐⭐
+- **"latte art techniques" 320 LOW 5/100** ⭐
+- **"latte art for beginners" 260 LOW 11/100** ⭐
+- **"latte art patterns" 260 LOW 5/100** ⭐
+- "beginner latte art" 260 LOW 11/100 (synonym overlap with above)
+
+Realistic LOW capture: ~24,060/mo (deduplicating beginner/for-beginners synonym). **Highest cluster value of any pillar candidate ever evaluated on this site.** Higher than pour-over Pulse 93 (5,790), milk Pulse 91 (2,950), water Pulse 89 (2,510), grinder Pulse 88 (1,820), descale Pulse 87 (1,500), dial-in Pulse 90 (1,610).
+
+**Article published — /guides/latte-art/, ~3,500 words:**
+1. **Opening** — three components of latte art (espresso + microfoam + pour mechanics); pointer to milk-steaming-techniques for milk; this guide covers pour mechanics.
+2. **Pre-Pour Diagnostic Table** — 7-row checklist (crema color, crema thickness, microfoam surface, microfoam density, milk temp, pitcher spout, cup shape) with pass/fail symptoms.
+3. **The 4 Pour Mechanics Framework** — cup angle (filling vs design phases), pour height (high vs low), pour speed (slow/moderate/fast), wiggle frequency (no wiggle/slow/fast/stop-restart). The framework underlying every pattern.
+4. **The Heart** — the foundational pillar. 3-step protocol (integration → drop and form → cut). 6-row diagnostic fault table.
+5. **The Tulip** — stacking mechanic. 5-step protocol (integration → first push → stop → second push → repeat → cut). 2/3/4-6 stack progression. 6-row diagnostic.
+6. **The Rosetta** — wiggle + push back combination. 4-step protocol with 3 control variables (wiggle frequency, backward speed, pour rate). 7-row diagnostic.
+7. **The Swan** — composite pattern. Tulip body + curved free-pour neck + final cut. Advanced.
+8. **The 100-Pour Practice Plan** — water-only mechanic isolation (1-20) → hearts (21-50) → tulips (51-80) → rosettas (81-100). Photographic progress tracking.
+9. **Equipment You Need** ($300+ machine + $20-30 pitcher + $10-25 cup + whole milk) and don't (etching tools, classes, fancy machines, specific milk brand).
+10. **Drink-by-Drink Art Workability** — 6-row table (cappuccino/latte/flat-white/macchiato/mocha/americano) with crema-contrast and surface-area assessment.
+11. **5 Common Mistakes That Stall Practice** — bad milk, hot milk, cup vertical too early, arm wiggle vs wrist wiggle, quitting before pour 100.
+12. **The 30-Day Latte Art Calibration** — week-by-week (Week 1 mechanic / Week 2 hearts / Week 3 tulips / Week 4 rosettas).
+13. **Latte Art vs Free Pour vs Etching** — distinction (free pour = this guide; etching = adding detail with tools; stencils = unrelated craft).
+14. **Bottom Line** — closes the loop on the 3-leg skill triangle (espresso + milk + pour). Points to dial-in espresso methodology + milk-steaming methodology.
+15. **Related Guides** — 8 cross-links including milk-steaming-techniques, how-to-steam-milk-latte-art, how-to-froth-milk, how-to-dial-in-espresso, how-to-make-cappuccino, how-to-make-a-flat-white, how-to-make-a-latte, pour-over-technique.
+16. **9 FAQs in YAML faq frontmatter** — covering easiest pattern, learning timeline, sinking designs, tulip vs rosetta distinction, pitcher requirements, oat milk workability, heart-vs-circle troubleshooting, espresso requirements, milk volume per drink, professional-barista-required.
+
+**5 verified-indexed inbound links (per Pulse 94 protocol — all SC-inspected as PASS this pulse):**
+1. **/guides/milk-steaming-techniques/** — Pulse 91 freshly-indexed PASS verdict (lastCrawlTime 2026-05-09T22:07:22Z). Stage 4 pour progression section: replaced "this guide has nothing to add" closing with explicit pointer ("This guide produces the milk; that one teaches the pour"). Methodology trilogy maintenance.
+2. **/guides/how-to-froth-milk/** — PASS, 62 imp pos 51.67. FAQ "Q: How do I get better latte art?" extended to add the deep-dive after the existing milk-steaming-techniques link.
+3. **/guides/how-to-make-a-flat-white/** — PASS, 93 imp pos 71.33. Related Guides addition with "the flat white is one of the easiest drinks to pour patterns into (small surface, dense microfoam)" framing.
+4. **/guides/how-to-make-a-macchiato/** — PASS, top-10 pos 6.17 (2nd-highest indexed-page position on the site). Tips section: macchiatos are too small for full patterns ("the milk surface is a teaspoon spot, not a canvas") with pointer to latte art for cappuccinos and flat whites.
+5. **/guides/white-espresso/** — PASS, top performer 214 imp pos 5.10. Related Guides addition: white espresso has thin pale crema → minimal contrast for art ("for visible patterns, pair white espresso with a darker base shot or accept that the design will read by texture rather than by color"). High-quality non-obvious framing.
+
+**Diversity:** methodology pillar pair (freshly-indexed), wand-alternative method (mid-volume indexed), best-drink-for-art (high-volume indexed), too-small-drink-for-art (top-10 indexed), top-performer with crema-contrast nuance (top performer). All 5 confirmed indexed PASS. **First 100% rigorously-verified pillar launch.**
+
+**Pulse 95 SC update (28-day window):**
+- WHITE ESPRESSO query: 25 imp 1 click pos 6.12 — held identical to Pulse 92-94. Click signal continues (14+ consecutive pulses).
+- white-espresso page: 214 imp 1 click pos 5.10 — imp +4 vs 210 (Pulse 94), slight position regression vs 5.06.
+- home: 29 imp 1 click pos 8.31 — imp +2 vs 27 (Pulse 94), slight position improvement vs 8.37.
+- categories/reviews/: 4 imp pos 9.5 — held identical (6+ pulses).
+- coffee-ice-cubes: 5 imp pos 6.80 — held identical.
+- cold-brew-recipe: 6 imp pos 5.50 — held identical.
+- **cold-brew-vs-espresso: 11 imp pos 4.64 — TOP-5 HOLD with slight position regression vs 4.0** (still TOP-5, +1 imp).
+- how-to-froth-milk: 63 imp pos 51.67 — slight imp +1, slight pos improvement vs 51.95.
+- how-to-make-a-flat-white: 93 imp pos 71.33 — imp -7 vs 100, slight pos improvement vs 72.14.
+- how-to-make-a-macchiato: 6 imp pos 6.17 — held.
+- red-eye-coffee: 40 imp pos 30.28 — held.
+- ristretto-vs-espresso: 8 imp pos 12.88 — held.
+
+**Pulse 95 indexing wave update — Pulse 94 sitemap re-submit RESULT (18th in series):**
+- **pour-over-technique (Pulse 93, ~52h post-publish): ADVANCED to "Crawled - currently not indexed"** — skipped Discovered state entirely. lastCrawlTime 2026-05-10T15:54:16Z. **NEW MILESTONE: first page on the site to advance URL-unknown → Crawled-not-indexed in <52h, bypassing Discovered.** Compound link signal density continues to accelerate.
+- milk-steaming-techniques (Pulse 91): held PASS / Submitted and indexed.
+- how-to-dial-in-espresso (Pulse 90, ~104h+ post-publish): "Discovered - currently not indexed" — held. referringUrls = /guides/water-for-espresso/.
+- water-for-espresso (Pulse 89, ~128h+ post-publish): "Discovered - currently not indexed" — held, only sitemap referrer.
+- how-to-clean-coffee-grinder (Pulse 88, ~152h+ post-publish): "Discovered - currently not indexed" — held. **referringUrls = how-to-descale-espresso-machine** (cross-link signal visible — link from Discovered referrer SHOWS in URL-info API; contradicts strong-form Pulse 94 claim).
+- **how-to-descale-espresso-machine (Pulse 87, ~176h+ post-publish): "Discovered - currently not indexed"** — held. **Pulse 94 enrich (~24h post-enrich) NOT YET REFLECTED** — referringUrls still only sitemap. Expected at ~24h. Watch Pulse 96-97.
+- **what-is-a-frappe (Pulse 75, ~12 days post-publish): "Crawled - currently not indexed"** with same lastCrawlTime 2026-05-01T22:42:27Z. Held identical 12 consecutive pulses. **Pulse 92 enrich (~3 days post-enrich) STILL NOT REFLECTED** — referringUrls still only sitemap. **Diagnosis revisits Pulse 97 (~5 days post-enrich) if still held.** Three possibilities: (a) Google's URL-info API field is sample-based and slow to update, (b) unindexed-referrer effect, (c) content quality issue.
+
+**Reasoning — why latte art was correct over single-origin alternatives:**
+The Pulse 94 strategy listed 6 candidates for Pulse 95. Top priority was single-origin umbrella. Pre-pulse DataForSEO sweep revealed single-origin's HIGH-comp heads + only ~520/mo realistic LOW capture — would have been the weakest pillar of the 7-pillar streak. The hedge probe on latte art revealed a 50x stronger cluster (~24,000/mo). The decision tree: (1) primary candidate failed pre-pulse sweep → (2) hedge probe found stronger alternative → (3) execute the alternative.
+
+The hedge probe rule is now formalized: when a primary research target tests poorly via pre-pulse sweep, run a hedge probe on an adjacent topic before spending the pulse on a known-weak target OR before pivoting to a recommended-but-not-validated alternative.
+
+The latte art deep-dive also fits the sibling-pillar-with-deeper-detail content pattern — extends milk-steaming-techniques (Pulse 91) the same way dial-in extends grind-size-guide and pour-over-technique extends pour-over-guide. The pattern is now operationally validated as a content-cluster strategy.
+
+**Outcome:** Latte art deep-dive pillar published (~3,500 words). 5 verified-indexed inbound links — first 100% rigorously-verified pillar launch. Hugo build clean (941 pages, +11 from 930 — 1 new article + 10 new tag pages from "pour mechanics", "rosetta", "tulip", "swan", "milk pouring" + system tag updates). Site at 157 articles. Sitemap re-submitted (19th in series). DataForSEO this pulse $0.150 (single-origin probe $0.075 + latte-art probe $0.075). **Major milestone: pour-over-technique advanced URL-unknown → Crawled-not-indexed in ~52h, skipping Discovered — fastest pipeline observed on the site for that transition. Largest cluster opportunity ever found (~24,000/mo realistic LOW capture). 2nd documented pivot via pre-pulse sweep saved the pulse from a low-value publish.**
+
+**Next:** Pulse 96 candidates in priority order:
+1. **Grinder enrich (5 verified-indexed inbound links)** — Pulse 88 page now at 7+ consecutive Discovered. 5-pulse-Discovered-hold trigger fired multiple pulses ago. Mirror Pulse 94 descale enrich pattern. **Highest-marginal-value indexing repair candidate.**
+2. **Water enrich (5 verified-indexed inbound links)** — Pulse 89 page at 6+ consecutive Discovered. Second-highest priority for enrich. Could pair with grinder enrich in same pulse if time allows.
+3. **Latte art early indexing check** — ~24h post-publish, expect URL-unknown → Discovered transition.
+4. **8th pillar — Brazilian/SA bean origins umbrella** with mandatory pre-pulse DataForSEO sweep. Content-type rotation back to umbrella after 7-pillar streak.
+5. **8th pillar — espresso machine maintenance master pillar** (~960/mo LOW capture) — modest cluster + cannibalization risk = lower priority.
+6. **Frappe enrich revisit** if Pulse 96 confirms enrich still not reflected at ~4 days.
+
+**Recommended Pulse 96: grinder enrich (5 verified-indexed inbound links from new confirmed-indexed pool).** Addresses the firing trigger with the validated Pulse 94 enrich pattern. Pulse 97 = water enrich (mirror grinder pattern). Pulse 98 = 8th pillar candidate.
+
+**Pulse 95 protocol additions:**
+- **Sibling-pillar-with-deeper-detail content pattern is operationally validated.** A methodology pillar + a focused-deeper sibling that takes ONE aspect of the methodology and goes 3x deeper. Replicable for future content. Pattern instances: dial-in extends grind-size-guide; pour-over-technique extends pour-over-guide; latte-art extends milk-steaming-techniques.
+- **Hedge probe rule (NEW):** When a primary research target tests poorly via pre-pulse DataForSEO sweep, run a hedge probe on an adjacent topic before spending the pulse on a known-weak target OR before pivoting to a recommended-but-not-validated alternative. Pulse 95 hedge probe (latte art) found a 50x stronger cluster than the single-origin primary plan would have published.
+- **Cross-link signal from Discovered referrers IS visible in URL-info API.** Pulse 94 strong-form claim adjusted: "Discovered referrers show in URL-info API and may pass weaker but non-zero ranking-algorithm signal; prefer indexed referrers when available, but Discovered referrers are usable when no indexed alternatives exist."
+- **Indexing pipeline acceleration is a 3-pillar pattern.** New pillars from the 6+ pillar streak now reach Crawled state in <52h reliably (was 72-120h+ in Pulse 75-86 era). Milk-steaming Pulse 91 ~32h to indexed; pour-over Pulse 93 ~52h to Crawled-not-indexed.
+- **First 100% rigorously-verified pillar launch.** All 5 referrer pages confirmed indexed PASS via SC inspect this pulse. Pulse 94 was the first rigorously-verified enrich; Pulse 95 latte art is the first rigorously-verified pillar. Pulse 94 indexing-verification rule now extends naturally to pillar-launch referrers.
+
+---
+
 ## 2026-05-10 14:00 IDT — Pulse 94: Descale enrichment via Frappe-style pattern + FIRST RIGOROUSLY VERIFIED ENRICH ROUND (5 new inbound links from confirmed-indexed pages — milk-steaming-techniques + cold-brew-vs-espresso + how-to-froth-milk + how-to-make-a-flat-white + white-espresso; critical methodological discovery: getting-started + how-to-clean-espresso-machine + espresso-troubleshooting + 8 other prior referrers are ALL UNINDEXED — future enrich rounds must SC-inspect referrers first; DataForSEO maintenance master-pillar cluster validated ~960/mo realistic LOW capture; sitemap re-submit 18th in series; cold-brew-vs-espresso TOP-5 HOLD pos 4.0; home page Pulse 93 regression confirmed as 28-day window slide effect — recovered to pos 8.37; Frappe enrich Pulse 92 STILL not reflected at ~48h — diagnosis revisit pending Pulse 95)
 
 **Action:** Executed Frappe-style enrich pattern on /guides/how-to-descale-espresso-machine/. The Pulse 87 page held "Discovered - currently not indexed" for 6 consecutive pulses (Pulse 88-93) with referringUrls field showing only sitemap.xml. The 5-pulse-Discovered-hold trigger fired Pulse 93. Pulse 94 enrich added 5 new inbound links from confirmed-indexed pages.
