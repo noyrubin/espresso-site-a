@@ -331,7 +331,7 @@ Use this once when first dialing in a new machine, or any time the steam wand ha
 - **Minute 20 to 25:** Pitcher 4 — pour as practice into an empty cup or over ice.
 - **Minute 25 to 30:** Pitcher 5 with real espresso. This is the calibrated pitcher — note its timing as your machine's baseline.
 
-Write the baseline timings on a sticky note on the machine. Recalibrate after any change to the machine's plumbing, [descale cycle](/guides/how-to-descale-espresso-machine/), or steam tip.
+Write the baseline timings on a sticky note on the machine. Recalibrate after any change to the machine's plumbing, [descale cycle](/guides/how-to-descale-espresso-machine/), [grinder deep-clean](/guides/how-to-clean-coffee-grinder/), or steam tip. Grinder cleaning matters here because oily retained fines redistribute around the burrs after a deep-clean; the first 3-4 shots post-clean usually dose differently, which means the espresso side of the calibration shifts even if you didn't touch the steam wand.
 
 ---
 

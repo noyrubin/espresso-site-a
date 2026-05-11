@@ -192,7 +192,7 @@ The key difference: an [americano](/guides/americano-vs-long-black/) is espresso
 
 ## Red Eye Coffee Tips
 
-**Use quality beans.** The espresso component concentrates flavor, so low-quality beans show up clearly in a red eye. Use freshly roasted, freshly ground beans for best results.
+**Use quality beans — and a clean grinder.** The espresso component concentrates flavor, so low-quality beans show up clearly in a red eye. Use freshly roasted, freshly ground beans for best results. Red eye is unique in that you're tasting both brewed coffee and espresso side by side in the same cup, which means any stale-grinder rancidity in the espresso shot becomes very obvious against the cleaner brewed-coffee baseline. If your red eye has tasted "off" lately and your drip coffee tastes fine alone, the grinder is almost always the culprit — see [how to clean your coffee grinder](/guides/how-to-clean-coffee-grinder/) for the deep-clean protocol.
 
 **Keep both components hot.** Cold drip coffee will cool the espresso fast. Brew both close together and drink promptly.
 

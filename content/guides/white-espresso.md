@@ -178,4 +178,5 @@ Yes, but check your grinder first. White coffee beans are very hard and can dama
 - [Espresso Grind Size Guide](/guides/espresso-grind-size-guide/) — understanding how grind affects your shot
 - [How to Make a Latte](/guides/how-to-make-a-latte/) — white espresso works well in milk drinks
 - [How to Descale Your Espresso Machine](/guides/how-to-descale-espresso-machine/) — pulling unusual roasts (white, ultra-light, decaf) doesn't change the maintenance schedule; scale builds from your water, not your beans
+- [How to Clean Your Coffee Grinder](/guides/how-to-clean-coffee-grinder/) — white coffee beans are exceptionally hard on burrs and leave dense fines behind; if you grind white espresso, your grinder needs cleaning twice as often as one running standard roasts, and the deep-clean interval drops from every 1-2 months to roughly every 2-3 weeks
 - [Latte Art: Heart, Tulip, Rosetta, and Swan](/guides/latte-art/) — white espresso has very thin pale crema, which means latte art has minimal contrast against the milk; for visible patterns, pair white espresso with a darker base shot or accept that the design will read by texture rather than by color
