@@ -1,6 +1,7 @@
 ---
 title: "What Is a Frappé? Greek, French, and Frappuccino — All Three Explained"
 date: 2026-04-30
+lastmod: 2026-05-12
 description: "A frappé is a cold, shaken or blended coffee drink — but the word covers three completely different drinks: the Greek frappé (instant coffee foam, 1957), the French café frappé (broader iced-shaken category), and the Starbucks Frappuccino (blended ice drink, 1995). Here's exactly what each one is."
 tags: ["frappe", "what is a frappe", "frappuccino", "greek frappe", "iced coffee", "guides"]
 categories: ["guides"]
@@ -265,6 +266,20 @@ For more international iced coffee styles (Vietnamese, Thai, Cuban), see our [Gr
 ### In a French or Quebecois café
 - **"Un café frappé"** — usually a shaken or chilled espresso. Confirm method if it matters.
 - **"Café glacé"** — increasingly common alternative term for iced coffee in modern France.
+
+---
+
+## The Espresso Pivot: How Freddo Replaced Frappé in Modern Greek Cafés
+
+There is a generational story embedded in modern Greek café culture that most non-Greek frappé articles miss entirely. Between roughly 1957 and the early 2000s, the frappé *was* the Greek café drink — instant coffee, shaken, foamed, served sketos (no sugar), metrios (medium), or glykos (sweet). Then, starting in the late 2000s and accelerating through the 2010s, a competitor took over the under-30 crowd: the **freddo** — a shaken or whipped cold *espresso*, not an instant-coffee drink. By the mid-2010s, walking into a café in Athens, Thessaloniki, or Heraklion and ordering a frappé was a tell that you were over forty, a tourist, or both.
+
+The pivot happened because Greek café equipment quietly upgraded. From the 2000s onward, even neighborhood kafenia installed proper espresso machines — the gear required to pull a real shot. With real espresso suddenly available everywhere, the same culture that had invented the cold-shaken frappé applied the same shake technique to espresso. The result was the **freddo espresso** (a double shot shaken with ice cubes in a metal shaker, strained over fresh ice) and the **freddo cappuccino** (the same shaken shot topped with cold-foamed milk called *afrogala*, made on the steam wand with cold milk and no purge). The drink is recognizably Greek — same metal shaker, same ice-cube shake, same sketos/metrios/glykos sugar grammar — but the coffee base shifted from spray-dried Nescafé to a proper [espresso shot](/guides/what-is-espresso/).
+
+This matters for the home barista because it tells you what to make if you want the authentic modern Greek café experience at home rather than the 1957 version. A freddo espresso needs the same equipment as a normal home espresso setup: a machine, a grinder, fresh beans, decent water. The only new variable is the shake — a few seconds of vigorous shaking with ice cubes inside a metal cocktail shaker (Boston shaker style) until the espresso is fully cold and slightly aerated, then strained over fresh ice. The shaken espresso ends up colder, drier, and crisper than [iced espresso poured directly over ice](/recipes/iced-latte-recipe/), which dilutes as it cools. For the afrogala on a freddo cappuccino, the technique is closer to [cold foam](/guides/how-to-make-cold-foam/) than to traditional steamed microfoam — you want a dense, glossy, ice-cold milk foam that floats on the espresso rather than integrating with it.
+
+The frappé did not vanish. Every Greek café still serves it; older Greeks still order it daily; tourists still associate it with Greece because it is the drink in every guidebook. But the freddo is what most Greeks under forty actually drink. The cultural meaning of choosing frappé over freddo in modern Greece is roughly the same as the cultural meaning of choosing drip coffee over a flat white in a third-wave American café — one signals nostalgia and unpretentiousness, the other signals you take coffee seriously. Both are valid. They coexist on the same menu. But the espresso machine quietly displaced the Nescafé jar as the center of the Greek café in a way that recipe blogs almost never describe.
+
+If you want to bridge from a frappé routine into a more espresso-forward iced-coffee practice, the lowest-effort entry points are the freddo espresso (a shaken double-shot over ice) and a basic [iced latte](/recipes/iced-latte-recipe/). From there the more ambitious cold drinks open up — [cold brew vs espresso](/guides/cold-brew-vs-espresso/) lays out which technique suits which drink, and [how to make iced coffee](/guides/how-to-make-iced-coffee/) covers the broader iced-coffee category.
 
 ---
 

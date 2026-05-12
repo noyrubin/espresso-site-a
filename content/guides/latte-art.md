@@ -43,6 +43,7 @@ Before you pour, check these — they predict whether the design will work befor
 |---|---|---|
 | Crema color | Tiger-striped reddish-brown, opaque | Pale, thin, transparent — milk will not contrast |
 | Crema thickness | 2–3 mm | Under 1 mm — design sinks immediately |
+| Water quality | Soft to mid-mineral (75–150 mg/L TDS) — see [water for espresso](/guides/water-for-espresso/) | Hard water (>200 mg/L TDS) — crema reads thinner and breaks faster, designs lose contrast even with perfect milk |
 | Microfoam surface | Glossy, mirror-like, no visible bubbles | Matte, bubbly — design has white blotches |
 | Microfoam density | Mounds slightly when poured back into pitcher | Runs flat — too thin, will plummet through crema |
 | Milk temperature | 140–155°F (60–68°C) | Under 140°F — design sinks |

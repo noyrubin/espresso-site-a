@@ -68,6 +68,8 @@ For most home coffee uses, 1:1 is the standard. It's lighter, easier to measure,
 
 **Pro tip:** Use a clean glass jar — plastic can absorb flavors from previous syrups, especially after making lavender or hazelnut versions.
 
+**Pro tip on water:** The water you make simple syrup with matters more than most home recipes admit. Hard tap water (over 200 mg/L TDS) adds a faint mineral background that sits underneath the sweetness and is especially noticeable in clean-flavor syrups like vanilla and lavender. Heavily chlorinated tap water adds a sharper off-note that lingers in the finish. Use filtered, bottled (Volvic, Crystal Geyser), or remineralized RO water — the same water you would use for [your espresso](/guides/water-for-espresso/) — and the syrup tastes noticeably cleaner. Distilled-only works for syrup (unlike for espresso) because you are dissolving sugar, not extracting flavor compounds from coffee.
+
 ---
 
 ## 5 Coffee Syrups to Make at Home
