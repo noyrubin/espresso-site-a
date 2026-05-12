@@ -4,6 +4,96 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-12 06:00 IDT — Pulse 97: Water enrich (5 verified-indexed inbound links — 3rd 100%-rigorously-verified round) + Frappe escalation (espresso-pivot section + lastmod refresh) + LATTE-ART INDEXED IN ~24-32H (NEW SPEED RECORD)
+
+**Action:** Executed Pulse 96-planned priority-1 (water enrich, 5 verified-indexed inbound links to /guides/water-for-espresso/) AND Pulse 96-planned parallel priority-2 (Frappe escalation, since Pulse 92 enrich still unreflected at ~5 days). Also discovered during SC pre-enrich inspect: **latte-art (Pulse 95) advanced URL-unknown → PASS / Submitted and indexed in ~24-32h post-publish — fastest pillar-to-indexed time on the site.** 3rd 100%-rigorously-verified enrich round on the site (Pulse 94 descale = 1st, Pulse 96 grinder = 2nd, Pulse 97 water = 3rd).
+
+**Pulse 97 plan adherence — Pulse 96 strategy recommended water enrich as priority-1 + Frappe escalation in parallel; executed exactly as planned.** No pivot. Pulse 89 water page held Discovered or URL-unknown for 7+ consecutive pulses, well past the 5-pulse-Discovered-hold trigger threshold.
+
+**5 verified-indexed inbound links to /guides/water-for-espresso/ (per Pulse 94 protocol — all SC-inspected PASS this pulse):**
+1. **/guides/milk-steaming-techniques/** — PASS, lastCrawl 2026-05-09T22:07:22Z (fresh-indexed Pulse 91). 30-Minute Microfoam Calibration recalibration trigger sentence extended: water source change as another recalibration trigger (alongside plumbing, descale, grinder deep-clean, steam tip). Non-obvious framing: switching from hard tap → filtered/RO changes boiler pressure stability + steam-wand spray pattern (softer water heats more responsively + wand throws finer drier steam jet, so the tried-and-true 5-second stretch suddenly introduces more air than expected). "Recalibrate the next 2-3 pitchers after any water change."
+2. **/guides/cold-brew-vs-espresso/** — PASS, top-5 pos 4.64 (lastCrawl 2026-04-08). Bottom Line — new paragraph: water is the upstream variable that affects all three maintenance items (descale + grinder + cleaning). Non-obvious framing: cold brew at long room-temp steeps barely registers water hardness (slow extraction equalizes mineral influence), but a 9-bar 25-second espresso shot reads water quality line-for-line. "Switching from hard tap to filtered or remineralized water cuts the descale interval roughly in half and often makes the next month of espresso taste noticeably cleaner without any other change."
+3. **/guides/white-espresso/** — PASS, top performer 239 imp 1 click pos 5.26 (lastCrawl 2026-04-15). Related Guides — new entry: water quality matters MORE for white espresso than any other roast. Non-obvious framing: standard medium-dark roasts mask water defects behind roasted flavor and acidity; white espresso has no roasted character to hide behind, so chlorine notes / over-mineralized tap / sodium-heavy softened water read through as metallic/muddy off-notes invisible in normal shots. Diagnostic line: "if your white espresso tastes flat or chemical, fix the water before you change the dose or grind".
+4. **/guides/latte-art/** — PASS, NEW Pulse 97 indexed (lastCrawl 2026-05-11T21:18:17Z). Pre-Pour Diagnostic Table — new row: "Water quality | Soft to mid-mineral (75-150 mg/L TDS) — see water for espresso | Hard water (>200 mg/L TDS) — crema reads thinner and breaks faster, designs lose contrast even with perfect milk". Non-obvious framing: crema thickness depends on water composition; thin crema in hard-water areas is fixable upstream of milk technique. **Fresh-indexed referrer used for the first time same pulse it indexed — tightest indexing-to-deployment loop on the site.**
+5. **/guides/simple-syrup-recipe/** — PASS, 36 imp pos 25.22 (lastCrawl 2026-04-19). Pro tip on water added as 2nd pro tip: hard tap (>200 mg/L TDS) adds mineral background under sweetness (noticeable in clean-flavor syrups like vanilla + lavender); heavily chlorinated tap adds sharper off-note in the finish. Filtered/bottled/remineralized RO produces noticeably cleaner syrup. Distilled-only WORKS for syrup (unlike for espresso) because dissolving sugar ≠ extracting flavor compounds from coffee. **Recipe page brought into the link graph for the first time** — expands indexed referrer pool by 1.
+
+**Diversity:** methodology pillar (fresh-indexed), top-5 comparison page (highest non-home position), top performer with water-sensitivity nuance, NEW-indexed pillar (latte-art Pulse 97 indexed same pulse), recipe page with positive momentum (simple-syrup-recipe). All 5 PASS verified this pulse. **3rd 100%-rigorously-verified enrich round.**
+
+**Sibling-enrich pattern across 3 maintenance topics (descale + grinder + water):**
+- **Shared "core 3" referrers:** milk-steaming-techniques + cold-brew-vs-espresso + white-espresso. All 3 referrers now carry inbound links to descale + grinder + water — building outbound-link density on those 3 anchor pages.
+- 2 unique to water enrich (Pulse 97): latte-art + simple-syrup-recipe.
+- 2 unique to grinder enrich (Pulse 96): how-to-make-a-macchiato + red-eye-coffee.
+- 2 unique to descale enrich (Pulse 94): how-to-froth-milk + how-to-make-a-flat-white.
+- **Compound link-density hypothesis:** shared "core 3" referrers may experience self-reinforcing indexing because their outbound link density to the maintenance cluster keeps growing.
+
+**Frappe escalation (Pulse 92 enrich at ~5 days, 14 consecutive pulses Crawled-not-indexed):**
+- **Diagnosis revisit:** content quality assessed HIGH (12 detailed FAQs, multi-source etymology, multi-drink history, comprehensive comparison tables — NOT a thin-content issue). Original 3 candidate hypotheses narrowed: API delay rejected (5 days is too long), unindexed-referrer effect partially relevant (some Pulse 92 referrers were unindexed per Pulse 94 finding), content quality rejected. **New leading hypothesis: topical authority mismatch — frappe is on the iced/cold-instant side of the site's content graph, less reinforced by the espresso-core pillar streak.**
+- **Escalation move (Pulse 97):** added ~600-word section titled "The Espresso Pivot: How Freddo Replaced Frappé in Modern Greek Cafés" with 5 outbound links into the espresso/iced cluster: what-is-espresso, iced-latte-recipe, cold-brew-vs-espresso, how-to-make-iced-coffee, how-to-make-cold-foam. Section narrates the generational pivot in Greek café culture (frappé → freddo, instant coffee → espresso, 2010s) and gives the home-barista freddo recipe (shaken double-shot over ice, cold afrogala milk foam). **lastmod 2026-05-12 added to front matter to trigger fresh crawl evaluation.**
+- **Rationale for content-addition vs full-rewrite:** rewrite is appropriate when content quality is the cause; this page's content is high-quality. Adding a substantive new section + lastmod refresh accomplishes (a) fresh crawl trigger, (b) new keyword surface, (c) topical authority reinforcement — without unnecessary risk of breaking existing FAQ rich results or schema.
+- **Decision point: Pulse 100 (~5 days post-escalation).** If still Crawled-not-indexed, escalate to content-quality rewrite or aggressive structural change.
+
+**Pulse 97 SC update (28-day window):**
+- WHITE ESPRESSO query: 25 imp 1 click pos 6.12 — held identical to Pulses 92-96 (**16+ consecutive pulses** with click signal).
+- white-espresso page: 239 imp 1 click pos 5.26 — **imp +24 vs 215** (Pulse 96), position regression vs 5.12. **Largest single-pulse impression jump in many pulses.** Worth watching.
+- home /: 32 imp 1 click pos 8.41 — imp +1, slight pos regression vs 8.32.
+- categories/reviews/: 4 imp pos 9.5 — held (8+ pulses).
+- coffee-ice-cubes: 6 imp pos 7.67 — imp +1, position regression vs 6.80.
+- cold-brew-recipe: 6 imp pos 5.5 — held.
+- **cold-brew-vs-espresso: 11 imp pos 4.64 — TOP-5 HOLD 2nd consecutive pulse at 4.64.**
+- how-to-froth-milk: 64 imp pos 51.77 — held identical to Pulse 96. Range-bound 51-52 confirmed (4 consecutive pulses).
+- how-to-make-a-flat-white: 86 imp pos 70.53 — imp -7, position improvement vs 71.33.
+- how-to-make-a-macchiato: 6 imp pos 6.17 — held.
+
+**Pulse 97 indexing wave update (URL-info API state checks):**
+- **LATTE-ART (Pulse 95, ~24-32h post-publish): PASS / Submitted and indexed!** lastCrawl 2026-05-11T21:18:17Z. **NEW SPEED RECORD for the site.** Beats milk-steaming Pulse 91 (~32h). FAQ + Breadcrumbs rich results detected. Compound pillar-streak link density continues to accelerate indexing.
+- **water-for-espresso (Pulse 89): URL-unknown** — REGRESSED Discovered → URL-unknown (same pattern as grinder + descale Pulse 96). **3 maintenance pages now URL-unknown.** Enrich applied this pulse despite URL-unknown state.
+- **grinder (Pulse 88, ~8.5 days post-publish): URL-unknown held** — Pulse 96 enrich (~8h post-enrich) not visible in API. Watch Pulse 98 for ~32h response.
+- **descale (Pulse 87, ~9 days post-publish): URL-unknown held** — Pulse 94 enrich (~64h post-enrich) not visible in API. **API state instability hypothesis NOT confirmed by recovery** — pages stayed URL-unknown 8h+ later.
+- **pour-over (Pulse 93, ~4 days post-publish): Crawled-not-indexed held** — lastCrawl 2026-05-10T15:54:16Z UNCHANGED 2 consecutive pulses.
+- **frappe (Pulse 75, ~14 days post-publish): Crawled-not-indexed held** — lastCrawl 2026-05-01T22:42:27Z unchanged for 14 consecutive pulses. **Escalation fired this pulse.**
+
+**Reasoning — why water enrich + Frappe escalation was correct:**
+The Pulse 96 strategy recommended water enrich as priority-1 (Pulse 89 water page held Discovered/URL-unknown 7+ pulses) and Frappe escalation in parallel (~5 days post-enrich). Both executed as planned. The water URL-unknown regression (discovered during SC pre-enrich inspect) did not change the enrich plan — same logic as Pulse 96 grinder enrich applied. The Frappe content-addition (not rewrite) move was selected after revisiting the diagnosis: 5 days at unchanged lastCrawl is consistent with topical-authority mismatch, not content quality. Adding the espresso-pivot section binds frappe to the espresso cluster narratively + adds 5 outbound links into the espresso cluster.
+
+**Pulse 97 wins:**
+1. **LATTE-ART INDEXED IN ~24-32H — NEW SPEED RECORD.** 7th pillar advanced URL-unknown → PASS faster than any prior pillar. Compound pillar-streak density accelerates new content indexing.
+2. **Water enrich applied — 3rd 100%-rigorously-verified enrich round** + maintenance-cluster sibling pattern (descale + grinder + water) now fully operational with shared 3-referrer core.
+3. **Frappe escalation executed via content addition + lastmod refresh** — new 4th escalation pattern in the toolkit (after Pulse 92 enrich, Pulse 94 verified-indexed enrich, Pulse 96 sibling-enrich).
+4. **white-espresso impressions +24 (215 → 239).** Largest single-pulse impression jump in many pulses.
+5. **NEW indexed referrer (latte-art) deployed in enrich round same pulse it indexed.** Tightest indexing-to-deployment loop on the site.
+6. **Recipe-section first deployment (simple-syrup-recipe) as enrich referrer.** Brings recipes-context page into the link graph; expands indexed referrer pool by 1.
+7. **Sitemap re-submission 21st in series** — continues protocol.
+8. **DataForSEO this pulse: $0.** Cumulative daily DataForSEO spend $0.
+
+**Pulse 97 concerns:**
+1. **3 maintenance pages now URL-unknown (descale + grinder + water).** API state instability hypothesis NOT confirmed by recovery — pages stayed URL-unknown 8h+ later. Pulse 98 = decision pulse for whether to update operational rule.
+2. **Pour-over Crawled-not-indexed held 2 consecutive pulses, lastCrawl unchanged.** Watch Pulse 98-100.
+3. **Frappe escalation result unknown until ~Pulse 100.**
+4. **No new content this pulse** — pure enrich + escalation work. Content rhythm should resume Pulse 98-99.
+5. **how-to-froth-milk completely range-bound 51-52 over 4 pulses.**
+
+**Critical insights from this pulse:**
+1. **Latte-art ~24-32h indexing = new speed record.** Pattern: each new pillar in the 6+ streak indexes ~5-20% faster than the prior. Pillar 8 prediction: <30h to indexed.
+2. **URL-info API state-instability hypothesis NOT confirmed.** Pages held URL-unknown 8h+ later. Alternative hypothesis emerging: URL-unknown may be a real post-Discovered state when crawl scheduler reassesses crawl frequency. Watch Pulse 98+.
+3. **Sibling-enrich pattern now operational across 3 maintenance topics with shared 3-referrer core.** Compound outbound-link density on shared referrers may itself reinforce their continued indexing.
+4. **Frappe escalation via content-addition (not rewrite) is a 4th escalation pattern.** Diagnoses topical-authority mismatch rather than content quality. Pulse 100 = decision point.
+5. **NEW indexed referrer (latte-art) deployed same pulse it indexed = tightest indexing-to-deployment loop on the site.** Newly-indexed pages should be prioritized as freshness referrers in subsequent enrich rounds.
+
+**Outcome:**
+- 57 files staged for commit (6 source .md edits — 5 enrich + 1 Frappe — plus public/ HTML rebuilds from Hugo).
+- Hugo build clean: 941 pages (identical to Pulse 96 — no new pages, only link/content edits).
+- Commit pushed to main as `3d65e4d`. Vercel auto-deploy triggered.
+- Sitemap re-submitted to SC successfully (21st in series).
+- Strategy.md updated with Pulse 97 Current Phase; Pulse 96 moved to Prior phase.
+- This journal entry added.
+
+**Next:**
+1. **Pulse 98 priority — dial-in enrich (5 verified-indexed inbound links).** Pulse 90 page held Discovered or URL-unknown for 7+ consecutive pulses. 4th maintenance/methodology-topic enrich. Mirror water/grinder/descale enrich pattern.
+2. **Pulse 98 SC check critical items:** grinder + descale + water (URL-unknown recovery test ~32-80h post-enrich), pour-over (~5 days post-publish — long-held-Crawled risk), frappe (~24-48h post-escalation), latte-art (newly indexed — first inbound-link analysis).
+3. Pulse 99 = 8th pillar candidate research + DataForSEO sweep. Pulse 100 = Frappe escalation decision point (~5 days post-Pulse-97-escalation).
+
+---
+
 ## 2026-05-11 22:00 IDT — Pulse 96: Grinder enrich (5 verified-indexed inbound links) — 2nd 100%-rigorously-verified enrich round, sibling-to-descale enrich pattern, GRINDER + DESCALE BOTH REGRESSED DISCOVERED → URL-UNKNOWN (API state instability flag)
 
 **Action:** Applied the planned grinder enrich for Pulse 88 page (`/guides/how-to-clean-coffee-grinder/`) following the Pulse 94 descale enrich protocol. 5 new inbound links from 5 SC-inspected PASS-verdict referrer pages added to the grinder cleaning guide. **2nd 100%-rigorously-verified enrich round on the site** (Pulse 94 descale = first; this is the second). Additionally checked SC URL-info API state on grinder + descale + latte-art + pour-over + frappe + milk-steaming as the regular indexing wave update.

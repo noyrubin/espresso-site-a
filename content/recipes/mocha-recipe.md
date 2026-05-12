@@ -216,6 +216,10 @@ Instead, lean toward:
 
 If you're using fruity or light-roast beans, the fruit notes will clash with chocolate rather than complement it. Save those for black espresso or straight lattes.
 
+### Why Dial-In Still Matters for Mocha
+
+There's a common assumption that because chocolate covers up flavor, you can be sloppy on the espresso side of a mocha. It's a half-truth. Chocolate masks roughly half the dial-in errors — sour espresso (under-extracted) plus chocolate tastes acceptable, just slightly thin and tangy; bitter espresso (over-extracted) plus chocolate tastes "rich", which most drinkers won't object to. So a mocha made with under-dialed shots will land somewhere on the "fine" scale and not get sent back. But the gap between "fine" and "balanced" in a mocha is exactly where [proper dial-in](/guides/how-to-dial-in-espresso/) lives. A shot pulled in the sweet spot — 1:2 in 25-32 seconds, balanced front-to-back, syrupy mouthfeel — *adds* to the cocoa rather than fighting it; you taste the chocolate AND the espresso together, layered. An under-dialed shot makes the chocolate carry the cup alone, and the espresso just adds caffeine. The diagnostic in your own kitchen: pull two mochas back to back, one with a properly dialed shot and one with a deliberately too-fast 18-second shot. Both will taste "like a mocha", but only one will taste like a *good* mocha. That gap is the dial-in.
+
 ---
 
 ## Frequently Asked Questions

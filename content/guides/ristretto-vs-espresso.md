@@ -77,6 +77,8 @@ Since you're cutting the extraction short, grind setting matters more than ever.
 - **Barely drips and tastes harsh** → grind coarser
 - **Has a good syrupy consistency and sweetness** → you've nailed it
 
+Reframed structurally, a ristretto is just [a dial-in](/guides/how-to-dial-in-espresso/) with the yield target moved from 1:2 to roughly 1:1 — same beans, same dose, same four levers (grind, dose, yield, time), only the stop point changes. This matters in two practical ways. First, if a bean dials in nicely as ristretto on your usual setting, opening the yield to 36g (espresso) usually wants 0.5-1 grind increment coarser; the long tail of the espresso pull at a ristretto-fine grind tends to over-extract. Second, beans built for one target often resist the other: classic dark Italian blends dial in cleanly at ristretto and turn ashy if you push to 1:2, while light specialty roasts dial in sweet at 1:2-1:2.5 and taste thin-and-vegetal cut to 1:1. So the cleanest way to discover where a new bean lives is to dial in espresso first (1:2 in 25-32s), then pull the same setting to ristretto and see whether the bean keeps its sweetness or collapses. If it collapses, the bean is built for espresso; if it stays sweet, you have a true ristretto-capable bean and can use either format.
+
 ## When to Use Ristretto vs Espresso
 
 ### Use ristretto when:
