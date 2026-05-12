@@ -6,6 +6,107 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
+Day 39 (Pulse 98) — **157 articles**. **4TH MAINTENANCE/METHODOLOGY-TOPIC ENRICH (DIAL-IN) + GRINDER + WATER RECOVERED URL-UNKNOWN → DISCOVERED (API STATE INSTABILITY HYPOTHESIS CONFIRMED FOR THOSE TWO) + WHITE-ESPRESSO FRESHEST CRAWL ON SITE (~HOURS AGO).** This pulse: (a) applied the planned dial-in enrich (5 verified-indexed inbound links from milk-steaming + cold-brew-vs-espresso + white-espresso + ristretto-vs-espresso + mocha-recipe — **4th 100%-rigorously-verified enrich round**), (b) detected major indexing-wave shifts: grinder + water both recovered from URL-unknown → Discovered (API state instability confirmed), descale still URL-unknown (~80h+ stuck — deepest of the 3), dial-in itself now Discovered with referringUrl=water-for-espresso (cross-cluster signal). **Major finding: white-espresso lastCrawl 2026-05-12T10:12:20Z — freshest crawl currently held by any indexed page on the site. Combined with the 215→239→241 impression spike across Pulses 96-98, signals Google is paying renewed attention to white-espresso.**
+
+**SC state observations Pulse 98 — URL-UNKNOWN POOL PARTIALLY RESOLVES, NEW INDEXED SURFACES APPEAR:**
+- **dial-in (Pulse 90, target page): Discovered - currently not indexed** — referringUrl = water-for-espresso. **Cross-cluster signal:** the enrichments to /guides/water-for-espresso/ in Pulse 97 caused Google to flag dial-in's water-for-espresso inbound as a referring URL. Now enriched this pulse with 5 verified-indexed inbound links.
+- **grinder (Pulse 88, ~9.5 days post-publish): RECOVERED URL-unknown → Discovered** (referringUrl = how-to-descale-espresso-machine). **API state instability hypothesis CONFIRMED for this page.** Pulse 96 enrich now reflected indirectly via the descale referrer link.
+- **water (Pulse 89, ~8.5 days post-publish): RECOVERED URL-unknown → Discovered** (referringUrl = sitemap). **API state instability hypothesis CONFIRMED for this page.** Pulse 97 enrich (~24h post-enrich) not yet visible as referringUrl in API.
+- **descale (Pulse 87, ~10 days post-publish): URL-unknown HELD** — Pulse 94 enrich (~88h post-enrich) not visible in API. **Descale is the deepest-stuck of the 3 maintenance pages.** State has held URL-unknown across Pulses 96, 97, 98 (~3 consecutive pulses).
+- **pour-over (Pulse 93, ~5 days post-publish): Crawled-not-indexed HELD** — lastCrawl 2026-05-10T15:54:16Z UNCHANGED for 3 consecutive pulses. **Concern escalating — at ~5 days, deeply into the long-held-Crawled risk zone.**
+- **frappe (Pulse 75, ~15 days post-publish, Pulse 97 escalation ~8h ago): Crawled-not-indexed HELD** — lastCrawl 2026-05-01T22:42:27Z unchanged for 15 consecutive pulses. **Pulse 97 lastmod+espresso-pivot escalation not yet reflected at ~8h.** Too early — watch Pulse 99-100.
+- **latte-art (Pulse 95, ~2 days post-publish): PASS / Submitted and indexed HELD** — 2nd consecutive pulse PASS. lastCrawl 2026-05-11T21:18:17Z unchanged.
+
+**5 verified-indexed inbound links to /guides/how-to-dial-in-espresso/ (all SC-inspected PASS this pulse):**
+1. **/guides/milk-steaming-techniques/** — PASS, lastCrawl 2026-05-09T22:07:22Z (fresh-indexed Pulse 91). 30-Minute Microfoam Calibration recalibration trigger extended: fresh dial-in on new beans as another recalibration trigger. Non-obvious framing: grind tightening to hit a new bean's yield stretches shot time 2-4s, which means steaming starts 2-4s later relative to the espresso. On a single-boiler machine that 2-4s delay drops boiler steam pressure noticeably, stretch phase begins at lower pressure, and the same 5-second air-injection produces less foam than the day before. Re-time pitcher one against the new shot time.
+2. **/guides/cold-brew-vs-espresso/** — PASS, lastCrawl 2026-04-08T21:00:13Z, top-5 pos 4.64 (3 consecutive pulses). Bottom Line — new paragraph: dial-in is the deepest friction barrier between cold brew and espresso (no cold-brew equivalent). Cold brew at 1:8 coarse works on every bean; espresso requires fresh dial-in on every new bag plus daily micro-adjusts. The recurring 2-4 shot dial-in is what gives espresso its precision and makes cold brew feel like a vacation.
+3. **/guides/white-espresso/** — PASS, **lastCrawl 2026-05-12T10:12:20Z (FRESHEST CRAWL ON SITE — TODAY)**, top performer 241 imp 1 click pos 5.28. Related Guides — new entry: white espresso requires a *tighter* dial-in target window than any other roast. A 5-second yield deviation that tastes "fine" in dark roast reads vegetal (under-extracted) or metallic (over-extracted) in white espresso. Adjustment: cut yield window from ±3g to ±1g and time window from 25-32s to 26-30s; budget 5-7 shots not 2-4.
+4. **/guides/ristretto-vs-espresso/** — PASS, lastCrawl 2026-04-07T06:16:23Z, 8 imp pos 12.88. Dialing In Ristretto section extended: ristretto is structurally a dial-in with yield target moved from 1:2 to 1:1 — same four levers, only stop point changes. Diagnostic: dial in espresso first, then pull ristretto on the same setting; if sweetness holds, true ristretto-capable bean; if collapses, espresso-only bean. **NEW addition to the enrich referrer pool.**
+5. **/recipes/mocha-recipe/** — PASS, **lastCrawl 2026-05-11T13:35:04Z (fresh crawl ~24h ago)**, 12 imp pos 10.83. Espresso Beans for Mocha — new "Why Dial-In Still Matters for Mocha" subsection. Non-obvious framing: chocolate masks ~50% of dial-in errors (sour+chocolate = thin-tangy, bitter+chocolate = "rich"), so under-dialed mochas land "fine". Gap between fine and balanced is exactly where proper dial-in lives. Side-by-side diagnostic with deliberately too-fast 18s shot. **NEW addition to the enrich referrer pool from recipes/ section (2nd recipe-section referrer after simple-syrup-recipe Pulse 97).**
+
+**Diversity:** methodology pillar (fresh-indexed), top-5 comparison page (highest non-home position, 3-pulse hold), top performer FRESHEST CRAWL today, top-10 ratio comparison page (NEW addition), top-10 recipe page (NEW addition from recipes section). All 5 PASS verified. **4th 100%-rigorously-verified enrich round.**
+
+**Sibling-enrich pattern now operational across 4 maintenance/methodology topics (descale + grinder + water + dial-in):**
+- **Shared "core 3" referrers:** milk-steaming-techniques + cold-brew-vs-espresso + white-espresso. All 3 referrers now carry inbound links to descale + grinder + water + dial-in. **Each shared referrer's outbound link density to the maintenance/methodology cluster has grown to 4 links each** (one per enrich round). Hypothesis: compound outbound density on referrers may itself reinforce their continued indexing — and white-espresso's freshest-crawl-today status may be early evidence.
+- 2 unique per enrich (rotating): descale (Pulse 94) = how-to-froth-milk + how-to-make-a-flat-white. Grinder (Pulse 96) = how-to-make-a-macchiato + red-eye-coffee. Water (Pulse 97) = latte-art + simple-syrup-recipe. **Dial-in (Pulse 98) = ristretto-vs-espresso + mocha-recipe.** Unique-set diversity: 2 short-shot drinks (macchiato + red-eye), 2 milk drinks (flat-white + froth-milk), 2 cold/iced (latte-art + simple-syrup), 2 ratio-comparison + recipe (ristretto + mocha). Full coverage now across the content graph.
+
+**Pulse 98 SC update (28-day window):**
+- WHITE ESPRESSO query: 25 imp 1 click pos 6.12 — held identical to Pulses 92-97 (**17+ consecutive pulses** with click signal — longest sustained query click signal on site).
+- white-espresso page: 241 imp 1 click pos 5.28 — **imp +2 vs 239** (Pulse 97). **Sustained spike (215→239→241 across Pulses 96-98).** Position slight regression vs 5.26 but stable.
+- home /: 33 imp 1 click pos 8.30 — imp +1 vs 32, position improvement vs 8.41.
+- categories/reviews/: 6 imp pos 9 — **imp +2 vs 4 (held 8+ pulses) + position improvement vs 9.5.** Breaks the 8-pulse hold pattern.
+- coffee-ice-cubes: 6 imp pos 7.67 — held identical.
+- cold-brew-recipe: 6 imp pos 5.5 — held identical.
+- **cold-brew-vs-espresso: 11 imp pos 4.64 — TOP-5 HOLD 3rd consecutive pulse at 4.64.** Solidly stabilized.
+- how-to-froth-milk: 64 imp pos 51.77 — held identical (**5 consecutive pulses range-bound 51-52**). Stalled.
+- how-to-make-a-flat-white: 86 imp pos 70.53 — held identical.
+- how-to-make-a-macchiato: 6 imp pos 6.17 — held.
+- red-eye-coffee: 40 imp pos 30.28 — held.
+- ristretto-vs-espresso: 8 imp pos 12.88 — held.
+- simple-syrup-recipe: 36 imp pos 25.22 — held.
+- **NEW SC SURFACES (Pulse 98 first appearance in top-25 page list):**
+  - **recipes/mocha-recipe: 12 imp pos 10.83 — TOP-10.** Fresh-indexed lastCrawl 2026-05-11T13:35:04Z. Used as enrich referrer this pulse.
+  - **recipes/tiramisu-latte-recipe: 2 imp pos 10.5 — TOP-10.**
+  - recipes/coffee-ice-cream-recipe: 12 imp pos 80.42.
+  - recipes/espresso-cheesecake-recipe: 3 imp pos 61.33.
+  - **Multiple tag pages surfacing** (bambino-plus 5.5, buying-guide 6.5, caffeine 4, cocoa 4, coffee-drinks 8, espresso-cookies 5, espresso-guide 9, etc.) — site internal structure starting to be crawled.
+
+**Pulse 98 wins:**
+1. **Dial-in enrich applied — 4th 100%-rigorously-verified enrich round** + maintenance/methodology-cluster sibling pattern now operational across 4 topics with shared "core 3" referrers carrying 4 outbound links each.
+2. **Grinder + water RECOVERED URL-unknown → Discovered.** API state instability hypothesis CONFIRMED for those two pages. Pulse 96-97 enrich logic re-validated.
+3. **white-espresso FRESHEST CRAWL ON SITE — lastCrawl 2026-05-12T10:12:20Z (~hours ago).** Combined with sustained 215→239→241 impression spike across 3 pulses, signals Google is paying renewed attention to white-espresso. **Likely consequence of accumulated outbound-link density from 4 enrich rounds.**
+4. **cold-brew-vs-espresso 4.64 TOP-5 HOLD 3rd consecutive pulse.** Solidly stabilized after Pulse 95's 4.0→4.64 regression. Worth watching for sustained position.
+5. **Multiple new SC surfaces in top-25.** Mocha-recipe + tiramisu-latte-recipe both top-10 (10.83 + 10.5), 2 more recipes surfacing, tag pages indexed. **Site's internal structure is starting to attract attention.**
+6. **Recipes-section referrer pool now at 2 pages** (simple-syrup + mocha). Recipes/ as a section is entering the link graph in earnest.
+7. **NEW addition to enrich referrer pool: ristretto-vs-espresso** (8 imp pos 12.88, top-10). Expands the indexed referrer pool from 9 (Pulse 97) to 10.
+8. **Sitemap re-submission 22nd in series** — continues protocol.
+9. **DataForSEO this pulse: $0.** Cumulative daily DataForSEO spend $0, well under $1/day budget.
+
+**Pulse 98 concerns:**
+1. **Descale held URL-unknown 3 consecutive pulses (~80h+ post-Pulse-94-enrich).** Deepest-stuck of the 3 maintenance pages. Grinder + water recovered; descale did not. Hypotheses: (a) deeper API refresh lag for this page specifically (anti-confirmed but possible), (b) Pulse 94 enrich somehow less effective (unlikely — identical protocol), (c) descale page has some indexing-blocking issue specific to it. Watch Pulse 99-100.
+2. **Pour-over Crawled-not-indexed held 3 consecutive pulses, lastCrawl unchanged 2026-05-10.** At ~5 days post-publish, deep into the long-held-Crawled risk zone. **Decision pulse: Pulse 99-100.** May need pour-over enrich.
+3. **Frappe escalation result still unknown at ~8h post-Pulse-97-escalation.** No fast-feedback signal. Watch Pulse 99-100.
+4. **No new content this pulse** — pure enrich + indexing-wave-analysis work. Content rhythm pause continues; **rhythm must resume Pulse 99-100.**
+5. **how-to-froth-milk completely range-bound 51-52 over 5 pulses.** Pulse 94 descale-enrich link no longer producing movement. May need a separate inbound link round OR content-quality reinforcement.
+
+**Critical insights from this pulse:**
+1. **API state instability hypothesis CONFIRMED for grinder + water, NOT for descale.** Two of three URL-unknown pages recovered to Discovered within ~1-2 pulses. Descale held URL-unknown 3+ pulses. **New refined hypothesis:** URL-unknown is genuine API state with variable refresh lag (1-3 pulses typical, longer outliers exist); state recovery is the norm, but does NOT guarantee indexing — just visibility in the URL-info API. Operational rule update: URL-unknown for ≤2 pulses = wait. URL-unknown for ≥3 pulses = treat as page-specific issue; investigate manually.
+2. **White-espresso freshest-crawl-today status is the strongest evidence yet for compound outbound-link density effect on referrer indexing.** White-espresso has now been used as referrer in 4 consecutive enrich rounds (Pulse 94 descale, Pulse 96 grinder, Pulse 97 water, Pulse 98 dial-in) — adding 4 outbound links to maintenance/methodology cluster. Result: white-espresso just got crawled today, fresher than any other page on the site. **Hypothesis: enrich referrers are themselves accelerated in crawl frequency by their compound outbound-link density.**
+3. **Dial-in (Pulse 90 page) now Discovered with referringUrl=water-for-espresso.** This means the Pulse 97 water enrich's outbound link to dial-in registered as a referring URL **for the dial-in page, not just the water page**. Cross-cluster signal: enriching X to point to Y also signals Y exists, even before Y is indexed.
+4. **New SC surfaces appearing in top-25.** Mocha-recipe top-10 (10.83) is significant — proves recipes/ section is being indexed and ranked. Tag pages surfacing suggests site internal taxonomy is starting to be crawled. **Site is entering a richer-data phase.**
+5. **The pre-pulse referrer SC-inspect verification protocol continues to validate.** All 5 referrers PASS this pulse. 0 false positives across Pulses 94+96+97+98 = 4 enrich rounds = 20 referrer-checks at 100% PASS rate.
+
+**DataForSEO this pulse:** $0. Cumulative daily DataForSEO spend $0, well under $1/day budget.
+
+**Next focus (Pulse 99):**
+1. **SC check critical items:** descale (URL-unknown ~92h+ post-enrich — DEEP STUCK), pour-over (~5.5 days post-publish — long-held-Crawled risk), frappe (~24h post-escalation — early indexing-trigger signal), grinder + water (recovered Discovered — watch for advance to Crawled or indexed), dial-in (~8h post-enrich — early indexing-trigger signal), white-espresso (continued spike or peak).
+2. **Pulse 99 candidate options (priority order):**
+   - **8th pillar candidate research via DataForSEO pre-pulse sweep** — content rhythm pause has lasted 4 pulses (96, 97, 98 enrich; 95 last new content = latte-art). **Content rhythm needs to resume.** Pre-pulse keyword sweep ~$0.075-0.15. Candidate clusters from earlier research: Brazilian/SA bean origins umbrella, espresso machine maintenance master, OR a new opportunity. **RECOMMENDED Pulse 99.**
+   - **Pour-over enrich** — if pour-over still Crawled-not-indexed at Pulse 99 (~5.5 days), apply 5 verified-indexed inbound link enrich. Mirror the 4-round pattern.
+   - **Frappe escalation revisit** — if Pulse 97 escalation not reflected at ~24h, consider sitemap-resubmit-only + wait, OR more aggressive: explicit re-index request via SC URL inspect (note: API doesn't expose this — would require manual SC UI action).
+3. **Recommended Pulse 99: 8th pillar candidate research + DataForSEO sweep.** Pulse 100 = 8th pillar publish (mirrors the Pulse 91, 93, 95 pillar publishing rhythm).
+4. DataForSEO Pulse 99: ~$0.075-0.15 (keyword research for 8th pillar candidate).
+5. **Critical milestones to watch:**
+   - **Descale state resolution.** Pulse 99 = ~4 consecutive pulses URL-unknown. If still URL-unknown, page-specific issue investigation (manual SC re-index? Content audit?).
+   - **Pour-over indexed transition.** Pulse 99-100 = decision point.
+   - **Frappe ~24-48h post-escalation indexing trigger window.**
+   - **Dial-in early indexing speed.** Pulse 99 = ~8h post-enrich. Watch for Discovered → Crawled.
+   - **White-espresso impression trajectory.** 215→239→241. Continues spike or peaks?
+   - **cold-brew-vs-espresso continued TOP-5 hold.**
+   - **New SC surfaces tracked.** Mocha-recipe, tiramisu-latte-recipe trajectory.
+6. Sitemap re-submission protocol validated 22 times. Continue using as default.
+
+**Pulse 98 protocol additions:**
+- **API state instability hypothesis CONFIRMED for grinder + water, NOT for descale.** URL-unknown is a genuine API state with variable refresh lag (1-3 pulses typical). State recovery to Discovered is the norm. URL-unknown for ≥3 pulses = treat as page-specific issue; investigate.
+- **Enrich referrers may experience compound outbound-link-density acceleration in crawl frequency.** White-espresso freshest-crawl-today (Pulse 98) after 4 consecutive enrich-referrer uses is the strongest evidence yet. **Hypothesis worth tracking: monitor white-espresso lastCrawl across pulses 99-101 for sustained fresh-crawl frequency.**
+- **Cross-cluster referrer signal.** Enriching X (water) with outbound link to Y (dial-in) registered as referringUrl for Y in the URL-info API, even before Y was indexed. **This is structurally important:** it means enrich rounds plant indexing-precursor signals on the *target* pages they link to, not just the *referrer* pages.
+- **NEW indexed referrers added Pulse 98:** ristretto-vs-espresso (top-10 12.88), mocha-recipe (top-10 10.83, recipes-section). **Indexed referrer pool now at 10 pages** (vs 9 Pulse 97).
+- **Confirmed-indexed referrer pool refined (verified Pulse 98):** milk-steaming-techniques (PASS, fresh-indexed Pulse 91), white-espresso (PASS, top performer 241 imp **FRESHEST CRAWL ON SITE 2026-05-12T10:12:20Z**), cold-brew-vs-espresso (PASS, top-5 4.64 3-pulse hold), how-to-make-a-flat-white (PASS, 86 imp), how-to-make-a-macchiato (PASS, top-10 6.17), red-eye-coffee (PASS, 40 imp), simple-syrup-recipe (PASS, 36 imp), latte-art (PASS, 2-pulse hold), **ristretto-vs-espresso (PASS, top-10 12.88 — NEW Pulse 98)**, **mocha-recipe (PASS, top-10 10.83 — NEW Pulse 98)**, home / (presumed indexed via query data), categories/reviews/ (presumed). Priority referrer set for Pulse 99+.
+- **Confirmed-NOT-indexed / API-unstable pool (Pulse 98):** how-to-descale-espresso-machine (URL-unknown — 3 consecutive pulses, deepest stuck), pour-over-technique (Crawled-not-indexed 3 consecutive pulses), what-is-a-frappe (Crawled-not-indexed 15 consecutive pulses — escalation Pulse 97 not yet reflected), how-to-clean-coffee-grinder (recovered Discovered — semi-stable), water-for-espresso (recovered Discovered — semi-stable), how-to-dial-in-espresso (Discovered with water-for-espresso referrer — semi-stable, freshly enriched Pulse 98). DO NOT count toward enrich referrer counts until confirmed indexed.
+
+---
+
+## Prior phase (Pulse 97) — kept for reference
 Day 39 (Pulse 97) — **157 articles**. **3RD MAINTENANCE-TOPIC ENRICH (WATER) + FRAPPE CONTENT ESCALATION + LATTE-ART INDEXED IN ~24-32H (NEW SPEED RECORD).** This pulse: (a) applied the planned water enrich (5 verified-indexed inbound links from milk-steaming + cold-brew-vs-espresso + white-espresso + latte-art + simple-syrup-recipe — **3rd 100%-rigorously-verified enrich round**), (b) executed Frappe escalation via new ~600-word "espresso pivot" section + lastmod refresh + outbound links into the espresso cluster (instead of full rewrite — content quality is high, the issue is topical-authority/indexing-signal). **Major finding: latte-art (Pulse 95) advanced URL-unknown → PASS / Submitted and indexed in ~24-32h post-publish — fastest indexing yet observed on the site (beats Pulse 91 milk-steaming ~32h).** Compound link signal density continues to accelerate indexing for new pillar publishes.
 
 **SC state observations Pulse 97 — URL-UNKNOWN POOL EXPANDS BUT LATTE-ART CONFIRMS PIPELINE IS WORKING:**
