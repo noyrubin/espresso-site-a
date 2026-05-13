@@ -6,6 +6,94 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
+Day 40 (Pulse 100) — **158 articles**. **POUR-OVER ENRICH APPLIED (5TH IN SERIES — SIBLING-ENRICH PROTOCOL NOW 100% COVERAGE ACROSS 5 MAINTENANCE/METHODOLOGY TARGETS) + DESCALE RECOVERED Discovered (4-PULSE URL-UNKNOWN HOLD BROKEN — PAGE-SPECIFIC HYPOTHESIS REFUTED, API INSTABILITY LAG EXTENDED TO ≤4 PULSES) + WHITE-ESPRESSO IMP 252 (5TH CONSECUTIVE GROWTH) + COLD-BREW-VS-ESPRESSO POSITION REGRESSION 4.64→5.25 (4-PULSE TOP-5 HOLD BROKEN) + COFFEE-ICE-CUBES FAQ-SCHEMA-FAIL DISCOVERED (PULSE 101 TECHNICAL FIX QUEUED) + EXTRACTION-TIME PILLAR URL-UNKNOWN AT ~24H (NORMAL EARLY STATE).** This pulse: (a) applied the planned pour-over enrich (5 verified-indexed inbound links from milk-steaming + cold-brew-vs-espresso + white-espresso + cold-brew-recipe + coffee-ice-cubes — **5th 100%-rigorously-verified enrich round, 25/25 PASS rate**), (b) detected descale recovery URL-unknown → Discovered after 4-pulse hold (refutes the Pulse 99 page-specific hypothesis; refines URL-unknown threshold rule to ≥5 + no-oscillation), (c) discovered first page-level FAQ rich-results schema FAIL on coffee-ice-cubes (7 "Duplicate field FAQPage" errors — new schema-validation protocol category), (d) white-espresso continued 5th consecutive impression growth (215→252).
+
+**SC state observations Pulse 100 — DESCALE RECOVERED, GRINDER OSCILLATION DRIFTS TOWARD STUCK, POUR-OVER ENRICHED, EXTRACTION-TIME EARLY-STATE:**
+- **descale (Pulse 87, ~11 days post-publish, ~104h+ post-Pulse-94-enrich): RECOVERED URL-unknown → Discovered (referringUrl = sitemap).** **4-pulse URL-unknown hold BROKEN.** Refines URL-unknown threshold rule: ≤4 pulses = transient API instability; ≥5 consecutive + no oscillation = page-specific.
+- **grinder (Pulse 88, ~10.5 days post-publish): URL-unknown HELD (Pulse 99 also URL-unknown).** **6-pulse oscillation pattern: 4/6 URL-unknown** (Pulses 95-100 = Discovered → URL-unknown → URL-unknown → Discovered → URL-unknown → URL-unknown). Now drifting toward URL-unknown — pattern is no longer balanced. Watch Pulse 101-102.
+- **water (Pulse 89, ~10 days post-publish): Discovered HELD STABLE.** referringUrl = sitemap. 3-pulse stable hold (98, 99, 100).
+- **dial-in (Pulse 90, ~32h post-Pulse-98-enrich): Discovered HELD.** referringUrl = water-for-espresso (cross-cluster signal preserved). Pulse 98's 5 new referrer signals not yet visible at ~32h. Watch Pulse 101-102.
+- **pour-over (Pulse 93, ~6 days post-publish, ~0h post-Pulse-100-enrich): Crawled-not-indexed HELD 5 CONSECUTIVE PULSES.** lastCrawl 2026-05-10T15:54:16Z UNCHANGED across Pulses 96-100. Enrich applied this pulse. Watch Pulse 101-102 for ~24-48h reflection.
+- **frappe (Pulse 75, Pulse 97 escalation ~40h ago): Crawled-not-indexed HELD.** lastCrawl 2026-05-01T22:42:27Z unchanged for 17 consecutive pulses. **Pulse 97 escalation approaching 48h boundary, NOT yet reflected.**
+- **extraction-time pillar (Pulse 99, ~24h post-publish): URL-unknown.** Normal early state. Watch Pulse 101 for Discovered transition.
+- **white-espresso: PASS, lastCrawl 2026-05-12T10:12:20Z UNCHANGED across Pulses 98, 99, 100.** **No new crawl in ~28h — first stall after 4 consecutive freshness pulses.** Still freshest crawl on site but spike may be cresting.
+
+**Pulse 100 enrich — pour-over-technique sibling pattern complete across 5 targets:**
+- **Shared "core 3" referrers (now used 5x each):** milk-steaming-techniques, cold-brew-vs-espresso, white-espresso. Each carries 5 outbound links to maintenance/methodology cluster.
+- **Unique-per-round pool now fully cycled (10 unique referrers across 5 rounds):** descale (Pulse 94) = how-to-froth-milk + how-to-make-a-flat-white. Grinder (Pulse 96) = how-to-make-a-macchiato + red-eye-coffee. Water (Pulse 97) = latte-art + simple-syrup-recipe. Dial-in (Pulse 98) = ristretto-vs-espresso + mocha-recipe. **Pour-over (Pulse 100) = cold-brew-recipe + coffee-ice-cubes (both top-10 guides/ pages, both thematic cold/iced — used up the available unused top-10 indexed referrer pool from guides/ section).**
+- **Verified PASS rate across all 5 enrich rounds: 25/25 referrers (100%).** Strongest indexing-verification protocol on the site.
+
+**Pulse 100 SC update (28-day window):**
+- WHITE ESPRESSO query: **19+ consecutive pulses with click signal.** 25 imp 1 click pos 6.12.
+- white-espresso page: **252 imp 1 click pos 5.38 — imp +5 vs 247. 5TH CONSECUTIVE IMP GROWTH: 215 → 239 → 241 → 247 → 252.**
+- home /: 34 imp 1 click pos 8.24 (+1 vs 33).
+- categories/reviews/: 7 imp pos 9.14 (+1 vs 6).
+- **cold-brew-vs-espresso: 12 imp pos 5.25 — POSITION REGRESSION 4.64 → 5.25 (4-pulse TOP-5 hold BROKEN).** First regression since Pulse 95. Still top-10.
+- **how-to-froth-milk: 66 imp pos 50.76 — imp +2 + first position improvement after 6 pulses range-bound 51-52.** Movement appearing.
+- how-to-make-a-flat-white: 51 imp pos 65.53 — held identical to Pulse 99.
+- red-eye-coffee: 42 imp pos 29.93 (+2 imp + slight position improvement vs 30.28).
+- ristretto-vs-espresso: 8 imp pos 12.88 — held.
+- simple-syrup-recipe: 37 imp pos 24.86 — slight movement vs 36/25.22.
+- recipes/mocha-recipe: 12 imp pos 10.83 — held.
+- recipes/tiramisu-latte-recipe: 2 imp pos 10.5 — held.
+
+**Pulse 100 wins:**
+1. **Pour-over enrich applied — 5th rigorously-verified enrich round.** 25/25 referrer PASS rate. Sibling-enrich protocol now 100% coverage across all 5 maintenance/methodology targets.
+2. **Descale RECOVERED Discovered after 4-pulse URL-unknown hold.** Refutes Pulse 99 page-specific hypothesis; extends API instability lag tolerance to ≤4 pulses.
+3. **White-espresso 5th consecutive imp growth (215→252).** Sustained spike enters new territory.
+4. **how-to-froth-milk first position movement after 6 pulses range-bound** (51.77→50.76). May finally be Pulse 94 descale-enrich link paying off.
+5. **NEW indexed referrer pool additions: cold-brew-recipe + coffee-ice-cubes.** Pool now at 12 verified-PASS pages (was 10).
+6. **Sitemap re-submission 24th in series.**
+7. **DataForSEO this pulse: $0.** Cumulative daily DataForSEO spend $0.
+8. **Technical SEO bug discovered: coffee-ice-cubes FAQ rich-results FAIL** (7 "Duplicate field FAQPage" errors). First page-level schema-validation issue. **New protocol category: log rich-results FAIL on indexed pages during enrich-referrer SC inspects.**
+
+**Pulse 100 concerns:**
+1. **Coffee-ice-cubes FAQ-schema-FAIL** — multiple `{{< faq >}}` shortcode blocks each emitting FAQPage JSON-LD container. **Pulse 101 priority fix.**
+2. **Grinder oscillation drift toward URL-unknown** (4/6 pulses URL-unknown). Pattern no longer balanced.
+3. **Cold-brew-vs-espresso position regression 4.64→5.25.** First regression after 4-pulse TOP-5 hold.
+4. **White-espresso crawl-frequency stall** (~28h no new crawl). Renewed-attention phase may be cresting.
+5. **Frappe escalation ~40h not reflected.** Approaching 48h boundary.
+
+**Critical insights from this pulse:**
+1. **URL-unknown threshold rule refined again (3rd refinement):** ≤4 pulses = transient API instability; ≥5 + no oscillation = page-specific. Descale falls into category 1, not category 2 as Pulse 99 hypothesized.
+2. **Sibling-enrich protocol has reached 100% coverage of maintenance/methodology cluster.** All 5 targets enriched. Future enrich rounds will target newly-emerging stuck pages, not the original 5. **Now we can compare across all 5: which enrich produced the fastest indexing shift?**
+3. **Coffee-ice-cubes can be indexed (PASS) but have broken rich-results schema.** Indexing ≠ rich-results validity. **New ongoing concern:** periodically inspect indexed pages for hidden schema issues. Added to enrich-referrer SC inspect protocol.
+4. **The "ambient referrer" pillar-publish pattern continues paying off.** Pulse 99's pillar publish + concurrent enrich rounds correlate with this pulse's descale recovery + water Discovered stability + dial-in Discovered hold + extraction-time normal-early-state behavior. Cumulative content additions to the cluster are producing observable indexing-wave shifts.
+5. **The pillar streak (8 in 12 days) remains the strongest single asset on the site.** ~64 internal links emanating from the pillar streak alone.
+
+**DataForSEO this pulse:** $0. Cumulative daily $0.
+
+**Next focus (Pulse 101):**
+1. **SC check critical items:** pour-over (~24h post-enrich — early reflection signal expected ~48-72h), extraction-time pillar (~32h post-publish — Discovered/Crawled transition?), descale (recovered Discovered — durability check), grinder (oscillation drift), dial-in (~48h post-Pulse-98-enrich — 5 referrer signals expected), frappe (~48h post-escalation — boundary).
+2. **Pulse 101 candidate options (priority order):**
+   - **Technical fix: coffee-ice-cubes FAQ-schema-FAIL.** Page indexed but rich-results broken. Quick fix likely <30 min. Increases page's rich-result eligibility AND demonstrates schema validation is an active part of the protocol. **RECOMMENDED Pulse 101.**
+   - **9th pillar candidate research via DataForSEO sweep.** Defer to Pulse 102.
+   - **Descale page-specific audit as preventive measure.** Defer to Pulse 102-103.
+3. **Recommended Pulse 101: coffee-ice-cubes FAQ-schema-FAIL fix.** Pulse 102 = 9th pillar candidate research + publish.
+4. DataForSEO Pulse 101: ~$0 (no keyword research needed).
+5. **Critical milestones to watch:**
+   - **Pour-over indexing trigger.** Pulse 101 = ~24h; Pulse 102 = ~48h.
+   - **Extraction-time pillar indexing speed.** Compare to latte-art Pulse 95 (~24-32h record).
+   - **Descale state durability.** Recovered — does it hold or regress?
+   - **Dial-in 48h-post-enrich referrer reflection.**
+   - **White-espresso 6th consecutive imp growth OR peak.**
+   - **Cold-brew-vs-espresso recovery to 4.64 OR further regression.**
+   - **how-to-froth-milk continued movement OR stall.**
+   - **Frappe 48h boundary.**
+6. Sitemap re-submission protocol validated 24 times.
+
+**Pulse 100 protocol additions:**
+- **Refined URL-unknown threshold rule (3rd refinement):** ≤4 pulses = transient API instability. ≥5 consecutive WITH NO oscillation toward Discovered = page-specific.
+- **Schema rich-results validation added to enrich-referrer SC inspect protocol.** Log rich-results FAIL on indexed pages during pre-enrich verification. First instance: coffee-ice-cubes (Pulse 100) — queued Pulse 101 priority fix.
+- **Sibling-enrich protocol completed across 5 maintenance/methodology targets.** Future enrich rounds will target NEW Crawled-not-indexed or URL-unknown pages as they emerge.
+- **NEW indexed referrers added Pulse 100:** cold-brew-recipe (PASS, 37 imp pos 24.86), coffee-ice-cubes (PASS, 6 imp pos 7.67, FAQ-schema-FAIL flag). **Indexed referrer pool now at 12 pages.**
+- **Confirmed-indexed referrer pool refined (verified Pulse 100):** milk-steaming-techniques, white-espresso, cold-brew-vs-espresso, how-to-make-a-flat-white, how-to-make-a-macchiato, red-eye-coffee, simple-syrup-recipe, latte-art, ristretto-vs-espresso, mocha-recipe, **cold-brew-recipe (NEW)**, **coffee-ice-cubes (NEW, FAQ-schema-FAIL flag)**. Priority referrer set for Pulse 101+.
+- **Confirmed-NOT-indexed / API-unstable pool (Pulse 100):** pour-over-technique (Crawled-not-indexed 5 pulses — freshly enriched), grinder (URL-unknown, drift), extraction-time pillar (URL-unknown ~24h, normal early), what-is-a-frappe (Crawled-not-indexed 17 pulses — escalation pending 48h boundary). Recovered to Discovered (semi-stable, watch): descale, water, dial-in.
+
+---
+
+## Prior phase (Pulse 99) — kept for reference
+
 Day 40 (Pulse 99) — **158 articles**. **8TH PILLAR PUBLISHED — ESPRESSO EXTRACTION TIME (BREAKS 4-PULSE CONTENT RHYTHM PAUSE) + WHITE-ESPRESSO IMP 247 (4TH CONSECUTIVE GROWTH) + DESCALE URL-UNKNOWN 4 CONSECUTIVE PULSES (DEEP STUCK CONFIRMED) + GRINDER OSCILLATION DISCOVERED ↔ URL-UNKNOWN (API STATE INSTABILITY HYPOTHESIS RECONFIRMED).** This pulse: (a) published the 8th pillar /guides/espresso-extraction-time/ (~2800 words, 10 FAQ entries, full methodology guide on shot timing + pre-infusion + channeling), (b) confirmed descale page-specific issue at 4 consecutive URL-unknown pulses (~96h+ post-Pulse-94-enrich), (c) detected grinder regression Discovered → URL-unknown (oscillation pattern = strong evidence for API state instability hypothesis), (d) white-espresso impression trajectory continues: 215 → 239 → 241 → 247 (4 consecutive pulses of growth).
 
 **SC state observations Pulse 99 — DEEP-STUCK PATTERN EMERGING FOR DESCALE + POUR-OVER, OSCILLATION CONFIRMED FOR GRINDER:**
