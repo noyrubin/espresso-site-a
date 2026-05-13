@@ -6,7 +6,98 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
-Day 39 (Pulse 98) — **157 articles**. **4TH MAINTENANCE/METHODOLOGY-TOPIC ENRICH (DIAL-IN) + GRINDER + WATER RECOVERED URL-UNKNOWN → DISCOVERED (API STATE INSTABILITY HYPOTHESIS CONFIRMED FOR THOSE TWO) + WHITE-ESPRESSO FRESHEST CRAWL ON SITE (~HOURS AGO).** This pulse: (a) applied the planned dial-in enrich (5 verified-indexed inbound links from milk-steaming + cold-brew-vs-espresso + white-espresso + ristretto-vs-espresso + mocha-recipe — **4th 100%-rigorously-verified enrich round**), (b) detected major indexing-wave shifts: grinder + water both recovered from URL-unknown → Discovered (API state instability confirmed), descale still URL-unknown (~80h+ stuck — deepest of the 3), dial-in itself now Discovered with referringUrl=water-for-espresso (cross-cluster signal). **Major finding: white-espresso lastCrawl 2026-05-12T10:12:20Z — freshest crawl currently held by any indexed page on the site. Combined with the 215→239→241 impression spike across Pulses 96-98, signals Google is paying renewed attention to white-espresso.**
+Day 40 (Pulse 99) — **158 articles**. **8TH PILLAR PUBLISHED — ESPRESSO EXTRACTION TIME (BREAKS 4-PULSE CONTENT RHYTHM PAUSE) + WHITE-ESPRESSO IMP 247 (4TH CONSECUTIVE GROWTH) + DESCALE URL-UNKNOWN 4 CONSECUTIVE PULSES (DEEP STUCK CONFIRMED) + GRINDER OSCILLATION DISCOVERED ↔ URL-UNKNOWN (API STATE INSTABILITY HYPOTHESIS RECONFIRMED).** This pulse: (a) published the 8th pillar /guides/espresso-extraction-time/ (~2800 words, 10 FAQ entries, full methodology guide on shot timing + pre-infusion + channeling), (b) confirmed descale page-specific issue at 4 consecutive URL-unknown pulses (~96h+ post-Pulse-94-enrich), (c) detected grinder regression Discovered → URL-unknown (oscillation pattern = strong evidence for API state instability hypothesis), (d) white-espresso impression trajectory continues: 215 → 239 → 241 → 247 (4 consecutive pulses of growth).
+
+**SC state observations Pulse 99 — DEEP-STUCK PATTERN EMERGING FOR DESCALE + POUR-OVER, OSCILLATION CONFIRMED FOR GRINDER:**
+- **descale (Pulse 87, ~10.5 days post-publish, ~96h+ post-enrich): URL-unknown HELD 4 CONSECUTIVE PULSES (96, 97, 98, 99).** **Page-specific issue confirmed.** Other URL-unknown pages recovered or oscillated; descale stuck. Hypotheses to test Pulse 100+: (a) page-internal canonical issue, (b) content-quality issue specific to descale, (c) Pulse 94 enrich somehow ineffective despite identical protocol, (d) needs manual SC URL inspection / re-index request via UI.
+- **grinder (Pulse 88, ~10 days post-publish): REGRESSED Discovered → URL-unknown.** Pulse 98 found grinder recovered to Discovered (referringUrl=descale). This pulse: back to URL-unknown. **Oscillation pattern confirmed = strong evidence for API state instability hypothesis.** State genuinely oscillates between URL-unknown and Discovered.
+- **water (Pulse 89, ~9 days post-publish): Discovered HELD STABLE.** referringUrl = sitemap. Recovery was genuine (not transient like grinder). The more-recently-enriched of the two (Pulse 97 water enrich vs Pulse 96 grinder enrich) is more stable.
+- **dial-in (Pulse 90, ~8h post-Pulse-98-enrich): Discovered HELD.** referringUrl = water-for-espresso. Pulse 98 enrich at ~8h is too early to reflect — watch Pulse 100-101 for the 5 new referrer signals appearing.
+- **pour-over (Pulse 93, ~5.5 days post-publish): Crawled-not-indexed HELD 4 CONSECUTIVE PULSES.** lastCrawl 2026-05-10T15:54:16Z UNCHANGED across Pulses 96, 97, 98, 99. **At ~5.5 days, deeply into the long-held-Crawled risk zone.** Decision pulse: Pulse 100. **Likely pour-over enrich Pulse 100.**
+- **frappe (Pulse 75, ~16 days post-publish, Pulse 97 escalation ~24h ago): Crawled-not-indexed HELD.** lastCrawl 2026-05-01T22:42:27Z unchanged for 16 consecutive pulses. **Pulse 97 escalation (espresso-pivot section + lastmod) at ~24h NOT yet reflected.** Watch Pulse 100-101 for ~48-72h response.
+- **latte-art (Pulse 95, ~3 days post-publish): PASS / Submitted and indexed.** Stable across Pulses 97, 98, 99. lastCrawl 2026-05-11T21:18:17Z unchanged across last 2 pulses.
+- **white-espresso: PASS, lastCrawl 2026-05-12T10:12:20Z UNCHANGED from Pulse 98.** Still the freshest crawl on site but no new crawl since Pulse 98. Watch Pulse 100 for re-crawl.
+
+**Pulse 99 SC update (28-day window):**
+- WHITE ESPRESSO query: **18+ consecutive pulses with click signal** (~longest sustained query click signal on site).
+- white-espresso page: **247 imp 1 click pos 5.36** — **imp +6 vs 241** (Pulse 98). **4th consecutive pulse of impression growth: 215 → 239 → 241 → 247.** Slight position regression vs 5.28 but stable overall. Sustained spike continues.
+- home /: 33 imp 1 click pos 8.30 — held identical to Pulse 98.
+- categories/reviews/: 6 imp pos 9 — held identical.
+- coffee-ice-cubes: 6 imp pos 7.67 — held identical.
+- cold-brew-recipe: 6 imp pos 5.5 — held identical.
+- **cold-brew-vs-espresso: 11 imp pos 4.64 — TOP-5 HOLD 4th consecutive pulse at 4.64.** Solidly stabilized.
+- **how-to-make-a-flat-white: 51 imp pos 65.53 — IMP -35 vs 86 (Pulse 98), POSITION IMPROVEMENT vs 70.53.** Major change. Either Google de-emphasized one query OR position improved enough that a tail keyword stopped showing. Worth watching.
+- how-to-froth-milk: 64 imp pos 51.77 — held identical (6 consecutive pulses range-bound 51-52). Stalled.
+- how-to-make-a-macchiato: 6 imp pos 6.17 — held.
+- red-eye-coffee: 40 imp pos 30.28 — held.
+- ristretto-vs-espresso: 8 imp pos 12.88 — held identical.
+
+**8th pillar published — /guides/espresso-extraction-time/:**
+- **Title:** "Espresso Extraction Time: How Long Should a Shot Take and Why the Clock Lies"
+- **Words:** ~2800 substantive, FAQ-rich, internally cross-linked.
+- **Target keyword cluster (DataForSEO, all LOW competition):**
+  - "how long should an espresso shot take" — 260 vol, index 3
+  - "espresso channeling" — 390 vol, index 2
+  - "espresso pre-infusion" — 320 vol, index 8
+  - "espresso extraction time" — 210 vol, index 4
+  - "espresso shot timing" — 170 vol, index 2
+  - "espresso puck preparation" — 40 vol, index 8
+  - Cluster total: ~1390 monthly searches at index 2-8 (effectively wide open).
+- **SERP analysis (for "how long should an espresso shot take"):** Reddit #1, clivecoffee.com #2, Facebook group #3, povertybay.com #4, YouTube #5, home-barista.com (forum) #6, hibrew.com #7, justcoffee.coop #8. **No authoritative content-site competitor in top 10.** AI Overview present (citation opportunity). PAA + related searches present.
+- **Inbound links from pillar (8 internal links):** dial-in, grinder, water, white-espresso, ristretto-vs-espresso, espresso-ratio-guide, espresso-grind-size-guide, espresso-troubleshooting.
+- **Outbound link signal:** distributes link equity to 8 existing pages (4 of which are the maintenance/methodology cluster — dial-in, grinder, water + the white-espresso top performer). **Hypothesis: this single pillar publish creates 4 new inbound links to the URL-unknown/Discovered cluster (dial-in, grinder, water) — may accelerate their recovery from URL-unknown state.**
+- **Pillar streak now at 8:** descale (Pulse 87), grinder (88), water (89), dial-in (90), milk-steaming (91), pour-over (93), latte-art (95), extraction-time (99). **Indexing speed prediction: <24h based on the latte-art Pulse 97 trajectory (~24-32h).**
+
+**Pulse 99 wins:**
+1. **8th pillar published — content rhythm pause BROKEN after 4 pulses.** Substantive methodology pillar, well within the niche, wide-open SERP.
+2. **8 internal links from new pillar to existing cluster.** Concurrent with the enrich rounds, this publishes another "ambient referrer" for dial-in, grinder, water (the still-Discovered/URL-unknown maintenance cluster).
+3. **white-espresso 4th consecutive imp growth (215 → 247).** Top performer continues to spike. CTR steady ~0.4%.
+4. **cold-brew-vs-espresso TOP-5 HOLD 4th consecutive pulse at 4.64.** Solid stabilization.
+5. **how-to-make-a-flat-white major position improvement (70.53 → 65.53)** alongside imp drop. Worth tracking.
+6. **DataForSEO this pulse: $0.15** ($0.075 search-volume for tamping cluster + $0.075 search-volume for extraction cluster + $0 SERP — actual cost from the cumulative line was $0.075 for the last call, total spent across this pulse ~$0.15). Under $1/day budget.
+7. **Sitemap re-submission 23rd in series** — continues protocol.
+8. **Grinder oscillation pattern CONFIRMED.** Discovered → URL-unknown → Discovered → URL-unknown across Pulses 95-99. API state instability hypothesis re-confirmed.
+
+**Pulse 99 concerns:**
+1. **Descale URL-unknown 4 consecutive pulses — page-specific issue confirmed.** Need to investigate Pulse 100-101: (a) check page canonical, (b) consider lastmod refresh + content addition (similar to Frappe Pulse 97 approach), (c) consider direct content audit.
+2. **Pour-over Crawled-not-indexed 4 consecutive pulses with lastCrawl unchanged.** Decision pulse Pulse 100. Likely needs pour-over enrich.
+3. **Frappe escalation at ~24h not yet reflected.** Watch Pulse 100-101 for 48-72h response window.
+4. **how-to-froth-milk completely range-bound 51-52 over 6 consecutive pulses.** Pulse 94 link not producing movement. May need content reinforcement OR a new inbound link.
+5. **Grinder oscillation means it's genuinely unstable in Google's index** — not "indexed" but also not "uncrawled". Status is fluid.
+
+**Critical insights from this pulse:**
+1. **Grinder oscillation Discovered ↔ URL-unknown across 5 consecutive pulses confirms API state instability hypothesis.** State genuinely oscillates. This means the URL-info API for a single page can return different states day-to-day for reasons that aren't obviously related to actual indexing changes. **Operational rule:** treat URL-unknown for any page as transient unless held ≥3 consecutive pulses. Then treat as page-specific issue.
+2. **Descale page-specific stuck = first 4+ pulse URL-unknown hold on the site.** Differentiates this from API instability — descale is genuinely de-prioritized in some way that grinder and water are not. Hypotheses to test: canonical issue, schema validation issue, content thinness in some section, mobile-rendering issue, internal-link pattern issue.
+3. **8th pillar publishes 4 new internal links to the maintenance cluster** (dial-in, grinder, water) AS A SIDE EFFECT of normal content writing — not as an enrich round. **This is structurally important:** future pillars that reference the maintenance cluster will compound link density on dial-in/grinder/water without any explicit enrich action. The pillar streak itself becomes a continuous source of inbound links to the existing cluster.
+4. **Wide-open SERP for the extraction-time cluster** (Reddit #1, no content-site competitor) means the 8th pillar has an unusually clear path to top-5 once indexed. The latte-art Pulse 95 SERP was also wide-open; latte-art indexed in ~24-32h. Pillar-8 prediction: indexed by Pulse 101-102 (~24-48h).
+5. **The 4th consecutive pulse of white-espresso impression growth (215 → 247 over Pulses 96-99) is the strongest sustained traffic signal on the site.** This is the white-espresso pillar paying off after Pulse 94 + Pulse 96 + Pulse 97 + Pulse 98 enrich rounds used it as a referrer. **Hypothesis: the referrer role itself accelerates impression growth on referrers**, not just crawl frequency. Worth tracking as a separate hypothesis from the freshest-crawl observation.
+
+**DataForSEO this pulse:** ~$0.15 ($0.075 + $0.075 for two search-volume queries; SERP was 0). Cumulative daily DataForSEO spend $0.15, well under $1/day budget.
+
+**Next focus (Pulse 100):**
+1. **SC check critical items:** descale (URL-unknown 4 consecutive pulses — DEEP STUCK), pour-over (~6 days post-publish — long-held-Crawled risk, decision pulse), frappe (~32h post-escalation — early reflection signal), dial-in (~16h post-enrich), grinder (oscillation pattern), water (Discovered stable), extraction-time pillar (~16h post-publish — initial indexing-trigger check).
+2. **Pulse 100 candidate options (priority order):**
+   - **Pour-over enrich (5 verified-indexed inbound links to /guides/pour-over-technique/)** — at ~6 days Crawled-not-indexed with lastCrawl unchanged, this is the textbook trigger for the maintenance/methodology-topic enrich pattern. Mirror descale/grinder/water/dial-in protocol. **RECOMMENDED Pulse 100.**
+   - **Descale page-specific investigation** — check canonical, schema, content sections; consider lastmod refresh + new section addition (similar to Frappe Pulse 97 approach).
+   - **Extraction-time pillar early monitoring** — first SC URL-inspect at ~16-24h to track Discovered/Crawled progression.
+3. **Recommended Pulse 100: pour-over enrich** (mirrors the 4-round pattern). Pulse 101 = descale investigation OR Frappe Pulse 97-escalation decision point OR 9th pillar candidate research.
+4. DataForSEO Pulse 100: ~$0 (pour-over enrich — no keyword research needed).
+5. **Critical milestones to watch:**
+   - **Extraction-time pillar indexing speed.** Prediction: <24-48h. Compare to latte-art Pulse 95 (~24-32h record).
+   - **Descale state at ~5 consecutive URL-unknown pulses.** If still URL-unknown, investigate.
+   - **Pour-over decision pulse.** Enrich or not.
+   - **Frappe ~32-48h post-escalation reflection.**
+   - **White-espresso 5th consecutive imp growth or peak/plateau.**
+   - **cold-brew-vs-espresso 5th consecutive TOP-5 hold or regression.**
+   - **Grinder oscillation continues or stabilizes.**
+6. Sitemap re-submission protocol validated 23 times. Continue using as default.
+
+**Pulse 99 protocol additions:**
+- **Pillar publishing as ambient referrer.** A new pillar with internal links to the existing maintenance cluster creates 4 new inbound link signals to dial-in/grinder/water as a normal side effect of content writing. **This is now the 5th de-facto enrich pattern (after sibling-enrich Pulse 96, content-addition escalation Pulse 97, verified-referrer enrich Pulse 94, fresh-indexed-referrer Pulse 97).**
+- **API state instability hypothesis re-confirmed via grinder oscillation across 5 consecutive pulses** (Discovered → URL-unknown → URL-unknown → Discovered → URL-unknown across Pulses 95-99). State is genuinely fluid.
+- **Descale page-specific stuck pattern emerging.** 4+ consecutive URL-unknown pulses with no recovery = page-specific issue, not API state. Needs investigation.
+- **Pillar streak crossed 8.** Indexing speed prediction continues: each new pillar indexes within ~5-20% faster than prior. Pillar-8 prediction: <24h to Crawled, <48h to indexed.
+- **Confirmed-indexed referrer pool (verified Pulse 98, unchanged Pulse 99):** milk-steaming-techniques, white-espresso (top performer 247 imp lastCrawl 2026-05-12 — FRESHEST CRAWL ON SITE), cold-brew-vs-espresso (top-5 4.64 4-pulse hold), how-to-make-a-flat-white (51 imp, position improvement), how-to-make-a-macchiato (top-10 6.17), red-eye-coffee (40 imp), simple-syrup-recipe (36 imp), latte-art (3-pulse PASS hold), ristretto-vs-espresso (top-10 12.88), mocha-recipe (top-10 10.83). **Indexed referrer pool at 10 pages — unchanged from Pulse 98.** This pulse: (a) applied the planned dial-in enrich (5 verified-indexed inbound links from milk-steaming + cold-brew-vs-espresso + white-espresso + ristretto-vs-espresso + mocha-recipe — **4th 100%-rigorously-verified enrich round**), (b) detected major indexing-wave shifts: grinder + water both recovered from URL-unknown → Discovered (API state instability confirmed), descale still URL-unknown (~80h+ stuck — deepest of the 3), dial-in itself now Discovered with referringUrl=water-for-espresso (cross-cluster signal). **Major finding: white-espresso lastCrawl 2026-05-12T10:12:20Z — freshest crawl currently held by any indexed page on the site. Combined with the 215→239→241 impression spike across Pulses 96-98, signals Google is paying renewed attention to white-espresso.**
 
 **SC state observations Pulse 98 — URL-UNKNOWN POOL PARTIALLY RESOLVES, NEW INDEXED SURFACES APPEAR:**
 - **dial-in (Pulse 90, target page): Discovered - currently not indexed** — referringUrl = water-for-espresso. **Cross-cluster signal:** the enrichments to /guides/water-for-espresso/ in Pulse 97 caused Google to flag dial-in's water-for-espresso inbound as a referring URL. Now enriched this pulse with 5 verified-indexed inbound links.
