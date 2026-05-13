@@ -226,4 +226,10 @@ A: Cloudiness is normal in coffee ice — the dissolved compounds in coffee prev
 
 ---
 
-*See also: [Cold Brew Recipe](/guides/cold-brew-recipe/) | [How to Make Cold Foam](/guides/how-to-make-cold-foam/) | [Iced Latte Recipe](/recipes/iced-latte-recipe/) | [Coffee Smoothie Recipe](/recipes/coffee-smoothie-recipe/) | [Frappuccino Recipe](/recipes/frappuccino-recipe/)*
+## What Coffee Source Makes the Best Ice Cubes
+
+Not all coffee freezes equally. The flavor compounds that survive freezing are the ones that were *cleanly extracted* in the first place; muddy, over-extracted coffee tastes worse frozen than it does hot because the bitter and astringent notes don't have heat masking them anymore. In rough order from best to worst freezing source: [pour over coffee](/guides/pour-over-technique/) at 1:15 (the cleanest extraction profile — bright, articulate, holds its flavor structure through the freeze), cold brew concentrate at 1:4 (smooth and chocolatey, no acidity to disappear in freezing), double-strength drip (workmanlike, holds flavor adequately), espresso (works but loses its complexity and crema instantly), instant coffee (functional but tastes like instant). The non-obvious winner is pour over: its 95°C clean extraction extracts more of the bean's aroma compounds than cold brew does, and those aromatics survive freezing better than the murky over-extracted notes from sloppy hot brewing. If you have a V60 and 5 spare minutes, brew a batch specifically for ice cubes — the difference in your next iced latte is immediately tasteable.
+
+---
+
+*See also: [Cold Brew Recipe](/guides/cold-brew-recipe/) | [How to Make Cold Foam](/guides/how-to-make-cold-foam/) | [Iced Latte Recipe](/recipes/iced-latte-recipe/) | [Coffee Smoothie Recipe](/recipes/coffee-smoothie-recipe/) | [Frappuccino Recipe](/recipes/frappuccino-recipe/) | [Pour Over Coffee Technique](/guides/pour-over-technique/)*
