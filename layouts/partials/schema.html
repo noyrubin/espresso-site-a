@@ -27,20 +27,32 @@
   {{- end }}
 }
 </script>
-{{- with .Params.faq }}
+{{- /* Consolidated FAQ JSON-LD: merge front-matter .Params.faq + shortcode-collected Scratch items into ONE FAQPage container to avoid duplicate-FAQPage errors */ -}}
+{{- $faqAll := slice -}}
+{{- with .Params.faq -}}
+  {{- range . -}}
+    {{- $faqAll = $faqAll | append (dict "q" .question "a" .answer) -}}
+  {{- end -}}
+{{- end -}}
+{{- with .Scratch.Get "faqItems" -}}
+  {{- range . -}}
+    {{- $faqAll = $faqAll | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- if $faqAll }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    {{- range $i, $qa := . }}
+    {{- range $i, $qa := $faqAll }}
     {{- if $i }},{{ end }}
     {
       "@type": "Question",
-      "name": {{ $qa.question | jsonify }},
+      "name": {{ $qa.q | jsonify }},
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": {{ $qa.answer | jsonify }}
+        "text": {{ $qa.a | jsonify }}
       }
     }
     {{- end }}

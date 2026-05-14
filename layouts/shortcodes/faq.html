@@ -1,15 +1,28 @@
 {{- $raw := .Inner -}}
-{{- $blocks := split $raw "**Q:" -}}
 {{- $items := slice -}}
-{{- range $i, $b := $blocks -}}
-  {{- if gt $i 0 -}}
-    {{- $parts := split $b "A:" -}}
-    {{- if ge (len $parts) 2 -}}
-      {{- $q := trim (replace (index $parts 0) "**" "") " \n\r*" -}}
-      {{- $a := trim (index $parts 1) " \n\r*" -}}
-      {{- $items = $items | append (dict "q" $q "a" $a) -}}
+{{- $qParam := .Get "question" -}}
+{{- if $qParam -}}
+  {{- /* Pattern B: {{< faq question="..." >}}answer{{< /faq >}} */ -}}
+  {{- $a := trim $raw " \n\r" -}}
+  {{- if $a -}}
+    {{- $items = $items | append (dict "q" $qParam "a" $a) -}}
+  {{- end -}}
+{{- else -}}
+  {{- /* Pattern A: {{< faq >}}**Q: ...**\nA: ...\n{{< /faq >}} (multiple Q/A per block supported) */ -}}
+  {{- $blocks := split $raw "**Q:" -}}
+  {{- range $i, $b := $blocks -}}
+    {{- if gt $i 0 -}}
+      {{- $parts := split $b "A:" -}}
+      {{- if ge (len $parts) 2 -}}
+        {{- $q := trim (replace (index $parts 0) "**" "") " \n\r*" -}}
+        {{- $a := trim (index $parts 1) " \n\r*" -}}
+        {{- $items = $items | append (dict "q" $q "a" $a) -}}
+      {{- end -}}
     {{- end -}}
   {{- end -}}
+{{- end -}}
+{{- if $items -}}
+{{- .Page.Scratch.Add "faqItems" $items -}}
 {{- end -}}
 <div class="faq">
 {{- range $items }}
@@ -19,24 +32,3 @@
   </details>
 {{- end }}
 </div>
-{{- if $items }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {{- range $i, $it := $items }}
-    {{- if $i }},{{ end }}
-    {
-      "@type": "Question",
-      "name": {{ .q | jsonify }},
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": {{ .a | jsonify }}
-      }
-    }
-    {{- end }}
-  ]
-}
-</script>
-{{- end -}}
