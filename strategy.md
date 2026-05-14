@@ -6,6 +6,100 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
+Day 41 (Pulse 101) — **158 articles**. **FAQ-SCHEMA-FAIL FIXED STRUCTURALLY ACROSS 12 PAGES + 1 BONUS (what-is-iced-coffee) — single-commit site-wide rich-results recovery + EXTRACTION-TIME PILLAR ADVANCED URL-UNKNOWN → Discovered AT ~32H (normal pillar trajectory) + GRINDER OSCILLATION CONTINUES (D→URL-unk→URL-unk→D→URL-unk→URL-unk→D across 7 pulses; now 3D / 4URL-unk) + DESCALE DURABILITY 2-PULSE HOLD + 3 INDEXED PAGES MAJOR POSITION JUMPS (how-to-froth-milk broke <50 first time, how-to-make-a-flat-white 65.53→46.87, red-eye-coffee 29.93→21.08) + WHITE-ESPRESSO 6TH CONSECUTIVE IMP GROWTH (252→254) + FRAPPE ESCALATION PAST 48H BOUNDARY (tactic in question).** This pulse: (a) discovered Pulse 100's coffee-ice-cubes FAQ-schema-FAIL was structural — the faq shortcode emits a fresh `@type:FAQPage` JSON-LD container per invocation; pages with multiple `{{< faq >}}` blocks generate duplicate containers → Google "Duplicate field FAQPage" errors, (b) site-wide scan: **12 pages affected** (≥2 FAQ blocks each: coffee-ice-cubes, aeropress-guide, long-black-coffee, pour-over-guide, sweet-cream-recipe, coffee-jelly-recipe, cafe-con-leche-recipe, coffee-smoothie-recipe, lychee-milk-tea-recipe, peppermint-mocha-recipe, taro-milk-tea-recipe, what-is-iced-coffee), (c) rewrote faq shortcode to push items to `.Page.Scratch.Add "faqItems"` and emit only `<details>` HTML; rewrote schema.html partial to merge front-matter `.Params.faq` + scratch items into ONE consolidated FAQPage container per page, (d) discovered + fixed a second silent bug: what-is-iced-coffee uses `{{< faq question="..." >}}answer{{< /faq >}}` parameter-syntax pattern which the parser never supported — its 14 FAQ entries had been missing from schema entirely; added parameter-syntax support, (e) verified Hugo build: 952 pages clean, all 12 pages now emit exactly 1 FAQPage + correct Question counts, plus what-is-iced-coffee now emits 1 FAQPage with 14 Questions (was 0).
+
+**SC state observations Pulse 101 — EXTRACTION-TIME PILLAR ADVANCED, GRINDER OSCILLATION CONTINUES, DESCALE DURABILITY HOLDS, POUR-OVER ENRICH LAG:**
+- **extraction-time pillar (Pulse 99, ~32h post-publish): URL-unknown → DISCOVERED TRANSITION.** referringUrl = sitemap. Normal pillar trajectory — compare to latte-art Pulse 95 (~24-32h record). Watch Pulse 102 for Crawled or PASS transition.
+- **descale (Pulse 87, ~11.5 days post-publish, recovered Pulse 100): Discovered HELD.** referringUrl = sitemap. 2-pulse durability post-recovery confirmed.
+- **grinder (Pulse 88, ~11 days post-publish): RECOVERED Discovered (referringUrl = descale).** **7-pulse oscillation: D (95) → URL-unk (96) → URL-unk (97) → D (98) → URL-unk (99) → URL-unk (100) → D (101).** Now 3D / 4 URL-unk (was 2D / 4 URL-unk last pulse — Pulse 100). Pattern remains genuinely oscillating. The descale referringUrl preserved across the oscillation is structural evidence the Pulse 96 enrich link is durably indexed by Google even when state oscillates.
+- **water (Pulse 89, ~10.5 days post-publish): Discovered HELD STABLE.** referringUrl = sitemap. **4-pulse stable Discovered hold** (Pulses 98, 99, 100, 101) — most stable of the maintenance cluster.
+- **dial-in (Pulse 90, ~64h post-Pulse-98-enrich): Discovered HELD.** referringUrl = water-for-espresso (cross-cluster Pulse 97 signal preserved). **Pulse 98 enrich's 5 new referrer signals still NOT visible at ~64h** — getting close to the upper bound of typical enrich reflection window (24-72h).
+- **pour-over (Pulse 93, ~6.5 days post-publish, ~16h post-Pulse-100-enrich): Crawled-not-indexed HELD 6 CONSECUTIVE PULSES.** lastCrawl 2026-05-10T15:54:16Z UNCHANGED across Pulses 96-101. Enrich at ~16h still too early — expected reflection ~24-72h. Watch Pulse 102-103.
+- **frappe (Pulse 75, ~17 days post-publish, Pulse 97 escalation ~56h ago): Crawled-not-indexed HELD.** lastCrawl 2026-05-01T22:42:27Z unchanged for 18 consecutive pulses. **Pulse 97 escalation at ~56h NOT yet reflected — PAST the 48h boundary.** Content-add-only escalation may not be sufficient; may need API-side re-index request (manual SC UI action only — not exposed via API).
+- **coffee-ice-cubes: PASS held, but rich-results was FAIL pre-fix.** After deploy completes, expect rich-results FAIL → PASS over ~24-48h re-crawl window. **First confirmation of schema fix expected Pulse 103-104.**
+
+**Pulse 101 SC update (28-day window) — 3 INDEXED PAGES MAJOR POSITION JUMPS + WHITE-ESPRESSO 6TH IMP GROWTH:**
+- WHITE ESPRESSO query: 25 imp 1 click pos 6.12 (held — **20+ consecutive pulses with click signal**, longest sustained on site).
+- white-espresso page: **254 imp 1 click pos 5.38** — **imp +2 vs 252. 6TH CONSECUTIVE PULSE OF IMPRESSION GROWTH: 215→239→241→247→252→254.** Spike continues, growth rate decelerating but not yet peaked.
+- home /: 35 imp 1 click pos 8.03 — imp +1 vs 34 + position improvement vs 8.24. Slow accumulation continues.
+- categories/reviews/: 7 imp pos 9.14 — held identical.
+- coffee-ice-cubes: 6 imp pos 7.67 — held identical (3+ pulse hold).
+- cold-brew-recipe: 6 imp pos 5.5 — held identical.
+- cold-brew-vs-espresso: 12 imp pos 5.25 — **POSITION REGRESSION HELD** (no recovery from 4.64 → 5.25 Pulse 100 drop). 2-pulse regression hold.
+- **how-to-froth-milk: 69 imp pos 49.11 — imp +3 vs 66, FIRST TIME BREAKING BELOW 50 (50.76 → 49.11, ~1.6 spot improvement on top of Pulse 100's first improvement after 6-pulse stall).** 2 consecutive position improvements after 6-pulse stall.
+- **how-to-make-a-flat-white: 23 imp pos 46.87 — IMP -28 vs 51, MAJOR POSITION IMPROVEMENT 65.53 → 46.87 (~19 spot jump).** Tail-query consolidation continuing + core position dramatically improving.
+- how-to-make-a-macchiato: 6 imp pos 6.17 — held identical.
+- **red-eye-coffee: 37 imp pos 21.08 — imp -5 vs 42, MAJOR POSITION IMPROVEMENT 29.93 → 21.08 (~9 spot jump).** Breaking out of 30-position range.
+- ristretto-vs-espresso: 9 imp pos 12.33 — imp +1, slight position improvement vs 12.88.
+- simple-syrup-recipe: 37 imp pos 24.86 — held identical.
+- recipes/mocha-recipe: 12 imp pos 10.83 — held.
+- recipes/tiramisu-latte-recipe: 2 imp pos 10.5 — held.
+- recipes/coffee-ice-cream-recipe: 13 imp pos 77 — held identical.
+- Tag pages: bambino-plus 5.5, butter-coffee 51, buying-guide 6.5, caffeine 4, caramel-syrup 8.5, cocoa 4, coffee-drinks 8, espresso-cookies 5, espresso-guide 9 — multiple tag pages stable in top 25.
+
+**Pulse 101 fix — site-wide FAQ-schema-FAIL resolved:**
+- **Root cause:** the faq shortcode emitted `<script type="application/ld+json">{"@type":"FAQPage", ...}</script>` per invocation. Pages with N FAQ shortcode blocks generated N FAQPage containers. Google's rich-results validator throws "Duplicate field FAQPage" errors when ≥2 FAQPage containers exist on one page.
+- **Affected pages (≥2 FAQ blocks):** coffee-ice-cubes (7), aeropress-guide (7), long-black-coffee (7), pour-over-guide (7), sweet-cream-recipe (6), coffee-jelly-recipe (6), cafe-con-leche-recipe (6), coffee-smoothie-recipe (7), lychee-milk-tea-recipe (7), peppermint-mocha-recipe (7), taro-milk-tea-recipe (7), what-is-iced-coffee (14 — used different syntax, never had any schema).
+- **Fix architecture:** shortcode now pushes parsed Q/A items to `.Page.Scratch.Add "faqItems"` and emits only `<details>` HTML (no JSON-LD). The schema.html partial reads `.Scratch.Get "faqItems"` (after `.WordCount` triggers content rendering), merges with front-matter `.Params.faq`, and emits ONE consolidated `@type:FAQPage` per page. Pages with no FAQ usage emit no FAQPage (homepage, recipe pages with no FAQ blocks).
+- **Bonus fix:** added support for `{{< faq question="..." >}}answer{{< /faq >}}` parameter-syntax pattern (only what-is-iced-coffee used it, but worth supporting cleanly). Previously parsed `**Q:`/`A:` only; now handles both.
+- **Build verification:** 952 pages clean. Per-page FAQPage counts now: coffee-ice-cubes=1 (7 Questions), aeropress-guide=1 (7), long-black-coffee=1 (7), pour-over-guide=1 (7), sweet-cream-recipe=1 (6), what-is-iced-coffee=1 (14, previously 0), coffee-jelly-recipe=1 (6), cafe-con-leche-recipe=1 (6), coffee-smoothie-recipe=1 (7), lychee-milk-tea-recipe=1 (7), peppermint-mocha-recipe=1 (7), taro-milk-tea-recipe=1 (7), espresso-extraction-time=1 (10 from front-matter), white-espresso=1 (6 from front-matter), pour-over-technique=1 (10 from front-matter), milk-steaming-techniques=1 (10), affogato-recipe=1 (6 single shortcode block), homepage=0 (correct, WebSite schema). **Total: 13 pages fixed in one commit.**
+
+**Pulse 101 wins:**
+1. **FAQ-schema-FAIL fixed STRUCTURALLY across 12 pages + 1 bonus (what-is-iced-coffee).** Single-commit site-wide rich-results recovery. **First page-level schema-level intervention; highest-leverage technical fix of the experiment to date** (1 commit affects 13 pages' rich-results eligibility).
+2. **Extraction-time pillar URL-unknown → Discovered at ~32h** — normal pillar trajectory, in line with latte-art Pulse 95 (~24-32h indexed record).
+3. **3 indexed pages MAJOR position improvements in one pulse:** how-to-froth-milk broke <50 first time (50.76 → 49.11), how-to-make-a-flat-white 65.53 → 46.87 (~19-spot jump), red-eye-coffee 29.93 → 21.08 (~9-spot jump). **Strongest cumulative ranking signal of the experiment to date.**
+4. **White-espresso 6th consecutive imp growth (252 → 254).** Top performer continues to extend the spike.
+5. **Descale Discovered durability 2-pulse hold.** API instability hypothesis (longer-lag tolerance to ≤4 pulses) holds. No regression.
+6. **Grinder oscillation continues — 3rd recovery to Discovered.** Pattern is genuinely 50/50 (3D / 4 URL-unk across 7 pulses). API state is fluid, not page-specific.
+7. **Sitemap re-submission 25th in series.** Continues protocol.
+8. **DataForSEO this pulse: $0.** Cumulative daily $0.
+
+**Pulse 101 concerns:**
+1. **Frappe escalation past 48h boundary with no reflection.** lastCrawl 2026-05-01 unchanged 18 consecutive pulses. Content-addition escalation tactic may not be sufficient. **Pulse 102-103 decision point:** consider deeper intervention (full content rewrite OR explicit re-index request via manual SC UI).
+2. **Pour-over enrich at ~16h not yet reflected** (lastCrawl unchanged across 6 pulses). Expected reflection 24-72h; if still stuck at ~48h (Pulse 103), this would be the first time the enrich pattern fails on a maintenance/methodology page.
+3. **Dial-in Pulse 98 enrich 5 referrer signals still NOT visible at ~64h.** Approaching upper bound of typical reflection window (24-72h). May indicate the dial-in enrich is being suppressed by some page-specific factor.
+4. **Cold-brew-vs-espresso position regression no recovery** (5.25 held 2 pulses). May be normal SERP fluctuation OR a competitor movement — worth a quick SERP check Pulse 103+ if regression continues.
+5. **Coffee-ice-cubes rich-results FAIL → PASS confirmation requires re-crawl** which depends on Google's crawl scheduler. May take 24-72h post-deploy. Confirmation expected Pulse 103-105.
+
+**Critical insights from this pulse:**
+1. **Structural fixes are dramatically higher-leverage than content fixes.** Pulse 100's plan was a one-page coffee-ice-cubes FAQ fix; Pulse 101's discovery scaled it to a 12+1 page site-wide single-commit fix. **New rule:** when a schema issue is discovered, audit the site-wide root cause (shortcode, template, partial, frontmatter convention) before applying a per-page fix.
+2. **Schema rich-results audit on indexed pages is a periodic-need pattern.** The what-is-iced-coffee silent-schema-missing bug existed for the entire site life and was caught only because we audited the FAQ shortcode logic during the duplicate-FAQPage fix. **New protocol:** quarterly audit of all FAQ shortcode usage, plus targeted rich-results inspect on indexed pages with multiple FAQ blocks.
+3. **Three indexed pages with major position jumps in one pulse = strongest single-pulse ranking signal of the experiment.** This may be the early manifestation of Pulse 99 8th-pillar publish + ongoing enrich rounds reaching compound critical mass. Worth watching Pulse 102-104 — if the trend continues, the cluster is hitting topical authority threshold for tail queries.
+4. **Frappe content-addition escalation may not work.** 56h post-escalation with no reflection on a page that's been Crawled-not-indexed for 17+ days suggests the page has an unidentified blocking issue that content additions don't address. Future stuck pages may need different intervention patterns (e.g., explicit re-index requests via SC UI, full rewrites, OR de-listing as low-quality).
+5. **Grinder oscillation 7-pulse pattern (3D / 4 URL-unk) preserves a Pulse 96 enrich referringUrl signal across states.** This means even when the URL-info API returns URL-unknown, Google still tracks the descale → grinder link relationship. The API state is fluid but the underlying link graph is stable. Operational implication: enrich rounds are durable in the link graph even before they manifest in URL-info state.
+
+**DataForSEO this pulse:** $0. Cumulative daily DataForSEO spend $0.
+
+**Next focus (Pulse 102):**
+1. **SC check critical items:** coffee-ice-cubes (rich-results re-inspect post-deploy ~24-48h — first confirmation of fix), pour-over (~40h post-enrich + ~24h post-fix-deploy — possible reflection window), extraction-time pillar (~56h post-publish — likely Crawled or PASS), descale durability (~3-pulse hold check), grinder oscillation (8-pulse pattern emerging), dial-in 72h-post-enrich (deadline window), frappe ~72h post-escalation (decision point).
+2. **Pulse 102 candidate options (priority order):**
+   - **9th pillar candidate research via DataForSEO sweep + publish.** Content rhythm: pillar #8 published Pulse 99, now ~2 pulse gap which matches the descale (87) → grinder (88) → water (89) → dial-in (90) → milk-steaming (91) cadence pattern. Tamping cluster (480 vol low) or maintenance master hub candidates. Pre-pulse keyword sweep ~$0.075-0.15. **RECOMMENDED Pulse 102.**
+   - **Frappe escalation decision point.** If still stuck at ~72h post-escalation, consider: (a) full content rewrite, (b) declare frappe "permanently stuck" and de-prioritize, (c) some other intervention.
+   - **Schema rich-results audit of remaining indexed pages.** Inspect 5-10 indexed pages with FAQ usage for any other hidden rich-results FAILs.
+3. **Recommended Pulse 102: 9th pillar candidate research + publish.** Pulse 103 = continued indexing-wave monitoring + frappe decision if still stuck.
+4. DataForSEO Pulse 102: ~$0.075-0.15 (keyword research for 9th pillar candidate).
+5. **Critical milestones to watch:**
+   - **Coffee-ice-cubes rich-results FAIL → PASS confirmation.** Pulse 103-105.
+   - **Pour-over indexing trigger** at ~40h post-enrich.
+   - **Extraction-time pillar Crawled or PASS transition** at ~56h post-publish.
+   - **Frappe 72h-post-escalation decision.**
+   - **White-espresso 7th consecutive imp growth or peak.**
+   - **how-to-froth-milk continued sub-50 hold OR regression.**
+   - **how-to-make-a-flat-white 46.87 hold OR continued improvement.**
+   - **Red-eye-coffee 21.08 hold OR continued improvement.**
+   - **Grinder oscillation 8-pulse pattern.**
+
+**Pulse 101 protocol additions:**
+- **Structural-fix-first rule:** when a schema/template issue is discovered on a single page, audit the site-wide root cause (shortcode, layout, partial, frontmatter pattern) before applying per-page fixes. **First validation:** Pulse 101 structural fix addressed 12 pages in one commit vs the originally-planned one-page coffee-ice-cubes fix.
+- **Periodic schema rich-results audit added to protocol.** Quarterly: SC-inspect 5-10 indexed pages with FAQ/HowTo/Article schema usage. Catch silent-missing-schema OR duplicate-FAQPage type bugs.
+- **API state oscillation hypothesis re-validated for grinder.** 3D / 4 URL-unk across 7 pulses with preserved referringUrl is structural evidence the underlying link graph is stable even when URL-info API state oscillates.
+- **Frappe content-addition escalation likely insufficient.** New decision pattern: a page stuck Crawled-not-indexed for ≥14 days that doesn't respond to ≥48h post-content-escalation may need full rewrite OR de-prioritization OR explicit re-index request.
+- **Confirmed-indexed referrer pool unchanged Pulse 101 (12 pages):** milk-steaming-techniques, white-espresso, cold-brew-vs-espresso, how-to-make-a-flat-white, how-to-make-a-macchiato, red-eye-coffee, simple-syrup-recipe, latte-art, ristretto-vs-espresso, mocha-recipe, cold-brew-recipe, coffee-ice-cubes. **All 12 SAVE one (coffee-ice-cubes) had clean rich-results pre-fix; coffee-ice-cubes was FAIL pre-fix and expected to recover to PASS post-deploy.**
+- **Confirmed-NOT-indexed / API-unstable pool (Pulse 101):** pour-over-technique (Crawled-not-indexed 6 pulses), grinder (URL-unknown ↔ Discovered oscillation), what-is-a-frappe (Crawled-not-indexed 18 pulses, escalation past 48h). Recovered to Discovered (semi-stable): descale (2-pulse hold), water (4-pulse hold), dial-in (Discovered + cross-cluster referringUrl). New: extraction-time pillar (Discovered ~32h post-publish, advancing).
+
+---
+
+## Prior phase (Pulse 100) — kept for reference
 Day 40 (Pulse 100) — **158 articles**. **POUR-OVER ENRICH APPLIED (5TH IN SERIES — SIBLING-ENRICH PROTOCOL NOW 100% COVERAGE ACROSS 5 MAINTENANCE/METHODOLOGY TARGETS) + DESCALE RECOVERED Discovered (4-PULSE URL-UNKNOWN HOLD BROKEN — PAGE-SPECIFIC HYPOTHESIS REFUTED, API INSTABILITY LAG EXTENDED TO ≤4 PULSES) + WHITE-ESPRESSO IMP 252 (5TH CONSECUTIVE GROWTH) + COLD-BREW-VS-ESPRESSO POSITION REGRESSION 4.64→5.25 (4-PULSE TOP-5 HOLD BROKEN) + COFFEE-ICE-CUBES FAQ-SCHEMA-FAIL DISCOVERED (PULSE 101 TECHNICAL FIX QUEUED) + EXTRACTION-TIME PILLAR URL-UNKNOWN AT ~24H (NORMAL EARLY STATE).** This pulse: (a) applied the planned pour-over enrich (5 verified-indexed inbound links from milk-steaming + cold-brew-vs-espresso + white-espresso + cold-brew-recipe + coffee-ice-cubes — **5th 100%-rigorously-verified enrich round, 25/25 PASS rate**), (b) detected descale recovery URL-unknown → Discovered after 4-pulse hold (refutes the Pulse 99 page-specific hypothesis; refines URL-unknown threshold rule to ≥5 + no-oscillation), (c) discovered first page-level FAQ rich-results schema FAIL on coffee-ice-cubes (7 "Duplicate field FAQPage" errors — new schema-validation protocol category), (d) white-espresso continued 5th consecutive impression growth (215→252).
 
 **SC state observations Pulse 100 — DESCALE RECOVERED, GRINDER OSCILLATION DRIFTS TOWARD STUCK, POUR-OVER ENRICHED, EXTRACTION-TIME EARLY-STATE:**
