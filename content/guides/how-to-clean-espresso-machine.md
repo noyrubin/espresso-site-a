@@ -17,6 +17,20 @@ faq:
     answer: "Most machines with a built-in indicator will alert you. Without an indicator, descale every 2–3 months if you have hard water, or every 4–6 months with soft/filtered water. Signs that descaling is overdue: slower water flow than usual, unusually loud pump, shots running at wrong temperature, or white/gray mineral deposits visible in the water path."
   - question: "Can I use white vinegar to descale my espresso machine?"
     answer: "Many manufacturers recommend against white vinegar — the acetic acid can leave residue and affect the taste of subsequent shots. Citric acid solution (1 tablespoon per liter of water) is a cheaper alternative to commercial descalers that works well and rinses cleanly. However, always check your machine's manual, as some void the warranty if non-approved descalers are used."
+  - question: "Why does my espresso taste bitter or stale even though my beans are fresh?"
+    answer: "Rancid coffee oils in the portafilter basket, shower screen, group head gasket, and grinder burrs are the most common culprit. Coffee oils start oxidizing within 24-48 hours of contact with air, and a single skipped weekly clean can leave enough oil residue on hot brewing surfaces to taint every subsequent shot. Run a full backflush cycle with detergent, soak the basket and portafilter in Cafiza solution for 20 minutes, scrub the shower screen, and pull two blank shots to flush — most stale-taste complaints resolve immediately. If the taste persists after a deep clean, your grinder is the next suspect."
+  - question: "Should I take the steam wand tip apart to clean it?"
+    answer: "Yes, every 2-4 weeks if you steam milk daily. Most steam wand tips unscrew counterclockwise (use a small wrench or fingers if you can grip it). Soak the tip in hot Cafiza solution for 15-20 minutes, then use a thin needle or wand cleaning pin to clear each hole individually. Milk proteins build up inside the tip's narrow channels even with daily wiping and purging, and a partially clogged tip throws an uneven steam jet that ruins microfoam. After cleaning, hand-tighten the tip back on — over-torquing strips the threads."
+  - question: "Can I clean my espresso machine with just hot water?"
+    answer: "Hot water alone handles the daily routine (rinsing the basket, flushing the group head, wiping the wand) but it does not dissolve oxidized coffee oils that bond to metal surfaces over time. The weekly backflush requires a surfactant detergent (Cafiza, Puly Caff, Urnex Espresso Machine Cleaner) to break down those oils. Skipping detergent for more than 2-3 weeks lets oil residue accumulate to the point where it changes the taste of every shot — a problem hot water can no longer fix without a deep soak."
+  - question: "Why is water leaking from around my portafilter when I lock it in?"
+    answer: "A worn or hardened group head gasket — the rubber seal between the portafilter and the group head — is the cause 90% of the time. Gaskets harden from heat cycling and lose their compression seal within 6-18 months of regular use. Other causes: coffee grounds caked onto the gasket (clean with a group head brush), an over-dosed basket pushing the puck against the screen, or a worn portafilter ear. Replacement gaskets cost $5-10 and swap in under 5 minutes with a flathead screwdriver."
+  - question: "How do I clean inside the boiler without disassembling the machine?"
+    answer: "You don't clean the boiler with detergent — only with descaler. The boiler interior is sealed from coffee oils (water comes in clean from the tank and goes out through the group head), so the only buildup inside is mineral scale from your water supply. Run a descaling cycle every 1-3 months (sooner with hard water) using citric acid solution or a commercial descaler like Durgol. The descaler dissolves calcium and magnesium scale on the boiler walls, heating element, and internal water lines. Never put Cafiza, soap, or any non-descaler product into the water tank — these are designed for the brew path, not the boiler."
+  - question: "Does cleaning frequency change with single boiler vs dual boiler machines?"
+    answer: "The daily and weekly routines are identical — group flush, wand wipe, weekly backflush. Dual boiler machines (Breville Dual Boiler, Lelit Bianca, Profitec Pro 700) have a separate steam boiler that doesn't see coffee oils, so backflushing only cleans the brew boiler side. The steam boiler still scales from minerals and needs descaling on the same schedule as a single boiler machine. The trade-off: dual boilers hold heat more stably and tolerate longer between descales without temperature drift, but when scale does build up it affects two separate boilers, doubling the descale-cycle time."
+  - question: "Is it safe to run a cleaning cycle while the machine is hot?"
+    answer: "Yes — and for backflushing specifically, the machine should be at full operating temperature. Hot detergent solution is dramatically more effective at dissolving coffee oils than room-temperature solution. The exception is descaling: many machines have a dedicated descaling mode that adjusts pump pressure and heating element behavior; if yours has one, use it. For external cleaning (wiping the machine body, polishing the drip tray), turn the machine off and let it cool to avoid burns. Never spray water near the electronics or power switch, even when the machine is unplugged."
 ---
 
 A dirty espresso machine makes bad coffee. Old coffee oils turn rancid, mineral deposits restrict water flow, and milk residue in the steam wand becomes a health hazard. The good news is that maintaining your machine takes just a few minutes per day and keeps your espresso tasting fresh for years.
@@ -190,6 +204,174 @@ Total cost for a complete cleaning kit is about $30-50 and lasts most of a year.
 | Yearly | Replace gasket, deep clean internals | 30-60 min |
 
 A note on what this guide does *not* cover: **the grinder**. Grinders accumulate coffee oils on the burrs and fines in the chute, both of which go rancid and cause stale or bitter shots even when the machine itself is spotless. Most home baristas underestimate how much grinder cleanliness affects taste. The grinder routine is separate from the machine routine — same household, different chemicals, different frequency, different tools. See our complete [coffee grinder cleaning guide](/guides/how-to-clean-coffee-grinder/) for the burr-side maintenance routine, brand-specific notes for Breville, Baratza, Niche, Eureka, and others, and the answer to whether you should use rice or Grindz tablets.
+
+## Cleaning Each Component in Depth
+
+The schedule above tells you *when* to clean. This section tells you *how* to clean each part properly — what tools to use, what surfaces to avoid, and what "clean enough" actually looks like for each component.
+
+### Portafilter and Basket
+
+The basket sees more abuse than any other part — fresh-ground coffee, 9-bar pressure, hot water, and detergent in cycles. The pinholes in the basket are the choke point: when they clog with fine particles and oil, water channels through whatever holes remain open, and your shots channel.
+
+**Weekly soak procedure:**
+
+1. Remove the basket from the portafilter. Some baskets come out with finger pressure; others need a spring tool or a coin to lever them out.
+2. Dissolve 1 teaspoon of Cafiza (or equivalent) in 500ml of hot water in a wide bowl or pyrex measuring cup.
+3. Drop in the basket, the portafilter (just the spouted head, not the handle if it has a wooden one), and the blind basket if you backflushed earlier.
+4. Soak 20 minutes. The water will turn brown — that is the right outcome.
+5. Scrub the basket holes with a stiff nylon brush. Some pinholes will still look discolored from the outside; what matters is that water passes through every hole when you rinse.
+6. Rinse under running water until no detergent foam is visible. Dry on a clean cloth.
+
+**What a clean basket looks like:** the holes appear as small, perfectly circular black dots against the bright stainless steel inner wall. If the holes look fuzzy, smeared, or partially occluded, scrub more.
+
+**What to avoid:** dishwashers (detergent residue), bleach (corrodes stainless steel over time), wire brushes (scratch the chrome plating on the portafilter handle), abrasive sponges (scratch the basket and reduce its life).
+
+### Group Head and Shower Screen
+
+The shower screen is the metal disc behind the group head with hundreds of small holes that distribute water across the puck. Coffee oils, fines, and minerals build up on both sides of this screen — the side facing the puck (most visible) and the side facing the dispersion plate (harder to inspect).
+
+**Weekly procedure:**
+
+1. With the machine off and cool, locate the central screw holding the shower screen in place. Most machines use a flathead, but some (Rancilio Silvia, certain Gaggia models) use Allen or Torx keys.
+2. Unscrew, lift the shower screen, and inspect the underside. You will likely see brown coffee oil residue and sometimes ground particles trapped in the holes.
+3. Soak the screen flat in Cafiza solution for 15-20 minutes.
+4. Scrub both sides with a soft brush. A dedicated group head brush (curved, $8-12) reaches around the gasket area in one pass.
+5. Inspect the dispersion plate behind the screen — wipe with a damp cloth, scrub any visible deposits.
+6. Wipe the group head interior with a dampened cloth wrapped around a finger or with a group head brush.
+7. Reassemble. Tighten the screen screw firmly but do not over-torque (you will strip the threads in the aluminum group head body).
+
+**Diagnostic clue:** if water sheets from one side of the puck during a shot or the puck shows uneven extraction (light on one side, dark on the other), the shower screen is partially clogged on the busier side.
+
+### Steam Wand — External and Internal
+
+External wiping is the daily routine. Internal cleaning is the part most home baristas skip — and it directly affects [microfoam quality and milk steaming consistency](/guides/milk-steaming-techniques/).
+
+**External (daily, 15 seconds):**
+
+1. Immediately after steaming, wipe the wand from base to tip with a dedicated damp microfiber cloth.
+2. Open the steam valve for 1-2 seconds to purge any milk pulled into the tip.
+3. Inspect the tip holes. Use a wand cleaning pin (or a paperclip) to clear any visible milk residue from each hole individually.
+
+**Internal (every 2-4 weeks):**
+
+1. Wait for the machine to cool. The wand and tip are hot enough to burn skin for 10+ minutes after the last steam.
+2. Unscrew the steam tip. Most tips remove counterclockwise by hand; if it is stuck, a small adjustable wrench or pliers (wrapped in a cloth to avoid scratching) helps.
+3. Drop the tip into a small cup of hot Cafiza solution. Soak 15-20 minutes.
+4. Use a wand cleaning pin or thin needle to clear each hole individually. Push the pin through from the inside of the tip outward — the milk debris is usually wedged at the narrowest point in the channel.
+5. Soak the inside of the wand pipe by purging steam-pressurized hot water through it for 30-60 seconds, then wiping the inside with a long brush or pipe cleaner.
+6. Rinse the tip thoroughly under running water, hand-tighten back onto the wand, and purge fresh water through to verify a clean, symmetric steam pattern.
+
+**Symptom of a dirty steam tip:** the steam jet is uneven, weak from one hole, or angled to the side. You will usually feel this before you see it — the milk pitcher requires constant repositioning to maintain a stable whirlpool. A clean tip throws a symmetric, full-pressure jet that maintains its position once you find the right angle.
+
+### Drip Tray, Drain, and Water Tank
+
+These see less coffee oil than the brew path but accumulate their own residue: coffee splash and mineral scale in the drip tray, stagnant water and biofilm in the tank.
+
+**Drip tray (weekly):**
+
+1. Remove the tray, including any grate and float indicator.
+2. Wash with hot water and mild dish soap (this is the one place dish soap is acceptable — it never touches the brew path).
+3. Scrub corners with a brush; coffee splash dries to a hard film in tray corners.
+4. Rinse, dry, replace.
+
+**Water tank (monthly):**
+
+1. Empty the tank.
+2. Wash with hot water and a small amount of dish soap. Rinse very thoroughly — any soap residue will pass into the boiler on the next use.
+3. Inspect for white mineral haze on the interior walls; if present, soak overnight in citric acid solution (1 tablespoon per liter), then rinse and refill.
+4. Replace any in-tank water filter on its scheduled interval — usually every 60 brewing days for Breville machines, similar for others.
+
+### Knock Box
+
+A knock box is not part of the machine but it is part of the workflow, and a neglected knock box is a hygiene problem. Empty after every session, rinse weekly with hot water, scrub corners every 2-4 weeks. Coffee pucks left for more than 24 hours grow mold, which then aerosolizes when you knock the next puck in.
+
+## Machine-Specific Cleaning Notes
+
+The general routine applies to all home espresso machines, but a few popular models have specific quirks worth knowing.
+
+### Breville Bambino and Bambino Plus
+
+**No three-way valve** — these machines cannot backflush in the traditional sense. The cleaning routine is:
+
+- Daily group flush by running water through with no portafilter.
+- Use Breville's cleaning tablets in the included cleaning disc + portafilter once every 200 shots (the machine prompts you).
+- Weekly: soak the portafilter, basket, and steam tip in Cafiza solution.
+- The Bambino has a built-in water filter cartridge — replace every 60 brewing days or when the indicator triggers.
+
+The Bambino's automatic milk steaming arm (Bambino Plus) needs its specific milk pickup tube purged with hot water after every use. If you steam a milk-based drink and then leave the machine for several hours, milk residue inside the tube will sour. The Plus has an automatic clean cycle for this — run it after every milk session.
+
+### Breville Barista Express and Barista Pro
+
+These have a three-way valve and support full backflushing. Use the included cleaning disc (the small black disc that fits into the portafilter) and Breville's cleaning tablets — the machine has a guided clean cycle accessible from the menu.
+
+The built-in grinder needs its own cleaning routine — see the [grinder cleaning guide](/guides/how-to-clean-coffee-grinder/) for the conical burr removal procedure. The Barista Express grinder uses smaller, faster-clogging burrs than standalone grinders and benefits from monthly burr cleaning.
+
+### Gaggia Classic Pro
+
+The Gaggia Classic Pro is the most user-serviceable home espresso machine on the market. Cleaning quirks:
+
+- Backflushes excellently with the included blind basket. Use Cafiza, not Gaggia's own cleaner (which is more expensive and less effective).
+- The plastic steam wand on older models is harder to clean than the metal wand on newer units — soak in Cafiza weekly to prevent milk buildup inside.
+- The brass group head retains heat and pressure beautifully but also retains coffee oils — backflush weekly without exception.
+- The boiler is brass-lined and prone to scaling. Descale every 1-2 months with hard water; the boiler is small and benefits from frequent short descales rather than infrequent long ones.
+
+### Rancilio Silvia
+
+Similar to the Gaggia Classic in many respects: three-way valve, brass group head, user-serviceable. Specific notes:
+
+- The Silvia's E61-style group head holds significant thermal mass — let it preheat 20-30 minutes before pulling, and let it cool 20+ minutes before any internal cleaning that requires unscrewing parts.
+- Newer Silvia Pro models have a separate PID temperature controller; the cleaning routine is identical but the recovery time after backflushing is faster.
+- The steam wand on the Silvia is a high-pressure, single-hole tip on older models and a multi-hole tip on newer ones. The single-hole tip is easier to clean but produces a more aggressive steam jet — be careful with internal pin clearing.
+
+### La Marzocco Linea Mini and Other Prosumer Dual Boilers
+
+Dual-boiler prosumer machines (Linea Mini, Lelit Bianca, Profitec Pro 700) have specific manufacturer-recommended cleaning products. La Marzocco's official cleaner (often a Cafiza variant in branded packaging) is what the warranty covers. Off-brand detergents work fine in practice but may void warranty coverage.
+
+These machines also have larger boilers that scale more slowly but require longer descale cycles when they do. Plan 60-90 minutes for a full descale on a prosumer dual-boiler machine vs 20-30 minutes on a Bambino or Gaggia Classic.
+
+## Common Cleaning Mistakes
+
+The same handful of mistakes shows up across home barista forums month after month. Most of them are avoidable.
+
+**Using dish soap in the portafilter.** Dish soap leaves a film that you can never fully rinse out. The next shot tastes soapy. Use Cafiza or a similar dedicated espresso machine detergent for any part that touches coffee.
+
+**Using vinegar to descale.** Acetic acid leaves a residual taste in the boiler that takes 10+ flush cycles to fully rinse out, and it can degrade rubber seals over time. Use citric acid (1-2 tablespoons per liter of water) or a commercial descaler.
+
+**Skipping the steam wand internal clean.** External wiping handles 80% of milk residue. The remaining 20% accumulates inside the tip and inside the wand pipe, and after 6-8 weeks of skipped internal cleaning, the wand throws an asymmetric steam jet that ruins microfoam. Internal clean every 2-4 weeks is non-negotiable for daily milk drinkers.
+
+**Backflushing without rinsing.** A backflush cycle pulls detergent through the group head; if you don't follow with 5+ water-only cycles and a blank shot, the next shot tastes of soap. Always finish the cycle.
+
+**Cleaning while the machine is cold for backflushing.** Detergent is dramatically more effective at full operating temperature. Cold-machine backflushing leaves more residue and requires more cycles to be effective.
+
+**Soaking the group head gasket in solvent.** The rubber gasket softens and degrades from prolonged exposure to detergent solutions. Wipe it externally; don't soak it.
+
+**Forgetting the gasket replacement schedule.** Group head gaskets last 6-18 months depending on use. A hardened gasket leaks water around the portafilter on every shot — a clear symptom that overrides any cleaning routine. Keep a spare gasket in your supplies drawer.
+
+**Cleaning the grinder with the same chemicals as the machine.** Grinder cleaners (Grindz, Cafiza grinder formula) are specifically designed to be ground through burrs and leave no residue. Espresso machine detergent is NOT safe for the grinder. Use the right chemical for the right component.
+
+**Neglecting the basket holes.** Most baristas wipe the inside of the basket and call it done. The pinholes are the choke point. Hold the basket up to a light and confirm every hole passes light cleanly — if any look fuzzy or partially occluded, scrub more.
+
+## Cleaning-Based Diagnostics
+
+When something goes wrong with a shot, the cause is often a missed cleaning step. Use this table to localize the problem before adjusting [grind, dose, yield, or shot time](/guides/how-to-dial-in-espresso/).
+
+| Symptom | Likely Cleaning Cause | Fix |
+|---------|----------------------|-----|
+| Off, rancid, or stale taste | Old coffee oils in portafilter, basket, or shower screen | Backflush + soak portafilter and basket; scrub shower screen |
+| Soapy or chemical aftertaste | Detergent residue after backflushing | Run 5+ blank shots with water; pull two real shots and discard |
+| Vinegar or metallic taste | Recent descale not fully rinsed | Refill tank, run 2 full tanks of fresh water through brew + steam paths |
+| Slow water flow through group head | Mineral scale in boiler/lines or partially clogged shower screen | Descale; remove and scrub shower screen and dispersion plate |
+| Loud, sputtering pump | Air in lines from low tank, or scale restricting flow | Refill tank; if persists, descale |
+| Water leaking around portafilter | Worn group head gasket or coffee grounds on gasket | Wipe gasket; replace if hardened or cracked |
+| Uneven extraction (one side light, one side dark) | Shower screen partially clogged on one side | Remove, soak, scrub shower screen; verify even water distribution with a blank shot |
+| Weak or angled steam from wand | Milk buildup in tip holes or wand internals | Unscrew tip, soak in Cafiza, clear each hole with a wand pin |
+| Thin or unstable milk microfoam | Same — partially clogged steam tip | Same — internal wand clean |
+| Coffee splash escaping the basket during shot | Basket pinholes clogged with fines and oil | Soak basket in Cafiza, scrub each hole |
+| Acrid burnt smell from group head | Coffee residue charring on hot metal | Group flush more thoroughly after each shot; weekly backflush |
+| Off-tasting steam (passes into milk) | Mineral buildup in steam boiler or steam wand internals | Descale; soak steam wand |
+| Bitter shots even with fresh beans | Either old grinder oils OR machine-side oil buildup | Check both: deep-clean machine first, then grinder if persists |
+
+The diagnostic principle: when a shot suddenly tastes wrong on a machine that was pulling great espresso last week, suspect contamination before recalibrating the grind. A clean machine reveals genuine dialing variables; a dirty machine masks them behind off-flavors. Clean first, dial in second.
 
 ## Related Guides
 
