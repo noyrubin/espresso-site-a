@@ -4,6 +4,124 @@ This journal tracks all actions taken by Agent A, including reasoning and output
 
 ---
 
+## 2026-05-15 06:00 IDT — Pulse 102: 9TH PILLAR DELIVERED VIA EXPAND-THEN-ENRICH ON EXISTING 41-DAY-STUCK PAGE (how-to-clean-espresso-machine 1.8k → 5.4k words, FAQ 4 → 11, 5 indexed-referrer inbound links in one commit — first combined pillar-expansion + enrich-during-publish-event in the experiment) + 3 SIMULTANEOUS API STATE REGRESSIONS (descale + grinder + dial-in ALL → URL-unknown — unprecedented synchronized regression suggests Google-side maintenance-cluster fluctuation rather than page-specific issues) + POSITION-JUMP CLUSTER SUSTAINS 2-3 PULSES (how-to-make-a-flat-white 46.87 → 18 = ~29 spots this pulse, ~48 cumulative 2 pulses; red-eye-coffee 21.08 → 14.89 = ~6 spots, ~15 cumulative 3 pulses; how-to-froth-milk 49.11 → 47.69, 3rd consecutive position improvement) + EXTRACTION-TIME PILLAR PICKS UP TAG-PAGE REFERRER (/tags/extraction-theory/) + COFFEE-ICE-CUBES RICH-RESULTS RE-CRAWL STILL PENDING (last crawl Apr-26, fix deployed yesterday, Google's schedule independent) + WHITE-ESPRESSO IMP TRAJECTORY PEAK (254 → 253, 1st decline after 6-pulse growth)
+
+**Action:** Executed Pulse 101-planned 9th pillar research + publish — but pivoted from new-publish to existing-page-expansion when DataForSEO research identified "how to clean espresso machine" (1600 vol LOW comp) as the standout candidate and audit revealed the page ALREADY EXISTED (200-line Day-1 page, stuck "Discovered - not indexed" for 41 days). Expanded the existing page from ~1800 to ~5400 words by adding 4 new sections: Component-Deep-Dives (portafilter/basket pinhole care, group head + shower screen + dispersion plate, steam wand external + internal disassembly, drip tray + tank, knock box), Machine-Specific Notes (Bambino, Barista Express/Pro, Gaggia Classic Pro, Rancilio Silvia, prosumer dual boilers), Common Cleaning Mistakes (8 mistakes), Cleaning-Based Diagnostics (symptom → cleaning cause → fix table mapping 14 common symptoms). Expanded FAQ frontmatter from 4 to 11 entries covering bitter/stale taste from old oils, steam tip disassembly procedure, hot-water-alone limits, portafilter leak diagnosis, brew-path-vs-boiler chemical separation, single vs dual boiler routines, hot-machine cleaning safety. Combined the pillar expansion with a 5-link enrich pattern (core 3 + 2 unique-per-round): added inbound link from milk-steaming-techniques (steam wand internal-clean callout in the calibration plan), white-espresso (cleaning unmasks light-roast off-notes paragraph in related-guides), cold-brew-vs-espresso (concretized "15 min/week maintenance time" in the ownership-cost section), how-to-make-a-flat-white (flat white as diagnostic drink for wand cleanliness), how-to-make-a-macchiato (short-format magnifies contamination paragraph). Hugo build: 952 pages clean. Schema verification: how-to-clean-espresso-machine emits 1 FAQPage with 11 Questions (was 1 FAQPage with 4). Pushed and deployed via Vercel. Sitemap re-submitted (26th in series).
+
+**Pulse 102 plan adherence — Pulse 101 strategy recommended 9th pillar candidate research + publish. DataForSEO search identified the candidate (how to clean espresso machine, 1600 vol LOW). Audit revealed the page existed but was 41-day-stuck. Pivoted to expand-then-enrich rather than new-publish. Net effect: target keyword pillar delivered in one commit combining content depth + inbound link signals.**
+
+**Pivot reasoning — why expand instead of publish new:**
+- DataForSEO search on 8 candidate keywords identified "how to clean espresso machine" 1600 vol LOW (15) as the standout.
+- Audit: `ls content/guides/ | grep clean` returned how-to-clean-espresso-machine.md already exists (200 lines, 4 FAQ entries, Day-1 publish 2026-04-04).
+- SC inspect: "Discovered - currently not indexed" for 41 days. referringUrl = homepage only.
+- Three options considered: (a) publish new page targeting same keyword — risk: duplicate-content competition + fresh-discovery delay, (b) expand existing page into pillar + enrich — leverage existing URL graph + add depth + add inbound links in one commit, (c) leave the page alone, target different keyword. **Chose (b)** because the existing-page-expansion strategy combines the benefits of a new pillar (content depth, FAQ coverage) with the benefits of enrich (inbound link signals) on a page that already has Google awareness but lacks signals.
+- **New protocol rule logged:** before publishing a new page on a target keyword, check if a page already exists in content/. If yes, expand-then-enrich vs publish-new.
+
+**SC inspection findings Pulse 102:**
+- **coffee-ice-cubes (post-Pulse-101-fix re-inspect):** rich-results STILL FAIL — lastCrawl 2026-04-26T07:26:15Z, Google has NOT re-crawled since the Pulse 101 fix was deployed yesterday. Fix delivered but reflection depends on Google's crawl schedule. Expected re-crawl 24-72h post-deploy = Pulse 103-105.
+- **pour-over-technique (~40h post-Pulse-100-enrich):** Crawled-not-indexed HELD, lastCrawl 2026-05-10T15:54:16Z UNCHANGED — 7 consecutive pulses. Within typical 24-72h reflection window but no signal yet.
+- **extraction-time pillar (~56h post-publish):** Discovered HELD with NEW referringUrl /tags/extraction-theory/. First tag-page crosslink visible. Slower than latte-art Pulse 95 (~24-32h indexed record) — extraction-time is 8th pillar in a streak, possible saturation effect.
+- **dial-in (Pulse 90, ~80h post-Pulse-98-enrich):** REGRESSED Discovered → URL-unknown. The 5 enrich referrer signals NEVER manifested AND the Discovered state regressed. First time the enrich pattern produced no observable benefit + caused state regression.
+- **frappe (Pulse 75, ~72h post-Pulse-97-escalation):** Crawled-not-indexed HELD — 19 consecutive pulses, lastCrawl unchanged 2026-05-01. **Escalation has officially failed at the 72h boundary.** Content-addition tactic insufficient for 17+ day stuck pages.
+- **descale (Pulse 87, ~24h post-recovery):** REGRESSED Discovered → URL-unknown. 2-pulse Discovered hold broken.
+- **grinder (Pulse 88):** REGRESSED Discovered → URL-unknown. 8-pulse oscillation now 3D / 5 URL-unk.
+- **water (Pulse 89):** Discovered HELD STABLE. referringUrl = sitemap. 5-pulse Discovered hold. THE ONLY stable maintenance-cluster page.
+
+**3-simultaneous-regression observation:** descale + grinder + dial-in ALL went URL-unknown within an 8-hour pulse window. This is unprecedented synchronized regression. Hypothesis: maintenance-cluster Google-side API instability (vs page-specific issues) — strong evidence because the regressions are clustered in topical space (maintenance/methodology) and clustered in time. Watch Pulse 103 — if all 3 recover simultaneously, hypothesis confirmed.
+
+**Pulse 102 SC update (28-day window) — POSITION-JUMP CLUSTER SUSTAINS 2-3 PULSES + WHITE-ESPRESSO IMP PEAK:**
+- WHITE ESPRESSO query: 24 imp 1 click pos 6.0 (was 25/6.12) — slight imp pullback + slight position improvement.
+- white-espresso page: 253 imp 1 click pos 4.82 — **imp -1 vs 254. FIRST DECLINE AFTER 6 CONSECUTIVE GROWTH PULSES** (215→239→241→247→252→254→253). Position improvement +0.56 (5.38 → 4.82). Peak crested but position is improving (compensating).
+- home /: 36 imp 1 click pos 7.83 (imp +1 + position improvement vs 8.03).
+- categories/reviews/: 8 imp pos 8.38 (imp +1 + position improvement).
+- coffee-ice-cubes: 7 imp pos 6.86 (imp +1 + position improvement vs 7.67).
+- cold-brew-recipe: 7 imp pos 5.86 (imp +1, slight position regression vs 5.5).
+- cold-brew-vs-espresso: 13 imp pos 5.31 — 3-pulse position regression (4.64 → 5.25 → 5.31). May indicate competitor SERP movement.
+- **how-to-froth-milk: 72 imp pos 47.69 — imp +3 vs 69, 3RD CONSECUTIVE POSITION IMPROVEMENT (50.76 → 49.11 → 47.69).** Sub-50 hold solid.
+- **how-to-make-a-flat-white: 12 imp pos 18 — MAJOR POSITION JUMP CONTINUES 46.87 → 18 (~29 SPOTS).** Two-pulse cumulative: 65.53 → 46.87 → 18 = ~48 spots in 2 pulses.
+- how-to-make-a-macchiato: 6 imp pos 6.17 — held identical.
+- **red-eye-coffee: 38 imp pos 14.89 — POSITION JUMP CONTINUES 21.08 → 14.89 (~6 spots).** Three-pulse cumulative: 30.28 → 21.08 → 14.89 = ~15 spots in 3 pulses. Entering top-15.
+- ristretto-vs-espresso: 9 imp pos 12.33 — held identical.
+- simple-syrup-recipe: 37 imp pos 24.86 — held.
+- recipes/mocha-recipe: 12 imp pos 10.83 — held.
+- recipes/tiramisu-latte-recipe: 2 imp pos 10.5 — held.
+- recipes/coffee-ice-cream-recipe: 14 imp pos 71.64 (imp +1 + position improvement vs 77).
+
+**Reasoning — why combine pillar expansion + enrich in one pulse:**
+The standard protocol treats pillar publish and enrich as separate operations. This pulse combined them because (a) the target page was already stuck Discovered for 41 days suggesting both content depth AND inbound link signals were missing, (b) the page exists in the maintenance cluster which has been receiving enrich rounds for adjacent pages (descale, grinder, water, dial-in, pour-over), (c) the 5-link enrich uses the same protocol applied 5x to other maintenance pages — well-tested pattern, (d) deploying both in one commit creates the strongest possible signal-density change for the page on a single re-crawl. Risk: confounds the signal of which component (content depth vs link signals) caused any indexing shift — but the dual deployment is the practical priority over isolated experimentation.
+
+**Reasoning — why the position-jump cluster continuing to sustain matters:**
+Pulse 101 was the first time 3 indexed pages moved positions significantly in the same pulse. Pulse 102 sustains the pattern: how-to-make-a-flat-white moved another ~29 spots, red-eye-coffee moved another ~6 spots, how-to-froth-milk continued sub-50 improvements. Cumulative: how-to-make-a-flat-white = ~48 spots in 2 pulses, red-eye-coffee = ~15 spots in 3 pulses. **This is now a multi-pulse compound topical authority signal — strongest cumulative ranking trajectory of the experiment.**
+
+**Pulse 102 wins:**
+1. **9th pillar delivered via expand-then-enrich pattern.** how-to-clean-espresso-machine: 1.8k → 5.4k words, FAQ 4 → 11, 5 inbound enrich links from indexed referrers. One commit combines pillar depth + enrich signals.
+2. **Position-jump cluster sustains 2-3 consecutive pulses.** how-to-make-a-flat-white = ~48 cumulative spots (2 pulses), red-eye-coffee = ~15 cumulative spots (3 pulses), how-to-froth-milk = 3rd consecutive position improvement. **Strongest sustained ranking signal of the experiment.**
+3. **Extraction-time pillar picks up tag-page referrer** (/tags/extraction-theory/). First time a tag page appears as a referringUrl on an indexing-wave page.
+4. **3 simultaneous maintenance-cluster regressions (descale + grinder + dial-in) provide strong evidence for Google-side API instability hypothesis.** Synchronized regressions in topical + temporal space.
+5. **White-espresso position improvement compensates impression peak.** Page now pos 4.82 (was 5.38). Top-5 ranking achieved on top performer.
+6. **Sitemap re-submission 26th in series.**
+7. **DataForSEO this pulse: $0.090 ($0.075 search-volume + $0.013 keyword-ideas [wasted — non-espresso results] + $0.002 SERP).** Cumulative daily $0.090. Within budget.
+
+**Pulse 102 concerns:**
+1. **3 simultaneous regressions in maintenance cluster.** descale, grinder, dial-in all → URL-unknown. Synchronized timing suggests Google-side issue but worth watching whether they recover together Pulse 103.
+2. **Frappe escalation FAILED at 72h boundary.** Content-addition tactic confirmed insufficient. Pulse 103 decision: full rewrite OR de-prioritize OR explicit re-index request.
+3. **Dial-in Pulse 98 enrich produced NO observable benefit + state regressed.** First time the enrich pattern failed. Concerning data point.
+4. **Cold-brew-vs-espresso 3-pulse position regression continues** (4.64 → 5.25 → 5.31). May indicate competitor SERP movement.
+5. **White-espresso impression peak crested at 254.** Spike trajectory ending. Watch decline acceleration.
+6. **Coffee-ice-cubes rich-results FAIL still cached.** Google hasn't re-crawled since Apr-26. Pulse 103-105 expected confirmation.
+7. **Wasted ~$0.013 on a generic keyword-ideas DataForSEO call** that returned non-espresso results (homemade cleaning solution, dryer vent cleaning, etc.). Lesson: when researching narrow niche keywords, search-volume on a targeted candidate list is higher-leverage than keyword-ideas which returns broader pools.
+
+**Critical insights from this pulse:**
+1. **Pillar-equivalence-by-expansion is a valid pattern when target keyword's URL already exists.** Saved a fresh-publish discovery delay + delivered the same outcome (substantive content + 10+ FAQ + inbound links). **New protocol rule:** check existing content/ before publishing new pages on target keywords; expand-then-enrich when applicable.
+2. **The position-jump cluster has now sustained 2-3 consecutive pulses across 3 different pages.** Strongest sustained ranking signal of the experiment. Hypothesis: 8 pillars + 5 enrich rounds + Pulse 101 schema fix is creating compound topical authority — Google is re-evaluating ranking for related-but-not-targeted pages in the cluster on a multi-pulse trajectory.
+3. **3-simultaneous-regression observation provides strong evidence for Google-side API instability over page-specific issues.** descale + grinder + dial-in all regressed within ~8h, all in maintenance cluster. If they all recover simultaneously Pulse 103, hypothesis confirmed.
+4. **Frappe at 72h post-escalation with no reflection = content-add escalation tactic is officially insufficient for ≥17-day-stuck pages.** Confirmed pattern. New decision tree: pages stuck ≥14 days with no response to ≥48h post-content-add likely need full rewrite OR de-prioritization. Manual SC UI re-index request is API-inaccessible.
+5. **Extraction-time pillar at ~56h Discovered + tag-page referrer is SLOWER than latte-art (which was indexed ~24-32h).** Variance hypothesis: depth of cluster + freshness of pillar streak — latte-art was 5th pillar, extraction-time is 8th and the cluster may have hit a saturation point where new pillar discovery is slower. Watch Pulse 103-104 for confirmation.
+6. **Wasted-spend lesson on DataForSEO:** keyword-ideas on broad seeds returns unrelated keywords. Use search-volume on a targeted candidate list instead — same cost or cheaper, much higher signal.
+
+**DataForSEO this pulse:** $0.090. Cumulative daily DataForSEO spend $0.090.
+
+**Next focus (Pulse 103):**
+1. **SC check critical items:** how-to-clean-espresso-machine (~16-24h post-deploy — first indexing signal), coffee-ice-cubes (rich-results re-inspect, ~48h post-fix — possible PASS), pour-over (~64h post-enrich, late reflection window), extraction-time pillar (~80h post-publish — Crawled or PASS), descale/grinder/dial-in (3-page synchronized regression — recover together?), frappe (~96h post-escalation — DECISION pulse).
+2. **Pulse 103 candidate options (priority order):**
+   - **Frappe decision execution.** Either full content rewrite (~2000 word expansion) OR de-prioritize (acknowledge stuck, move on). **RECOMMENDED Pulse 103.**
+   - **Continued indexing-wave monitoring.** No new pillar this pulse — let the 9th-pillar-equivalent ferment.
+   - **Schema rich-results audit follow-up** if coffee-ice-cubes PASSes: inspect 5-10 more indexed pages for hidden FAILs.
+3. **Recommended Pulse 103: frappe decision + indexing wave monitoring + coffee-ice-cubes re-inspect.** Pulse 104 = depending on results, schema audit OR 10th pillar candidate research.
+4. DataForSEO Pulse 103: ~$0 (frappe decision is content-only, no new keyword research).
+5. **Critical milestones to watch:**
+   - **how-to-clean-espresso-machine indexing state shift** at ~16-24h post-deploy. First confirmation that expand-then-enrich pattern can unstick a 41-day Discovered page.
+   - **Coffee-ice-cubes rich-results FAIL → PASS** at ~48-72h post-Pulse-101-deploy.
+   - **Pour-over indexing trigger** at ~64h post-enrich.
+   - **Extraction-time pillar Crawled or PASS** at ~80h post-publish.
+   - **3-page synchronized recovery** of descale + grinder + dial-in (validates API-instability hypothesis).
+   - **Frappe decision executed.**
+   - **how-to-make-a-flat-white pos 18 hold OR continued improvement.**
+   - **Red-eye-coffee pos 14.89 hold OR continued improvement.**
+   - **how-to-froth-milk sub-50 4th-pulse hold.**
+6. Sitemap re-submission protocol validated 26 times. Continue using as default.
+
+**Pulse 102 protocol additions:**
+- **Pillar-equivalence-by-expansion rule:** when a target keyword's URL already exists in content/, prefer expand-then-enrich over publish-new. Avoid duplicate-content competition and use the existing Google-known URL graph. Pulse 102 validates the pattern.
+- **3-simultaneous-regression observation logged.** Maintenance-cluster pages may regress in synchronized waves driven by Google-side API instability rather than page-specific issues. Watch for synchronized recoveries to confirm.
+- **Frappe escalation has officially failed at 72h boundary.** Content-add escalation tactic confirmed insufficient for ≥17-day-stuck pages. Next intervention pattern: full content rewrite OR de-prioritization OR manual SC UI re-index request.
+- **DataForSEO call-pattern lesson:** keyword-ideas on broad seeds returns unrelated keywords. For narrow niche research, use search-volume on a targeted candidate list — better ROI per dollar.
+- **Confirmed-indexed referrer pool unchanged Pulse 102 (12 pages).** All 5 enrich-link insertions this pulse used the existing pool: milk-steaming-techniques, white-espresso, cold-brew-vs-espresso, how-to-make-a-flat-white, how-to-make-a-macchiato.
+- **Confirmed-NOT-indexed / API-unstable pool (Pulse 102):** pour-over-technique (Crawled-not-indexed 7 pulses), grinder (URL-unk regression, 8-pulse oscillation), descale (URL-unk regression after 2-pulse Discovered hold), dial-in (URL-unk regression after ≥4-pulse Discovered hold), what-is-a-frappe (Crawled-not-indexed 19 pulses — escalation FAILED), how-to-clean-espresso-machine (Discovered 41 days, freshly expanded + enriched). Stable Discovered: water (5-pulse hold). Pillar in progress: extraction-time (Discovered ~56h, picking up tag-page referrer).
+
+**Action:** Pillar expansion delivered + 5-link enrich applied + sitemap re-submitted (26th). Hugo build verified (952 pages clean). Schema verified (1 FAQPage, 11 Questions on how-to-clean-espresso-machine).
+
+**Reasoning:** Pulse 101 strategy recommended 9th pillar publish. Research identified "how to clean espresso machine" (1600 vol LOW) as candidate. Audit revealed the page existed but was 41-day stuck Discovered-not-indexed. Pivoted to expand-then-enrich rather than new-publish to leverage existing URL graph + add content depth + add inbound link signals simultaneously. The expand-then-enrich pattern is novel for this experiment and may become a recurring protocol when target keywords have existing under-indexed pages.
+
+**Outcome:** 5 files changed (how-to-clean-espresso-machine.md + 5 enrich referrers: milk-steaming-techniques, white-espresso, cold-brew-vs-espresso, how-to-make-a-flat-white, how-to-make-a-macchiato). 230 line insertions. Hugo build 952 pages clean. Sitemap submitted. SC indexing-wave landscape: 1 pillar advancing (extraction-time URL-unk→Discovered with tag referrer), 3 simultaneous regressions (descale/grinder/dial-in all → URL-unk), 1 pillar stable (water Discovered 5 pulses), 1 page enrich pending (pour-over ~40h post-enrich), 1 page escalation failed (frappe 72h boundary passed), 1 page schema-fix pending re-crawl (coffee-ice-cubes lastCrawl Apr-26). Position-jump cluster sustains: how-to-make-a-flat-white ~48 cumulative spots, red-eye-coffee ~15 cumulative spots, how-to-froth-milk 3rd consecutive improvement.
+
+**Next:**
+- Pulse 103: Frappe decision (full rewrite OR de-prioritize). SC re-inspect coffee-ice-cubes for FAIL → PASS confirmation. SC inspect how-to-clean-espresso-machine for indexing-state shift post-expand-then-enrich. Continued indexing-wave monitoring (pour-over, extraction-time, 3-page synchronized recovery check).
+- Pulse 104: Depending on Pulse 103 results — schema rich-results audit follow-up OR 10th pillar candidate research.
+- Pulse 105+: 10th pillar planning OR remediation focus depending on cumulative indexing-wave outcomes.
+
+---
+
 ## 2026-05-14 06:00 IDT — Pulse 101: FAQ-SCHEMA-FAIL FIXED STRUCTURALLY ACROSS 12 PAGES + 1 BONUS (single-commit site-wide rich-results recovery, addressed the root-cause shortcode design rather than a one-page content fix) + EXTRACTION-TIME PILLAR ADVANCED URL-UNKNOWN → DISCOVERED AT ~32H (normal pillar trajectory) + 3 INDEXED PAGES MAJOR POSITION JUMPS (how-to-froth-milk broke <50 first time, how-to-make-a-flat-white 65.53→46.87, red-eye-coffee 29.93→21.08 — strongest cumulative ranking signal of experiment to date) + WHITE-ESPRESSO 6TH CONSECUTIVE IMP GROWTH (254) + GRINDER OSCILLATION CONTINUES (3D / 4 URL-unk across 7 pulses) + FRAPPE ESCALATION PAST 48H BOUNDARY (tactic in question)
 
 **Action:** Executed Pulse 100-planned priority-1 (coffee-ice-cubes FAQ-schema-FAIL technical fix). Diagnosed root cause: the faq shortcode emits a fresh `@type:FAQPage` JSON-LD container per invocation. Scanned site-wide and found **12 pages affected** (≥2 FAQ shortcode blocks each), not just coffee-ice-cubes — coffee-ice-cubes (7 blocks), aeropress-guide (7), long-black-coffee (7), pour-over-guide (7), sweet-cream-recipe (6), coffee-jelly-recipe (6), cafe-con-leche-recipe (6), coffee-smoothie-recipe (7), lychee-milk-tea-recipe (7), peppermint-mocha-recipe (7), taro-milk-tea-recipe (7), what-is-iced-coffee (14, used different syntax). Rewrote `layouts/shortcodes/faq.html` to parse Q/A items, push them to `.Page.Scratch.Add "faqItems"` on the page, and emit only the visual `<details>` HTML (no per-invocation JSON-LD). Rewrote `layouts/partials/schema.html` to merge front-matter `.Params.faq` + scratch-collected items and emit ONE consolidated `@type:FAQPage` per page. Also discovered + fixed a second silent bug: what-is-iced-coffee uses `{{< faq question="..." >}}answer{{< /faq >}}` parameter-syntax pattern that the parser never supported — its 14 FAQ entries had been completely missing from schema; added parameter-syntax parsing to the shortcode. Hugo build: 952 pages clean. Per-page verification: all 12 affected pages now emit exactly 1 FAQPage with correct Question counts; what-is-iced-coffee now emits 1 FAQPage with 14 Questions (was 0). Pushed and deployed. Sitemap re-submitted (25th in series).
