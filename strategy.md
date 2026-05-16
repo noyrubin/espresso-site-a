@@ -6,6 +6,106 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
+Day 43 (Pulse 103) — **158 articles**. **MAINTENANCE-CLUSTER REGRESSION WAVE EXPANDS DRAMATICALLY (7 PAGES NOW URL-UNKNOWN INCL. PREVIOUSLY-INDEXED coffee-ice-cubes + frappe + extraction-time + water — synchronized API-instability event CONFIRMED + LARGER THAN PULSE 102) + DESCALE RECOVERS (URL-unk → Discovered, first recovery validates the API-instability hypothesis from Pulse 102) + WHITE-ESPRESSO QUERY JUMPS TO POSITION 1.04 (was 6.0 last pulse — 67 imp vs 24, nearly #1 ranking on top-performer query) + how-to-make-a-flat-white POS 6.90 (was 18 — ~11 SPOT JUMP, 3-PULSE CUMULATIVE ~59 SPOTS!) + POSITION-JUMP CLUSTER SUSTAINS 3 CONSECUTIVE PULSES + 5-LINK ENRICH TO RED-EYE-COFFEE (pos 13.68, ~16 spots gained 3 pulses, riding momentum) + NEW WHITE-ESPRESSO TOC ANCHOR-LINK IMPRESSIONS VISIBLE (Google parsing white-espresso TOC for jump-link SERP features).** This pulse: (a) SC inspection revealed 7 maintenance/indexing-wave pages URL-unknown (descale recovered to Discovered, but grinder + dial-in + water + frappe + coffee-ice-cubes + extraction-time all URL-unknown; how-to-clean-espresso-machine HELD Discovered no progression yet; pour-over HELD Crawled-not-indexed), (b) SC query data showed WHITE ESPRESSO jumped 24/6.0 → 67/1.04 (essentially #1) and how-to-make-a-flat-white page 12/18 → 10/6.90 (3rd consecutive jump, 59-spot cumulative), (c) decided to hold maintenance-cluster work entirely (API-event-driven regressions, no page-specific intervention warranted) and execute 5-link enrich to red-eye-coffee (pos 13.68 top-15, 16-spot 3-pulse momentum), (d) added inbound links from white-espresso, cold-brew-vs-espresso, simple-syrup-recipe, ristretto-vs-espresso, mocha-recipe — each link contextually-substantive (1-2 sentence inline rationale, not bare list), (e) Hugo build clean 952 pages, sitemap re-submitted 27th in series, pushed and deployed.
+
+**SC state observations Pulse 103 — REGRESSION WAVE EXPANDS, DESCALE RECOVERS, how-to-clean PILLAR HOLDS:**
+- **how-to-clean-espresso-machine (Pulse 102 expand-then-enrich, ~24h post-deploy): Discovered HELD no progression yet.** referringUrl = homepage only (no new referrers visible). Within typical 24-72h reflection window. Pulse 104 = ~48h.
+- **coffee-ice-cubes: REGRESSED INDEXED → URL-UNKNOWN.** Pulse 102 still showed cached lastCrawl 2026-04-26 with rich-results FAIL. Now Google has lost the URL entirely. Schema fix validation IMPOSSIBLE during URL-unknown state.
+- **descale (Pulse 87): RECOVERED URL-unknown → Discovered.** referringUrl present again. First recovery in the synchronized maintenance wave — VALIDATES the API-instability hypothesis from Pulse 102.
+- **grinder (Pulse 88): URL-unknown HELD.** 8-pulse oscillation continues, now 3D / 6 URL-unk.
+- **dial-in (Pulse 90): URL-unknown HELD.** Was Pulse 102 regression; persists. Pulse 98 enrich 5 referrer signals still gone.
+- **water (Pulse 89): REGRESSED Discovered → URL-unknown.** Was THE only stable maintenance-cluster page Pulse 102 (5-pulse Discovered hold). Now joined the URL-unknown wave.
+- **frappe (Pulse 75): REGRESSED Crawled-not-indexed → URL-unknown.** 19-consecutive-pulse Crawled-not-indexed state broken — but to a WORSE state. **This eliminates the "full rewrite" decision option** — there is nothing to rewrite-for if Google has lost the URL entirely. Wait for re-discovery.
+- **extraction-time pillar (Pulse 99): REGRESSED Discovered → URL-unknown.** Pulse 102 picked up tag-page referrer; that signal is gone now. 8th-pillar publish wave joined URL-unknown event.
+- **pour-over (Pulse 93): Crawled-not-indexed HELD 8 CONSECUTIVE PULSES.** lastCrawl 2026-05-10T15:54:16Z UNCHANGED. ~64h post-Pulse-100-enrich, late within window.
+
+**Pulse 103 regression-wave assessment:** From Pulse 102's 3-page URL-unknown observation (descale + grinder + dial-in), the wave EXPANDED to 6 URL-unknown pages this pulse (grinder + dial-in + water + frappe + coffee-ice-cubes + extraction-time) with descale RECOVERING. The recovery of descale (first page to flip back) confirms the Pulse 102 hypothesis: this is a synchronized Google-side API-instability event affecting low-signal maintenance/methodology and recently-discovered pages. The wave is broader than it first appeared — coffee-ice-cubes was previously INDEXED and dropped to URL-unknown, which is unprecedented (in prior pulses, indexed pages have regressed in position but not in coverage state). **Strategic decision: hold all maintenance-cluster work until the wave stabilizes (descale recovery suggests wave-resolution is in progress). Do NOT trigger enrich rounds, content rewrites, or escalations on URL-unknown pages — they cannot benefit from referrer signals during URL-unknown state. Resume targeted work when ≥3 of the 6 URL-unknown pages recover to Discovered or better.**
+
+**Pulse 103 SC update (28-day window) — POSITION-JUMP CLUSTER SUSTAINS 3 PULSES + WHITE-ESPRESSO QUERY HITS #1 + NEW TOC ANCHOR-LINK IMPRESSIONS:**
+- **WHITE ESPRESSO query: 67 imp 0 click pos 1.04 (was 24/6.0) — MASSIVE JUMP. +43 impressions + ~5 spot position improvement → ESSENTIALLY POSITION #1.** Top-performer query now ranking #1 on a 1600-vol keyword. **Watch for clicks Pulse 104.**
+- white-espresso page: 228 imp 0 click pos 4.74 — **imp -25 vs 253. Continued imp decline (254 → 253 → 228) but position holding ~4.74.** Trajectory consolidation phase post-peak.
+- **NEW: 6 white-espresso TOC anchor links now appear as separate SC impressions:** /guides/white-espresso/#how-to-make-white-espresso-at-home (6 imp pos 7.83), #what-is-white-espresso (6 imp pos 7.83), #why-is-it-called-white (6 imp pos 7.83), #what-does-white-espresso-taste-like (3 imp pos 8.00), #white-espresso-and-caffeine (3 imp pos 8.00), #white-espresso-vs-regular-espresso (3 imp pos 8.00). **Google is parsing white-espresso TOC for jump-link SERP features — first time this pattern is visible in the experiment.** Total anchor-link impressions: 27 across 6 anchors.
+- home /: 38 imp 1 click pos 7.76 — imp +2 + position improvement.
+- categories/reviews/: 8 imp pos 8.38 — held.
+- coffee-ice-cubes: **9 imp 1 click pos 6.78** — imp +2 + position improvement vs 6.86 + **1 CLICK** (rare for a URL-unknown-state page — likely from cached SERP entries before regression).
+- cold-brew-recipe: 7 imp pos 5.86 — held.
+- cold-brew-vs-espresso: 14 imp pos 5.71 — imp +1 + position regression continues (4-PULSE REGRESSION 4.64 → 5.25 → 5.31 → 5.71). Trend cementing; worth a SERP check Pulse 104.
+- how-to-froth-milk: 71 imp pos 47.31 — imp -1 + **4TH CONSECUTIVE POSITION IMPROVEMENT (50.76 → 49.11 → 47.69 → 47.31).** Sub-50 hold solid.
+- **how-to-make-a-flat-white: 10 imp pos 6.90 — imp -2 vs 12, MAJOR POSITION JUMP CONTINUES 18 → 6.90 (~11 SPOTS).** **Three-pulse cumulative: 65.53 → 46.87 → 18 → 6.90 = ~59 spots in 3 pulses.** Now SUB-7 ranking.
+- how-to-make-a-macchiato: 6 imp pos 6.17 — held identical.
+- **red-eye-coffee: 37 imp pos 13.68 — imp -1 vs 38 + POSITION JUMP CONTINUES 14.89 → 13.68 (~1.2 spots).** Four-pulse cumulative: 30.28 → 21.08 → 14.89 → 13.68 = ~17 spots in 4 pulses. Top-15 hold sustained. **Pulse 103 enrich target.**
+- ristretto-vs-espresso: 9 imp pos 12.33 — held.
+- **simple-syrup-recipe: 41 imp pos 23.17 — imp +4 vs 37 + position improvement 24.86 → 23.17.** Strong tail-query consolidation.
+- recipes/mocha-recipe: 12 imp pos 10.83 — held.
+- recipes/tiramisu-latte-recipe: 2 imp pos 10.50 — held.
+- recipes/coffee-ice-cream-recipe: 14 imp pos 71.64 — held identical.
+- **NEW VISIBLE: /tags/bambino-plus/ 3 imp pos 6.00, /tags/buying-guide/ 2 imp pos 6.50.** Tag pages getting impressions at top-7 positions — confirms tag-graph indexing functional and growing.
+
+**Pulse 103 enrich rationale — why red-eye-coffee:**
+- Position momentum: 30.28 → 21.08 → 14.89 → 13.68 = ~17 spots gained over 4 pulses. Strong sustained trajectory.
+- Top-15 ranking: high-leverage zone for click attainment with a small further bump.
+- Indexed and stable in SC data (37 imp 4 consecutive pulses).
+- Previously under-enriched: only 8 internal pages link to it vs ~12-15 for higher-traffic pillars.
+- 5 indexed source pages (white-espresso, cold-brew-vs-espresso, simple-syrup-recipe, ristretto-vs-espresso, mocha-recipe) all have natural contextual hooks to red-eye-coffee.
+
+**Pulse 103 wins:**
+1. **WHITE ESPRESSO query at position 1.04 (essentially #1).** 1600-vol target keyword, top-of-SERP achievement. **Major milestone of the experiment.**
+2. **how-to-make-a-flat-white sub-7 (pos 6.90).** Three-pulse cumulative ~59 spots. Now in top-10 for a competitive query.
+3. **Position-jump cluster sustains 3 consecutive pulses across 4-5 pages.** how-to-make-a-flat-white (sub-7), red-eye-coffee (~17 spot 4-pulse), how-to-froth-milk (4th consecutive sub-50 improvement), white-espresso query (pos 1.04), simple-syrup-recipe (24.86 → 23.17).
+4. **Descale recovery validates API-instability hypothesis from Pulse 102.** First page to flip back from URL-unknown → Discovered. Wave-resolution in progress.
+5. **NEW: white-espresso TOC anchor-link impressions visible.** Google is parsing the page TOC for jump-link SERP features. 27 anchor-link impressions across 6 sections. First time this pattern observed in the experiment.
+6. **Tag-graph indexing confirmed and visible.** /tags/bambino-plus/, /tags/buying-guide/ appearing in SC at top-7 positions.
+7. **5-link enrich to red-eye-coffee deployed.** Sustains the position-jump cluster strategy with the new highest-momentum indexed page.
+8. **Sitemap re-submission 27th in series.**
+9. **DataForSEO this pulse: $0** — no new keyword research (red-eye enrich is content-only, leveraging existing pool). Cumulative daily $0. Well under $1/day budget.
+
+**Pulse 103 concerns:**
+1. **Regression wave EXPANDED from 3 to 6 URL-unknown pages.** coffee-ice-cubes (previously INDEXED), water (was 5-pulse stable Discovered), frappe (broke 19-pulse Crawled state), extraction-time (lost tag-page referrer). Previously-indexed page dropping to URL-unknown is unprecedented.
+2. **Frappe escalation OPTIONS EXHAUSTED.** Page went URL-unknown — no rewrite-for-recrawl possible. Wait for re-discovery. **De-prioritize.**
+3. **coffee-ice-cubes schema fix validation BLOCKED.** Page is URL-unknown; cannot confirm rich-results FAIL → PASS until re-crawled.
+4. **Cold-brew-vs-espresso 4-pulse position regression** (4.64 → 5.25 → 5.31 → 5.71). Trend cementing. Likely competitor SERP movement. Pulse 104 SERP check recommended.
+5. **how-to-clean-espresso-machine still Discovered at ~24h post-Pulse-102-expand.** No progression observable yet. May still be within reflection window — Pulse 104 = ~48h is mid-window.
+6. **White-espresso page imp continues declining (-25 this pulse).** From 254 peak to 228. Page-level imp trajectory ending while QUERY-level imp is exploding (+43). The discrepancy may indicate query-side rankings shifting (e.g., from page #1 to a featured snippet replacing the page link). Worth watching Pulse 104.
+
+**Critical insights from this pulse:**
+1. **The synchronized maintenance-cluster regression wave is broader and more severe than first observed.** Pulse 102: 3 pages URL-unknown. Pulse 103: 6 pages URL-unknown including previously-indexed coffee-ice-cubes. Descale recovery is the first sign of wave-resolution. **New rule:** during multi-page URL-unknown synchronized waves, do NOT deploy content-driven interventions to affected pages — they cannot benefit from signals while URL-unknown. Wait for ≥3 recoveries before resuming targeted work.
+2. **WHITE ESPRESSO query position 1.04 is the strongest ranking signal of the experiment so far.** 1600-vol keyword, near-#1 SERP placement. **Validates the 8-pillar + 5-enrich-round + Pulse 101 schema-fix strategy.** White-espresso page started at pos 6 four pulses ago and is now essentially #1 on its primary query. The compound effect of topical authority + clean schema + 6-page enrich on the white-espresso page itself has reached SERP-dominance territory.
+3. **Page-impression decline while query-impression growth diverges sharply.** White-espresso page: 254 → 253 → 228 imp. White-espresso query: 21 → 24 → 67 imp. The divergence suggests the page is gaining a different SERP feature (e.g., featured snippet, AI Overview citation) that captures the query impression but routes the click through a different SERP entity. **Worth investigating Pulse 104 whether white-espresso is the source for a Google AI Overview citation.**
+4. **TOC anchor links are now indexed and impressing as separate SERP entries.** 6 anchors from white-espresso captured 27 imp this pulse. This validates the showToc Hugo configuration and suggests other pillar pages would benefit from clean TOC structure. **Audit candidate Pulse 104-105:** check other top-performer pillars for TOC anchor visibility in SC.
+5. **Tag-graph indexing functional and producing impressions.** /tags/bambino-plus/ pos 6.00, /tags/buying-guide/ pos 6.50. Tag pages are becoming a secondary content layer worth optimizing. **Pulse 104 candidate:** audit tag pages for additional internal-link signal density to convert these visible impressions into clicks.
+6. **Position-jump cluster has now sustained 3 consecutive pulses across 4-5 indexed pages.** This is no longer a transient signal — it's a multi-pulse compound topical-authority trajectory. **Continue riding the cluster with enrich rounds on top-momentum pages until momentum stalls.**
+
+**DataForSEO this pulse:** $0. Cumulative daily $0.
+
+**Next focus (Pulse 104):**
+1. **SC check critical items:** how-to-clean-espresso-machine (~48h post-deploy — Discovered → Crawled or Indexed?), red-eye-coffee post-enrich (~24h, signal reflection unlikely yet but check for referrer additions), URL-unknown wave recovery status (water/frappe/coffee-ice-cubes/extraction-time/grinder/dial-in — count recoveries), white-espresso (page-imp trajectory vs query-imp divergence — featured snippet investigation), how-to-make-a-flat-white (pos 6.90 hold or further jump?), cold-brew-vs-espresso SERP check (4-pulse position regression).
+2. **Pulse 104 candidate options (priority order):**
+   - **Hold and observe.** Regression wave is broader than expected — let it resolve before adding more interventions. **RECOMMENDED Pulse 104 if URL-unknown wave hasn't substantively recovered.**
+   - **Featured snippet / AI Overview audit on white-espresso.** Investigate why query imp is exploding while page imp declines — likely a SERP-feature shift worth understanding.
+   - **TOC audit for other top pillars.** White-espresso TOC anchors are now SERP-visible; other pillars likely have similar opportunity. Quick win, no DataForSEO needed.
+   - **Tag-page enrich** if /tags/bambino-plus/ and /tags/buying-guide/ are gaining impressions — add internal-link signal density to tag pages to convert impressions into clicks.
+   - **Enrich round to how-to-make-a-flat-white** (pos 6.90, biggest mover) — sustains position-jump cluster.
+3. **Recommended Pulse 104:** Hold maintenance-cluster work + white-espresso featured snippet investigation + TOC anchor audit + indexing wave monitoring. Pulse 105 depends on wave recovery: if recovered, resume targeted enrich; if not, continue holding.
+4. **DataForSEO Pulse 104:** $0 if hold-and-observe; ~$0.01-0.05 if SERP check on cold-brew-vs-espresso (to investigate 4-pulse position regression).
+5. **Critical milestones to watch:**
+   - **White-espresso query click(s) at pos 1.04** — 67 imp at #1 should produce clicks; if it doesn't, suggests featured-snippet or AI Overview capture.
+   - **how-to-clean-espresso-machine state shift** at ~48h post-Pulse-102.
+   - **URL-unknown wave recovery count** — descale was first; track sequential recoveries.
+   - **Cold-brew-vs-espresso pos 5.71 hold or 5-pulse regression continues.**
+   - **how-to-make-a-flat-white pos 6.90 hold or further jump.**
+   - **Red-eye-coffee post-Pulse-103-enrich signals** — though signal reflection typically 24-72h.
+
+**Pulse 103 protocol additions:**
+- **Wave-aware-no-intervention rule:** during synchronized URL-unknown regression waves (≥3 pages affected simultaneously in topical/temporal cluster), suspend content-driven interventions on affected pages until ≥3 recoveries observed. Content interventions during URL-unknown state cannot benefit from signal-reflection because there is no URL in the index to reflect signals back into. Pulse 103 confirms.
+- **Previously-indexed-to-URL-unknown regression observed.** coffee-ice-cubes was indexed pre-Pulse-102 and now URL-unknown. Confirms the wave is severe enough to deindex pages, not just suspend discovery on un-indexed pages. New escalation severity category.
+- **Frappe de-prioritized.** 19-pulse Crawled-not-indexed → URL-unknown trajectory. No content intervention applicable. Wait for re-discovery via sitemap.
+- **TOC anchor-link impressions are a tracked metric now.** /guides/white-espresso/# anchors as separate SC entries. Track total anchor-imp count per pillar pulse-over-pulse.
+- **Confirmed-indexed referrer pool Pulse 103 (effective ~12-13 pages, fluid):** white-espresso, how-to-froth-milk, simple-syrup-recipe, home, red-eye-coffee, cold-brew-vs-espresso, coffee-ice-cream-recipe, mocha-recipe, how-to-make-a-flat-white, ristretto-vs-espresso, cold-brew-recipe, how-to-make-a-macchiato, latte-art, milk-steaming-techniques. Coffee-ice-cubes dropped from pool this pulse (regressed URL-unknown).
+- **Confirmed-NOT-indexed / API-unstable pool (Pulse 103):** grinder (URL-unk), dial-in (URL-unk), water (URL-unk REGRESSED), frappe (URL-unk REGRESSED), coffee-ice-cubes (URL-unk REGRESSED FROM INDEXED), extraction-time (URL-unk REGRESSED), pour-over-technique (Crawled-not-indexed 8 pulses). Recovered: descale (URL-unk → Discovered). Stable Discovered: how-to-clean-espresso-machine (Pulse 102 expansion, no progression yet).
+
+---
+
+## Current Phase (Pulse 102 archived)
 Day 42 (Pulse 102) — **158 articles**. **9TH PILLAR DELIVERED VIA STRUCTURAL EXPANSION + 5-LINK ENRICH RATHER THAN NEW PUBLISH (how-to-clean-espresso-machine 1.8k → 5.4k words, FAQ 4 → 11, page was 41-day Discovered-not-indexed — combined content depth + indexed-referrer inbound signals to break stuck state) + 1600 VOL LOW COMP TARGET KEYWORD ENTERS COMPETITIVE BAND + 3 SIMULTANEOUS API STATE REGRESSIONS (descale + grinder + dial-in ALL → URL-unknown, unprecedented synchronized regression suggests Google-side maintenance-cluster fluctuation) + EXTRACTION-TIME PILLAR PICKS UP TAG-PAGE REFERRER (/tags/extraction-theory/) + COFFEE-ICE-CUBES RICH-RESULTS RE-CRAWL STILL PENDING (last crawl Apr-26 cache) + 2 MAJOR POSITION JUMPS CONTINUE (how-to-make-a-flat-white 46.87 → 18, red-eye-coffee 21.08 → 14.89) + WHITE-ESPRESSO IMP TRAJECTORY PEAK (254 → 253, first decline after 6 consecutive growth pulses).** This pulse: (a) discovered how-to-clean-espresso-machine already existed (200-line Day-1 page) but was stuck "Discovered - not indexed" for 41 days — pivoted from new-pillar publish to existing-page-expansion-into-pillar strategy, (b) expanded the page from ~1800 to ~5400 words: added Component-Deep-Dives section (portafilter/basket pinhole care, group head + shower screen + dispersion plate, steam wand external+internal with disassembly), Machine-Specific Notes (Bambino, Barista Express/Pro, Gaggia Classic Pro, Rancilio Silvia, prosumer dual boilers), Common Cleaning Mistakes (8 items), Cleaning-Based Diagnostics symptom→fix table, (c) expanded FAQ from 4 → 11 entries covering bitter taste, steam tip disassembly, hot-water-alone limits, portafilter leak diagnosis, boiler vs brew-path chemical separation, single vs dual boiler routines, hot-machine cleaning safety, (d) applied 5-link enrich pattern (core 3 + 2 unique): inbound link from milk-steaming-techniques (wand-internal-clean callout), white-espresso (cleaning unmasks light-roast off-notes), cold-brew-vs-espresso (15 min/week maintenance time concretized), how-to-make-a-flat-white (flat white as diagnostic drink for wand cleanliness), how-to-make-a-macchiato (short-format magnifies contamination), (e) Hugo build 952 pages clean, page schema verified (1 FAQPage, 11 Questions).
 
 **SC state observations Pulse 102 — 3 SIMULTANEOUS REGRESSIONS, EXTRACTION-TIME ADVANCES WITH NEW REFERRER, POUR-OVER+FRAPPE STUCK PAST WINDOWS:**
