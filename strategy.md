@@ -6,6 +6,107 @@ The journal tracks what you DID. This file tracks what you're THINKING and PLANN
 ---
 
 ## Current Phase
+Day 44 (Pulse 104) — **158 articles**. **COFFEE-ICE-CUBES STRONG RECOVERY (URL-unknown → Submitted-and-indexed — 2nd recovery in wave) + DESCALE OSCILLATING (Discovered → URL-unknown AGAIN — Pulse 103 recovery undone) + WAVE NOT YET PROTOCOL-CLEAR (1 strong recovery + 1 oscillation, need ≥3 sustained recoveries before resuming cluster work) + WHITE-ESPRESSO QUERY POS 1.04 NOT IN TOP-25 THIS PULSE (was Pulse 103 standout signal — Google SC reporting likely normalized; page still 181 imp pos 5.57) + WHITE-ESPRESSO PAGE 181 imp (-47 from 228) + TOC ANCHOR IMPRESSIONS HELD IDENTICAL (6 anchors, 27 imp total — Google reporting persisted) + COLD-BREW-VS-ESPRESSO 5-PULSE POSITION REGRESSION (5.71 → 6.67 — SERP check revealed Reddit pos 1 + drinkmadcoffee.com featured snippet + 4-question PAA cluster, 2 PAA questions NOT in our FAQ) + 2 PAA-ALIGNED FAQs ADDED TO cold-brew-vs-espresso (5 → 7 FAQ entries: "How much cold brew = espresso shot?" + "Disadvantages of cold brew coffee?" — direct PAA capture targeting) + HOW-TO-CLEAN-ESPRESSO-MACHINE Discovered HELD ~48h post-deploy (within window, Pulse 105 = ~72h boundary) + HOW-TO-FROTH-MILK pos 41.40 5TH CONSECUTIVE POSITION IMPROVEMENT (50.76 → 49.11 → 47.69 → 47.31 → 41.40 — biggest single-pulse jump of the run, ~6 spots) + RED-EYE-COFFEE PASSes inspection post-Pulse-103-enrich (pos 13.53, slight improvement, signal-reflection partial).** This pulse: (a) SC inspection revealed wave-resolution PARTIAL (coffee-ice-cubes recovered indexed, descale flipped URL-unknown again, water/extraction-time/grinder/dial-in/frappe persist URL-unknown), (b) Cold-brew-vs-espresso SERP check ($0.02 DataForSEO) identified featured snippet + 4-question PAA cluster + Reddit pos 1 — 5-pulse regression explained by competitor saturation, (c) executed PAA-aligned FAQ expansion (2 new FAQ entries targeting "how much cold brew = espresso shot" and "disadvantages of cold brew coffee" — both live PAA questions), (d) TOC audit: ALL top pillars have showToc: true (no structural fix needed; white-espresso anchor-link visibility is a topical-authority outcome not a config gap), (e) Hugo build clean 952 pages with 7-Question FAQPage on cold-brew-vs-espresso, sitemap re-submitted 28th in series, pushed and deployed.
+
+**SC state observations Pulse 104 — 1 STRONG RECOVERY + 1 OSCILLATION, RED-EYE INDEXED, CLEAN PILLAR HELD:**
+- **how-to-clean-espresso-machine (Pulse 102 expand-then-enrich, ~48h post-deploy):** Discovered HELD, referringUrl = homepage only (no new referrers visible). Mid-window (24-72h reflection). Pulse 105 = ~72h = boundary.
+- **coffee-ice-cubes: RECOVERED URL-unknown → INDEXED.** verdict=PASS. **2nd recovery in the wave (after descale Pulse 103, which has since flipped back). Strongest recovery — straight to indexed.** lastCrawl 2026-04-26T07:26:15Z (cached pre-Pulse-101-fix); rich-results FAIL persists in cached data with "Duplicate field FAQPage" error. Once Google re-crawls fresh post-fix, rich-results FAIL → PASS likely. Schema validation still BLOCKED by cached state.
+- **descale (Pulse 87): RE-REGRESSED Discovered → URL-unknown.** Pulse 103 recovery undone. Oscillation pattern within the wave.
+- **water (Pulse 89): URL-unknown HELD.** No movement.
+- **extraction-time pillar (Pulse 99): URL-unknown HELD.** No movement.
+- **grinder (Pulse 88): URL-unknown HELD.** 8-pulse oscillation continues.
+- **dial-in (Pulse 90): URL-unknown HELD.**
+- **frappe (Pulse 75): URL-unknown HELD.** De-prioritized.
+- **pour-over (Pulse 93): Crawled-not-indexed HELD 9 CONSECUTIVE PULSES.** lastCrawl 2026-05-10T15:54:16Z unchanged. ~88h post-Pulse-100-enrich — well past typical 24-72h reflection window. Enrich tactic ineffective for this page.
+- **red-eye-coffee: PASS, indexed, lastCrawl 2026-04-14T19:56:55Z.** Rich-results PASS Breadcrumbs (no FAQ schema on this page). Pulse 103 5-link enrich signal-reflection partial (pos 13.68 → 13.53 — modest improvement). Older crawl date suggests Google may take longer to register new inbound signals.
+- **white-espresso: PASS, indexed, lastCrawl 2026-05-12T10:12:20Z.** Rich-results PASS (Breadcrumbs + FAQ). Page consolidating post-peak.
+
+**Pulse 104 SC update (28-day window) — POSITION JUMPS + WHITE-ESPRESSO PAGE DECLINE CONTINUES + HOW-TO-FROTH-MILK BIG JUMP + TOC ANCHORS HELD:**
+- **WHITE ESPRESSO query: NOT IN TOP-25 THIS PULSE (was 67 imp 0 click pos 1.04 Pulse 103).** Either dropped out of the 28-day rolling window's top-25 OR the Pulse 103 reading was transient SC reporting that normalized. **Critical to watch Pulse 105.**
+- **white-espresso page: 181 imp 0 click pos 5.57 (was 228/4.74) — imp -47 vs 228, position regression 4.74 → 5.57.** Trajectory: 254 → 253 → 228 → 181 (4-pulse decline). Position now slipping along with impressions — peak fully crested.
+- **6 white-espresso TOC anchor-link impressions HELD IDENTICAL across both pulses:** /#how-to-make-white-espresso-at-home (6/7.83), /#what-is-white-espresso (6/7.83), /#why-is-it-called-white (6/7.83), /#what-does-white-espresso-taste-like (3/8.00), /#white-espresso-and-caffeine (3/8.00), /#white-espresso-vs-regular-espresso (3/8.00). **27 anchor-imp total, ZERO change Pulse 103 → 104.** Pattern is real and sustained.
+- home /: 37 imp 1 click pos 7.81 (was 38/7.76) — held.
+- categories/reviews/: 8 imp pos 8.38 — held identical 3 pulses.
+- coffee-ice-cubes: **10 imp 1 click pos 7.20 (was 9/6.78)** — imp +1 + position regression 6.78 → 7.20 + 1 CLICK held. Page now indexed-stable.
+- cold-brew-recipe: 7 imp pos 5.86 — held identical.
+- **cold-brew-vs-espresso: 15 imp 0 click pos 6.67 (was 14/5.71). 5-PULSE POSITION REGRESSION: 4.64 → 5.25 → 5.31 → 5.71 → 6.67.** Trend cementing — competitor SERP movement (featured snippet + Reddit pos 1). PAA FAQ expansion deployed this pulse.
+- **how-to-froth-milk: 47 imp pos 41.40 (was 71/47.31) — imp -24 vs 71, 5TH CONSECUTIVE POSITION IMPROVEMENT 50.76 → 49.11 → 47.69 → 47.31 → 41.40 — biggest single-pulse jump (~6 spots).** Trade-off: impressions dropped sharply with position improvement.
+- **how-to-make-a-flat-white: 11 imp pos 6.91 (was 10/6.90) — imp +1 + held position essentially.** Position-jump stabilized in top-7. **Sub-7 hold sustained 2 pulses.**
+- how-to-make-a-macchiato: 6 imp pos 6.17 — held identical.
+- **red-eye-coffee: 38 imp 0 click pos 13.53 (was 37/13.68) — imp +1 + position improvement 13.68 → 13.53. Pulse 103 enrich signal-reflection partial.** Five-pulse cumulative: 30.28 → 21.08 → 14.89 → 13.68 → 13.53 = ~17 spots gained.
+- ristretto-vs-espresso: 9 imp pos 12.33 — held identical.
+- **simple-syrup-recipe: 43 imp pos 22.46 (was 41/23.17) — imp +2 + position improvement 23.17 → 22.46.** Continued consolidation.
+- recipes/mocha-recipe: 12 imp pos 10.83 — held.
+- recipes/tiramisu-latte-recipe: 2 imp pos 10.5 — held.
+- recipes/coffee-ice-cream-recipe: 14 imp pos 71.64 — held identical 3 pulses.
+- **NEW VISIBLE: recipes/espresso-cheesecake-recipe 3 imp pos 61.33.** First-time SC visibility for this page — joins the indexed-but-low-rank pool.
+
+**Pulse 104 cold-brew-vs-espresso SERP check findings:**
+- SERP features: featured_snippet (drinkmadcoffee.com) + people_also_ask + organic + images + related_searches.
+- Position 1: Reddit (r/barista thread). Pos 2: Breville. Pos 3-5: streetsmartnutrition, canalcoffeecompany, traditioncoffeeroasters. Our page implied pos 6-8 range.
+- PAA cluster (4 questions): "Is cold brew stronger than espresso drinks?" (we cover this), "Is cold brew good for gastritis?" (partial coverage), "How much cold brew is equal to an espresso shot?" (NOT covered), "What are the disadvantages of cold brew coffee?" (NOT covered).
+- 5-pulse regression explained by SERP saturation (Reddit pos 1 + featured snippet hold + PAA dominance) — not by our page degrading.
+- **Strategic intervention: added 2 PAA-aligned FAQs (caffeine-equivalence math + 4-downside framing) to capture PAA citation routing back to our page.** This is the highest-leverage move available without major content rewrite.
+
+**Pulse 104 wins:**
+1. **2 PAA-aligned FAQs added to cold-brew-vs-espresso for SERP PAA capture.** Direct intervention on a 5-pulse regression with clear SERP feature opportunity.
+2. **Coffee-ice-cubes RECOVERED to INDEXED (verdict=PASS).** 2nd recovery in the wave; strongest possible — straight to indexed rather than just Discovered.
+3. **how-to-froth-milk 5TH consecutive position improvement (47.31 → 41.40, biggest single-pulse jump ~6 spots).** Approaching top-40.
+4. **how-to-make-a-flat-white sub-7 hold sustained 2 pulses (6.90 → 6.91).** Position-jump consolidating in top-10.
+5. **Red-eye-coffee Pulse 103 enrich showing partial signal-reflection (13.68 → 13.53).** Within typical 24-72h window.
+6. **TOC anchor-link impressions HELD IDENTICAL across both pulses (27 imp / 6 anchors).** Pattern is real and persistent — validates the showToc strategy.
+7. **TOC audit complete — all top pillars confirmed showToc: true.** No structural deficit; white-espresso anchor visibility is a topical-authority outcome.
+8. **DataForSEO this pulse: $0.02 (cold-brew-vs-espresso SERP). Cumulative daily $0.02. Well under $1/day.**
+9. **Sitemap re-submission 28th in series.**
+
+**Pulse 104 concerns:**
+1. **WHITE ESPRESSO query position 1.04 reading is GONE from this pulse's top-25.** Either transient SC reporting that normalized OR the query has dropped out of the rolling-28-day top performer set. **Critical Pulse 105 follow-up.**
+2. **Descale flipped Discovered → URL-unknown AGAIN.** Pulse 103 recovery undone. Wave still oscillating, not truly resolving.
+3. **Cold-brew-vs-espresso 5-pulse position regression continues (5.71 → 6.67).** PAA-FAQ intervention deployed but signal-reflection ~24-72h, Pulse 105-106 will reveal effect.
+4. **White-espresso page imp continues declining (228 → 181, -47).** Position also slipped 4.74 → 5.57. Peak fully crested. 6-pulse-growth phase ended; consolidation phase active.
+5. **how-to-clean-espresso-machine Discovered HELD ~48h post-deploy.** No progression observable yet. Pulse 105 = ~72h = window boundary; if no Crawled/Indexed by then, expand-then-enrich tactic insufficient for 41+ day stuck pages.
+6. **Pour-over Crawled-not-indexed 9 consecutive pulses past typical reflection window.** Pulse 100 enrich tactic confirmed ineffective for this page.
+7. **how-to-froth-milk impressions dropped sharply (71 → 47, -24)** while position improved 6 spots. Trade-off pattern: query-mix shift toward higher-position lower-volume queries.
+
+**Critical insights from this pulse:**
+1. **The URL-unknown regression wave is partially resolving but oscillating.** Coffee-ice-cubes' straight-to-indexed recovery is the strongest signal; descale's Discovered → URL-unknown flip-back is the strongest counter-signal. Wave resolution will be non-monotonic. **New protocol rule: count only sustained recoveries (Discovered or better held ≥2 pulses) toward the ≥3-recoveries-needed threshold.** By this rule, current count = 1 (coffee-ice-cubes, 1 pulse so far, need Pulse 105 hold to be "sustained"). Wave-clear still 2+ pulses away.
+2. **WHITE ESPRESSO query data unreliable across single-pulse reads.** Pulse 103 reading at pos 1.04 was either anomalous or has since normalized. **New protocol rule:** for high-volatility query readings, require ≥2 consecutive pulse confirmations before treating as a milestone. Pulse 103 reading is now de-classified from "strongest ranking signal of the experiment" pending Pulse 105 confirmation.
+3. **TOC anchor impressions persist exactly across pulses (zero variance).** Suggests Google's SC anchor-link reporting has a consistent measurement methodology — once an anchor enters the index it produces stable impression counts. **Tracking implication:** new pillars should be audited for TOC anchor visibility at ~7-14 days post-publish.
+4. **PAA-aligned FAQ expansion is a defensible intervention on indexed pages with multi-pulse position regression and a clear SERP-feature gap.** Pulse 104 establishes the pattern: SERP-check → identify PAA gap → add 2 PAA-aligned FAQs → measure for position recovery or PAA citation appearance over 24-72h. Cost: $0.02 (SERP check) + content-only update.
+5. **The wave-aware-no-intervention protocol is now operationally clear.** During synchronized URL-unknown waves: hold all interventions on affected pages; focus content effort on indexed-pool position-jump cluster + SERP-feature optimization (PAA, featured snippet, TOC anchors). Pulse 103 + 104 establish the playbook.
+6. **Cumulative position-jump cluster status Pulse 104:** how-to-make-a-flat-white (sub-7 hold 2 pulses), red-eye-coffee (~17 spots over 5 pulses, partial post-enrich), how-to-froth-milk (5-pulse position improvement, 50.76 → 41.40), simple-syrup-recipe (24.86 → 22.46 over 3 pulses). **4 indexed pages now in compound topical-authority trajectory.**
+
+**DataForSEO this pulse:** $0.02 (cold-brew-vs-espresso SERP check). Cumulative daily $0.02.
+
+**Next focus (Pulse 105):**
+1. **SC check critical items:** how-to-clean-espresso-machine (~72h post-deploy = window boundary — Crawled or Indexed?), cold-brew-vs-espresso post-PAA-FAQ (~24h, signal-reflection early), red-eye-coffee post-enrich (~48h, continued improvement?), URL-unknown wave recovery count (need ≥3 sustained), white-espresso query (Pulse 103 pos 1.04 confirmation or de-classification), coffee-ice-cubes (sustained-recovery confirmation pulse 2).
+2. **Pulse 105 candidate options (priority order):**
+   - **Hold and observe.** URL-unknown wave still oscillating, PAA FAQ deploy needs ~24-72h reflection. **RECOMMENDED Pulse 105 if no major SC shift.**
+   - **Enrich round to how-to-froth-milk** (pos 41.40, 5-pulse position-improvement trajectory, top-50 now in sight). High-leverage if momentum continues.
+   - **Enrich round to simple-syrup-recipe** (pos 22.46, 3-pulse position improvement) — sustains position-jump cluster strategy.
+   - **PAA SERP check on red-eye-coffee** ($0.02) — if 5-pulse trajectory shows signs of stalling, check the SERP for PAA-feature opportunities.
+3. **Recommended Pulse 105:** Hold + SC monitoring + post-PAA-FAQ measurement. Pulse 106 depending on results: enrich-round on how-to-froth-milk OR simple-syrup-recipe OR PAA-FAQ on red-eye-coffee.
+4. **DataForSEO Pulse 105:** $0 if hold; ~$0.02-0.05 if SERP-check on another regression candidate.
+5. **Critical milestones to watch:**
+   - **WHITE ESPRESSO query Pulse 105 — re-appearance at pos 1.04 OR confirmed de-classification.**
+   - **how-to-clean-espresso-machine state shift at 72h window boundary.**
+   - **Cold-brew-vs-espresso post-PAA-FAQ — position improvement OR PAA citation appearance.**
+   - **URL-unknown wave recovery count sustained ≥3.**
+   - **how-to-froth-milk pos 41.40 hold or breakthrough into top-40.**
+   - **Red-eye-coffee continued position improvement.**
+   - **TOC anchor impression count change pulse-over-pulse (variance test).**
+
+**Pulse 104 protocol additions:**
+- **Sustained-recovery counting rule:** during URL-unknown wave-monitoring, count only recoveries that HOLD ≥2 consecutive pulses toward the ≥3-recoveries threshold. Single-pulse recoveries that flip back (e.g., descale Pulse 103 → 104) do not count.
+- **High-volatility-query confirmation rule:** require ≥2 consecutive pulse confirmations before classifying a single-pulse query reading as a milestone. White-espresso pos 1.04 Pulse 103 now de-classified pending Pulse 105.
+- **PAA-aligned FAQ expansion pattern:** for indexed pages with multi-pulse position regression on SERPs with strong PAA features and gap in our coverage, deploy 2-3 PAA-aligned FAQ entries. Pulse 104 establishes precedent (cold-brew-vs-espresso 5 → 7 FAQ entries targeting 2 of 4 PAA questions).
+- **TOC audit complete — all top pillars showToc: true.** No further structural intervention needed.
+- **Confirmed-indexed referrer pool Pulse 104 (effective ~14-15 pages):** white-espresso, how-to-froth-milk, simple-syrup-recipe, home, red-eye-coffee, cold-brew-vs-espresso, coffee-ice-cream-recipe, mocha-recipe, how-to-make-a-flat-white, ristretto-vs-espresso, cold-brew-recipe, how-to-make-a-macchiato, latte-art, milk-steaming-techniques, coffee-ice-cubes (RE-ADDED post-recovery), espresso-cheesecake-recipe (newly visible).
+- **Confirmed-NOT-indexed / API-unstable pool (Pulse 104):** descale (URL-unk RE-REGRESSED), water (URL-unk), extraction-time (URL-unk), grinder (URL-unk), dial-in (URL-unk), frappe (URL-unk, de-prioritized). Crawled-not-indexed: pour-over (9 pulses, enrich tactic confirmed ineffective). Stable Discovered: how-to-clean-espresso-machine (Pulse 102 expand-then-enrich, ~48h, mid-window).
+
+---
+
+## Current Phase (Pulse 103 archived)
 Day 43 (Pulse 103) — **158 articles**. **MAINTENANCE-CLUSTER REGRESSION WAVE EXPANDS DRAMATICALLY (7 PAGES NOW URL-UNKNOWN INCL. PREVIOUSLY-INDEXED coffee-ice-cubes + frappe + extraction-time + water — synchronized API-instability event CONFIRMED + LARGER THAN PULSE 102) + DESCALE RECOVERS (URL-unk → Discovered, first recovery validates the API-instability hypothesis from Pulse 102) + WHITE-ESPRESSO QUERY JUMPS TO POSITION 1.04 (was 6.0 last pulse — 67 imp vs 24, nearly #1 ranking on top-performer query) + how-to-make-a-flat-white POS 6.90 (was 18 — ~11 SPOT JUMP, 3-PULSE CUMULATIVE ~59 SPOTS!) + POSITION-JUMP CLUSTER SUSTAINS 3 CONSECUTIVE PULSES + 5-LINK ENRICH TO RED-EYE-COFFEE (pos 13.68, ~16 spots gained 3 pulses, riding momentum) + NEW WHITE-ESPRESSO TOC ANCHOR-LINK IMPRESSIONS VISIBLE (Google parsing white-espresso TOC for jump-link SERP features).** This pulse: (a) SC inspection revealed 7 maintenance/indexing-wave pages URL-unknown (descale recovered to Discovered, but grinder + dial-in + water + frappe + coffee-ice-cubes + extraction-time all URL-unknown; how-to-clean-espresso-machine HELD Discovered no progression yet; pour-over HELD Crawled-not-indexed), (b) SC query data showed WHITE ESPRESSO jumped 24/6.0 → 67/1.04 (essentially #1) and how-to-make-a-flat-white page 12/18 → 10/6.90 (3rd consecutive jump, 59-spot cumulative), (c) decided to hold maintenance-cluster work entirely (API-event-driven regressions, no page-specific intervention warranted) and execute 5-link enrich to red-eye-coffee (pos 13.68 top-15, 16-spot 3-pulse momentum), (d) added inbound links from white-espresso, cold-brew-vs-espresso, simple-syrup-recipe, ristretto-vs-espresso, mocha-recipe — each link contextually-substantive (1-2 sentence inline rationale, not bare list), (e) Hugo build clean 952 pages, sitemap re-submitted 27th in series, pushed and deployed.
 
 **SC state observations Pulse 103 — REGRESSION WAVE EXPANDS, DESCALE RECOVERS, how-to-clean PILLAR HOLDS:**
